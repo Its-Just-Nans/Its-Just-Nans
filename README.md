@@ -16,8 +16,4 @@ Here are some ideas to get you started:
 #### ⚡ You can check my github website : [Its-Just-Nans's Page](https://its-just-nans.github.io/)
 
 
-- 📫 How to reach me:
-    - via [Twitter](https://twitter.com/Its_Just_Nans)
-    - via emails
-
-#### 🚧 I’m currently working on : [R&T](https://its-just-nans.github.io/rt/)
+#### 📫 How to reach me : [links](https://its-just-nans.github.io/#links)
