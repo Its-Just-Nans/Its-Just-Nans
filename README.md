@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 
 #### ⚡ You can check my github website : [Its-Just-Nans's Page](https://its-just-nans.github.io/)
 
+#### 📫 You can reach me [here](https://its-just-nans.github.io/#links)
 
-#### 📫 How to reach me : [links](https://its-just-nans.github.io/#links)
+#### 😄 You can check that
+
+- [R&T Website](https://its-just-nans.github.io/rt/)
+- [golb](https://its-just-nans.github.io/golb/)
+
+#### 🌱 I’m currently learning [:electron:](https://github.com/electron/electron)
