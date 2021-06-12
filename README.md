@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 
 - [R&T Website](https://its-just-nans.github.io/rt/)
 - [golb](https://its-just-nans.github.io/golb/)
+- [NPM package csv-to-custom-json](https://www.npmjs.com/package/csv-to-custom-json)
 
 #### 🌱 I’m currently learning [:electron:](https://github.com/electron/electron)
