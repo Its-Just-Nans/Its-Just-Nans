@@ -11,4 +11,4 @@
 - [NPM package csv-to-custom-json](https://www.npmjs.com/package/csv-to-custom-json)
 - [PyPI package csv-to-custom-json](https://pypi.org/project/csv-to-custom-json/)
 
-#### 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
+#### 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) && [Go](https://go.dev/)
