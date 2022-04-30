@@ -4,7 +4,7 @@
 
 #### 📫 You can reach me [here](https://its-just-nans.github.io/#links)
 
-#### 😄 You can check that
+#### 😄 You can check that :
 
 - [R&T Website](https://its-just-nans.github.io/rt/)
 - [golb](https://its-just-nans.github.io/golb/)
