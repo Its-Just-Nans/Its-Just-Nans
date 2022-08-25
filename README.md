@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### ⚡ You can check my github website : [Its-Just-Nans's Page](https://n4n5.dev/?from=github)
+#### ⚡ You can check my github website : [Its-Just-Nans's Page](https://g.n4n5.dev/)
 
 #### 📫 You can reach me [here](https://its-just-nans.github.io/#links)
 
