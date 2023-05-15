@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### 📫 You can reach me [here](https://its-just-nans.github.io/#links)
+#### 📫 You can reach me [here](https://its-just-nans.github.io/links/)
 
 #### Useful links
 
