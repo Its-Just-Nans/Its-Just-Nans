@@ -7,4 +7,4 @@
 - [R&T Website](https://rt.n4n5.dev/)
 - [golb](https://golb.n4n5.dev/)
 - [rio](https://rio.n4n5.dev/)
-- [packages](https://n4n5.dev/lab/packages/)
+- [packages](https://n4n5.dev/packages/)
