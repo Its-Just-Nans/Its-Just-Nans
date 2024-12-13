@@ -1,0 +1,35 @@
+[
+    {
+        "node": {
+            "title": "Improve docs for malformed IMSI",
+            "url": "https://osmocom.org/issues/6385",
+            "state": "MERGED",
+            "createdAt": "2024-03-02",
+            "baseRepository": {
+                "url": "https://gerrit.osmocom.org/q/project:pysim"
+            }
+        }
+    },
+    {
+        "node": {
+            "title": "Add helper for SwMatchError",
+            "url": "https://osmocom.org/issues/6398",
+            "state": "MERGED",
+            "createdAt": "2024-03-09",
+            "baseRepository": {
+                "url": "https://gerrit.osmocom.org/q/project:pysim"
+            }
+        }
+    },
+    {
+        "node": {
+            "title": "feat: add arg to check()",
+            "url": "https://gitlab.inria.fr/discovery/enoslib/-/merge_requests/214",
+            "state": "MERGED",
+            "createdAt": "2023-11-20",
+            "baseRepository": {
+                "url": "https://gitlab.inria.fr/discovery/enoslib"
+            }
+        }
+    }
+]
