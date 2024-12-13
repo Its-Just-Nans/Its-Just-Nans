@@ -1,0 +1,1449 @@
+[
+    {
+        "url": "https://github.com/Its-Just-Nans/Its-Just-Nans",
+        "name": "Its-Just-Nans",
+        "description": "My description repository",
+        "stargazerCount": 0,
+        "homepageUrl": "https://n4n5.dev/.well-known/",
+        "primaryLanguage": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/Its-Just-Nans.github.io",
+        "name": "Its-Just-Nans.github.io",
+        "description": "Its-Just-Nans's Page",
+        "stargazerCount": 0,
+        "homepageUrl": "https://its-just-nans.github.io",
+        "primaryLanguage": {
+            "name": "Astro",
+            "color": "#ff5a03"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/OS-tutorial",
+        "name": "OS-tutorial",
+        "description": null,
+        "stargazerCount": 0,
+        "homepageUrl": null,
+        "primaryLanguage": {
+            "name": "Assembly",
+            "color": "#6E4C13"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/antr-checker",
+        "name": "antr-checker",
+        "description": "Scrap PhD offers",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/arduino-led-matrix",
+        "name": "arduino-led-matrix",
+        "description": "An 8x8 arduino led matrix",
+        "stargazerCount": 0,
+        "homepageUrl": "https://n4n5.dev/articles/arduino-led-matrix/",
+        "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/array-cache",
+        "name": "array-cache",
+        "description": "Cache the index of an array between program executions",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/astro-barchart",
+        "name": "astro-barchart",
+        "description": "astro-barchart",
+        "stargazerCount": 2,
+        "homepageUrl": "https://n4n5.dev/astro-barchart/",
+        "primaryLanguage": {
+            "name": "Astro",
+            "color": "#ff5a03"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/astro-index",
+        "name": "astro-index",
+        "description": "apache like index in Astro",
+        "stargazerCount": 0,
+        "homepageUrl": "https://its-just-nans.github.io/astro-index/",
+        "primaryLanguage": {
+            "name": "Astro",
+            "color": "#ff5a03"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/astro-redirector",
+        "name": "astro-redirector",
+        "description": "Static url shortener using astro",
+        "stargazerCount": 0,
+        "homepageUrl": "http://astro-redirector.n4n5.dev/",
+        "primaryLanguage": {
+            "name": "Astro",
+            "color": "#ff5a03"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/astro-simple-carousel",
+        "name": "astro-simple-carousel",
+        "description": "Astro component to render a simple carousel",
+        "stargazerCount": 0,
+        "homepageUrl": "http://n4n5.dev/astro-simple-carousel/",
+        "primaryLanguage": {
+            "name": "Astro",
+            "color": "#ff5a03"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/auto-api-npm",
+        "name": "auto-api-npm",
+        "description": "Tiny example of using the api.npmjs.org downloads count endpoint",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/bad-files-exchanger",
+        "name": "bad-files-exchanger",
+        "description": null,
+        "stargazerCount": 0,
+        "homepageUrl": null,
+        "primaryLanguage": {
+            "name": "HTML",
+            "color": "#e34c26"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/bad-font-viewer",
+        "name": "bad-font-viewer",
+        "description": "bad-font-viewer",
+        "stargazerCount": 0,
+        "homepageUrl": "https://its-just-nans.github.io/bad-font-viewer/",
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/bandwidth-calculator",
+        "name": "bandwidth-calculator",
+        "description": "A simple HTML bandwidth calculator",
+        "stargazerCount": 0,
+        "homepageUrl": "https://its-just-nans.github.io/bandwidth-calculator",
+        "primaryLanguage": {
+            "name": "HTML",
+            "color": "#e34c26"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/c-no-heap",
+        "name": "c-no-heap",
+        "description": "only syscalls here",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "C",
+            "color": "#555555"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/can-be-useful",
+        "name": "can-be-useful",
+        "description": "Can these codes be useful? Yes",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "MATLAB",
+            "color": "#e16737"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/cards-game",
+        "name": "cards-game",
+        "description": "A quizz creator and player",
+        "stargazerCount": 0,
+        "homepageUrl": "https://its-just-nans.github.io/cards-game",
+        "primaryLanguage": {
+            "name": "HTML",
+            "color": "#e34c26"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/cdn",
+        "name": "cdn",
+        "description": "Interesting script files here!",
+        "stargazerCount": 0,
+        "homepageUrl": "https://its-just-nans.github.io/cdn",
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/cobol",
+        "name": "cobol",
+        "description": "tests in cobol",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "COBOL",
+            "color": null
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/contacts-vcf",
+        "name": "contacts-vcf",
+        "description": "rudimentary VCF viewer",
+        "stargazerCount": 0,
+        "homepageUrl": "https://its-just-nans.github.io/contacts-vcf/",
+        "primaryLanguage": {
+            "name": "Svelte",
+            "color": "#ff3e00"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/coreutils-tracking-details",
+        "name": "coreutils-tracking-details",
+        "description": "coreutils tracking but a little more detailed",
+        "stargazerCount": 0,
+        "homepageUrl": "http://n4n5.dev/coreutils-tracking-details/",
+        "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/csv-to-custom-json",
+        "name": "csv-to-custom-json",
+        "description": "Easily transform your CSV to a custom JSON with cool options",
+        "stargazerCount": 2,
+        "homepageUrl": "https://its-just-nans.github.io/csv-to-custom-json-demo/",
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/csv-to-custom-json-demo",
+        "name": "csv-to-custom-json-demo",
+        "description": "Demo of csv-to-custom-json",
+        "stargazerCount": 0,
+        "homepageUrl": "https://its-just-nans.github.io/csv-to-custom-json-demo",
+        "primaryLanguage": {
+            "name": "Svelte",
+            "color": "#ff3e00"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/csv-to-custom-json-python",
+        "name": "csv-to-custom-json-python",
+        "description": "Easily transform your CSV to a custom JSON with cool options",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/curriculum-vitae",
+        "name": "curriculum-vitae",
+        "description": "Generate curriculum vitæ from json using lua and lualatex",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "Lua",
+            "color": "#000080"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/cv-creator",
+        "name": "cv-creator",
+        "description": null,
+        "stargazerCount": 0,
+        "homepageUrl": null,
+        "primaryLanguage": {
+            "name": "Svelte",
+            "color": "#ff3e00"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/cyberdeck",
+        "name": "cyberdeck",
+        "description": null,
+        "stargazerCount": 0,
+        "homepageUrl": "http://n4n5.dev/cyberdeck/",
+        "primaryLanguage": null
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/decipher-finder",
+        "name": "decipher-finder",
+        "description": null,
+        "stargazerCount": 0,
+        "homepageUrl": null,
+        "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/deezer-api",
+        "name": "deezer-api",
+        "description": "A very simple Deezer API client",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/dijkstra",
+        "name": "dijkstra",
+        "description": "inf-103 - dijkstra (labyrinth and graph) in java",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "Java",
+            "color": "#b07219"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/discord-webhooks",
+        "name": "discord-webhooks",
+        "description": "Scripts to use discord WebHooks",
+        "stargazerCount": 0,
+        "homepageUrl": "https://its-just-nans.github.io/discord-webhooks/",
+        "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/docker-compose-network",
+        "name": "docker-compose-network",
+        "description": "May draw your network schema",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/dockerizing-4g",
+        "name": "dockerizing-4g",
+        "description": "full 4g network in a docker cluster",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "Dockerfile",
+            "color": "#384d54"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/dockerizing-saml",
+        "name": "dockerizing-saml",
+        "description": null,
+        "stargazerCount": 0,
+        "homepageUrl": null,
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/docx-asn1",
+        "name": "docx-asn1",
+        "description": "Decode the asn1 in docx",
+        "stargazerCount": 0,
+        "homepageUrl": "https://pypi.org/project/docx-asn1/",
+        "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/dojo-snake",
+        "name": "dojo-snake",
+        "description": "Dojo Snake with BAM",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/domains",
+        "name": "domains",
+        "description": "Check domains availability",
+        "stargazerCount": 0,
+        "homepageUrl": "https://its-just-nans.github.io/domains/",
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/domains-scraping",
+        "name": "domains-scraping",
+        "description": "domains name scraping",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/donnons-org-api",
+        "name": "donnons-org-api",
+        "description": "Bad web scraping on donnons.org 🤫",
+        "stargazerCount": 0,
+        "homepageUrl": null,
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/dotfiles",
+        "name": "dotfiles",
+        "description": "dotfiles",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "Shell",
+            "color": "#89e051"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/dumb-parser",
+        "name": "dumb-parser",
+        "description": "POC for a dumb parser",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "C++",
+            "color": "#f34b7d"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/eddata",
+        "name": "eddata",
+        "description": "test visualizer",
+        "stargazerCount": 0,
+        "homepageUrl": "http://n4n5.dev/eddata/",
+        "primaryLanguage": {
+            "name": "Svelte",
+            "color": "#ff3e00"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/eframe-filedrop",
+        "name": "eframe-filedrop",
+        "description": "eframe filedrop",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "Rust",
+            "color": "#dea584"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/endpoints-extension",
+        "name": "endpoints-extension",
+        "description": "Browser extension to detect api endpoints",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/events-hook",
+        "name": "events-hook",
+        "description": "Easily sharing state between component",
+        "stargazerCount": 0,
+        "homepageUrl": "https://its-just-nans.github.io/events-hook/",
+        "primaryLanguage": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/ffmpeg-cropper",
+        "name": "ffmpeg-cropper",
+        "description": "Easily get the ffmpeg crop filter for your video",
+        "stargazerCount": 0,
+        "homepageUrl": "https://its-just-nans.github.io/ffmpeg-cropper/",
+        "primaryLanguage": {
+            "name": "HTML",
+            "color": "#e34c26"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/fiber-calculator",
+        "name": "fiber-calculator",
+        "description": "DUT R&T - Fiber Calculator",
+        "stargazerCount": 0,
+        "homepageUrl": "https://its-just-nans.github.io/fiber-calculator",
+        "primaryLanguage": {
+            "name": "Visual Basic .NET",
+            "color": "#945db7"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/figer",
+        "name": "figer",
+        "description": "Easily manage config files in multi user environment",
+        "stargazerCount": 0,
+        "homepageUrl": "https://pypi.org/project/figer/",
+        "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/file-checker",
+        "name": "file-checker",
+        "description": "Check files consistency",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/flat-hinge",
+        "name": "flat-hinge",
+        "description": "just some 3d flat hinges",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": null
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/forem-cli",
+        "name": "forem-cli",
+        "description": "Use forem API in CLI",
+        "stargazerCount": 0,
+        "homepageUrl": null,
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/forem-client",
+        "name": "forem-client",
+        "description": "Forem API client with zero dependencies",
+        "stargazerCount": 1,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/function-viewer",
+        "name": "function-viewer",
+        "description": "See moving functions in 3D",
+        "stargazerCount": 2,
+        "homepageUrl": "https://its-just-nans.github.io/function-viewer/",
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/get-tp-machine-name",
+        "name": "get-tp-machine-name",
+        "description": "tiny script to get an available hostname",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/git-migrator",
+        "name": "git-migrator",
+        "description": "Migrate your repo",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/go-calendar",
+        "name": "go-calendar",
+        "description": "Generate a calendar from a JSON file",
+        "stargazerCount": 1,
+        "homepageUrl": "https://pkg.go.dev/github.com/Its-Just-Nans/go-calendar",
+        "primaryLanguage": {
+            "name": "Go",
+            "color": "#00ADD8"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/go-json-sql-printer",
+        "name": "go-json-sql-printer",
+        "description": "Experimentation with go and SQL",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "Go",
+            "color": "#00ADD8"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/golb",
+        "name": "golb",
+        "description": "\"golb\".split(\"\").reverse().join(\"\")",
+        "stargazerCount": 0,
+        "homepageUrl": "https://golb.n4n5.dev/",
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/greener",
+        "name": "greener",
+        "description": "DUT R&T -  website about ecology",
+        "stargazerCount": 0,
+        "homepageUrl": "https://its-just-nans.github.io/greener",
+        "primaryLanguage": {
+            "name": "HTML",
+            "color": "#e34c26"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/halting-problem",
+        "name": "halting-problem",
+        "description": "Please don't halt",
+        "stargazerCount": 0,
+        "homepageUrl": null,
+        "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/hangman-game",
+        "name": "hangman-game",
+        "description": "DUT R&T - Python hangman game",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/har-glb",
+        "name": "har-glb",
+        "description": "extract har to form glb",
+        "stargazerCount": 0,
+        "homepageUrl": null,
+        "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/hexagon-background",
+        "name": "hexagon-background",
+        "description": "Generate a hexagon svg then use it as a background image",
+        "stargazerCount": 0,
+        "homepageUrl": "https://its-just-nans.github.io/hexagon-background/",
+        "primaryLanguage": {
+            "name": "Lua",
+            "color": "#000080"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/indexage",
+        "name": "indexage",
+        "description": "Create apache2-like html index",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/js-animation",
+        "name": "js-animation",
+        "description": "POC to easily create animations with css",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "HTML",
+            "color": "#e34c26"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/js-functions",
+        "name": "js-functions",
+        "description": "Don't use it",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/json-editor",
+        "name": "json-editor",
+        "description": "A simple json editor in your browser",
+        "stargazerCount": 0,
+        "homepageUrl": "https://json-editor-n4n5.vercel.app",
+        "primaryLanguage": {
+            "name": "Svelte",
+            "color": "#ff3e00"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/lambdaless-functions",
+        "name": "lambdaless-functions",
+        "description": "lambdaless API - POC and explanations",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/laposte-api-example",
+        "name": "laposte-api-example",
+        "description": "LaPoste API example",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/lettre-hebdomadaire.github.io",
+        "name": "lettre-hebdomadaire.github.io",
+        "description": "Le site de la LH, en attendant des jours plus heureux",
+        "stargazerCount": 0,
+        "homepageUrl": null,
+        "primaryLanguage": {
+            "name": "Astro",
+            "color": "#ff5a03"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/llamafile-lualatex",
+        "name": "llamafile-lualatex",
+        "description": "latex report automation using lualatex and llamafile🤓 😎 🥸",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "Lua",
+            "color": "#000080"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/localstorage-supercharged",
+        "name": "localstorage-supercharged",
+        "description": "A javascript object which under the hood save all his data in the localStorage",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/logo-mad",
+        "name": "logo-mad",
+        "description": "Unofficial logos for MaD",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "Makefile",
+            "color": "#427819"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/maps-history",
+        "name": "maps-history",
+        "description": "Visualize your google maps history",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/matrix-tests",
+        "name": "matrix-tests",
+        "description": "matrix tests",
+        "stargazerCount": 0,
+        "homepageUrl": "https://its-just-nans.github.io/matrix-tests/",
+        "primaryLanguage": {
+            "name": "Svelte",
+            "color": "#ff3e00"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/mdi-210",
+        "name": "mdi-210",
+        "description": "MDI210 Optimisation",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "Java",
+            "color": "#b07219"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/movies-display",
+        "name": "movies-display",
+        "description": "display movies list",
+        "stargazerCount": 0,
+        "homepageUrl": "https://its-just-nans.github.io/movies-display/",
+        "primaryLanguage": {
+            "name": "Astro",
+            "color": "#ff5a03"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/music-exporter",
+        "name": "music-exporter",
+        "description": "Export music from different sources",
+        "stargazerCount": 0,
+        "homepageUrl": "https://crates.io/crates/music-exporter",
+        "primaryLanguage": {
+            "name": "Rust",
+            "color": "#dea584"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/n4n5-crate",
+        "name": "n4n5-crate",
+        "description": "n4n5's utility crate",
+        "stargazerCount": 0,
+        "homepageUrl": "http://n4n5.dev/n4n5-crate/n4n5",
+        "primaryLanguage": {
+            "name": "Rust",
+            "color": "#dea584"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/nmea-test",
+        "name": "nmea-test",
+        "description": "nmea gps test",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/noto-emoji-turtle",
+        "name": "noto-emoji-turtle",
+        "description": "Because we love the turtle",
+        "stargazerCount": 0,
+        "homepageUrl": null,
+        "primaryLanguage": null
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/notox",
+        "name": "notox",
+        "description": "no toxic names anymore",
+        "stargazerCount": 8,
+        "homepageUrl": "https://crates.io/crates/notox",
+        "primaryLanguage": {
+            "name": "Rust",
+            "color": "#dea584"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/npm-license-dependencies",
+        "name": "npm-license-dependencies",
+        "description": "Easily download licenses of your dependencies",
+        "stargazerCount": 0,
+        "homepageUrl": "https://npm-license-dependencies.vercel.app",
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/obs-webview",
+        "name": "obs-webview",
+        "description": "Control a web page for OBS",
+        "stargazerCount": 1,
+        "homepageUrl": "https://its-just-nans.github.io/obs-webview/",
+        "primaryLanguage": {
+            "name": "Svelte",
+            "color": "#ff3e00"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/photo-copy",
+        "name": "photo-copy",
+        "description": "Python code to transfer pictures easily",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/php-list-api",
+        "name": "php-list-api",
+        "description": "Create a simple (GitHub like) API to list your files",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "PHP",
+            "color": "#4F5D95"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/plugin-astro-content",
+        "name": "plugin-astro-content",
+        "description": "plugin-astro-content is an Astro.glob() alternative",
+        "stargazerCount": 1,
+        "homepageUrl": "https://its-just-nans.github.io/plugin-astro-content/",
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/pngtools",
+        "name": "pngtools",
+        "description": "tiny cli to explore png",
+        "stargazerCount": 0,
+        "homepageUrl": "https://pypi.org/project/pngtools/",
+        "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/pokemon-platinum-map",
+        "name": "pokemon-platinum-map",
+        "description": "A pokemon platinum map",
+        "stargazerCount": 0,
+        "homepageUrl": "http://n4n5.dev/pokemon-platinum-map/",
+        "primaryLanguage": {
+            "name": "Svelte",
+            "color": "#ff3e00"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/polka-oauth-deezer-api",
+        "name": "polka-oauth-deezer-api",
+        "description": "A polka server connecting to the Deezer API with OAuth",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/print-in-html-test",
+        "name": "print-in-html-test",
+        "description": "Print a html webpage with custom css",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/product-creation",
+        "name": "product-creation",
+        "description": "Helping you creating a product",
+        "stargazerCount": 0,
+        "homepageUrl": "https://its-just-nans.github.io/product-creation/",
+        "primaryLanguage": {
+            "name": "Svelte",
+            "color": "#ff3e00"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/proj311-test",
+        "name": "proj311-test",
+        "description": "test on proj311 - check github.com/tramex",
+        "stargazerCount": 0,
+        "homepageUrl": "https://its-just-nans.github.io/proj311-test/",
+        "primaryLanguage": {
+            "name": "Rust",
+            "color": "#dea584"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/proxy-ws",
+        "name": "proxy-ws",
+        "description": "Tiny CLI for a ws proxy",
+        "stargazerCount": 0,
+        "homepageUrl": null,
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/rail-planner",
+        "name": "rail-planner",
+        "description": "Plan your train trip",
+        "stargazerCount": 0,
+        "homepageUrl": "http://n4n5.dev/rail-planner/",
+        "primaryLanguage": {
+            "name": "Svelte",
+            "color": "#ff3e00"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/readme-compiler",
+        "name": "readme-compiler",
+        "description": "An online README Compiler",
+        "stargazerCount": 0,
+        "homepageUrl": "https://its-just-nans.github.io/readme-compiler",
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/rio",
+        "name": "rio",
+        "description": "unofficial RIO website",
+        "stargazerCount": 0,
+        "homepageUrl": "https://rio.n4n5.dev/",
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/rio201",
+        "name": "rio201",
+        "description": "My RIO201 project",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "C",
+            "color": "#555555"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/rio203",
+        "name": "rio203",
+        "description": "RIO203 - a student project to manage a parking using IoT devices.",
+        "stargazerCount": 0,
+        "homepageUrl": "https://its-just-nans.github.io/rio203/",
+        "primaryLanguage": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/rio203-image-detection",
+        "name": "rio203-image-detection",
+        "description": "rio203-image-detection",
+        "stargazerCount": 0,
+        "homepageUrl": "https://its-just-nans.github.io/rio203-image-detection/",
+        "primaryLanguage": {
+            "name": "HTML",
+            "color": "#e34c26"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/rio203-report",
+        "name": "rio203-report",
+        "description": "The report for our rio203",
+        "stargazerCount": 0,
+        "homepageUrl": null,
+        "primaryLanguage": {
+            "name": "TeX",
+            "color": "#3D6117"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/rss-checker",
+        "name": "rss-checker",
+        "description": "Simple RSS checker",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/rt",
+        "name": "rt",
+        "description": "The website for R&T students!",
+        "stargazerCount": 0,
+        "homepageUrl": "http://rt.n4n5.dev/",
+        "primaryLanguage": {
+            "name": "HTML",
+            "color": "#e34c26"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/rust-apk",
+        "name": "rust-apk",
+        "description": null,
+        "stargazerCount": 0,
+        "homepageUrl": null,
+        "primaryLanguage": {
+            "name": "Rust",
+            "color": "#dea584"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/rust-mnist-neural-network",
+        "name": "rust-mnist-neural-network",
+        "description": "Simple MNIST NN from scratch in rust",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "Rust",
+            "color": "#dea584"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/saml",
+        "name": "saml",
+        "description": "Saml specs",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": null
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/shared-qr-code",
+        "name": "shared-qr-code",
+        "description": "shared-qr-code",
+        "stargazerCount": 0,
+        "homepageUrl": "https://its-just-nans.github.io/shared-qr-code",
+        "primaryLanguage": {
+            "name": "Svelte",
+            "color": "#ff3e00"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/sportiva",
+        "name": "sportiva",
+        "description": "Ineffable Sport Application",
+        "stargazerCount": 0,
+        "homepageUrl": "http://sportiva.n4n5.dev/",
+        "primaryLanguage": {
+            "name": "Astro",
+            "color": "#ff5a03"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/spust",
+        "name": "spust",
+        "description": null,
+        "stargazerCount": 0,
+        "homepageUrl": null,
+        "primaryLanguage": {
+            "name": "Rust",
+            "color": "#dea584"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/static-sitemap",
+        "name": "static-sitemap",
+        "description": "Static sitemap generator & link discover",
+        "stargazerCount": 0,
+        "homepageUrl": "https://pypi.org/project/static-sitemap/",
+        "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/string-explorer",
+        "name": "string-explorer",
+        "description": "Explore the world of string and encoding",
+        "stargazerCount": 0,
+        "homepageUrl": "https://its-just-nans.github.io/string-explorer/",
+        "primaryLanguage": {
+            "name": "Svelte",
+            "color": "#ff3e00"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/student-app",
+        "name": "student-app",
+        "description": "DUT R&T - The student app, make and play quiz games",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "Java",
+            "color": "#b07219"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/sudoku-solver",
+        "name": "sudoku-solver",
+        "description": "A sudoku-solver in C",
+        "stargazerCount": 0,
+        "homepageUrl": "https://its-just-nans.github.io/sudoku-solver/",
+        "primaryLanguage": {
+            "name": "C",
+            "color": "#555555"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/supercharged-store",
+        "name": "supercharged-store",
+        "description": "svelte-store but in VanillaJS",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/svelte-number-displayer",
+        "name": "svelte-number-displayer",
+        "description": "Display animated number easily with Svelte",
+        "stargazerCount": 1,
+        "homepageUrl": "https://www.npmjs.com/package/svelte-number-displayer",
+        "primaryLanguage": {
+            "name": "Svelte",
+            "color": "#ff3e00"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/svelte-number-displayer-demo",
+        "name": "svelte-number-displayer-demo",
+        "description": "Demo of svelte-number-displayer package",
+        "stargazerCount": 0,
+        "homepageUrl": "https://its-just-nans.github.io/svelte-number-displayer-demo/",
+        "primaryLanguage": {
+            "name": "Svelte",
+            "color": "#ff3e00"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/svg-packages-stats",
+        "name": "svg-packages-stats",
+        "description": "Display packages stats on your Profile!",
+        "stargazerCount": 0,
+        "homepageUrl": "https://svg-packages-stats.vercel.app/api?author=n4n5",
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/test-3gpp-hampi",
+        "name": "test-3gpp-hampi",
+        "description": "Decode asn1 and use it in rust with hampi",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "Rust",
+            "color": "#dea584"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/test-egui-graphics",
+        "name": "test-egui-graphics",
+        "description": "using stroke in egui",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "Rust",
+            "color": "#dea584"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/test-pytesseract",
+        "name": "test-pytesseract",
+        "description": null,
+        "stargazerCount": 0,
+        "homepageUrl": null,
+        "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/test-svelte",
+        "name": "test-svelte",
+        "description": "https://stackoverflow.com/questions/67153524/import-function-with-variable-name",
+        "stargazerCount": 0,
+        "homepageUrl": "https://stackoverflow.com/questions/67153524/import-function-with-variable-name",
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/test-z3",
+        "name": "test-z3",
+        "description": "A weird way to verify sudoku",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "Jupyter Notebook",
+            "color": "#DA5B0B"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/tests",
+        "name": "tests",
+        "description": "A repository with some fun tests in different languages",
+        "stargazerCount": 0,
+        "homepageUrl": "https://its-just-nans.github.io/tests",
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/thales-project",
+        "name": "thales-project",
+        "description": "DUT R&T - Projet tutoré avec Thales Alenia Space",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": null
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/thoughts",
+        "name": "thoughts",
+        "description": "just thoughts",
+        "stargazerCount": 0,
+        "homepageUrl": "http://thoughts.n4n5.dev/",
+        "primaryLanguage": {
+            "name": "MDX",
+            "color": "#fcb32c"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/tiny-todo",
+        "name": "tiny-todo",
+        "description": "A simple TODO list",
+        "stargazerCount": 0,
+        "homepageUrl": "https://pypi.org/project/tiny-todo/",
+        "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/tool-blocks",
+        "name": "tool-blocks",
+        "description": "The toolbox made of \"blocks\"",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/vanta-background",
+        "name": "vanta-background",
+        "description": "Background with vanta",
+        "stargazerCount": 0,
+        "homepageUrl": "https://its-just-nans.github.io/vanta-background/",
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/video-is-3d",
+        "name": "video-is-3d",
+        "description": "create video effects by reshaping in 3d",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/vite-proxy-vue-backend",
+        "name": "vite-proxy-vue-backend",
+        "description": "A super tiny project using Vue.js and Polka to play with the vite config",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://gist.github.com/2eb017f4ecbe59628c95a741b8238cb1",
+        "name": "2eb017f4ecbe59628c95a741b8238cb1",
+        "description": "Keybase proof",
+        "stargazerCount": 0,
+        "homepageUrl": null,
+        "primaryLanguage": null
+    },
+    {
+        "url": "https://gist.github.com/52a886b47fe51e929152394fbdf3376a",
+        "name": "52a886b47fe51e929152394fbdf3376a",
+        "description": "Function to print the byte",
+        "stargazerCount": 0,
+        "homepageUrl": null,
+        "primaryLanguage": null
+    },
+    {
+        "url": "https://gist.github.com/aaab58eff030a0c726676405176c374e",
+        "name": "aaab58eff030a0c726676405176c374e",
+        "description": "ShowDownJS problem with &",
+        "stargazerCount": 0,
+        "homepageUrl": null,
+        "primaryLanguage": null
+    },
+    {
+        "url": "https://gist.github.com/af05c0b79a267cf70626bb06b0ede18d",
+        "name": "af05c0b79a267cf70626bb06b0ede18d",
+        "description": "Keyoxide proof",
+        "stargazerCount": 0,
+        "homepageUrl": null,
+        "primaryLanguage": null
+    }
+]
