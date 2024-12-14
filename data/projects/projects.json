@@ -5,10 +5,7 @@
         "description": "My description repository",
         "stargazerCount": 0,
         "homepageUrl": "https://n4n5.dev/.well-known/",
-        "primaryLanguage": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-        }
+        "primaryLanguage": null
     },
     {
         "url": "https://github.com/Its-Just-Nans/Its-Just-Nans.github.io",
@@ -41,6 +38,17 @@
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/arduino",
+        "name": "arduino",
+        "description": "Random Arduino code and projects here",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "C++",
+            "color": "#f34b7d"
         }
     },
     {
@@ -171,8 +179,8 @@
         "stargazerCount": 0,
         "homepageUrl": "",
         "primaryLanguage": {
-            "name": "MATLAB",
-            "color": "#e16737"
+            "name": "Python",
+            "color": "#3572A5"
         }
     },
     {
@@ -632,6 +640,17 @@
         }
     },
     {
+        "url": "https://github.com/Its-Just-Nans/golb-articles",
+        "name": "golb-articles",
+        "description": "Articles of golb",
+        "stargazerCount": 0,
+        "homepageUrl": "https://its-just-nans.github.io/golb ",
+        "primaryLanguage": {
+            "name": "HTML",
+            "color": "#e34c26"
+        }
+    },
+    {
         "url": "https://github.com/Its-Just-Nans/greener",
         "name": "greener",
         "description": "DUT R&T -  website about ecology",
@@ -725,6 +744,17 @@
         "description": "A simple json editor in your browser",
         "stargazerCount": 0,
         "homepageUrl": "https://json-editor-n4n5.vercel.app",
+        "primaryLanguage": {
+            "name": "Svelte",
+            "color": "#ff3e00"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/lab",
+        "name": "lab",
+        "description": "Some experiments with (mostly) svelte",
+        "stargazerCount": 0,
+        "homepageUrl": "http://n4n5.dev/lab/",
         "primaryLanguage": {
             "name": "Svelte",
             "color": "#ff3e00"
