@@ -6156,5 +6156,57 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBWllys6FYkbn",
+            "number": 1649,
+            "title": "Add documentation key in Cargo.toml",
+            "url": "https://github.com/sharkdp/fd/pull/1649",
+            "state": "OPEN",
+            "createdAt": "2024-12-16T16:46:06Z",
+            "baseRepository": {
+                "url": "https://github.com/sharkdp/fd",
+                "name": "fd",
+                "description": "A simple, fast and user-friendly alternative to 'find'",
+                "owner": {
+                    "login": "sharkdp"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOD0g2Gc6FstER",
+            "number": 23,
+            "title": "add real dry run option",
+            "url": "https://github.com/yaa110/nomino/pull/23",
+            "state": "OPEN",
+            "createdAt": "2024-12-18T20:58:14Z",
+            "baseRepository": {
+                "url": "https://github.com/yaa110/nomino",
+                "name": "nomino",
+                "description": "Batch rename utility for developers",
+                "owner": {
+                    "login": "yaa110"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

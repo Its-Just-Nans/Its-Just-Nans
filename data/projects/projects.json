@@ -642,9 +642,9 @@
     {
         "url": "https://github.com/Its-Just-Nans/golb-articles",
         "name": "golb-articles",
-        "description": "Articles of golb",
+        "description": "Articles of golb.n4n5.dev",
         "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/golb ",
+        "homepageUrl": "https://its-just-nans.github.io/golb",
         "primaryLanguage": {
             "name": "HTML",
             "color": "#e34c26"
@@ -1442,6 +1442,17 @@
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/website-articles",
+        "name": "website-articles",
+        "description": "Articles of n4n5.dev",
+        "stargazerCount": 0,
+        "homepageUrl": "https://n4n5.dev/articles",
+        "primaryLanguage": {
+            "name": "MDX",
+            "color": "#fcb32c"
         }
     },
     {
