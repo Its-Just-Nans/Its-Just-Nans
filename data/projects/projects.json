@@ -118,28 +118,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/auto-api-npm",
-        "name": "auto-api-npm",
-        "description": "Tiny example of using the api.npmjs.org downloads count endpoint",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "primaryLanguage": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/bad-files-exchanger",
-        "name": "bad-files-exchanger",
-        "description": null,
-        "stargazerCount": 0,
-        "homepageUrl": null,
-        "primaryLanguage": {
-            "name": "HTML",
-            "color": "#e34c26"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/bad-font-viewer",
         "name": "bad-font-viewer",
         "description": "bad-font-viewer",
@@ -162,25 +140,14 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/c-no-heap",
-        "name": "c-no-heap",
-        "description": "only syscalls here",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "primaryLanguage": {
-            "name": "C",
-            "color": "#555555"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/can-be-useful",
         "name": "can-be-useful",
         "description": "Can these codes be useful? Yes",
         "stargazerCount": 0,
         "homepageUrl": "",
         "primaryLanguage": {
-            "name": "Python",
-            "color": "#3572A5"
+            "name": "JavaScript",
+            "color": "#f1e05a"
         }
     },
     {
@@ -300,17 +267,6 @@
         "stargazerCount": 0,
         "homepageUrl": "http://n4n5.dev/cyberdeck/",
         "primaryLanguage": null
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/decipher-finder",
-        "name": "decipher-finder",
-        "description": null,
-        "stargazerCount": 0,
-        "homepageUrl": null,
-        "primaryLanguage": {
-            "name": "Python",
-            "color": "#3572A5"
-        }
     },
     {
         "url": "https://github.com/Its-Just-Nans/deezer-api",
@@ -585,17 +541,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/get-tp-machine-name",
-        "name": "get-tp-machine-name",
-        "description": "tiny script to get an available hostname",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "primaryLanguage": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/git-migrator",
         "name": "git-migrator",
         "description": "Migrate your repo",
@@ -612,17 +557,6 @@
         "description": "Generate a calendar from a JSON file",
         "stargazerCount": 1,
         "homepageUrl": "https://pkg.go.dev/github.com/Its-Just-Nans/go-calendar",
-        "primaryLanguage": {
-            "name": "Go",
-            "color": "#00ADD8"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/go-json-sql-printer",
-        "name": "go-json-sql-printer",
-        "description": "Experimentation with go and SQL",
-        "stargazerCount": 0,
-        "homepageUrl": "",
         "primaryLanguage": {
             "name": "Go",
             "color": "#00ADD8"
@@ -1011,17 +945,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/print-in-html-test",
-        "name": "print-in-html-test",
-        "description": "Print a html webpage with custom css",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "primaryLanguage": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/product-creation",
         "name": "product-creation",
         "description": "Helping you creating a product",
@@ -1338,17 +1261,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/test-pytesseract",
-        "name": "test-pytesseract",
-        "description": null,
-        "stargazerCount": 0,
-        "homepageUrl": null,
-        "primaryLanguage": {
-            "name": "Python",
-            "color": "#3572A5"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/test-svelte",
         "name": "test-svelte",
         "description": "https://stackoverflow.com/questions/67153524/import-function-with-variable-name",
@@ -1368,17 +1280,6 @@
         "primaryLanguage": {
             "name": "Jupyter Notebook",
             "color": "#DA5B0B"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/tests",
-        "name": "tests",
-        "description": "A repository with some fun tests in different languages",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/tests",
-        "primaryLanguage": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
         }
     },
     {
