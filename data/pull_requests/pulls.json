@@ -6208,5 +6208,109 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJrYYCc6F__DL",
+            "number": 798,
+            "title": "Showcase vs Examples part of the website",
+            "url": "https://github.com/ratatui/ratatui-website/pull/798",
+            "state": "OPEN",
+            "createdAt": "2024-12-21T20:51:58Z",
+            "baseRepository": {
+                "url": "https://github.com/ratatui/ratatui-website",
+                "name": "ratatui-website",
+                "description": "Ratatui Documentation",
+                "owner": {
+                    "login": "ratatui"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Nix",
+                            "color": "#7e7eff"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOI-S-Hc6GAAmq",
+            "number": 1,
+            "title": "fix link",
+            "url": "https://github.com/thomas-mauran/react-portfolio/pull/1",
+            "state": "MERGED",
+            "createdAt": "2024-12-21T21:19:17Z",
+            "baseRepository": {
+                "url": "https://github.com/thomas-mauran/react-portfolio",
+                "name": "react-portfolio",
+                "description": "My 2023 portfolio using react",
+                "owner": {
+                    "login": "thomas-mauran"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "HTML",
+                            "color": "#e34c26"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOI-S-Hc6GABFB",
+            "number": 2,
+            "title": "Fix css",
+            "url": "https://github.com/thomas-mauran/react-portfolio/pull/2",
+            "state": "MERGED",
+            "createdAt": "2024-12-21T21:27:37Z",
+            "baseRepository": {
+                "url": "https://github.com/thomas-mauran/react-portfolio",
+                "name": "react-portfolio",
+                "description": "My 2023 portfolio using react",
+                "owner": {
+                    "login": "thomas-mauran"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "HTML",
+                            "color": "#e34c26"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOI9DLB86GAzg-",
+            "number": 1584,
+            "title": "feat: Add color to rat logo",
+            "url": "https://github.com/ratatui/ratatui/pull/1584",
+            "state": "OPEN",
+            "createdAt": "2024-12-22T12:06:46Z",
+            "baseRepository": {
+                "url": "https://github.com/ratatui/ratatui",
+                "name": "ratatui",
+                "description": "A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs",
+                "owner": {
+                    "login": "ratatui"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
