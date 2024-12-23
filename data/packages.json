@@ -58,7 +58,7 @@
         "name": "rust",
         "profile": "https://crates.io/users/Its-Just-Nans/",
         "url": "https://crates.io/crates/:package",
-        "list": ["notox", "spust", "tramex", "types_lte_3gpp", "music-exporter", "n4n5"],
+        "list": ["notox", "spust", "tramex", "types_lte_3gpp", "music-exporter", "n4n5", "cors-proxy"],
         "shields": ["https://img.shields.io/crates/d/:package", "https://img.shields.io/crates/v/:package"],
         "repos": {
             "tramex": "https://github.com/tramex/tramex",

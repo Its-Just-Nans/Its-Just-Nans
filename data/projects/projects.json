@@ -206,6 +206,17 @@
         }
     },
     {
+        "url": "https://github.com/Its-Just-Nans/cors-proxy",
+        "name": "cors-proxy",
+        "description": "Quick and dirty cors proxy",
+        "stargazerCount": 0,
+        "homepageUrl": "https://crates.io/crates/cors-proxy",
+        "primaryLanguage": {
+            "name": "Rust",
+            "color": "#dea584"
+        }
+    },
+    {
         "url": "https://github.com/Its-Just-Nans/csv-to-custom-json",
         "name": "csv-to-custom-json",
         "description": "Easily transform your CSV to a custom JSON with cool options",
@@ -780,17 +791,6 @@
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/nmea-test",
-        "name": "nmea-test",
-        "description": "nmea gps test",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "primaryLanguage": {
-            "name": "Python",
-            "color": "#3572A5"
         }
     },
     {

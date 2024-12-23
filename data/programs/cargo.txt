@@ -12,6 +12,7 @@ cargo-ndk-env
 cargo-nextest
 cargo-install-update
 cargo-install-update-config
+cors-proxy
 cross
 cross-util
 czkawka_cli
