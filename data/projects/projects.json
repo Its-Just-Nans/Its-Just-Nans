@@ -806,7 +806,7 @@
         "name": "notox",
         "description": "no toxic names anymore",
         "stargazerCount": 8,
-        "homepageUrl": "https://crates.io/crates/notox",
+        "homepageUrl": "https://n4n5.dev/notox/",
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
