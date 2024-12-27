@@ -5,6 +5,10 @@ sg
 basic-http-server
 bat
 binocle
+cargo-add
+cargo-rm
+cargo-set-version
+cargo-upgrade
 cargo-hack
 cargo-llvm-cov
 cargo-ndk
