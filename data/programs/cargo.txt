@@ -21,6 +21,7 @@ cross
 cross-util
 czkawka_cli
 czkawka_gui
+diskus
 dust
 eza
 fd

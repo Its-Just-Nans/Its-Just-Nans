@@ -6085,7 +6085,7 @@
             "number": 1,
             "title": "Clean project",
             "url": "https://github.com/ICEREG1992/pkmnmap4/pull/1",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2024-11-28T16:44:29Z",
             "baseRepository": {
                 "url": "https://github.com/ICEREG1992/pkmnmap4",
@@ -6307,6 +6307,32 @@
                         {
                             "name": "Rust",
                             "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOLkjBt86GWwVL",
+            "number": 3,
+            "title": "add item to fix #2",
+            "url": "https://github.com/ICEREG1992/pkmnmap4/pull/3",
+            "state": "OPEN",
+            "createdAt": "2024-12-28T11:31:54Z",
+            "baseRepository": {
+                "url": "https://github.com/ICEREG1992/pkmnmap4",
+                "name": "pkmnmap4",
+                "description": "An Interactive Map for Pokémon Platinum, featuring Item and Berry Locations",
+                "owner": {
+                    "login": "ICEREG1992"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "JavaScript",
+                            "color": "#f1e05a"
                         }
                     ]
                 }
