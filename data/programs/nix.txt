@@ -1,15 +1,8 @@
 android
-arduino
-arduino
-delta
 fastfetch
 firefox
 fzf
 imgcat
 jadx
 nbfc
-nnn
-onefetch
-sherlock
 tracy
-zig

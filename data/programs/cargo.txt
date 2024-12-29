@@ -32,10 +32,12 @@ lychee
 mdbook
 n4n5
 notox
+onefetch
 pastel
 rg
 rustscan
 spust
+termpic
 tokei
 tramex
 trip

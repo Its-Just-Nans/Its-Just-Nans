@@ -5136,7 +5136,7 @@
         "node": {
             "id": "PR_kwDOJtaE9M5ykoMH",
             "number": 161,
-            "title": "add custom + docs",
+            "title": "add deny(missing-docs)",
             "url": "https://github.com/podusowski/walkers/pull/161",
             "state": "OPEN",
             "createdAt": "2024-06-15T17:22:58Z",
@@ -6189,7 +6189,7 @@
             "number": 23,
             "title": "add real dry run option",
             "url": "https://github.com/yaa110/nomino/pull/23",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2024-12-18T20:58:14Z",
             "baseRepository": {
                 "url": "https://github.com/yaa110/nomino",
@@ -6333,6 +6333,32 @@
                         {
                             "name": "JavaScript",
                             "color": "#f1e05a"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOB3vwtc6GY71f",
+            "number": 455,
+            "title": "fix typo Operator",
+            "url": "https://github.com/bootandy/dust/pull/455",
+            "state": "OPEN",
+            "createdAt": "2024-12-29T18:37:57Z",
+            "baseRepository": {
+                "url": "https://github.com/bootandy/dust",
+                "name": "dust",
+                "description": "A more intuitive version of du in rust",
+                "owner": {
+                    "login": "bootandy"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
                         }
                     ]
                 }
