@@ -6364,5 +6364,109 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOB3vwtc6GauiV",
+            "number": 456,
+            "title": "Change config handling",
+            "url": "https://github.com/bootandy/dust/pull/456",
+            "state": "OPEN",
+            "createdAt": "2024-12-30T09:08:30Z",
+            "baseRepository": {
+                "url": "https://github.com/bootandy/dust",
+                "name": "dust",
+                "description": "A more intuitive version of du in rust",
+                "owner": {
+                    "login": "bootandy"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOCtXHDs6Ga1DI",
+            "number": 1192,
+            "title": "use choco to download wget",
+            "url": "https://github.com/crate-ci/typos/pull/1192",
+            "state": "OPEN",
+            "createdAt": "2024-12-30T09:33:54Z",
+            "baseRepository": {
+                "url": "https://github.com/crate-ci/typos",
+                "name": "typos",
+                "description": "Source code spell checker",
+                "owner": {
+                    "login": "crate-ci"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOCd2s286GbzOG",
+            "number": 5548,
+            "title": "add sme keys",
+            "url": "https://github.com/emilk/egui/pull/5548",
+            "state": "OPEN",
+            "createdAt": "2024-12-30T13:26:55Z",
+            "baseRepository": {
+                "url": "https://github.com/emilk/egui",
+                "name": "egui",
+                "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+                "owner": {
+                    "login": "emilk"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Shell",
+                            "color": "#89e051"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOCtXHDs6Gb3_1",
+            "number": 1193,
+            "title": "Update doc for actions",
+            "url": "https://github.com/crate-ci/typos/pull/1193",
+            "state": "MERGED",
+            "createdAt": "2024-12-30T13:45:10Z",
+            "baseRepository": {
+                "url": "https://github.com/crate-ci/typos",
+                "name": "typos",
+                "description": "Source code spell checker",
+                "owner": {
+                    "login": "crate-ci"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

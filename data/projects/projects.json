@@ -541,6 +541,17 @@
         }
     },
     {
+        "url": "https://github.com/Its-Just-Nans/git-mover",
+        "name": "git-mover",
+        "description": "Move git repositories to a new location",
+        "stargazerCount": 0,
+        "homepageUrl": "https://crates.io/crates/git-mover",
+        "primaryLanguage": {
+            "name": "Rust",
+            "color": "#dea584"
+        }
+    },
+    {
         "url": "https://github.com/Its-Just-Nans/go-calendar",
         "name": "go-calendar",
         "description": "Generate a calendar from a JSON file",
@@ -1195,6 +1206,17 @@
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/termpic",
+        "name": "termpic",
+        "description": "Fork of https://github.com/hopey-dishwasher/termpix",
+        "stargazerCount": 0,
+        "homepageUrl": null,
+        "primaryLanguage": {
+            "name": "Rust",
+            "color": "#dea584"
         }
     },
     {
