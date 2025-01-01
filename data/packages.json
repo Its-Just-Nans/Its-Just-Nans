@@ -56,6 +56,17 @@
         "list": ["go-calendar"]
     },
     {
+        "name": "lua",
+        "username": "Its-Just-Nans",
+        "profile": "https://luarocks.org/modules/Its-Just-Nans",
+        "url": "https://luarocks.org/modules/Its-Just-Nans/:package",
+        "list": ["curriculum_vitae"],
+        "shields": ["https://img.shields.io/luarocks/v/Its-Just-Nans/:package"],
+        "repos": {
+            "curriculum_vitae": "https://github.com/Its-Just-Nans/curriculum-vitae"
+        }
+    },
+    {
         "name": "rust",
         "profile": "https://crates.io/users/Its-Just-Nans/",
         "url": "https://crates.io/crates/:package",
