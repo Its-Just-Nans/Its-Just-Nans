@@ -19,17 +19,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/OS-tutorial",
-        "name": "OS-tutorial",
-        "description": null,
-        "stargazerCount": 0,
-        "homepageUrl": null,
-        "primaryLanguage": {
-            "name": "Assembly",
-            "color": "#6E4C13"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/antr-checker",
         "name": "antr-checker",
         "description": "Scrap PhD offers",
@@ -280,17 +269,6 @@
         "primaryLanguage": null
     },
     {
-        "url": "https://github.com/Its-Just-Nans/deezer-api",
-        "name": "deezer-api",
-        "description": "A very simple Deezer API client",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "primaryLanguage": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/dijkstra",
         "name": "dijkstra",
         "description": "inf-103 - dijkstra (labyrinth and graph) in java",
@@ -390,28 +368,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/dumb-parser",
-        "name": "dumb-parser",
-        "description": "POC for a dumb parser",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "primaryLanguage": {
-            "name": "C++",
-            "color": "#f34b7d"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/eddata",
-        "name": "eddata",
-        "description": "test visualizer",
-        "stargazerCount": 0,
-        "homepageUrl": "http://n4n5.dev/eddata/",
-        "primaryLanguage": {
-            "name": "Svelte",
-            "color": "#ff3e00"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/eframe-filedrop",
         "name": "eframe-filedrop",
         "description": "eframe filedrop",
@@ -478,34 +434,12 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/file-checker",
-        "name": "file-checker",
-        "description": "Check files consistency",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "primaryLanguage": {
-            "name": "Python",
-            "color": "#3572A5"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/flat-hinge",
         "name": "flat-hinge",
         "description": "just some 3d flat hinges",
         "stargazerCount": 0,
         "homepageUrl": "",
         "primaryLanguage": null
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/forem-cli",
-        "name": "forem-cli",
-        "description": "Use forem API in CLI",
-        "stargazerCount": 0,
-        "homepageUrl": null,
-        "primaryLanguage": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-        }
     },
     {
         "url": "https://github.com/Its-Just-Nans/forem-client",
@@ -752,7 +686,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/matrix-tests",
         "name": "matrix-tests",
-        "description": "matrix tests",
+        "description": "matrix protocol tests",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/matrix-tests/",
         "primaryLanguage": {
@@ -1033,17 +967,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/rss-checker",
-        "name": "rss-checker",
-        "description": "Simple RSS checker",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "primaryLanguage": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/rt",
         "name": "rt",
         "description": "The website for R&T students!",
@@ -1180,18 +1103,7 @@
         "name": "svelte-number-displayer",
         "description": "Display animated number easily with Svelte",
         "stargazerCount": 1,
-        "homepageUrl": "https://www.npmjs.com/package/svelte-number-displayer",
-        "primaryLanguage": {
-            "name": "Svelte",
-            "color": "#ff3e00"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/svelte-number-displayer-demo",
-        "name": "svelte-number-displayer-demo",
-        "description": "Demo of svelte-number-displayer package",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/svelte-number-displayer-demo/",
+        "homepageUrl": "http://n4n5.dev/svelte-number-displayer/",
         "primaryLanguage": {
             "name": "Svelte",
             "color": "#ff3e00"
@@ -1220,17 +1132,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/test-3gpp-hampi",
-        "name": "test-3gpp-hampi",
-        "description": "Decode asn1 and use it in rust with hampi",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "primaryLanguage": {
-            "name": "Rust",
-            "color": "#dea584"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/test-egui-graphics",
         "name": "test-egui-graphics",
         "description": "using stroke in egui",
@@ -1239,17 +1140,6 @@
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/test-svelte",
-        "name": "test-svelte",
-        "description": "https://stackoverflow.com/questions/67153524/import-function-with-variable-name",
-        "stargazerCount": 0,
-        "homepageUrl": "https://stackoverflow.com/questions/67153524/import-function-with-variable-name",
-        "primaryLanguage": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
         }
     },
     {
@@ -1341,22 +1231,6 @@
         "url": "https://gist.github.com/2eb017f4ecbe59628c95a741b8238cb1",
         "name": "2eb017f4ecbe59628c95a741b8238cb1",
         "description": "Keybase proof",
-        "stargazerCount": 0,
-        "homepageUrl": null,
-        "primaryLanguage": null
-    },
-    {
-        "url": "https://gist.github.com/52a886b47fe51e929152394fbdf3376a",
-        "name": "52a886b47fe51e929152394fbdf3376a",
-        "description": "Function to print the byte",
-        "stargazerCount": 0,
-        "homepageUrl": null,
-        "primaryLanguage": null
-    },
-    {
-        "url": "https://gist.github.com/aaab58eff030a0c726676405176c374e",
-        "name": "aaab58eff030a0c726676405176c374e",
-        "description": "ShowDownJS problem with &",
         "stargazerCount": 0,
         "homepageUrl": null,
         "primaryLanguage": null
