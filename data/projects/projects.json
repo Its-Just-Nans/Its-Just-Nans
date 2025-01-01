@@ -30,17 +30,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/arduino",
-        "name": "arduino",
-        "description": "Random Arduino code and projects here",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "primaryLanguage": {
-            "name": "C++",
-            "color": "#f34b7d"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/arduino-led-matrix",
         "name": "arduino-led-matrix",
         "description": "An 8x8 arduino led matrix",
@@ -87,7 +76,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/astro-redirector",
         "name": "astro-redirector",
-        "description": "Static url shortener using astro",
+        "description": "PoC - Static url shortener using astro",
         "stargazerCount": 0,
         "homepageUrl": "http://astro-redirector.n4n5.dev/",
         "primaryLanguage": {
@@ -131,7 +120,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/cards-game",
         "name": "cards-game",
-        "description": "A quiz creator and player",
+        "description": "PoC - A quiz creator and player",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/cards-game",
         "primaryLanguage": {
@@ -164,7 +153,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/contacts-vcf",
         "name": "contacts-vcf",
-        "description": "rudimentary VCF viewer",
+        "description": "PoC - rudimentary VCF viewer",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/contacts-vcf/",
         "primaryLanguage": {
@@ -175,7 +164,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/coreutils-tracking-details",
         "name": "coreutils-tracking-details",
-        "description": "coreutils tracking but a little more detailed",
+        "description": "PoC - coreutils tracking but a little more detailed",
         "stargazerCount": 0,
         "homepageUrl": "http://n4n5.dev/coreutils-tracking-details/",
         "primaryLanguage": {
@@ -238,7 +227,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/dijkstra",
         "name": "dijkstra",
-        "description": "inf-103 - dijkstra (labyrinth and graph) in java",
+        "description": "TP - INF103 - dijkstra (labyrinth and graph) in java",
         "stargazerCount": 0,
         "homepageUrl": "",
         "primaryLanguage": {
@@ -249,7 +238,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/dockerizing-4g",
         "name": "dockerizing-4g",
-        "description": "full 4g network in a docker cluster",
+        "description": "TP - full 4g network in a docker cluster",
         "stargazerCount": 0,
         "homepageUrl": "",
         "primaryLanguage": {
@@ -321,17 +310,6 @@
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/endpoints-extension",
-        "name": "endpoints-extension",
-        "description": "Browser extension to detect api endpoints",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "primaryLanguage": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
         }
     },
     {
@@ -477,9 +455,9 @@
     {
         "url": "https://github.com/Its-Just-Nans/halting-problem",
         "name": "halting-problem",
-        "description": "Please don't halt",
+        "description": "PoC - Please don't halt",
         "stargazerCount": 0,
-        "homepageUrl": null,
+        "homepageUrl": "",
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -530,17 +508,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/js-animation",
-        "name": "js-animation",
-        "description": "POC to easily create animations with css",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "primaryLanguage": {
-            "name": "HTML",
-            "color": "#e34c26"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/json-editor",
         "name": "json-editor",
         "description": "A simple json editor in your browser",
@@ -565,7 +532,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/lambdaless-functions",
         "name": "lambdaless-functions",
-        "description": "lambdaless API - POC and explanations",
+        "description": "PoC - lambdaless API with explanations",
         "stargazerCount": 0,
         "homepageUrl": "",
         "primaryLanguage": {
@@ -620,7 +587,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/maps-history",
         "name": "maps-history",
-        "description": "Visualize your google maps history",
+        "description": "PoC - Visualize your google maps history",
         "stargazerCount": 0,
         "homepageUrl": "",
         "primaryLanguage": {
@@ -631,7 +598,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/matrix-tests",
         "name": "matrix-tests",
-        "description": "matrix protocol tests",
+        "description": "PoC - matrix protocol tests",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/matrix-tests/",
         "primaryLanguage": {
@@ -642,7 +609,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/mdi-210",
         "name": "mdi-210",
-        "description": "MDI210 Optimisation",
+        "description": "TP - MDI210 - Optimisation",
         "stargazerCount": 0,
         "homepageUrl": "",
         "primaryLanguage": {
@@ -653,7 +620,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/movies-display",
         "name": "movies-display",
-        "description": "display movies list",
+        "description": "PoC - display movies list",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/movies-display/",
         "primaryLanguage": {
@@ -716,7 +683,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/obs-webview",
         "name": "obs-webview",
-        "description": "Control a web page for OBS",
+        "description": "PoC - Control a web page for OBS",
         "stargazerCount": 1,
         "homepageUrl": "https://its-just-nans.github.io/obs-webview/",
         "primaryLanguage": {
@@ -771,7 +738,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/pokemon-platinum-map",
         "name": "pokemon-platinum-map",
-        "description": "A pokemon platinum map",
+        "description": "PoC - A pokemon platinum map",
         "stargazerCount": 0,
         "homepageUrl": "http://n4n5.dev/pokemon-platinum-map/",
         "primaryLanguage": {
@@ -782,7 +749,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/product-creation",
         "name": "product-creation",
-        "description": "Helping you creating a product",
+        "description": "PoC - Helping you creating a product",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/product-creation/",
         "primaryLanguage": {
@@ -793,7 +760,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/proj311-test",
         "name": "proj311-test",
-        "description": "test on proj311 - check github.com/tramex",
+        "description": "TP - test on proj311 - check github.com/tramex",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/proj311-test/",
         "primaryLanguage": {
@@ -815,7 +782,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/rail-planner",
         "name": "rail-planner",
-        "description": "Plan your train trip",
+        "description": "PoC - Plan your train trip",
         "stargazerCount": 0,
         "homepageUrl": "http://n4n5.dev/rail-planner/",
         "primaryLanguage": {
@@ -859,7 +826,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/rio201",
         "name": "rio201",
-        "description": "My RIO201 project",
+        "description": "TP - My RIO201 project",
         "stargazerCount": 0,
         "homepageUrl": "",
         "primaryLanguage": {
@@ -870,7 +837,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/rio203",
         "name": "rio203",
-        "description": "RIO203 - a student project to manage a parking using IoT devices.",
+        "description": "TP - RIO203 - a student project to manage a parking using IoT devices.",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/rio203/",
         "primaryLanguage": {
@@ -881,7 +848,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/rio203-image-detection",
         "name": "rio203-image-detection",
-        "description": "rio203-image-detection",
+        "description": "TP - rio203-image-detection",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/rio203-image-detection/",
         "primaryLanguage": {
@@ -892,9 +859,9 @@
     {
         "url": "https://github.com/Its-Just-Nans/rio203-report",
         "name": "rio203-report",
-        "description": "The report for our rio203",
+        "description": "TP - The report for our rio203",
         "stargazerCount": 0,
-        "homepageUrl": null,
+        "homepageUrl": "",
         "primaryLanguage": {
             "name": "TeX",
             "color": "#3D6117"
@@ -980,7 +947,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/string-explorer",
         "name": "string-explorer",
-        "description": "Explore the world of string and encoding",
+        "description": "PoC - Explore the world of string and encoding",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/string-explorer/",
         "primaryLanguage": {
@@ -1013,7 +980,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/sudoku-z3",
         "name": "sudoku-z3",
-        "description": "A weird way to verify sudoku",
+        "description": "PoC - A weird way to verify sudoku",
         "stargazerCount": 0,
         "homepageUrl": "",
         "primaryLanguage": {
@@ -1118,36 +1085,14 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/vanta-background",
-        "name": "vanta-background",
-        "description": "Background with vanta",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/vanta-background/",
-        "primaryLanguage": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/video-is-3d",
         "name": "video-is-3d",
-        "description": "create video effects by reshaping in 3d",
+        "description": "PoC - create video effects by reshaping in 3d",
         "stargazerCount": 0,
         "homepageUrl": "",
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/vite-proxy-vue-backend",
-        "name": "vite-proxy-vue-backend",
-        "description": "A super tiny project using Vue.js and Polka to play with the vite config",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "primaryLanguage": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
         }
     },
     {

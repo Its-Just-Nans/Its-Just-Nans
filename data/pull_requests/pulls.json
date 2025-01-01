@@ -3817,7 +3817,7 @@
             "baseRepository": {
                 "url": "https://github.com/Its-Just-Nans/proj311-test",
                 "name": "proj311-test",
-                "description": "test on proj311 - check github.com/tramex",
+                "description": "TP - test on proj311 - check github.com/tramex",
                 "owner": {
                     "login": "Its-Just-Nans"
                 },
