@@ -107,17 +107,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/bad-font-viewer",
-        "name": "bad-font-viewer",
-        "description": "bad-font-viewer",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/bad-font-viewer/",
-        "primaryLanguage": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/bandwidth-calculator",
         "name": "bandwidth-calculator",
         "description": "A simple HTML bandwidth calculator",
@@ -210,21 +199,10 @@
         "name": "csv-to-custom-json",
         "description": "Easily transform your CSV to a custom JSON with cool options",
         "stargazerCount": 2,
-        "homepageUrl": "https://its-just-nans.github.io/csv-to-custom-json-demo/",
+        "homepageUrl": "https://n4n5.dev/csv-to-custom-json/",
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/csv-to-custom-json-demo",
-        "name": "csv-to-custom-json-demo",
-        "description": "Demo of csv-to-custom-json",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/csv-to-custom-json-demo",
-        "primaryLanguage": {
-            "name": "Svelte",
-            "color": "#ff3e00"
         }
     },
     {
@@ -250,17 +228,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/cv-creator",
-        "name": "cv-creator",
-        "description": "Poc for an online CV creator",
-        "stargazerCount": 0,
-        "homepageUrl": "http://n4n5.dev/cv-creator/",
-        "primaryLanguage": {
-            "name": "Svelte",
-            "color": "#ff3e00"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/cyberdeck",
         "name": "cyberdeck",
         "description": "Building a cyberdeck",
@@ -280,17 +247,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/docker-compose-network",
-        "name": "docker-compose-network",
-        "description": "May draw your network schema",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "primaryLanguage": {
-            "name": "Python",
-            "color": "#3572A5"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/dockerizing-4g",
         "name": "dockerizing-4g",
         "description": "full 4g network in a docker cluster",
@@ -299,17 +255,6 @@
         "primaryLanguage": {
             "name": "Dockerfile",
             "color": "#384d54"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/dockerizing-saml",
-        "name": "dockerizing-saml",
-        "description": null,
-        "stargazerCount": 0,
-        "homepageUrl": null,
-        "primaryLanguage": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
         }
     },
     {
