@@ -13,7 +13,8 @@
             "pngtools",
             "tiny-todo",
             "git-migrator",
-            "indexage"
+            "indexage",
+            "antr-checker"
         ],
         "shields": [
             "https://img.shields.io/pypi/dd/:package",
