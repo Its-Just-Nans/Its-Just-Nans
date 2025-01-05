@@ -488,7 +488,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/hexagon-background",
         "name": "hexagon-background",
-        "description": "Generate a hexagon svg then use it as a background image",
+        "description": "PoC - Generate a hexagon svg then use it as a background image",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/hexagon-background/",
         "primaryLanguage": {
@@ -554,7 +554,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/llamafile-lualatex",
         "name": "llamafile-lualatex",
-        "description": "latex report automation using lualatex and llamafile🤓 😎 🥸",
+        "description": "PoC - latex report automation using lualatex and llamafile🤓 😎 🥸",
         "stargazerCount": 0,
         "homepageUrl": "",
         "primaryLanguage": {
@@ -892,7 +892,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/rust-mnist-neural-network",
         "name": "rust-mnist-neural-network",
-        "description": "Simple MNIST NN from scratch in rust",
+        "description": "PoC - Simple MNIST NN from scratch in rust",
         "stargazerCount": 0,
         "homepageUrl": "",
         "primaryLanguage": {
@@ -1076,7 +1076,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/tool-blocks",
         "name": "tool-blocks",
-        "description": "The toolbox made of \"blocks\"",
+        "description": "PoC - The toolbox made of \"blocks\"",
         "stargazerCount": 0,
         "homepageUrl": "",
         "primaryLanguage": {
