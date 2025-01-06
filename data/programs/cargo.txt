@@ -25,6 +25,7 @@ diskus
 dust
 eza
 fd
+git-mover
 grcov
 hexyl
 hyperfine

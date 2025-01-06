@@ -14,7 +14,7 @@
             "tiny-todo",
             "git-migrator",
             "indexage",
-            "antr-checker"
+            "anrt-checker"
         ],
         "shields": [
             "https://img.shields.io/pypi/dd/:package",
