@@ -6215,7 +6215,7 @@
             "number": 798,
             "title": "Showcase vs Examples part of the website",
             "url": "https://github.com/ratatui/ratatui-website/pull/798",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2024-12-21T20:51:58Z",
             "baseRepository": {
                 "url": "https://github.com/ratatui/ratatui-website",
@@ -6457,6 +6457,32 @@
                 "description": "Source code spell checker",
                 "owner": {
                     "login": "crate-ci"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOLukBic6HEuIp",
+            "number": 53,
+            "title": "Update project",
+            "url": "https://github.com/tramex/tramex/pull/53",
+            "state": "OPEN",
+            "createdAt": "2025-01-08T13:04:37Z",
+            "baseRepository": {
+                "url": "https://github.com/tramex/tramex",
+                "name": "tramex",
+                "description": "Tramex is a 4G frame analyzer",
+                "owner": {
+                    "login": "tramex"
                 },
                 "languages": {
                     "nodes": [
