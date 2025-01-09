@@ -87,5 +87,15 @@
             "tramex": "https://github.com/tramex/tramex",
             "types_lte_3gpp": "https://github.com/tramex/types_lte_3gpp"
         }
+    },
+    {
+        "name": "android",
+        "profile": "",
+        "url": "https://f-droid.org/packages/:package",
+        "list": ["dev.n4n5.sms2call"],
+        "shields": ["https://img.shields.io/f-droid/v/:package"],
+        "repos": {
+            "dev.n4n5.sms2call": "https://github/Its-Just-Nans/sms2call"
+        }
     }
 ]
