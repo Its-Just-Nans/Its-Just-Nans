@@ -107,6 +107,17 @@
         }
     },
     {
+        "url": "https://github.com/Its-Just-Nans/baobab",
+        "name": "baobab",
+        "description": "boa_cli in egui",
+        "stargazerCount": 0,
+        "homepageUrl": "https://crates.io/crates/baobab",
+        "primaryLanguage": {
+            "name": "Rust",
+            "color": "#dea584"
+        }
+    },
+    {
         "url": "https://github.com/Its-Just-Nans/can-be-useful",
         "name": "can-be-useful",
         "description": "Can these codes be useful? Yes",

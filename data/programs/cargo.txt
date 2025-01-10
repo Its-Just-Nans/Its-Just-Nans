@@ -2,9 +2,11 @@ hampi-rs-asn1c
 rs-asn1c
 ast-grep
 sg
+baobab
 basic-http-server
 bat
 binocle
+boa
 cargo-add
 cargo-rm
 cargo-set-version

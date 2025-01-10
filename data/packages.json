@@ -83,7 +83,8 @@
             "n4n5",
             "cors-proxy",
             "termpic",
-            "git-mover"
+            "git-mover",
+            "baobab"
         ],
         "shields": ["https://img.shields.io/crates/d/:package", "https://img.shields.io/crates/v/:package"],
         "repos": {
