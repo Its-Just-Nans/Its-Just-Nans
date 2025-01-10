@@ -31,5 +31,16 @@
                 "url": "https://gitlab.inria.fr/discovery/enoslib"
             }
         }
+    },
+    {
+        "node": {
+            "title": "[fix] $",
+            "url": "https://gitlab.com/padok-team/dojo/dojo-ci-cd-rezel/template/-/merge_requests/1",
+            "state": "MERGED",
+            "createdAt": "2022-06-07",
+            "baseRepository": {
+                "url": "https://gitlab.com/padok-team/dojo/dojo-ci-cd-rezel/template"
+            }
+        }
     }
 ]
