@@ -6319,7 +6319,7 @@
             "number": 3,
             "title": "add item to fix #2",
             "url": "https://github.com/ICEREG1992/pkmnmap4/pull/3",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2024-12-28T11:31:54Z",
             "baseRepository": {
                 "url": "https://github.com/ICEREG1992/pkmnmap4",
@@ -6345,7 +6345,7 @@
             "number": 455,
             "title": "fix typo Operator",
             "url": "https://github.com/bootandy/dust/pull/455",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2024-12-29T18:37:57Z",
             "baseRepository": {
                 "url": "https://github.com/bootandy/dust",
@@ -6371,7 +6371,7 @@
             "number": 456,
             "title": "Change config handling",
             "url": "https://github.com/bootandy/dust/pull/456",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2024-12-30T09:08:30Z",
             "baseRepository": {
                 "url": "https://github.com/bootandy/dust",
