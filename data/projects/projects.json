@@ -140,28 +140,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/cdn",
-        "name": "cdn",
-        "description": "Interesting script files here!",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/cdn",
-        "primaryLanguage": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/cobol",
-        "name": "cobol",
-        "description": "tests in cobol",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "primaryLanguage": {
-            "name": "COBOL",
-            "color": null
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/contacts-vcf",
         "name": "contacts-vcf",
         "description": "PoC - rudimentary VCF viewer",
@@ -291,17 +269,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/domains-scraping",
-        "name": "domains-scraping",
-        "description": "domains name scraping",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "primaryLanguage": {
-            "name": "Python",
-            "color": "#3572A5"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/dotfiles",
         "name": "dotfiles",
         "description": "dotfiles",
@@ -310,17 +277,6 @@
         "primaryLanguage": {
             "name": "Shell",
             "color": "#89e051"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/eframe-filedrop",
-        "name": "eframe-filedrop",
-        "description": "eframe filedrop",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "primaryLanguage": {
-            "name": "Rust",
-            "color": "#dea584"
         }
     },
     {
@@ -445,8 +401,8 @@
         "stargazerCount": 0,
         "homepageUrl": "https://golb.n4n5.dev/",
         "primaryLanguage": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
+            "name": "CSS",
+            "color": "#663399"
         }
     },
     {
@@ -488,17 +444,6 @@
         "description": "DUT R&T - Python hangman game",
         "stargazerCount": 0,
         "homepageUrl": "",
-        "primaryLanguage": {
-            "name": "Python",
-            "color": "#3572A5"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/har-glb",
-        "name": "har-glb",
-        "description": "extract har to form glb",
-        "stargazerCount": 0,
-        "homepageUrl": null,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -593,17 +538,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/logo-mad",
-        "name": "logo-mad",
-        "description": "Unofficial logos for MaD",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "primaryLanguage": {
-            "name": "Makefile",
-            "color": "#427819"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/maps-history",
         "name": "maps-history",
         "description": "PoC - Visualize your google maps history",
@@ -668,14 +602,6 @@
             "name": "Rust",
             "color": "#dea584"
         }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/noto-emoji-turtle",
-        "name": "noto-emoji-turtle",
-        "description": "Because we love the turtle",
-        "stargazerCount": 0,
-        "homepageUrl": null,
-        "primaryLanguage": null
     },
     {
         "url": "https://github.com/Its-Just-Nans/notox",
@@ -1057,17 +983,6 @@
         "description": "Fork of https://github.com/hopey-dishwasher/termpix",
         "stargazerCount": 0,
         "homepageUrl": null,
-        "primaryLanguage": {
-            "name": "Rust",
-            "color": "#dea584"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/test-egui-graphics",
-        "name": "test-egui-graphics",
-        "description": "using stroke in egui",
-        "stargazerCount": 0,
-        "homepageUrl": "",
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
