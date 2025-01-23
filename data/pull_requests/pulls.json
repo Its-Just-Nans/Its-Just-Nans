@@ -6421,9 +6421,9 @@
         "node": {
             "id": "PR_kwDOCd2s286GbzOG",
             "number": 5548,
-            "title": "add sme keys",
+            "title": "Add keys for `!`, `{`, `}`",
             "url": "https://github.com/emilk/egui/pull/5548",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2024-12-30T13:26:55Z",
             "baseRepository": {
                 "url": "https://github.com/emilk/egui",
@@ -6489,6 +6489,32 @@
                         {
                             "name": "Rust",
                             "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOId-qwc6Ipb7g",
+            "number": 25,
+            "title": "Update index.js",
+            "url": "https://github.com/aisstream/example/pull/25",
+            "state": "OPEN",
+            "createdAt": "2025-01-22T15:49:48Z",
+            "baseRepository": {
+                "url": "https://github.com/aisstream/example",
+                "name": "example",
+                "description": "Example's for various languages for the aisstream.io websocket api. ",
+                "owner": {
+                    "login": "aisstream"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Go",
+                            "color": "#00ADD8"
                         }
                     ]
                 }
