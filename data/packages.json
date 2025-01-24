@@ -84,7 +84,8 @@
             "cors-proxy",
             "termpic",
             "git-mover",
-            "baobab"
+            "baobab",
+            "apksig"
         ],
         "shields": ["https://img.shields.io/crates/d/:package", "https://img.shields.io/crates/v/:package"],
         "repos": {

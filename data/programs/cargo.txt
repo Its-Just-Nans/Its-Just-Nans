@@ -1,3 +1,4 @@
+apksig
 hampi-rs-asn1c
 rs-asn1c
 ast-grep
@@ -50,6 +51,7 @@ wasm-bindgen
 wasm-bindgen-test-runner
 wasm2es6js
 wstcp
+x
 ya
 yazi
 zoxide

@@ -30,6 +30,17 @@
         }
     },
     {
+        "url": "https://github.com/Its-Just-Nans/apksig",
+        "name": "apksig",
+        "description": "Decoding the APK Signing Block",
+        "stargazerCount": 0,
+        "homepageUrl": null,
+        "primaryLanguage": {
+            "name": "Rust",
+            "color": "#dea584"
+        }
+    },
+    {
         "url": "https://github.com/Its-Just-Nans/arduino-led-matrix",
         "name": "arduino-led-matrix",
         "description": "An 8x8 arduino led matrix",
@@ -121,7 +132,7 @@
         "url": "https://github.com/Its-Just-Nans/can-be-useful",
         "name": "can-be-useful",
         "description": "Can these codes be useful? Yes",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "",
         "primaryLanguage": {
             "name": "JavaScript",
@@ -860,7 +871,7 @@
         "url": "https://github.com/Its-Just-Nans/sms2call",
         "name": "sms2call",
         "description": "sms2call app",
-        "stargazerCount": 5,
+        "stargazerCount": 6,
         "homepageUrl": "http://sms2call.n4n5.dev/",
         "primaryLanguage": {
             "name": "Kotlin",
