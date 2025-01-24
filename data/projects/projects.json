@@ -34,7 +34,7 @@
         "name": "apksig",
         "description": "Decoding the APK Signing Block",
         "stargazerCount": 0,
-        "homepageUrl": null,
+        "homepageUrl": "https://docs.rs/apksig",
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
