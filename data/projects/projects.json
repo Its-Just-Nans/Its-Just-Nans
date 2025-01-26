@@ -483,6 +483,17 @@
         }
     },
     {
+        "url": "https://github.com/Its-Just-Nans/jscontact",
+        "name": "jscontact",
+        "description": "RFC 9553",
+        "stargazerCount": 0,
+        "homepageUrl": "https://docs.rs/jscontact",
+        "primaryLanguage": {
+            "name": "Rust",
+            "color": "#dea584"
+        }
+    },
+    {
         "url": "https://github.com/Its-Just-Nans/json-editor",
         "name": "json-editor",
         "description": "A simple json editor in your browser",

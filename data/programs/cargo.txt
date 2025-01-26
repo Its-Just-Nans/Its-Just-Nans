@@ -17,6 +17,7 @@ cargo-llvm-cov
 cargo-ndk
 cargo-ndk-env
 cargo-nextest
+cargo-sort
 cargo-install-update
 cargo-install-update-config
 cors-proxy
@@ -34,6 +35,7 @@ hexyl
 hyperfine
 lychee
 mdbook
+meli
 n4n5
 notox
 onefetch

@@ -1,6 +1,17 @@
 [
     {
         "node": {
+            "title": "show error summary",
+            "url": "https://git.meli-email.org/meli/meli/pulls/586",
+            "state": "MERGED",
+            "createdAt": "2025-01-26",
+            "baseRepository": {
+                "url": "https://git.meli-email.org/meli/meli"
+            }
+        }
+    },
+    {
+        "node": {
             "title": "Improve docs for malformed IMSI",
             "url": "https://osmocom.org/issues/6385",
             "state": "MERGED",
