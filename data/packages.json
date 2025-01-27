@@ -85,7 +85,8 @@
             "termpic",
             "git-mover",
             "baobab",
-            "apksig"
+            "apksig",
+            "jscontact"
         ],
         "shields": ["https://img.shields.io/crates/d/:package", "https://img.shields.io/crates/v/:package"],
         "repos": {
