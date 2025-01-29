@@ -12,6 +12,7 @@ cargo-add
 cargo-rm
 cargo-set-version
 cargo-upgrade
+cargo-expand
 cargo-hack
 cargo-llvm-cov
 cargo-ndk
@@ -33,6 +34,7 @@ git-mover
 grcov
 hexyl
 hyperfine
+jscontact
 lychee
 mdbook
 meli

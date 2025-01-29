@@ -6520,5 +6520,31 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOEftRc86JHYFl",
+            "number": 58,
+            "title": "fix to rfc9553",
+            "url": "https://github.com/consiglionazionaledellericerche/jscontact-tools/pull/58",
+            "state": "OPEN",
+            "createdAt": "2025-01-27T17:13:06Z",
+            "baseRepository": {
+                "url": "https://github.com/consiglionazionaledellericerche/jscontact-tools",
+                "name": "jscontact-tools",
+                "description": "Java tools for JSContact creation, validation, serialization/deserialization and conversion from vCard, xCard and jCard.",
+                "owner": {
+                    "login": "consiglionazionaledellericerche"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Java",
+                            "color": "#b07219"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

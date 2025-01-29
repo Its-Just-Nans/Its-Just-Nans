@@ -12,6 +12,17 @@
     },
     {
         "node": {
+            "title": "New App sms2call",
+            "url": "https://gitlab.com/fdroid/fdroiddata/-/merge_requests/18869",
+            "state": "MERGED",
+            "createdAt": "2025-01-23",
+            "baseRepository": {
+                "url": "https://gitlab.com/fdroid/fdroiddata"
+            }
+        }
+    },
+    {
+        "node": {
             "title": "Improve docs for malformed IMSI",
             "url": "https://osmocom.org/issues/6385",
             "state": "MERGED",
