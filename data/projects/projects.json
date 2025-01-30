@@ -335,6 +335,17 @@
         }
     },
     {
+        "url": "https://github.com/Its-Just-Nans/file",
+        "name": "file",
+        "description": "Simple fileviewer",
+        "stargazerCount": 0,
+        "homepageUrl": "http://file.n4n5.dev/",
+        "primaryLanguage": {
+            "name": "HTML",
+            "color": "#e34c26"
+        }
+    },
+    {
         "url": "https://github.com/Its-Just-Nans/flat-hinge",
         "name": "flat-hinge",
         "description": "just some 3d flat hinges",
@@ -882,7 +893,7 @@
         "url": "https://github.com/Its-Just-Nans/sms2call",
         "name": "sms2call",
         "description": "sms2call app",
-        "stargazerCount": 7,
+        "stargazerCount": 9,
         "homepageUrl": "http://sms2call.n4n5.dev/",
         "primaryLanguage": {
             "name": "Kotlin",
