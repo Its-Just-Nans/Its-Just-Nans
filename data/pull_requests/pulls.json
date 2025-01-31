@@ -6527,7 +6527,7 @@
             "number": 58,
             "title": "fix to rfc9553",
             "url": "https://github.com/consiglionazionaledellericerche/jscontact-tools/pull/58",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-01-27T17:13:06Z",
             "baseRepository": {
                 "url": "https://github.com/consiglionazionaledellericerche/jscontact-tools",
@@ -6541,6 +6541,32 @@
                         {
                             "name": "Java",
                             "color": "#b07219"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOFn5RYs6Jn_Pt",
+            "number": 10858,
+            "title": "add documentation to inline svg",
+            "url": "https://github.com/withastro/docs/pull/10858",
+            "state": "OPEN",
+            "createdAt": "2025-01-31T11:56:42Z",
+            "baseRepository": {
+                "url": "https://github.com/withastro/docs",
+                "name": "docs",
+                "description": "Astro documentation",
+                "owner": {
+                    "login": "withastro"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "JavaScript",
+                            "color": "#f1e05a"
                         }
                     ]
                 }

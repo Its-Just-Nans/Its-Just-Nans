@@ -337,7 +337,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/file",
         "name": "file",
-        "description": "Simple fileviewer",
+        "description": "PoC - Simple fileviewer",
         "stargazerCount": 0,
         "homepageUrl": "http://file.n4n5.dev/",
         "primaryLanguage": {
