@@ -630,7 +630,7 @@
         "name": "n4n5-crate",
         "description": "n4n5's utility crate",
         "stargazerCount": 0,
-        "homepageUrl": "http://n4n5.dev/n4n5-crate/n4n5",
+        "homepageUrl": "https://docs.rs/n4n5",
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -960,7 +960,7 @@
         "name": "sudoku-solver",
         "description": "A sudoku-solver in C",
         "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/sudoku-solver/",
+        "homepageUrl": "https://n4n5.dev/sudoku-solver/",
         "primaryLanguage": {
             "name": "C",
             "color": "#555555"
