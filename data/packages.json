@@ -30,6 +30,11 @@
         "name": "npm",
         "profile": "https://www.npmjs.com/~n4n5",
         "url": "https://www.npmjs.com/package/:package",
+        "profile_urls": [
+            "https://img.shields.io/npm-stat/dw/n4n5",
+            "https://img.shields.io/npm-stat/dm/n4n5",
+            "https://img.shields.io/npm-stat/dy/n4n5"
+        ],
         "list": [
             "csv-to-custom-json",
             "forem-client",
@@ -74,6 +79,7 @@
         "name": "rust",
         "profile": "https://crates.io/users/Its-Just-Nans/",
         "url": "https://crates.io/crates/:package",
+        "profile_urls": ["https://img.shields.io/crates/udt/245139"],
         "list": [
             "notox",
             "spust",
@@ -88,7 +94,12 @@
             "apksig",
             "jscontact"
         ],
-        "shields": ["https://img.shields.io/crates/d/:package", "https://img.shields.io/crates/v/:package"],
+        "shields": [
+            "https://img.shields.io/crates/dv/:package",
+            "https://img.shields.io/crates/dr/:package",
+            "https://img.shields.io/crates/d/:package",
+            "https://img.shields.io/crates/v/:package"
+        ],
         "repos": {
             "n4n5": "https://github.com/Its-Just-Nans/n4n5-crate",
             "tramex": "https://github.com/tramex/tramex",
