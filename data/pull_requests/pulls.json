@@ -6572,5 +6572,31 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOD1jqbs6J20GP",
+            "number": 19346,
+            "title": "feat: add support for binary import with ?binary",
+            "url": "https://github.com/vitejs/vite/pull/19346",
+            "state": "OPEN",
+            "createdAt": "2025-02-03T14:14:40Z",
+            "baseRepository": {
+                "url": "https://github.com/vitejs/vite",
+                "name": "vite",
+                "description": "Next generation frontend tooling. It's fast!",
+                "owner": {
+                    "login": "vitejs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "JavaScript",
+                            "color": "#f1e05a"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

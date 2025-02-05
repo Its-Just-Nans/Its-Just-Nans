@@ -22,6 +22,7 @@ cargo-sort
 cargo-install-update
 cargo-install-update-config
 cors-proxy
+crobat
 cross
 cross-util
 czkawka_cli
@@ -35,6 +36,7 @@ grcov
 hexyl
 hyperfine
 jscontact
+lugia
 lychee
 mdbook
 meli
@@ -45,6 +47,7 @@ pastel
 rg
 rustscan
 spust
+sulfura
 termpic
 tokei
 tramex
