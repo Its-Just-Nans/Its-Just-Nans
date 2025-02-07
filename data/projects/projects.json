@@ -33,7 +33,7 @@
         "url": "https://github.com/Its-Just-Nans/apksig",
         "name": "apksig",
         "description": "Decoding the APK Signing Block",
-        "stargazerCount": 1,
+        "stargazerCount": 2,
         "homepageUrl": "http://n4n5.dev/apksig/",
         "primaryLanguage": {
             "name": "Rust",
@@ -893,7 +893,7 @@
         "url": "https://github.com/Its-Just-Nans/sms2call",
         "name": "sms2call",
         "description": "sms2call app",
-        "stargazerCount": 10,
+        "stargazerCount": 11,
         "homepageUrl": "http://sms2call.n4n5.dev/",
         "primaryLanguage": {
             "name": "Kotlin",
