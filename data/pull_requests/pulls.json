@@ -6598,5 +6598,31 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOCGx6tM6K00os",
+            "number": 473,
+            "title": "add comment to specify the rand version",
+            "url": "https://github.com/RustCrypto/RSA/pull/473",
+            "state": "OPEN",
+            "createdAt": "2025-02-11T15:55:41Z",
+            "baseRepository": {
+                "url": "https://github.com/RustCrypto/RSA",
+                "name": "RSA",
+                "description": "RSA implementation in pure Rust",
+                "owner": {
+                    "login": "RustCrypto"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
