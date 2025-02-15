@@ -4410,7 +4410,7 @@
             "number": 804,
             "title": "DRAFT: Start adding support for workspace",
             "url": "https://github.com/trunk-rs/trunk/pull/804",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2024-05-29T20:07:32Z",
             "baseRepository": {
                 "url": "https://github.com/trunk-rs/trunk",
@@ -6613,6 +6613,32 @@
                 "description": "RSA implementation in pure Rust",
                 "owner": {
                     "login": "RustCrypto"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOETa5UM6LVtST",
+            "number": 947,
+            "title": "Add workspace support",
+            "url": "https://github.com/trunk-rs/trunk/pull/947",
+            "state": "OPEN",
+            "createdAt": "2025-02-15T13:14:07Z",
+            "baseRepository": {
+                "url": "https://github.com/trunk-rs/trunk",
+                "name": "trunk",
+                "description": "Build, bundle & ship your Rust WASM application to the web.",
+                "owner": {
+                    "login": "trunk-rs"
                 },
                 "languages": {
                     "nodes": [
