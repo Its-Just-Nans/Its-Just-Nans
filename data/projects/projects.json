@@ -497,7 +497,7 @@
         "url": "https://github.com/Its-Just-Nans/jscontact",
         "name": "jscontact",
         "description": "RFC 9553",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "https://docs.rs/jscontact",
         "primaryLanguage": {
             "name": "Rust",
@@ -992,7 +992,7 @@
         "url": "https://github.com/Its-Just-Nans/svelte-number-displayer",
         "name": "svelte-number-displayer",
         "description": "Display animated number easily with Svelte",
-        "stargazerCount": 1,
+        "stargazerCount": 2,
         "homepageUrl": "http://n4n5.dev/svelte-number-displayer/",
         "primaryLanguage": {
             "name": "Svelte",
@@ -1038,6 +1038,17 @@
         "primaryLanguage": {
             "name": "MDX",
             "color": "#fcb32c"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/time",
+        "name": "time",
+        "description": "get time by timzone",
+        "stargazerCount": 0,
+        "homepageUrl": "http://time.n4n5.dev/",
+        "primaryLanguage": {
+            "name": "TypeScript",
+            "color": "#3178c6"
         }
     },
     {
