@@ -497,7 +497,7 @@
         "url": "https://github.com/Its-Just-Nans/jscontact",
         "name": "jscontact",
         "description": "RFC 9553",
-        "stargazerCount": 1,
+        "stargazerCount": 2,
         "homepageUrl": "https://docs.rs/jscontact",
         "primaryLanguage": {
             "name": "Rust",
@@ -640,7 +640,7 @@
         "url": "https://github.com/Its-Just-Nans/notox",
         "name": "notox",
         "description": "no toxic names anymore",
-        "stargazerCount": 8,
+        "stargazerCount": 9,
         "homepageUrl": "https://n4n5.dev/notox/",
         "primaryLanguage": {
             "name": "Rust",
@@ -1043,7 +1043,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/time",
         "name": "time",
-        "description": "get time by timzone",
+        "description": "get time by timezone",
         "stargazerCount": 0,
         "homepageUrl": "http://time.n4n5.dev/",
         "primaryLanguage": {

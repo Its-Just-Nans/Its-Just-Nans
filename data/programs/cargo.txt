@@ -54,6 +54,7 @@ tramex
 trip
 trunk
 typos
+typst
 wasm-bindgen
 wasm-bindgen-test-runner
 wasm2es6js

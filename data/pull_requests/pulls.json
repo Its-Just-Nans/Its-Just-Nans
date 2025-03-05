@@ -5138,7 +5138,7 @@
             "number": 161,
             "title": "add deny(missing-docs)",
             "url": "https://github.com/podusowski/walkers/pull/161",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2024-06-15T17:22:58Z",
             "baseRepository": {
                 "url": "https://github.com/podusowski/walkers",
@@ -6639,6 +6639,58 @@
                 "description": "Build, bundle & ship your Rust WASM application to the web.",
                 "owner": {
                     "login": "trunk-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOAdE-Ms6MRhqC",
+            "number": 89,
+            "title": "add xml wrap for parser",
+            "url": "https://github.com/bodoni/svg/pull/89",
+            "state": "OPEN",
+            "createdAt": "2025-02-24T11:37:10Z",
+            "baseRepository": {
+                "url": "https://github.com/bodoni/svg",
+                "name": "svg",
+                "description": "Composer and parser for SVG",
+                "owner": {
+                    "login": "bodoni"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOB8XdM86MrppR",
+            "number": 47,
+            "title": "add helpers functions to PathSegment",
+            "url": "https://github.com/linebender/svgtypes/pull/47",
+            "state": "OPEN",
+            "createdAt": "2025-02-26T17:27:21Z",
+            "baseRepository": {
+                "url": "https://github.com/linebender/svgtypes",
+                "name": "svgtypes",
+                "description": "A collection of parsers for SVG types.",
+                "owner": {
+                    "login": "linebender"
                 },
                 "languages": {
                     "nodes": [
