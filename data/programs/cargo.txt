@@ -44,6 +44,7 @@ n4n5
 notox
 onefetch
 pastel
+pixi
 rg
 rustscan
 spust
