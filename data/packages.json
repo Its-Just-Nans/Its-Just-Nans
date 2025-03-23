@@ -92,7 +92,8 @@
             "git-mover",
             "baobab",
             "apksig",
-            "jscontact"
+            "jscontact",
+            "tarsier"
         ],
         "shields": [
             "https://img.shields.io/crates/dv/:package",

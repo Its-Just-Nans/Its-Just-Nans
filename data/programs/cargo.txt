@@ -49,6 +49,7 @@ rg
 rustscan
 spust
 sulfura
+tarsier
 termpic
 tokei
 tramex
