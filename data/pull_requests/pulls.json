@@ -2669,32 +2669,6 @@
     },
     {
         "node": {
-            "id": "PR_kwDOKZADvs5bWxFO",
-            "number": 1,
-            "title": "fix: only one",
-            "url": "https://github.com/comeyrd/web-qrcode/pull/1",
-            "state": "MERGED",
-            "createdAt": "2023-09-27T15:41:53Z",
-            "baseRepository": {
-                "url": "https://github.com/comeyrd/web-qrcode",
-                "name": "web-qrcode",
-                "description": "A simple server side QrCode maker and detection service",
-                "owner": {
-                    "login": "comeyrd"
-                },
-                "languages": {
-                    "nodes": [
-                        {
-                            "name": "HTML",
-                            "color": "#e34c26"
-                        }
-                    ]
-                }
-            }
-        }
-    },
-    {
-        "node": {
             "id": "PR_kwDOHF5DAc5brBLu",
             "number": 281,
             "title": "DRAFT: [docs] sphinx multiversion",
@@ -6501,7 +6475,7 @@
             "number": 25,
             "title": "Update index.js",
             "url": "https://github.com/aisstream/example/pull/25",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-01-22T15:49:48Z",
             "baseRepository": {
                 "url": "https://github.com/aisstream/example",
@@ -6723,6 +6697,214 @@
                         {
                             "name": "JavaScript",
                             "color": "#f1e05a"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOATODBM6O-_RS",
+            "number": 2437,
+            "title": "Add some link to docs in README",
+            "url": "https://github.com/image-rs/image/pull/2437",
+            "state": "MERGED",
+            "createdAt": "2025-03-17T19:39:15Z",
+            "baseRepository": {
+                "url": "https://github.com/image-rs/image",
+                "name": "image",
+                "description": "Encoding and decoding images in Rust",
+                "owner": {
+                    "login": "image-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOATODBM6O_NtT",
+            "number": 2438,
+            "title": "change invert() and add invert_in_place()",
+            "url": "https://github.com/image-rs/image/pull/2438",
+            "state": "OPEN",
+            "createdAt": "2025-03-17T20:07:21Z",
+            "baseRepository": {
+                "url": "https://github.com/image-rs/image",
+                "name": "image",
+                "description": "Encoding and decoding images in Rust",
+                "owner": {
+                    "login": "image-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOATODBM6PnJBP",
+            "number": 2443,
+            "title": "Add Turbofish convert",
+            "url": "https://github.com/image-rs/image/pull/2443",
+            "state": "OPEN",
+            "createdAt": "2025-03-21T12:35:24Z",
+            "baseRepository": {
+                "url": "https://github.com/image-rs/image",
+                "name": "image",
+                "description": "Encoding and decoding images in Rust",
+                "owner": {
+                    "login": "image-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOATODBM6PoDn9",
+            "number": 2444,
+            "title": "add color type conversion",
+            "url": "https://github.com/image-rs/image/pull/2444",
+            "state": "OPEN",
+            "createdAt": "2025-03-21T14:13:05Z",
+            "baseRepository": {
+                "url": "https://github.com/image-rs/image",
+                "name": "image",
+                "description": "Encoding and decoding images in Rust",
+                "owner": {
+                    "login": "image-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDON2p0bM6PpBFx",
+            "number": 3,
+            "title": "Add some modifications",
+            "url": "https://github.com/Bluehats/bluehats.global/pull/3",
+            "state": "OPEN",
+            "createdAt": "2025-03-21T15:52:57Z",
+            "baseRepository": {
+                "url": "https://github.com/Bluehats/bluehats.global",
+                "name": "bluehats.global",
+                "description": "bluehats.global website",
+                "owner": {
+                    "login": "Bluehats"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "JavaScript",
+                            "color": "#f1e05a"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOKp58x86PpWOJ",
+            "number": 1,
+            "title": "add favicon",
+            "url": "https://github.com/Bluehats/bluehats-visuals/pull/1",
+            "state": "MERGED",
+            "createdAt": "2025-03-21T16:30:14Z",
+            "baseRepository": {
+                "url": "https://github.com/Bluehats/bluehats-visuals",
+                "name": "bluehats-visuals",
+                "description": "🧢 Visual kit for BlueHats events and online promotion",
+                "owner": {
+                    "login": "Bluehats"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Shell",
+                            "color": "#89e051"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOATODBM6Pw3vV",
+            "number": 2445,
+            "title": "add serde derive to struct and enum",
+            "url": "https://github.com/image-rs/image/pull/2445",
+            "state": "OPEN",
+            "createdAt": "2025-03-23T13:50:39Z",
+            "baseRepository": {
+                "url": "https://github.com/image-rs/image",
+                "name": "image",
+                "description": "Encoding and decoding images in Rust",
+                "owner": {
+                    "login": "image-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOATODBM6Pw5y8",
+            "number": 2446,
+            "title": "CI: add num-traits to public",
+            "url": "https://github.com/image-rs/image/pull/2446",
+            "state": "OPEN",
+            "createdAt": "2025-03-23T14:06:41Z",
+            "baseRepository": {
+                "url": "https://github.com/image-rs/image",
+                "name": "image",
+                "description": "Encoding and decoding images in Rust",
+                "owner": {
+                    "login": "image-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
                         }
                     ]
                 }
