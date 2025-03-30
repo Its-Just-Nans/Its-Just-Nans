@@ -6137,7 +6137,7 @@
             "number": 1649,
             "title": "Add documentation key in Cargo.toml",
             "url": "https://github.com/sharkdp/fd/pull/1649",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2024-12-16T16:46:06Z",
             "baseRepository": {
                 "url": "https://github.com/sharkdp/fd",
@@ -6527,7 +6527,7 @@
             "number": 10858,
             "title": "add documentation to inline svg",
             "url": "https://github.com/withastro/docs/pull/10858",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2025-01-31T11:56:42Z",
             "baseRepository": {
                 "url": "https://github.com/withastro/docs",
@@ -6891,7 +6891,7 @@
             "number": 2446,
             "title": "CI: add num-traits to public",
             "url": "https://github.com/image-rs/image/pull/2446",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-03-23T14:06:41Z",
             "baseRepository": {
                 "url": "https://github.com/image-rs/image",
