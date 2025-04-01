@@ -41,6 +41,17 @@
         }
     },
     {
+        "url": "https://github.com/Its-Just-Nans/apksigner",
+        "name": "apksigner",
+        "description": "see apksig",
+        "stargazerCount": 0,
+        "homepageUrl": null,
+        "primaryLanguage": {
+            "name": "Rust",
+            "color": "#dea584"
+        }
+    },
+    {
         "url": "https://github.com/Its-Just-Nans/arduino-led-matrix",
         "name": "arduino-led-matrix",
         "description": "An 8x8 arduino led matrix",
@@ -223,6 +234,17 @@
         "stargazerCount": 0,
         "homepageUrl": "http://n4n5.dev/cyberdeck/",
         "primaryLanguage": null
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/deploy-that",
+        "name": "deploy-that",
+        "description": "Deploy a repo to a github pages",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "Shell",
+            "color": "#89e051"
+        }
     },
     {
         "url": "https://github.com/Its-Just-Nans/dijkstra",
@@ -873,6 +895,17 @@
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/ses-102",
+        "name": "ses-102",
+        "description": "TP - SES102 - Pratiques et Analyses de Communication écrite",
+        "stargazerCount": 0,
+        "homepageUrl": "https://n4n5.dev/ses-102/ses102_pace.pdf",
+        "primaryLanguage": {
+            "name": "TeX",
+            "color": "#3D6117"
         }
     },
     {
