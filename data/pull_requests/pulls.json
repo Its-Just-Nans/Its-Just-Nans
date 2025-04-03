@@ -6910,5 +6910,83 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOLzski86RACzw",
+            "number": 56,
+            "title": "add json save in web",
+            "url": "https://github.com/nmeylan/json-table-editor/pull/56",
+            "state": "MERGED",
+            "createdAt": "2025-04-01T22:20:32Z",
+            "baseRepository": {
+                "url": "https://github.com/nmeylan/json-table-editor",
+                "name": "json-table-editor",
+                "description": "A tool to view JSON array as table, to ease visualisation and edition of large json array with performance as main objective ",
+                "owner": {
+                    "login": "nmeylan"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOLzski86RFXl3",
+            "number": 57,
+            "title": "Cargo fmt",
+            "url": "https://github.com/nmeylan/json-table-editor/pull/57",
+            "state": "OPEN",
+            "createdAt": "2025-04-02T12:44:14Z",
+            "baseRepository": {
+                "url": "https://github.com/nmeylan/json-table-editor",
+                "name": "json-table-editor",
+                "description": "A tool to view JSON array as table, to ease visualisation and edition of large json array with performance as main objective ",
+                "owner": {
+                    "login": "nmeylan"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOLzski86RI_lx",
+            "number": 59,
+            "title": "Use trunk for web",
+            "url": "https://github.com/nmeylan/json-table-editor/pull/59",
+            "state": "OPEN",
+            "createdAt": "2025-04-02T19:25:06Z",
+            "baseRepository": {
+                "url": "https://github.com/nmeylan/json-table-editor",
+                "name": "json-table-editor",
+                "description": "A tool to view JSON array as table, to ease visualisation and edition of large json array with performance as main objective ",
+                "owner": {
+                    "login": "nmeylan"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
