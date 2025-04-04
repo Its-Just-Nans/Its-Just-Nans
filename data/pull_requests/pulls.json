@@ -6943,7 +6943,7 @@
             "number": 57,
             "title": "Cargo fmt",
             "url": "https://github.com/nmeylan/json-table-editor/pull/57",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2025-04-02T12:44:14Z",
             "baseRepository": {
                 "url": "https://github.com/nmeylan/json-table-editor",
@@ -6983,6 +6983,32 @@
                         {
                             "name": "Rust",
                             "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOAW4RGc6RUlEz",
+            "number": 8,
+            "title": "add link to ceil function",
+            "url": "https://github.com/bash/bash.github.io/pull/8",
+            "state": "MERGED",
+            "createdAt": "2025-04-03T21:39:40Z",
+            "baseRepository": {
+                "url": "https://github.com/bash/bash.github.io",
+                "name": "bash.github.io",
+                "description": "Source code of my personal website and blog",
+                "owner": {
+                    "login": "bash"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "HTML",
+                            "color": "#e34c26"
                         }
                     ]
                 }
