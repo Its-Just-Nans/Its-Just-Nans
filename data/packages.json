@@ -14,7 +14,8 @@
             "tiny-todo",
             "git-migrator",
             "indexage",
-            "anrt-checker"
+            "anrt-checker",
+            "businessfrance-checker"
         ],
         "shields": [
             "https://img.shields.io/pypi/dd/:package",
