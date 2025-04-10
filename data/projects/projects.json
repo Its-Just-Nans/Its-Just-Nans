@@ -140,6 +140,17 @@
         }
     },
     {
+        "url": "https://github.com/Its-Just-Nans/businessfrance-checker",
+        "name": "businessfrance-checker",
+        "description": "businessfrance checker",
+        "stargazerCount": 0,
+        "homepageUrl": null,
+        "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
         "url": "https://github.com/Its-Just-Nans/can-be-useful",
         "name": "can-be-useful",
         "description": "Can these codes be useful? Yes",
@@ -659,7 +670,7 @@
         "url": "https://github.com/Its-Just-Nans/notox",
         "name": "notox",
         "description": "no toxic names anymore",
-        "stargazerCount": 9,
+        "stargazerCount": 10,
         "homepageUrl": "https://n4n5.dev/notox/",
         "primaryLanguage": {
             "name": "Rust",
@@ -1044,7 +1055,7 @@
         "url": "https://github.com/Its-Just-Nans/tarsier",
         "name": "tarsier",
         "description": "A simple image editor",
-        "stargazerCount": 1,
+        "stargazerCount": 2,
         "homepageUrl": "http://tarsier.n4n5.dev/",
         "primaryLanguage": {
             "name": "Rust",
