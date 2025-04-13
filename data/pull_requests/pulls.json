@@ -7118,5 +7118,161 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOAQ-n5M6SE25i",
+            "number": 8497,
+            "title": "config: add error message",
+            "url": "https://github.com/rclone/rclone/pull/8497",
+            "state": "OPEN",
+            "createdAt": "2025-04-10T10:33:52Z",
+            "baseRepository": {
+                "url": "https://github.com/rclone/rclone",
+                "name": "rclone",
+                "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+                "owner": {
+                    "login": "rclone"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Makefile",
+                            "color": "#427819"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOAQ-n5M6SFp6B",
+            "number": 8498,
+            "title": "listremotes should send an empty array",
+            "url": "https://github.com/rclone/rclone/pull/8498",
+            "state": "OPEN",
+            "createdAt": "2025-04-10T12:08:29Z",
+            "baseRepository": {
+                "url": "https://github.com/rclone/rclone",
+                "name": "rclone",
+                "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+                "owner": {
+                    "login": "rclone"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Makefile",
+                            "color": "#427819"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOAQ-n5M6SF6GS",
+            "number": 8499,
+            "title": "add CI/CD job for docs",
+            "url": "https://github.com/rclone/rclone/pull/8499",
+            "state": "OPEN",
+            "createdAt": "2025-04-10T12:36:16Z",
+            "baseRepository": {
+                "url": "https://github.com/rclone/rclone",
+                "name": "rclone",
+                "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+                "owner": {
+                    "login": "rclone"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Makefile",
+                            "color": "#427819"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOGKxz7M6SHTmM",
+            "number": 14,
+            "title": "add basic examples",
+            "url": "https://github.com/trevyn/librclone/pull/14",
+            "state": "OPEN",
+            "createdAt": "2025-04-10T14:40:42Z",
+            "baseRepository": {
+                "url": "https://github.com/trevyn/librclone",
+                "name": "librclone",
+                "description": "Rust bindings for librclone. Automatically compiles rclone as a library and links it into your Rust application.",
+                "owner": {
+                    "login": "trevyn"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOAQ-n5M6SKpsp",
+            "number": 8502,
+            "title": "add jobs stats",
+            "url": "https://github.com/rclone/rclone/pull/8502",
+            "state": "OPEN",
+            "createdAt": "2025-04-10T21:12:24Z",
+            "baseRepository": {
+                "url": "https://github.com/rclone/rclone",
+                "name": "rclone",
+                "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+                "owner": {
+                    "login": "rclone"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Makefile",
+                            "color": "#427819"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJYq-v86SZQ0E",
+            "number": 675,
+            "title": "Fix edit docs link",
+            "url": "https://github.com/smallcloudai/refact/pull/675",
+            "state": "OPEN",
+            "createdAt": "2025-04-13T14:04:55Z",
+            "baseRepository": {
+                "url": "https://github.com/smallcloudai/refact",
+                "name": "refact",
+                "description": "AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.",
+                "owner": {
+                    "login": "smallcloudai"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Dockerfile",
+                            "color": "#384d54"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
