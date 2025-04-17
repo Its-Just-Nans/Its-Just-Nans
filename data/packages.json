@@ -117,5 +117,15 @@
         "repos": {
             "dev.n4n5.sms2call": "https://github.com/Its-Just-Nans/sms2call"
         }
+    },
+    {
+        "name": "github actions",
+        "profile": "",
+        "url": "https://github.com/marketplace/actions/:package",
+        "list": ["deploy-that"],
+        "shields": [],
+        "repos": {
+            "deploy-that": "https://github.com/Its-Just-Nans/deploy-that"
+        }
     }
 ]
