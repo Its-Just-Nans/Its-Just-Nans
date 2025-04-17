@@ -33,7 +33,7 @@
         "url": "https://github.com/Its-Just-Nans/apksig",
         "name": "apksig",
         "description": "Decoding the APK Signing Block",
-        "stargazerCount": 4,
+        "stargazerCount": 5,
         "homepageUrl": "http://n4n5.dev/apksig/",
         "primaryLanguage": {
             "name": "Rust",
@@ -144,7 +144,7 @@
         "name": "businessfrance-checker",
         "description": "businessfrance checker",
         "stargazerCount": 0,
-        "homepageUrl": null,
+        "homepageUrl": "",
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -371,7 +371,7 @@
         "url": "https://github.com/Its-Just-Nans/file",
         "name": "file",
         "description": "PoC - Simple fileviewer",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "http://file.n4n5.dev/",
         "primaryLanguage": {
             "name": "HTML",
@@ -1154,8 +1154,8 @@
         "stargazerCount": 0,
         "homepageUrl": "http://yakb.n4n5.dev/",
         "primaryLanguage": {
-            "name": "MDX",
-            "color": "#fcb32c"
+            "name": "Astro",
+            "color": "#ff5a03"
         }
     },
     {

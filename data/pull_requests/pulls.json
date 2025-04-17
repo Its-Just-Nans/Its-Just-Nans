@@ -6761,7 +6761,7 @@
             "number": 2443,
             "title": "Add Turbofish convert",
             "url": "https://github.com/image-rs/image/pull/2443",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-03-21T12:35:24Z",
             "baseRepository": {
                 "url": "https://github.com/image-rs/image",
@@ -6865,7 +6865,7 @@
             "number": 2445,
             "title": "add serde derive to struct and enum",
             "url": "https://github.com/image-rs/image/pull/2445",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-03-23T13:50:39Z",
             "baseRepository": {
                 "url": "https://github.com/image-rs/image",
