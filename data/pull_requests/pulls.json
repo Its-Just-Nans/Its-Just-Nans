@@ -1790,32 +1790,6 @@
     },
     {
         "node": {
-            "id": "MDExOlB1bGxSZXF1ZXN0NjkyNzc1MTEw",
-            "number": 1,
-            "title": "Try to do thing",
-            "url": "https://github.com/ncrrr/simple-next-server/pull/1",
-            "state": "OPEN",
-            "createdAt": "2021-07-19T17:02:59Z",
-            "baseRepository": {
-                "url": "https://github.com/ncrrr/simple-next-server",
-                "name": "simple-next-server",
-                "description": "Exemple de server nextjs ne prenant pas en compte le parametre 'dir'",
-                "owner": {
-                    "login": "ncrrr"
-                },
-                "languages": {
-                    "nodes": [
-                        {
-                            "name": "JavaScript",
-                            "color": "#f1e05a"
-                        }
-                    ]
-                }
-            }
-        }
-    },
-    {
-        "node": {
             "id": "MDExOlB1bGxSZXF1ZXN0NjkzNTYxMjky",
             "number": 650,
             "title": "Change the README to add a new method (for 'mono-repo')",
@@ -6812,12 +6786,12 @@
             "id": "PR_kwDON2p0bM6PpBFx",
             "number": 3,
             "title": "Add some modifications",
-            "url": "https://github.com/Bluehats/bluehats.global/pull/3",
+            "url": "https://github.com/Bluehats/bluehats.world/pull/3",
             "state": "OPEN",
             "createdAt": "2025-03-21T15:52:57Z",
             "baseRepository": {
-                "url": "https://github.com/Bluehats/bluehats.global",
-                "name": "bluehats.global",
+                "url": "https://github.com/Bluehats/bluehats.world",
+                "name": "bluehats.world",
                 "description": "bluehats.global website",
                 "owner": {
                     "login": "Bluehats"
@@ -7269,6 +7243,84 @@
                         {
                             "name": "Dockerfile",
                             "color": "#384d54"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDODVQduM6TAccc",
+            "number": 17,
+            "title": "Improve css navbar",
+            "url": "https://github.com/djibe/recommandations-medicales/pull/17",
+            "state": "OPEN",
+            "createdAt": "2025-04-17T15:18:22Z",
+            "baseRepository": {
+                "url": "https://github.com/djibe/recommandations-medicales",
+                "name": "recommandations-medicales",
+                "description": "RecoMédicales is Open Source Medical information for the general practitioner",
+                "owner": {
+                    "login": "djibe"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "JavaScript",
+                            "color": "#f1e05a"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDODVQduM6TBBiD",
+            "number": 18,
+            "title": "Ajout CONTRIBUTING.md",
+            "url": "https://github.com/djibe/recommandations-medicales/pull/18",
+            "state": "OPEN",
+            "createdAt": "2025-04-17T16:37:14Z",
+            "baseRepository": {
+                "url": "https://github.com/djibe/recommandations-medicales",
+                "name": "recommandations-medicales",
+                "description": "RecoMédicales is Open Source Medical information for the general practitioner",
+                "owner": {
+                    "login": "djibe"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "JavaScript",
+                            "color": "#f1e05a"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDODVQduM6TBDwn",
+            "number": 19,
+            "title": "deprecated node-sass",
+            "url": "https://github.com/djibe/recommandations-medicales/pull/19",
+            "state": "OPEN",
+            "createdAt": "2025-04-17T16:43:02Z",
+            "baseRepository": {
+                "url": "https://github.com/djibe/recommandations-medicales",
+                "name": "recommandations-medicales",
+                "description": "RecoMédicales is Open Source Medical information for the general practitioner",
+                "owner": {
+                    "login": "djibe"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "JavaScript",
+                            "color": "#f1e05a"
                         }
                     ]
                 }
