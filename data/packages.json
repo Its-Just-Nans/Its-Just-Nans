@@ -94,7 +94,8 @@
             "baobab",
             "apksig",
             "jscontact",
-            "tarsier"
+            "tarsier",
+            "whatisthis"
         ],
         "shields": [
             "https://img.shields.io/crates/dv/:package",
