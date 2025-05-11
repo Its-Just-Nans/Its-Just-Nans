@@ -623,6 +623,17 @@
         }
     },
     {
+        "url": "https://github.com/Its-Just-Nans/mouse-data-transfer",
+        "name": "mouse-data-transfer",
+        "description": "PoC - transfer data using your computer mouse",
+        "stargazerCount": 0,
+        "homepageUrl": "http://n4n5.dev/mouse-data-transfer/",
+        "primaryLanguage": {
+            "name": "Svelte",
+            "color": "#ff3e00"
+        }
+    },
+    {
         "url": "https://github.com/Its-Just-Nans/movies-display",
         "name": "movies-display",
         "description": "PoC - display movies list",
@@ -922,9 +933,9 @@
     {
         "url": "https://github.com/Its-Just-Nans/simple-next-server",
         "name": "simple-next-server",
-        "description": "Exemple de server nextjs ne prenant pas en compte le parametre 'dir'",
+        "description": "PoC - Exemple de server nextjs ne prenant pas en compte le parametre 'dir'",
         "stargazerCount": 0,
-        "homepageUrl": null,
+        "homepageUrl": "",
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -1150,12 +1161,12 @@
     {
         "url": "https://github.com/Its-Just-Nans/whatisthis",
         "name": "whatisthis",
-        "description": "PoC - Simple fileviewer",
+        "description": "File investigator",
         "stargazerCount": 1,
         "homepageUrl": "http://whatisthis.n4n5.dev/",
         "primaryLanguage": {
-            "name": "HTML",
-            "color": "#e34c26"
+            "name": "Rust",
+            "color": "#dea584"
         }
     },
     {

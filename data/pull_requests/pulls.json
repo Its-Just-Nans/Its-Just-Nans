@@ -6792,7 +6792,7 @@
             "baseRepository": {
                 "url": "https://github.com/Bluehats/bluehats.world",
                 "name": "bluehats.world",
-                "description": "bluehats.global website",
+                "description": "🧢 bluehats.world website",
                 "owner": {
                     "login": "Bluehats"
                 },
@@ -7321,6 +7321,32 @@
                         {
                             "name": "JavaScript",
                             "color": "#f1e05a"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOALTHTM6T7-Tw",
+            "number": 7841,
+            "title": "Add example to manpage",
+            "url": "https://github.com/uutils/coreutils/pull/7841",
+            "state": "OPEN",
+            "createdAt": "2025-04-25T16:14:03Z",
+            "baseRepository": {
+                "url": "https://github.com/uutils/coreutils",
+                "name": "coreutils",
+                "description": "Cross-platform Rust rewrite of the GNU coreutils",
+                "owner": {
+                    "login": "uutils"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
                         }
                     ]
                 }
