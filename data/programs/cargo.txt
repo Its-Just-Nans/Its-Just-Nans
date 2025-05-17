@@ -39,6 +39,7 @@ jscontact
 lugia
 lychee
 mdbook
+mdbook-toc
 meli
 n4n5
 notox
@@ -60,6 +61,7 @@ typst
 wasm-bindgen
 wasm-bindgen-test-runner
 wasm2es6js
+whatisthis
 wstcp
 x
 ya

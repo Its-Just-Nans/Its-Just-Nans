@@ -5,4 +5,5 @@ fzf
 imgcat
 jadx
 nbfc
+sage
 tracy

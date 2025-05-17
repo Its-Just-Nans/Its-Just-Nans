@@ -7021,7 +7021,7 @@
             "number": 247,
             "title": "Wasm: click on the input to open file picker",
             "url": "https://github.com/PolyMeilex/rfd/pull/247",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-04-04T18:20:02Z",
             "baseRepository": {
                 "url": "https://github.com/PolyMeilex/rfd",
@@ -7335,6 +7335,32 @@
             "url": "https://github.com/uutils/coreutils/pull/7841",
             "state": "OPEN",
             "createdAt": "2025-04-25T16:14:03Z",
+            "baseRepository": {
+                "url": "https://github.com/uutils/coreutils",
+                "name": "coreutils",
+                "description": "Cross-platform Rust rewrite of the GNU coreutils",
+                "owner": {
+                    "login": "uutils"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOALTHTM6WQKwI",
+            "number": 7936,
+            "title": "fix docs hashsumS and test",
+            "url": "https://github.com/uutils/coreutils/pull/7936",
+            "state": "OPEN",
+            "createdAt": "2025-05-15T03:59:57Z",
             "baseRepository": {
                 "url": "https://github.com/uutils/coreutils",
                 "name": "coreutils",

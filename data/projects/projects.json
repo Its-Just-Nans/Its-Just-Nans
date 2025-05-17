@@ -527,7 +527,7 @@
         "url": "https://github.com/Its-Just-Nans/json-editor",
         "name": "json-editor",
         "description": "A simple json editor in your browser",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "http://n4n5.dev/json-editor/",
         "primaryLanguage": {
             "name": "Svelte",
