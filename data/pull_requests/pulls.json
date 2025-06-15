@@ -5798,7 +5798,12 @@
                     "login": "WebBreacher"
                 },
                 "languages": {
-                    "nodes": []
+                    "nodes": [
+                        {
+                            "name": "Python",
+                            "color": "#3572A5"
+                        }
+                    ]
                 }
             }
         }
@@ -5819,7 +5824,12 @@
                     "login": "WebBreacher"
                 },
                 "languages": {
-                    "nodes": []
+                    "nodes": [
+                        {
+                            "name": "Python",
+                            "color": "#3572A5"
+                        }
+                    ]
                 }
             }
         }
@@ -7229,7 +7239,7 @@
             "number": 675,
             "title": "Fix edit docs link",
             "url": "https://github.com/smallcloudai/refact/pull/675",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-04-13T14:04:55Z",
             "baseRepository": {
                 "url": "https://github.com/smallcloudai/refact",
@@ -7307,7 +7317,7 @@
             "number": 19,
             "title": "deprecated node-sass",
             "url": "https://github.com/djibe/recommandations-medicales/pull/19",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2025-04-17T16:43:02Z",
             "baseRepository": {
                 "url": "https://github.com/djibe/recommandations-medicales",
@@ -7373,6 +7383,110 @@
                         {
                             "name": "Rust",
                             "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOIqbmJc6Y8CX5",
+            "number": 2,
+            "title": "Fix README.md links",
+            "url": "https://github.com/thaliaarchi/bfcoq/pull/2",
+            "state": "MERGED",
+            "createdAt": "2025-06-04T02:53:47Z",
+            "baseRepository": {
+                "url": "https://github.com/thaliaarchi/bfcoq",
+                "name": "bfcoq",
+                "description": "Brainfuck compiler in Coq",
+                "owner": {
+                    "login": "thaliaarchi"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Coq",
+                            "color": "#d0b68c"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOLSKjts6Y8dQp",
+            "number": 1,
+            "title": "add default value for arg",
+            "url": "https://github.com/andrewliebenow/empd/pull/1",
+            "state": "OPEN",
+            "createdAt": "2025-06-04T03:45:31Z",
+            "baseRepository": {
+                "url": "https://github.com/andrewliebenow/empd",
+                "name": "empd",
+                "description": "empd is a tool for checking if a file or directory is empty, or if a symbolic link points to a non-existent path",
+                "owner": {
+                    "login": "andrewliebenow"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBAME_M6Y8ouo",
+            "number": 41,
+            "title": "Add zig",
+            "url": "https://github.com/mohd-akram/compilers/pull/41",
+            "state": "OPEN",
+            "createdAt": "2025-06-04T04:09:13Z",
+            "baseRepository": {
+                "url": "https://github.com/mohd-akram/compilers",
+                "name": "compilers",
+                "description": "A list of compilers with some metadata.",
+                "owner": {
+                    "login": "mohd-akram"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "CoffeeScript",
+                            "color": "#244776"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBsU1486aTOj3",
+            "number": 63,
+            "title": "Use the delay options",
+            "url": "https://github.com/plume-design/opensync/pull/63",
+            "state": "OPEN",
+            "createdAt": "2025-06-13T00:04:02Z",
+            "baseRepository": {
+                "url": "https://github.com/plume-design/opensync",
+                "name": "opensync",
+                "description": "OpenSync core repository",
+                "owner": {
+                    "login": "plume-design"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Makefile",
+                            "color": "#427819"
                         }
                     ]
                 }
