@@ -7492,5 +7492,31 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBsU1486bVMjk",
+            "number": 64,
+            "title": "Restart manager if using plan b",
+            "url": "https://github.com/plume-design/opensync/pull/64",
+            "state": "OPEN",
+            "createdAt": "2025-06-20T02:00:47Z",
+            "baseRepository": {
+                "url": "https://github.com/plume-design/opensync",
+                "name": "opensync",
+                "description": "OpenSync core repository",
+                "owner": {
+                    "login": "plume-design"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Makefile",
+                            "color": "#427819"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
