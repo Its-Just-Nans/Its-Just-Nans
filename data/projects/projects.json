@@ -3,7 +3,7 @@
         "url": "https://github.com/Its-Just-Nans/Its-Just-Nans",
         "name": "Its-Just-Nans",
         "description": "My description repository",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "https://n4n5.dev/.well-known/",
         "primaryLanguage": null
     },
@@ -11,7 +11,7 @@
         "url": "https://github.com/Its-Just-Nans/Its-Just-Nans.github.io",
         "name": "Its-Just-Nans.github.io",
         "description": "Its-Just-Nans's Page",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "https://its-just-nans.github.io",
         "primaryLanguage": {
             "name": "Astro",
@@ -22,7 +22,7 @@
         "url": "https://github.com/Its-Just-Nans/ais-checker",
         "name": "ais-checker",
         "description": "PoC - AIS checker",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "",
         "primaryLanguage": {
             "name": "JavaScript",
@@ -33,7 +33,7 @@
         "url": "https://github.com/Its-Just-Nans/anrt-checker",
         "name": "anrt-checker",
         "description": "Scrap PhD offers",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "",
         "primaryLanguage": {
             "name": "Python",
@@ -44,7 +44,7 @@
         "url": "https://github.com/Its-Just-Nans/apksig",
         "name": "apksig",
         "description": "Decoding the APK Signing Block",
-        "stargazerCount": 5,
+        "stargazerCount": 6,
         "homepageUrl": "http://n4n5.dev/apksig/",
         "primaryLanguage": {
             "name": "Rust",
@@ -55,7 +55,7 @@
         "url": "https://github.com/Its-Just-Nans/apksigner",
         "name": "apksigner",
         "description": "PoC - see apksig",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "https://github.com/Its-Just-Nans/apksig",
         "primaryLanguage": {
             "name": "Rust",
@@ -121,7 +121,7 @@
         "url": "https://github.com/Its-Just-Nans/astro-simple-carousel",
         "name": "astro-simple-carousel",
         "description": "Astro component to render a simple carousel",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "http://n4n5.dev/astro-simple-carousel/",
         "primaryLanguage": {
             "name": "Astro",
@@ -143,7 +143,7 @@
         "url": "https://github.com/Its-Just-Nans/baobab",
         "name": "baobab",
         "description": "boa_cli in egui",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "https://crates.io/crates/baobab",
         "primaryLanguage": {
             "name": "Rust",
@@ -154,7 +154,7 @@
         "url": "https://github.com/Its-Just-Nans/businessfrance-checker",
         "name": "businessfrance-checker",
         "description": "businessfrance checker",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "",
         "primaryLanguage": {
             "name": "Python",
@@ -165,7 +165,7 @@
         "url": "https://github.com/Its-Just-Nans/can-be-useful",
         "name": "can-be-useful",
         "description": "Can these codes be useful? Yes",
-        "stargazerCount": 1,
+        "stargazerCount": 2,
         "homepageUrl": "",
         "primaryLanguage": {
             "name": "JavaScript",
@@ -198,7 +198,7 @@
         "url": "https://github.com/Its-Just-Nans/coreutils-tracking-details",
         "name": "coreutils-tracking-details",
         "description": "PoC - coreutils tracking but a little more detailed",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "http://n4n5.dev/coreutils-tracking-details/",
         "primaryLanguage": {
             "name": "Python",
@@ -209,7 +209,7 @@
         "url": "https://github.com/Its-Just-Nans/cors-proxy",
         "name": "cors-proxy",
         "description": "Quick and dirty cors proxy",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "https://crates.io/crates/cors-proxy",
         "primaryLanguage": {
             "name": "Rust",
@@ -220,7 +220,7 @@
         "url": "https://github.com/Its-Just-Nans/csv-to-custom-json",
         "name": "csv-to-custom-json",
         "description": "Easily transform your CSV to a custom JSON with cool options",
-        "stargazerCount": 2,
+        "stargazerCount": 3,
         "homepageUrl": "https://n4n5.dev/csv-to-custom-json/",
         "primaryLanguage": {
             "name": "JavaScript",
@@ -231,7 +231,7 @@
         "url": "https://github.com/Its-Just-Nans/csv-to-custom-json-python",
         "name": "csv-to-custom-json-python",
         "description": "Easily transform your CSV to a custom JSON with cool options",
-        "stargazerCount": 1,
+        "stargazerCount": 2,
         "homepageUrl": "",
         "primaryLanguage": {
             "name": "Python",
@@ -242,7 +242,7 @@
         "url": "https://github.com/Its-Just-Nans/curriculum-vitae",
         "name": "curriculum-vitae",
         "description": "Generate curriculum vitæ from json using lua and lualatex",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "",
         "primaryLanguage": {
             "name": "Lua",
@@ -261,7 +261,7 @@
         "url": "https://github.com/Its-Just-Nans/deploy-that",
         "name": "deploy-that",
         "description": "Deploy a repo to a github pages",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "",
         "primaryLanguage": {
             "name": "Shell",
@@ -316,7 +316,7 @@
         "url": "https://github.com/Its-Just-Nans/domains",
         "name": "domains",
         "description": "Check domains availability",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "https://its-just-nans.github.io/domains/",
         "primaryLanguage": {
             "name": "JavaScript",
@@ -327,7 +327,7 @@
         "url": "https://github.com/Its-Just-Nans/dotfiles",
         "name": "dotfiles",
         "description": "dotfiles",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "",
         "primaryLanguage": {
             "name": "Shell",
@@ -338,7 +338,7 @@
         "url": "https://github.com/Its-Just-Nans/eggs",
         "name": "eggs",
         "description": "PoC - because I always forgor",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "http://eggs.n4n5.dev/",
         "primaryLanguage": {
             "name": "TypeScript",
@@ -382,7 +382,7 @@
         "url": "https://github.com/Its-Just-Nans/figer",
         "name": "figer",
         "description": "Easily manage config files in multi user environment",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "https://pypi.org/project/figer/",
         "primaryLanguage": {
             "name": "Python",
@@ -434,7 +434,7 @@
         "url": "https://github.com/Its-Just-Nans/git-mover",
         "name": "git-mover",
         "description": "Move git repositories to a new location",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "https://crates.io/crates/git-mover",
         "primaryLanguage": {
             "name": "Rust",
@@ -445,7 +445,7 @@
         "url": "https://github.com/Its-Just-Nans/gitlab-proof",
         "name": "gitlab-proof",
         "description": "$argon2id$v=19$m=512,t=256,p=1$BECzg2NhHDWGe0x2o3sSig$XGDa/8cn5lOOQgnqgRk2Hr9zuNcIvc2Qh1xr6nBeF6Q",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": null,
         "primaryLanguage": null
     },
@@ -453,7 +453,7 @@
         "url": "https://github.com/Its-Just-Nans/go-calendar",
         "name": "go-calendar",
         "description": "Generate a calendar from a JSON file",
-        "stargazerCount": 1,
+        "stargazerCount": 2,
         "homepageUrl": "https://pkg.go.dev/github.com/Its-Just-Nans/go-calendar",
         "primaryLanguage": {
             "name": "Go",
@@ -464,7 +464,7 @@
         "url": "https://github.com/Its-Just-Nans/golb",
         "name": "golb",
         "description": "\"golb\".split(\"\").reverse().join(\"\")",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "https://golb.n4n5.dev/",
         "primaryLanguage": {
             "name": "CSS",
@@ -475,7 +475,7 @@
         "url": "https://github.com/Its-Just-Nans/golb-articles",
         "name": "golb-articles",
         "description": "Articles of golb.n4n5.dev",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "https://its-just-nans.github.io/golb",
         "primaryLanguage": null
     },
@@ -538,7 +538,7 @@
         "url": "https://github.com/Its-Just-Nans/jscontact",
         "name": "jscontact",
         "description": "RFC 9553",
-        "stargazerCount": 2,
+        "stargazerCount": 3,
         "homepageUrl": "https://docs.rs/jscontact",
         "primaryLanguage": {
             "name": "Rust",
@@ -549,7 +549,7 @@
         "url": "https://github.com/Its-Just-Nans/json-editor",
         "name": "json-editor",
         "description": "A simple json editor in your browser",
-        "stargazerCount": 1,
+        "stargazerCount": 2,
         "homepageUrl": "http://n4n5.dev/json-editor/",
         "primaryLanguage": {
             "name": "Svelte",
@@ -560,7 +560,7 @@
         "url": "https://github.com/Its-Just-Nans/lab",
         "name": "lab",
         "description": "Some experiments with (mostly) svelte",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "http://n4n5.dev/lab/",
         "primaryLanguage": {
             "name": "Svelte",
@@ -648,7 +648,7 @@
         "url": "https://github.com/Its-Just-Nans/motp",
         "name": "motp",
         "description": "mOTP generator",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "http://motp.n4n5.dev/",
         "primaryLanguage": {
             "name": "JavaScript",
@@ -659,7 +659,7 @@
         "url": "https://github.com/Its-Just-Nans/mouse-data-transfer",
         "name": "mouse-data-transfer",
         "description": "PoC - transfer data using your computer mouse",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "http://n4n5.dev/mouse-data-transfer/",
         "primaryLanguage": {
             "name": "Svelte",
@@ -681,7 +681,7 @@
         "url": "https://github.com/Its-Just-Nans/music-exporter",
         "name": "music-exporter",
         "description": "Export music from different sources",
-        "stargazerCount": 1,
+        "stargazerCount": 2,
         "homepageUrl": "https://crates.io/crates/music-exporter",
         "primaryLanguage": {
             "name": "Rust",
@@ -692,7 +692,7 @@
         "url": "https://github.com/Its-Just-Nans/n4n5-crate",
         "name": "n4n5-crate",
         "description": "n4n5's utility crate",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "https://docs.rs/n4n5",
         "primaryLanguage": {
             "name": "Rust",
@@ -703,7 +703,7 @@
         "url": "https://github.com/Its-Just-Nans/notox",
         "name": "notox",
         "description": "no toxic names anymore",
-        "stargazerCount": 11,
+        "stargazerCount": 12,
         "homepageUrl": "https://n4n5.dev/notox/",
         "primaryLanguage": {
             "name": "Rust",
@@ -758,7 +758,7 @@
         "url": "https://github.com/Its-Just-Nans/plugin-astro-content",
         "name": "plugin-astro-content",
         "description": "plugin-astro-content is an Astro.glob() alternative",
-        "stargazerCount": 1,
+        "stargazerCount": 2,
         "homepageUrl": "https://its-just-nans.github.io/plugin-astro-content/",
         "primaryLanguage": {
             "name": "JavaScript",
@@ -769,11 +769,22 @@
         "url": "https://github.com/Its-Just-Nans/pngtools",
         "name": "pngtools",
         "description": "tiny cli to explore png",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "https://pypi.org/project/pngtools/",
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/pngtools-rs",
+        "name": "pngtools-rs",
+        "description": "pngtools-rs",
+        "stargazerCount": 1,
+        "homepageUrl": "https://github.com/Its-Just-Nans/pngtools",
+        "primaryLanguage": {
+            "name": "Rust",
+            "color": "#dea584"
         }
     },
     {
@@ -835,7 +846,7 @@
         "url": "https://github.com/Its-Just-Nans/ratatui-testing",
         "name": "ratatui-testing",
         "description": "Test using ratatui.rs",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "",
         "primaryLanguage": {
             "name": "Rust",
@@ -857,7 +868,7 @@
         "url": "https://github.com/Its-Just-Nans/rio",
         "name": "rio",
         "description": "unofficial RIO website",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "https://rio.n4n5.dev/",
         "primaryLanguage": {
             "name": "JavaScript",
@@ -912,7 +923,7 @@
         "url": "https://github.com/Its-Just-Nans/rt",
         "name": "rt",
         "description": "The website for R&T students!",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "http://rt.n4n5.dev/",
         "primaryLanguage": {
             "name": "HTML",
@@ -945,7 +956,7 @@
         "url": "https://github.com/Its-Just-Nans/ses-102",
         "name": "ses-102",
         "description": "TP - SES102 - Pratiques et Analyses de Communication écrite",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "https://n4n5.dev/ses-102/ses102_pace.pdf",
         "primaryLanguage": {
             "name": "TeX",
@@ -978,7 +989,7 @@
         "url": "https://github.com/Its-Just-Nans/sms2call",
         "name": "sms2call",
         "description": "sms2call app",
-        "stargazerCount": 13,
+        "stargazerCount": 14,
         "homepageUrl": "http://sms2call.n4n5.dev/",
         "primaryLanguage": {
             "name": "Kotlin",
@@ -989,7 +1000,7 @@
         "url": "https://github.com/Its-Just-Nans/sportiva",
         "name": "sportiva",
         "description": "Ineffable Sport Application",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "http://sportiva.n4n5.dev/",
         "primaryLanguage": {
             "name": "Astro",
@@ -1011,7 +1022,7 @@
         "url": "https://github.com/Its-Just-Nans/static-sitemap",
         "name": "static-sitemap",
         "description": "Static sitemap generator & link discover",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "https://pypi.org/project/static-sitemap/",
         "primaryLanguage": {
             "name": "Python",
@@ -1044,7 +1055,7 @@
         "url": "https://github.com/Its-Just-Nans/sudoku-solver",
         "name": "sudoku-solver",
         "description": "A sudoku-solver in C",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "https://n4n5.dev/sudoku-solver/",
         "primaryLanguage": {
             "name": "C",
@@ -1077,7 +1088,7 @@
         "url": "https://github.com/Its-Just-Nans/svelte-number-displayer",
         "name": "svelte-number-displayer",
         "description": "Display animated number easily with Svelte",
-        "stargazerCount": 2,
+        "stargazerCount": 3,
         "homepageUrl": "http://n4n5.dev/svelte-number-displayer/",
         "primaryLanguage": {
             "name": "Svelte",
@@ -1099,7 +1110,7 @@
         "url": "https://github.com/Its-Just-Nans/tarsier",
         "name": "tarsier",
         "description": "A simple image editor",
-        "stargazerCount": 2,
+        "stargazerCount": 3,
         "homepageUrl": "http://tarsier.n4n5.dev/",
         "primaryLanguage": {
             "name": "Rust",
@@ -1110,7 +1121,7 @@
         "url": "https://github.com/Its-Just-Nans/termpic",
         "name": "termpic",
         "description": "Fork of https://github.com/hopey-dishwasher/termpix",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": null,
         "primaryLanguage": {
             "name": "Rust",
@@ -1129,7 +1140,7 @@
         "url": "https://github.com/Its-Just-Nans/thoughts",
         "name": "thoughts",
         "description": "just thoughts",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "http://thoughts.n4n5.dev/",
         "primaryLanguage": {
             "name": "MDX",
@@ -1140,7 +1151,7 @@
         "url": "https://github.com/Its-Just-Nans/time",
         "name": "time",
         "description": "PoC - get time by timezone",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "http://time.n4n5.dev/",
         "primaryLanguage": {
             "name": "TypeScript",
@@ -1184,7 +1195,7 @@
         "url": "https://github.com/Its-Just-Nans/website-articles",
         "name": "website-articles",
         "description": "Articles of n4n5.dev",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "https://n4n5.dev/articles",
         "primaryLanguage": {
             "name": "MDX",
@@ -1195,7 +1206,7 @@
         "url": "https://github.com/Its-Just-Nans/whatisthis",
         "name": "whatisthis",
         "description": "File investigator",
-        "stargazerCount": 1,
+        "stargazerCount": 2,
         "homepageUrl": "http://whatisthis.n4n5.dev/",
         "primaryLanguage": {
             "name": "Rust",
@@ -1206,7 +1217,7 @@
         "url": "https://github.com/Its-Just-Nans/yakb",
         "name": "yakb",
         "description": "YakB - Yet Another Knowledge Base",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "http://yakb.n4n5.dev/",
         "primaryLanguage": {
             "name": "MDX",
