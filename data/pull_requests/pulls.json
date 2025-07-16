@@ -7518,5 +7518,135 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOKWOr-s6es2uW",
+            "number": 1,
+            "title": "Web deploy",
+            "url": "https://github.com/enomado/smitters/pull/1",
+            "state": "MERGED",
+            "createdAt": "2025-07-13T21:36:54Z",
+            "baseRepository": {
+                "url": "https://github.com/enomado/smitters",
+                "name": "smitters",
+                "description": "Smith chart in Rust",
+                "owner": {
+                    "login": "enomado"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOB7TRzc6fFDzu",
+            "number": 19,
+            "title": "fix typo",
+            "url": "https://github.com/scm-rs/packageurl.rs/pull/19",
+            "state": "OPEN",
+            "createdAt": "2025-07-15T23:16:13Z",
+            "baseRepository": {
+                "url": "https://github.com/scm-rs/packageurl.rs",
+                "name": "packageurl.rs",
+                "description": "Rust implementation of the Package URL specification.",
+                "owner": {
+                    "login": "scm-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOGgbTKs6fFD0n",
+            "number": 1,
+            "title": "fix typo",
+            "url": "https://github.com/package-url/packageurl.rs/pull/1",
+            "state": "OPEN",
+            "createdAt": "2025-07-15T23:16:16Z",
+            "baseRepository": {
+                "url": "https://github.com/package-url/packageurl.rs",
+                "name": "packageurl.rs",
+                "description": "Rust implementation of the Package URL specification.",
+                "owner": {
+                    "login": "package-url"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOAUYDTc6fFWzC",
+            "number": 11580,
+            "title": "frontend: Redirect when space in crate name",
+            "url": "https://github.com/rust-lang/crates.io/pull/11580",
+            "state": "OPEN",
+            "createdAt": "2025-07-16T00:12:24Z",
+            "baseRepository": {
+                "url": "https://github.com/rust-lang/crates.io",
+                "name": "crates.io",
+                "description": "The Rust package registry",
+                "owner": {
+                    "login": "rust-lang"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "JavaScript",
+                            "color": "#f1e05a"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOAUYDTc6fPQnq",
+            "number": 11586,
+            "title": "Frontend: quote the crate name",
+            "url": "https://github.com/rust-lang/crates.io/pull/11586",
+            "state": "OPEN",
+            "createdAt": "2025-07-16T18:16:22Z",
+            "baseRepository": {
+                "url": "https://github.com/rust-lang/crates.io",
+                "name": "crates.io",
+                "description": "The Rust package registry",
+                "owner": {
+                    "login": "rust-lang"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "JavaScript",
+                            "color": "#f1e05a"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

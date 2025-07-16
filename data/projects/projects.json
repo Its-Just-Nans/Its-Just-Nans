@@ -1110,7 +1110,7 @@
         "url": "https://github.com/Its-Just-Nans/tarsier",
         "name": "tarsier",
         "description": "A simple image editor",
-        "stargazerCount": 3,
+        "stargazerCount": 4,
         "homepageUrl": "http://tarsier.n4n5.dev/",
         "primaryLanguage": {
             "name": "Rust",
