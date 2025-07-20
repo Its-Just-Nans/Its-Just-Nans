@@ -6639,9 +6639,9 @@
         "node": {
             "id": "PR_kwDOB8XdM86MrppR",
             "number": 47,
-            "title": "add helpers functions to PathSegment",
+            "title": "Add helper functions to `PathSegment`",
             "url": "https://github.com/linebender/svgtypes/pull/47",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-02-26T17:27:21Z",
             "baseRepository": {
                 "url": "https://github.com/linebender/svgtypes",
@@ -7643,6 +7643,32 @@
                         {
                             "name": "JavaScript",
                             "color": "#f1e05a"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOCd2s286fs4bv",
+            "number": 7375,
+            "title": "feat: add theme selection for code editor",
+            "url": "https://github.com/emilk/egui/pull/7375",
+            "state": "OPEN",
+            "createdAt": "2025-07-19T21:04:10Z",
+            "baseRepository": {
+                "url": "https://github.com/emilk/egui",
+                "name": "egui",
+                "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+                "owner": {
+                    "login": "emilk"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Shell",
+                            "color": "#89e051"
                         }
                     ]
                 }
