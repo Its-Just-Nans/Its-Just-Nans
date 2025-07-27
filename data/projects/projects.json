@@ -645,6 +645,17 @@
         }
     },
     {
+        "url": "https://github.com/Its-Just-Nans/motion-extraction",
+        "name": "motion-extraction",
+        "description": "PoC - Video motion extraction",
+        "stargazerCount": 0,
+        "homepageUrl": null,
+        "primaryLanguage": {
+            "name": "Shell",
+            "color": "#89e051"
+        }
+    },
+    {
         "url": "https://github.com/Its-Just-Nans/motp",
         "name": "motp",
         "description": "mOTP generator",

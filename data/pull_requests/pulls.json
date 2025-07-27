@@ -7057,7 +7057,7 @@
             "number": 8494,
             "title": "update docs to options/local",
             "url": "https://github.com/rclone/rclone/pull/8494",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-04-08T21:25:35Z",
             "baseRepository": {
                 "url": "https://github.com/rclone/rclone",
@@ -7083,7 +7083,7 @@
             "number": 8496,
             "title": "add rc call to unlock config",
             "url": "https://github.com/rclone/rclone/pull/8496",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-04-09T19:07:29Z",
             "baseRepository": {
                 "url": "https://github.com/rclone/rclone",
@@ -7109,7 +7109,7 @@
             "number": 8497,
             "title": "config: add error message",
             "url": "https://github.com/rclone/rclone/pull/8497",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-04-10T10:33:52Z",
             "baseRepository": {
                 "url": "https://github.com/rclone/rclone",
@@ -7135,7 +7135,7 @@
             "number": 8498,
             "title": "listremotes should send an empty array",
             "url": "https://github.com/rclone/rclone/pull/8498",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-04-10T12:08:29Z",
             "baseRepository": {
                 "url": "https://github.com/rclone/rclone",
