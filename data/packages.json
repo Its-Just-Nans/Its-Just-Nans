@@ -95,7 +95,8 @@
             "apksig",
             "jscontact",
             "tarsier",
-            "whatisthis"
+            "whatisthis",
+            "galago"
         ],
         "shields": [
             "https://img.shields.io/crates/dv/:package",
