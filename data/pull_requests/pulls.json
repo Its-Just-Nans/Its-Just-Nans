@@ -7551,7 +7551,7 @@
             "number": 19,
             "title": "fix typo",
             "url": "https://github.com/scm-rs/packageurl.rs/pull/19",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-07-15T23:16:13Z",
             "baseRepository": {
                 "url": "https://github.com/scm-rs/packageurl.rs",

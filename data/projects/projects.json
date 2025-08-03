@@ -208,9 +208,9 @@
     {
         "url": "https://github.com/Its-Just-Nans/crates",
         "name": "crates",
-        "description": null,
+        "description": "PoC - Parking for my crates",
         "stargazerCount": 0,
-        "homepageUrl": null,
+        "homepageUrl": "https://crates.io/users/Its-Just-Nans",
         "primaryLanguage": {
             "name": "Shell",
             "color": "#89e051"
@@ -592,9 +592,9 @@
     {
         "url": "https://github.com/Its-Just-Nans/lettre-hebdomadaire.github.io",
         "name": "lettre-hebdomadaire.github.io",
-        "description": "Le site de la LH, en attendant des jours plus heureux",
+        "description": "🌐 - Le site de la LH, en attendant des jours plus heureux",
         "stargazerCount": 0,
-        "homepageUrl": null,
+        "homepageUrl": "",
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
@@ -867,7 +867,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/ratatui-testing",
         "name": "ratatui-testing",
-        "description": "Test using ratatui.rs",
+        "description": "PoC - ratatui json editor",
         "stargazerCount": 1,
         "homepageUrl": "",
         "primaryLanguage": {
@@ -999,7 +999,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/simple-next-server",
         "name": "simple-next-server",
-        "description": "PoC - Exemple de server nextjs ne prenant pas en compte le parametre 'dir'",
+        "description": "🌐 - NextJs server without dir parameter",
         "stargazerCount": 0,
         "homepageUrl": "",
         "primaryLanguage": {
