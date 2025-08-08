@@ -7499,7 +7499,7 @@
             "number": 64,
             "title": "Restart manager if using plan b",
             "url": "https://github.com/plume-design/opensync/pull/64",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2025-06-20T02:00:47Z",
             "baseRepository": {
                 "url": "https://github.com/plume-design/opensync",
@@ -7681,7 +7681,7 @@
             "number": 3327,
             "title": "fix: typos",
             "url": "https://github.com/eclipse-mosquitto/mosquitto/pull/3327",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2025-07-30T00:47:21Z",
             "baseRepository": {
                 "url": "https://github.com/eclipse-mosquitto/mosquitto",
@@ -7707,7 +7707,7 @@
             "number": 3328,
             "title": "feat: better bridge error message",
             "url": "https://github.com/eclipse-mosquitto/mosquitto/pull/3328",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2025-07-30T00:48:44Z",
             "baseRepository": {
                 "url": "https://github.com/eclipse-mosquitto/mosquitto",
@@ -7773,6 +7773,58 @@
                         {
                             "name": "PHP",
                             "color": "#4F5D95"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOAzIWbs6iF9P8",
+            "number": 3331,
+            "title": "Add context to ssl errors",
+            "url": "https://github.com/eclipse-mosquitto/mosquitto/pull/3331",
+            "state": "OPEN",
+            "createdAt": "2025-08-04T23:58:10Z",
+            "baseRepository": {
+                "url": "https://github.com/eclipse-mosquitto/mosquitto",
+                "name": "mosquitto",
+                "description": "Eclipse Mosquitto - An open source MQTT broker",
+                "owner": {
+                    "login": "eclipse-mosquitto"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "CMake",
+                            "color": "#DA3434"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOAzIWbs6ie2nu",
+            "number": 3334,
+            "title": "feat: add mqtt_protocol.h indication",
+            "url": "https://github.com/eclipse-mosquitto/mosquitto/pull/3334",
+            "state": "MERGED",
+            "createdAt": "2025-08-07T00:33:23Z",
+            "baseRepository": {
+                "url": "https://github.com/eclipse-mosquitto/mosquitto",
+                "name": "mosquitto",
+                "description": "Eclipse Mosquitto - An open source MQTT broker",
+                "owner": {
+                    "login": "eclipse-mosquitto"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "CMake",
+                            "color": "#DA3434"
                         }
                     ]
                 }
