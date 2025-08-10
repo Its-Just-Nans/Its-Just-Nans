@@ -7785,7 +7785,7 @@
             "number": 3331,
             "title": "Add context to ssl errors",
             "url": "https://github.com/eclipse-mosquitto/mosquitto/pull/3331",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-08-04T23:58:10Z",
             "baseRepository": {
                 "url": "https://github.com/eclipse-mosquitto/mosquitto",
