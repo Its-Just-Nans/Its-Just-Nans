@@ -1208,7 +1208,10 @@
         "description": "PoC - Generate typst docs",
         "stargazerCount": 0,
         "homepageUrl": "http://typst-github-io.n4n5.dev/",
-        "primaryLanguage": null
+        "primaryLanguage": {
+            "name": "Shell",
+            "color": "#89e051"
+        }
     },
     {
         "url": "https://github.com/Its-Just-Nans/video-is-3d",
