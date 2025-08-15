@@ -7830,5 +7830,109 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOEXV-EM6jlHNO",
+            "number": 88,
+            "title": "Explicit serde feature",
+            "url": "https://github.com/typst/biblatex/pull/88",
+            "state": "MERGED",
+            "createdAt": "2025-08-13T23:58:42Z",
+            "baseRepository": {
+                "url": "https://github.com/typst/biblatex",
+                "name": "biblatex",
+                "description": "A Rust crate for parsing and writing BibTeX and BibLaTeX files. ",
+                "owner": {
+                    "login": "typst"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOMH2Vgc6jmB9x",
+            "number": 266,
+            "title": "always use relative",
+            "url": "https://github.com/typst-jp/typst-jp.github.io/pull/266",
+            "state": "OPEN",
+            "createdAt": "2025-08-14T02:19:26Z",
+            "baseRepository": {
+                "url": "https://github.com/typst-jp/typst-jp.github.io",
+                "name": "typst-jp.github.io",
+                "description": "Typstドキュメント 日本語版 (Unofficial)",
+                "owner": {
+                    "login": "typst-jp"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Shell",
+                            "color": "#89e051"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOPc2nhc6jscIf",
+            "number": 2,
+            "title": "feat: add deploy with github actions",
+            "url": "https://github.com/NilsSlui/threejs-label-earth/pull/2",
+            "state": "OPEN",
+            "createdAt": "2025-08-14T14:21:24Z",
+            "baseRepository": {
+                "url": "https://github.com/NilsSlui/threejs-label-earth",
+                "name": "threejs-label-earth",
+                "description": null,
+                "owner": {
+                    "login": "NilsSlui"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "HTML",
+                            "color": "#e34c26"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOMH2Vgc6jxJCn",
+            "number": 270,
+            "title": "chore: make `package.json` scripts compatible with npm",
+            "url": "https://github.com/typst-jp/typst-jp.github.io/pull/270",
+            "state": "MERGED",
+            "createdAt": "2025-08-14T23:04:31Z",
+            "baseRepository": {
+                "url": "https://github.com/typst-jp/typst-jp.github.io",
+                "name": "typst-jp.github.io",
+                "description": "Typstドキュメント 日本語版 (Unofficial)",
+                "owner": {
+                    "login": "typst-jp"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Shell",
+                            "color": "#89e051"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

@@ -12,7 +12,7 @@
         "name": "Its-Just-Nans.github.io",
         "description": "Its-Just-Nans's Page",
         "stargazerCount": 1,
-        "homepageUrl": "https://its-just-nans.github.io",
+        "homepageUrl": "https://Its-Just-Nans.github.io",
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
@@ -1201,6 +1201,14 @@
             "name": "JavaScript",
             "color": "#f1e05a"
         }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/typst.github.io",
+        "name": "typst.github.io",
+        "description": "PoC - Generate typst docs",
+        "stargazerCount": 0,
+        "homepageUrl": "http://typst-github-io.n4n5.dev/",
+        "primaryLanguage": null
     },
     {
         "url": "https://github.com/Its-Just-Nans/video-is-3d",
