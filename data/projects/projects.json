@@ -810,6 +810,17 @@
         }
     },
     {
+        "url": "https://github.com/Its-Just-Nans/porygon",
+        "name": "porygon",
+        "description": "My curriculum vitae template in typst",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "primaryLanguage": {
+            "name": "Typst",
+            "color": "#239dad"
+        }
+    },
+    {
         "url": "https://github.com/Its-Just-Nans/product-creation",
         "name": "product-creation",
         "description": "PoC - Helping you creating a product",
