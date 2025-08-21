@@ -2307,7 +2307,7 @@
         "node": {
             "id": "PR_kwDOH-kEuM4-vKiJ",
             "number": 1,
-            "title": "fix: push",
+            "title": "fix: remove call to Album filter()",
             "url": "https://github.com/comete-telecom-paris/intranet/pull/1",
             "state": "MERGED",
             "createdAt": "2022-09-11T17:05:07Z",
@@ -2333,7 +2333,7 @@
         "node": {
             "id": "PR_kwDOH-kEuM4_JVHt",
             "number": 2,
-            "title": "Dev",
+            "title": "Global improvement",
             "url": "https://github.com/comete-telecom-paris/intranet/pull/2",
             "state": "MERGED",
             "createdAt": "2022-09-17T22:11:12Z",
@@ -8163,6 +8163,32 @@
                         {
                             "name": "Typst",
                             "color": "#239dad"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOPXKmPc6kZylY",
+            "number": 1,
+            "title": "Use CLI args",
+            "url": "https://github.com/Engage-Press/typst-docs/pull/1",
+            "state": "OPEN",
+            "createdAt": "2025-08-20T02:34:46Z",
+            "baseRepository": {
+                "url": "https://github.com/Engage-Press/typst-docs",
+                "name": "typst-docs",
+                "description": "Tool to build a local mirror of the typst documentation",
+                "owner": {
+                    "login": "Engage-Press"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Shell",
+                            "color": "#89e051"
                         }
                     ]
                 }
