@@ -124,10 +124,12 @@
         "name": "github actions",
         "profile": "",
         "url": "https://github.com/marketplace/actions/:package",
-        "list": ["deploy-that"],
-        "shields": [],
-        "repos": {
-            "deploy-that": "https://github.com/Its-Just-Nans/deploy-that"
-        }
+        "list": ["deploy-that"]
+    },
+    {
+        "name": "typst",
+        "profile": "https://typst.app/universe/search/?q=author%3A%22n4n5%22",
+        "url": "https://typst.app/universe/package/:package",
+        "list": ["porygon"]
     }
 ]
