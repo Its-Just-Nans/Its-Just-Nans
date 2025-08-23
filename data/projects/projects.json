@@ -1089,7 +1089,7 @@
         "name": "sudoku-solver",
         "description": "A sudoku-solver in C",
         "stargazerCount": 1,
-        "homepageUrl": "https://n4n5.dev/sudoku-solver/",
+        "homepageUrl": "",
         "primaryLanguage": {
             "name": "C",
             "color": "#555555"

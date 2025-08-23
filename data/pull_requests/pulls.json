@@ -7862,12 +7862,12 @@
             "id": "PR_kwDOMH2Vgc6jmB9x",
             "number": 266,
             "title": "refactor: use metadata constants for absolute URLs in website",
-            "url": "https://github.com/typst-jp/typst-jp.github.io/pull/266",
+            "url": "https://github.com/typst-jp/docs/pull/266",
             "state": "MERGED",
             "createdAt": "2025-08-14T02:19:26Z",
             "baseRepository": {
-                "url": "https://github.com/typst-jp/typst-jp.github.io",
-                "name": "typst-jp.github.io",
+                "url": "https://github.com/typst-jp/docs",
+                "name": "docs",
                 "description": "Typstドキュメント 日本語版 (Unofficial)",
                 "owner": {
                     "login": "typst-jp"
@@ -7914,12 +7914,12 @@
             "id": "PR_kwDOMH2Vgc6jxJCn",
             "number": 270,
             "title": "chore: make `package.json` scripts compatible with npm",
-            "url": "https://github.com/typst-jp/typst-jp.github.io/pull/270",
+            "url": "https://github.com/typst-jp/docs/pull/270",
             "state": "MERGED",
             "createdAt": "2025-08-14T23:04:31Z",
             "baseRepository": {
-                "url": "https://github.com/typst-jp/typst-jp.github.io",
-                "name": "typst-jp.github.io",
+                "url": "https://github.com/typst-jp/docs",
+                "name": "docs",
                 "description": "Typstドキュメント 日本語版 (Unofficial)",
                 "owner": {
                     "login": "typst-jp"
@@ -7940,12 +7940,12 @@
             "id": "PR_kwDOMH2Vgc6j4Swf",
             "number": 271,
             "title": "chore: support configuration for deployment to custom base path",
-            "url": "https://github.com/typst-jp/typst-jp.github.io/pull/271",
-            "state": "OPEN",
+            "url": "https://github.com/typst-jp/docs/pull/271",
+            "state": "MERGED",
             "createdAt": "2025-08-15T18:54:32Z",
             "baseRepository": {
-                "url": "https://github.com/typst-jp/typst-jp.github.io",
-                "name": "typst-jp.github.io",
+                "url": "https://github.com/typst-jp/docs",
+                "name": "docs",
                 "description": "Typstドキュメント 日本語版 (Unofficial)",
                 "owner": {
                     "login": "typst-jp"
@@ -7966,12 +7966,12 @@
             "id": "PR_kwDOMH2Vgc6j5TcK",
             "number": 272,
             "title": "feat: move translations to singlefile",
-            "url": "https://github.com/typst-jp/typst-jp.github.io/pull/272",
+            "url": "https://github.com/typst-jp/docs/pull/272",
             "state": "OPEN",
             "createdAt": "2025-08-15T20:58:21Z",
             "baseRepository": {
-                "url": "https://github.com/typst-jp/typst-jp.github.io",
-                "name": "typst-jp.github.io",
+                "url": "https://github.com/typst-jp/docs",
+                "name": "docs",
                 "description": "Typstドキュメント 日本語版 (Unofficial)",
                 "owner": {
                     "login": "typst-jp"
@@ -8045,7 +8045,7 @@
             "number": 2904,
             "title": "porygon:0.1.0",
             "url": "https://github.com/typst/packages/pull/2904",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-08-17T17:00:06Z",
             "baseRepository": {
                 "url": "https://github.com/typst/packages",
@@ -8121,7 +8121,7 @@
         "node": {
             "id": "PR_kwDOKQBQsc6kBgDI",
             "number": 286,
-            "title": "feat: add base in vite injector",
+            "title": "feat(dev-server): use vite base path",
             "url": "https://github.com/honojs/vite-plugins/pull/286",
             "state": "OPEN",
             "createdAt": "2025-08-18T03:31:34Z",
