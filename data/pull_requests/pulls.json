@@ -7603,7 +7603,7 @@
             "number": 11580,
             "title": "frontend: Redirect when space in crate name",
             "url": "https://github.com/rust-lang/crates.io/pull/11580",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2025-07-16T00:12:24Z",
             "baseRepository": {
                 "url": "https://github.com/rust-lang/crates.io",
@@ -7627,9 +7627,9 @@
         "node": {
             "id": "PR_kwDOAUYDTc6fPQnq",
             "number": 11586,
-            "title": "Frontend: quote the crate name",
+            "title": "Adjust \"Crate not found\" error message",
             "url": "https://github.com/rust-lang/crates.io/pull/11586",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-07-16T18:16:22Z",
             "baseRepository": {
                 "url": "https://github.com/rust-lang/crates.io",
@@ -7653,9 +7653,9 @@
         "node": {
             "id": "PR_kwDOCd2s286fs4bv",
             "number": 7375,
-            "title": "feat: add theme selection for code editor",
+            "title": "Add theme selection for code editor",
             "url": "https://github.com/emilk/egui/pull/7375",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-07-19T21:04:10Z",
             "baseRepository": {
                 "url": "https://github.com/emilk/egui",
@@ -7965,9 +7965,9 @@
         "node": {
             "id": "PR_kwDOMH2Vgc6j5TcK",
             "number": 272,
-            "title": "feat: move translations to singlefile",
+            "title": "refactor: move translations to singlefile",
             "url": "https://github.com/typst-jp/docs/pull/272",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-08-15T20:58:21Z",
             "baseRepository": {
                 "url": "https://github.com/typst-jp/docs",
@@ -8189,6 +8189,58 @@
                         {
                             "name": "Shell",
                             "color": "#89e051"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOKQBQsc6lszB3",
+            "number": 289,
+            "title": "feat(dev-server): run yarn fmt",
+            "url": "https://github.com/honojs/vite-plugins/pull/289",
+            "state": "OPEN",
+            "createdAt": "2025-08-28T00:14:45Z",
+            "baseRepository": {
+                "url": "https://github.com/honojs/vite-plugins",
+                "name": "vite-plugins",
+                "description": "Vite Plugins for Hono",
+                "owner": {
+                    "login": "honojs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "JavaScript",
+                            "color": "#f1e05a"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBsU1486mFYvM",
+            "number": 65,
+            "title": "fix: typos",
+            "url": "https://github.com/plume-design/opensync/pull/65",
+            "state": "OPEN",
+            "createdAt": "2025-08-30T02:23:43Z",
+            "baseRepository": {
+                "url": "https://github.com/plume-design/opensync",
+                "name": "opensync",
+                "description": "OpenSync core repository",
+                "owner": {
+                    "login": "plume-design"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Makefile",
+                            "color": "#427819"
                         }
                     ]
                 }
