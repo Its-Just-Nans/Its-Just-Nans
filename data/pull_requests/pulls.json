@@ -8123,7 +8123,7 @@
             "number": 286,
             "title": "feat(dev-server): use vite base path",
             "url": "https://github.com/honojs/vite-plugins/pull/286",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-08-18T03:31:34Z",
             "baseRepository": {
                 "url": "https://github.com/honojs/vite-plugins",
@@ -8241,6 +8241,32 @@
                         {
                             "name": "Makefile",
                             "color": "#427819"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOEz-dqs6oIwB7",
+            "number": 208,
+            "title": "Add noscript tag",
+            "url": "https://github.com/emilk/eframe_template/pull/208",
+            "state": "OPEN",
+            "createdAt": "2025-09-12T00:27:40Z",
+            "baseRepository": {
+                "url": "https://github.com/emilk/eframe_template",
+                "name": "eframe_template",
+                "description": "The easy way to make a Rust app with a GUI",
+                "owner": {
+                    "login": "emilk"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Shell",
+                            "color": "#89e051"
                         }
                     ]
                 }
