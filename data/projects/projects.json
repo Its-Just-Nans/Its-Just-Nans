@@ -1240,7 +1240,7 @@
         "name": "website-articles",
         "description": "🌐 - Articles of n4n5.dev",
         "stargazerCount": 1,
-        "homepageUrl": "https://n4n5.dev/articles",
+        "homepageUrl": "https://n4n5.dev/articles/",
         "primaryLanguage": {
             "name": "MDX",
             "color": "#fcb32c"
