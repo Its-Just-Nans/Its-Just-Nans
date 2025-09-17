@@ -5,6 +5,9 @@
         "description": "🌐 - Description repository",
         "stargazerCount": 1,
         "homepageUrl": "https://n4n5.dev/.well-known/",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 599,
         "primaryLanguage": null
     },
     {
@@ -13,6 +16,9 @@
         "description": "Its-Just-Nans's Page",
         "stargazerCount": 1,
         "homepageUrl": "https://Its-Just-Nans.github.io",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 24669,
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
@@ -24,6 +30,11 @@
         "description": "PoC - AIS checker",
         "stargazerCount": 1,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 2,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -35,6 +46,11 @@
         "description": "Scrap PhD offers",
         "stargazerCount": 1,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 77,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -46,6 +62,11 @@
         "description": "Decoding the APK Signing Block",
         "stargazerCount": 6,
         "homepageUrl": "http://n4n5.dev/apksig/",
+        "forkCount": 2,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 8602,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -57,6 +78,9 @@
         "description": "An 8x8 arduino led matrix",
         "stargazerCount": 0,
         "homepageUrl": "https://n4n5.dev/articles/arduino-led-matrix/",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 17417,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -68,6 +92,11 @@
         "description": "Cache the index of an array between program executions",
         "stargazerCount": 0,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 7,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -79,6 +108,11 @@
         "description": "astro-barchart",
         "stargazerCount": 1,
         "homepageUrl": "https://n4n5.dev/astro-barchart/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 428,
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
@@ -90,6 +124,11 @@
         "description": "apache like index in Astro",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/astro-index/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 243,
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
@@ -101,6 +140,11 @@
         "description": "PoC - Static url shortener using astro",
         "stargazerCount": 0,
         "homepageUrl": "http://astro-redirector.n4n5.dev/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 62,
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
@@ -112,6 +156,11 @@
         "description": "Astro component to render a simple carousel",
         "stargazerCount": 1,
         "homepageUrl": "http://n4n5.dev/astro-simple-carousel/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 74,
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
@@ -123,6 +172,9 @@
         "description": "A simple HTML bandwidth calculator",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/bandwidth-calculator",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 12,
         "primaryLanguage": {
             "name": "HTML",
             "color": "#e34c26"
@@ -134,6 +186,11 @@
         "description": "boa_cli in egui",
         "stargazerCount": 1,
         "homepageUrl": "https://crates.io/crates/baobab",
+        "forkCount": 1,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 107,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -145,6 +202,11 @@
         "description": "businessfrance checker",
         "stargazerCount": 1,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 9,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -156,6 +218,9 @@
         "description": "Can these codes be useful? Yes",
         "stargazerCount": 2,
         "homepageUrl": "http://n4n5.dev/can-be-useful/",
+        "forkCount": 1,
+        "licenseInfo": null,
+        "diskUsage": 28479,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -167,6 +232,9 @@
         "description": "PoC - A quiz creator and player",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/cards-game",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 36,
         "primaryLanguage": {
             "name": "HTML",
             "color": "#e34c26"
@@ -178,6 +246,11 @@
         "description": "PoC - rudimentary VCF viewer",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/contacts-vcf/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 27,
         "primaryLanguage": {
             "name": "Svelte",
             "color": "#ff3e00"
@@ -189,6 +262,11 @@
         "description": "PoC - coreutils tracking but a little more detailed",
         "stargazerCount": 1,
         "homepageUrl": "http://n4n5.dev/coreutils-tracking-details/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 34,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -200,6 +278,11 @@
         "description": "Quick and dirty cors proxy",
         "stargazerCount": 1,
         "homepageUrl": "https://crates.io/crates/cors-proxy",
+        "forkCount": 1,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 25,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -211,6 +294,9 @@
         "description": "PoC - Parking for my crates",
         "stargazerCount": 0,
         "homepageUrl": "https://crates.io/users/Its-Just-Nans",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 23,
         "primaryLanguage": {
             "name": "Shell",
             "color": "#89e051"
@@ -222,6 +308,11 @@
         "description": "Easily transform your CSV to a custom JSON with cool options",
         "stargazerCount": 3,
         "homepageUrl": "https://n4n5.dev/csv-to-custom-json/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 65,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -233,6 +324,11 @@
         "description": "Easily transform your CSV to a custom JSON with cool options",
         "stargazerCount": 2,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 53,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -244,6 +340,11 @@
         "description": "Generate curriculum vitæ from json using lua and lualatex",
         "stargazerCount": 1,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 79,
         "primaryLanguage": {
             "name": "Lua",
             "color": "#000080"
@@ -255,6 +356,11 @@
         "description": "Building a cyberdeck",
         "stargazerCount": 0,
         "homepageUrl": "http://n4n5.dev/cyberdeck/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 72291,
         "primaryLanguage": null
     },
     {
@@ -263,6 +369,11 @@
         "description": "Deploy a repo to a github pages",
         "stargazerCount": 1,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 33,
         "primaryLanguage": {
             "name": "Shell",
             "color": "#89e051"
@@ -274,6 +385,11 @@
         "description": "TP - INF103 - dijkstra (labyrinth and graph) in java",
         "stargazerCount": 0,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 6147,
         "primaryLanguage": {
             "name": "Java",
             "color": "#b07219"
@@ -285,6 +401,9 @@
         "description": "TP - full 4g network in a docker cluster",
         "stargazerCount": 0,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 483,
         "primaryLanguage": {
             "name": "Dockerfile",
             "color": "#384d54"
@@ -296,6 +415,11 @@
         "description": "Decode the asn1 in docx",
         "stargazerCount": 0,
         "homepageUrl": "https://pypi.org/project/docx-asn1/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 1544,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -307,6 +431,11 @@
         "description": "Dojo Snake with BAM",
         "stargazerCount": 0,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 522,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -318,6 +447,11 @@
         "description": "Check domains availability",
         "stargazerCount": 1,
         "homepageUrl": "https://its-just-nans.github.io/domains/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 101,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -329,6 +463,11 @@
         "description": "dotfiles",
         "stargazerCount": 1,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 99,
         "primaryLanguage": {
             "name": "Shell",
             "color": "#89e051"
@@ -340,6 +479,11 @@
         "description": "PoC - because I always forgor",
         "stargazerCount": 1,
         "homepageUrl": "http://eggs.n4n5.dev/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 31,
         "primaryLanguage": {
             "name": "TypeScript",
             "color": "#3178c6"
@@ -351,6 +495,11 @@
         "description": "Easily sharing state between component",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/events-hook/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 46,
         "primaryLanguage": {
             "name": "TypeScript",
             "color": "#3178c6"
@@ -362,6 +511,11 @@
         "description": "Easily get the ffmpeg crop filter for your video",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/ffmpeg-cropper/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 6,
         "primaryLanguage": {
             "name": "HTML",
             "color": "#e34c26"
@@ -373,6 +527,9 @@
         "description": "DUT R&T - Fiber Calculator",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/fiber-calculator",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 9,
         "primaryLanguage": {
             "name": "Visual Basic .NET",
             "color": "#945db7"
@@ -384,6 +541,11 @@
         "description": "Easily manage config files in multi user environment",
         "stargazerCount": 1,
         "homepageUrl": "https://pypi.org/project/figer/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 13,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -395,6 +557,11 @@
         "description": "just some 3d flat hinges",
         "stargazerCount": 0,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "Creative Commons Zero v1.0 Universal"
+        },
+        "diskUsage": 6135,
         "primaryLanguage": null
     },
     {
@@ -403,6 +570,11 @@
         "description": "Forem API client with zero dependencies",
         "stargazerCount": 1,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 9,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -414,6 +586,11 @@
         "description": "See moving functions in 3D",
         "stargazerCount": 2,
         "homepageUrl": "https://its-just-nans.github.io/function-viewer/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 124,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -425,6 +602,11 @@
         "description": "A simple svg editor",
         "stargazerCount": 0,
         "homepageUrl": "http://galago.n4n5.dev/",
+        "forkCount": 1,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 407,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -436,6 +618,11 @@
         "description": "Migrate your repo",
         "stargazerCount": 0,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 10,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -447,6 +634,11 @@
         "description": "Move git repositories to a new location",
         "stargazerCount": 1,
         "homepageUrl": "https://crates.io/crates/git-mover",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 376,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -458,6 +650,9 @@
         "description": "🌐 - $argon2id$v=19$m=512,t=256,p=1$BECzg2NhHDWGe0x2o3sSig$XGDa/8cn5lOOQgnqgRk2Hr9zuNcIvc2Qh1xr6nBeF6Q",
         "stargazerCount": 1,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 0,
         "primaryLanguage": null
     },
     {
@@ -466,6 +661,11 @@
         "description": "Generate a calendar from a JSON file",
         "stargazerCount": 2,
         "homepageUrl": "https://pkg.go.dev/github.com/Its-Just-Nans/go-calendar",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 32,
         "primaryLanguage": {
             "name": "Go",
             "color": "#00ADD8"
@@ -477,6 +677,11 @@
         "description": "\"golb\".split(\"\").reverse().join(\"\")",
         "stargazerCount": 1,
         "homepageUrl": "https://golb.n4n5.dev/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 6219,
         "primaryLanguage": {
             "name": "CSS",
             "color": "#663399"
@@ -488,6 +693,9 @@
         "description": "🌐 - Articles of golb.n4n5.dev",
         "stargazerCount": 1,
         "homepageUrl": "https://its-just-nans.github.io/golb",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 3159,
         "primaryLanguage": null
     },
     {
@@ -496,6 +704,9 @@
         "description": "DUT R&T -  website about ecology",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/greener",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 4404,
         "primaryLanguage": {
             "name": "HTML",
             "color": "#e34c26"
@@ -507,6 +718,11 @@
         "description": "PoC - Please don't halt",
         "stargazerCount": 0,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 2,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -518,6 +734,9 @@
         "description": "DUT R&T - Python hangman game",
         "stargazerCount": 0,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 206,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -529,6 +748,11 @@
         "description": "PoC - Generate a hexagon svg then use it as a background image",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/hexagon-background/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 6,
         "primaryLanguage": {
             "name": "Lua",
             "color": "#000080"
@@ -540,6 +764,11 @@
         "description": "Create apache2-like html index",
         "stargazerCount": 0,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 31,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -551,6 +780,11 @@
         "description": "RFC 9553",
         "stargazerCount": 3,
         "homepageUrl": "https://docs.rs/jscontact",
+        "forkCount": 1,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 165,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -562,6 +796,11 @@
         "description": "A simple json editor in your browser",
         "stargazerCount": 2,
         "homepageUrl": "http://n4n5.dev/json-editor/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 20,
         "primaryLanguage": {
             "name": "Svelte",
             "color": "#ff3e00"
@@ -573,6 +812,11 @@
         "description": "Some experiments with (mostly) svelte",
         "stargazerCount": 1,
         "homepageUrl": "http://n4n5.dev/lab/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 586,
         "primaryLanguage": {
             "name": "Svelte",
             "color": "#ff3e00"
@@ -584,6 +828,11 @@
         "description": "PoC - lambdaless API with explanations",
         "stargazerCount": 0,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 11,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -595,6 +844,9 @@
         "description": "🌐 - Le site de la LH, en attendant des jours plus heureux",
         "stargazerCount": 0,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 127415,
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
@@ -606,6 +858,9 @@
         "description": "PoC - latex report automation using lualatex and llamafile🤓 😎 🥸",
         "stargazerCount": 0,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 7,
         "primaryLanguage": {
             "name": "Lua",
             "color": "#000080"
@@ -617,6 +872,11 @@
         "description": "A javascript object which under the hood save all his data in the localStorage",
         "stargazerCount": 0,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 8,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -628,6 +888,11 @@
         "description": "PoC - Visualize your google maps history",
         "stargazerCount": 0,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 6,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -639,6 +904,11 @@
         "description": "PoC - matrix protocol tests",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/matrix-tests/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 23,
         "primaryLanguage": {
             "name": "Svelte",
             "color": "#ff3e00"
@@ -650,6 +920,9 @@
         "description": "TP - MDI210 - Optimisation",
         "stargazerCount": 0,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 54,
         "primaryLanguage": {
             "name": "Java",
             "color": "#b07219"
@@ -661,6 +934,11 @@
         "description": "PoC - Video motion extraction",
         "stargazerCount": 1,
         "homepageUrl": null,
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 15662,
         "primaryLanguage": {
             "name": "Shell",
             "color": "#89e051"
@@ -672,6 +950,11 @@
         "description": "mOTP generator",
         "stargazerCount": 1,
         "homepageUrl": "http://motp.n4n5.dev/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 17,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -683,6 +966,9 @@
         "description": "PoC - transfer data using your computer mouse",
         "stargazerCount": 1,
         "homepageUrl": "http://n4n5.dev/mouse-data-transfer/",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 25,
         "primaryLanguage": {
             "name": "Svelte",
             "color": "#ff3e00"
@@ -694,6 +980,11 @@
         "description": "PoC - display movies list",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/movies-display/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 12327,
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
@@ -705,6 +996,11 @@
         "description": "Export music from different sources",
         "stargazerCount": 2,
         "homepageUrl": "https://crates.io/crates/music-exporter",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 74,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -716,6 +1012,11 @@
         "description": "n4n5's utility crate",
         "stargazerCount": 1,
         "homepageUrl": "https://docs.rs/n4n5",
+        "forkCount": 1,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 226,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -727,6 +1028,11 @@
         "description": "no toxic names anymore",
         "stargazerCount": 12,
         "homepageUrl": "https://n4n5.dev/notox/",
+        "forkCount": 1,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 78,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -738,6 +1044,11 @@
         "description": "Easily download licenses of your dependencies",
         "stargazerCount": 0,
         "homepageUrl": "https://npm-license-dependencies.vercel.app",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 74,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -749,6 +1060,11 @@
         "description": "PoC - Control a web page for OBS",
         "stargazerCount": 1,
         "homepageUrl": "https://its-just-nans.github.io/obs-webview/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 33,
         "primaryLanguage": {
             "name": "Svelte",
             "color": "#ff3e00"
@@ -760,6 +1076,9 @@
         "description": "Python code to transfer pictures easily",
         "stargazerCount": 0,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 40,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -771,6 +1090,11 @@
         "description": "Create a simple (GitHub like) API to list your files",
         "stargazerCount": 0,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 8,
         "primaryLanguage": {
             "name": "PHP",
             "color": "#4F5D95"
@@ -782,6 +1106,11 @@
         "description": "plugin-astro-content is an Astro.glob() alternative",
         "stargazerCount": 2,
         "homepageUrl": "https://its-just-nans.github.io/plugin-astro-content/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 47,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -793,6 +1122,11 @@
         "description": "tiny cli to explore png",
         "stargazerCount": 1,
         "homepageUrl": "https://pypi.org/project/pngtools/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 2940,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -804,6 +1138,11 @@
         "description": "PoC - A pokemon platinum map",
         "stargazerCount": 0,
         "homepageUrl": "http://n4n5.dev/pokemon-platinum-map/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 16520,
         "primaryLanguage": {
             "name": "Svelte",
             "color": "#ff3e00"
@@ -815,6 +1154,11 @@
         "description": "My curriculum vitae template in typst",
         "stargazerCount": 0,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 270,
         "primaryLanguage": {
             "name": "Typst",
             "color": "#239dad"
@@ -826,6 +1170,11 @@
         "description": "PoC - Helping you creating a product",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/product-creation/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 548,
         "primaryLanguage": {
             "name": "Svelte",
             "color": "#ff3e00"
@@ -837,6 +1186,11 @@
         "description": "TP - test on proj311 - check github.com/tramex",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/proj311-test/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 570,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -848,6 +1202,11 @@
         "description": "Tiny CLI for a ws proxy",
         "stargazerCount": 0,
         "homepageUrl": "https://www.npmjs.com/package/@n4n5/proxy-ws",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 4,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -859,6 +1218,9 @@
         "description": "🌐 - FORK of https://github.com/radvd-project/radvd-project.github.io for demo",
         "stargazerCount": 0,
         "homepageUrl": "http://n4n5.dev/radvd-project-website-fork/",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 33211,
         "primaryLanguage": {
             "name": "HTML",
             "color": "#e34c26"
@@ -870,6 +1232,9 @@
         "description": "PoC - Plan your train trip",
         "stargazerCount": 0,
         "homepageUrl": "http://n4n5.dev/rail-planner/",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 37,
         "primaryLanguage": {
             "name": "Svelte",
             "color": "#ff3e00"
@@ -881,6 +1246,9 @@
         "description": "PoC - ratatui json editor",
         "stargazerCount": 1,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 22,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -892,6 +1260,9 @@
         "description": "An online README Compiler",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/readme-compiler",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 1905,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -903,6 +1274,9 @@
         "description": "unofficial RIO website",
         "stargazerCount": 1,
         "homepageUrl": "https://rio.n4n5.dev/",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 32298,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -914,6 +1288,11 @@
         "description": "TP - My RIO201 project",
         "stargazerCount": 0,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 36,
         "primaryLanguage": {
             "name": "C",
             "color": "#555555"
@@ -925,6 +1304,11 @@
         "description": "TP - RIO203 - a student project to manage a parking using IoT devices.",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/rio203/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 338,
         "primaryLanguage": {
             "name": "TypeScript",
             "color": "#3178c6"
@@ -936,6 +1320,9 @@
         "description": "TP - rio203-image-detection",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/rio203-image-detection/",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 18,
         "primaryLanguage": {
             "name": "HTML",
             "color": "#e34c26"
@@ -947,6 +1334,9 @@
         "description": "TP - The report for our rio203",
         "stargazerCount": 0,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 6761,
         "primaryLanguage": {
             "name": "TeX",
             "color": "#3D6117"
@@ -958,6 +1348,9 @@
         "description": "The website for R&T students!",
         "stargazerCount": 1,
         "homepageUrl": "http://rt.n4n5.dev/",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 12095,
         "primaryLanguage": {
             "name": "HTML",
             "color": "#e34c26"
@@ -969,6 +1362,11 @@
         "description": "egui/eframe as apk",
         "stargazerCount": 0,
         "homepageUrl": "",
+        "forkCount": 1,
+        "licenseInfo": {
+            "name": "Apache License 2.0"
+        },
+        "diskUsage": 1918,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -980,6 +1378,9 @@
         "description": "PoC - Simple MNIST NN from scratch in rust",
         "stargazerCount": 0,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 12,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -991,6 +1392,9 @@
         "description": "TP - SES102 - Pratiques et Analyses de Communication écrite",
         "stargazerCount": 1,
         "homepageUrl": "https://n4n5.dev/ses-102/ses102_pace.pdf",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 22861,
         "primaryLanguage": {
             "name": "TeX",
             "color": "#3D6117"
@@ -1002,6 +1406,11 @@
         "description": "shared-qr-code",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/shared-qr-code",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 44,
         "primaryLanguage": {
             "name": "Svelte",
             "color": "#ff3e00"
@@ -1013,6 +1422,9 @@
         "description": "🌐 - NextJs server without dir parameter",
         "stargazerCount": 0,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 172,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -1024,6 +1436,11 @@
         "description": "sms2call app",
         "stargazerCount": 14,
         "homepageUrl": "http://sms2call.n4n5.dev/",
+        "forkCount": 2,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 483,
         "primaryLanguage": {
             "name": "Kotlin",
             "color": "#A97BFF"
@@ -1035,6 +1452,9 @@
         "description": "Ineffable Sport Application",
         "stargazerCount": 1,
         "homepageUrl": "http://sportiva.n4n5.dev/",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 1531,
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
@@ -1046,6 +1466,11 @@
         "description": null,
         "stargazerCount": 0,
         "homepageUrl": null,
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 24,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -1057,6 +1482,11 @@
         "description": "Static sitemap generator & link discover",
         "stargazerCount": 1,
         "homepageUrl": "https://pypi.org/project/static-sitemap/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 28,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -1068,6 +1498,9 @@
         "description": "PoC - Explore the world of string and encoding",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/string-explorer/",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 37,
         "primaryLanguage": {
             "name": "Svelte",
             "color": "#ff3e00"
@@ -1079,6 +1512,9 @@
         "description": "DUT R&T - The student app, make and play quiz games",
         "stargazerCount": 0,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 2157,
         "primaryLanguage": {
             "name": "Java",
             "color": "#b07219"
@@ -1090,6 +1526,9 @@
         "description": "A sudoku-solver in C",
         "stargazerCount": 1,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 72,
         "primaryLanguage": {
             "name": "C",
             "color": "#555555"
@@ -1101,6 +1540,11 @@
         "description": "PoC - A weird way to verify sudoku",
         "stargazerCount": 0,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 8,
         "primaryLanguage": {
             "name": "Jupyter Notebook",
             "color": "#DA5B0B"
@@ -1112,6 +1556,11 @@
         "description": "svelte-store but in VanillaJS",
         "stargazerCount": 0,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 9,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -1123,6 +1572,11 @@
         "description": "Display animated number easily with Svelte",
         "stargazerCount": 3,
         "homepageUrl": "http://n4n5.dev/svelte-number-displayer/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 45,
         "primaryLanguage": {
             "name": "Svelte",
             "color": "#ff3e00"
@@ -1134,6 +1588,11 @@
         "description": "Display packages stats on your Profile!",
         "stargazerCount": 0,
         "homepageUrl": "https://svg-packages-stats.vercel.app/api?author=n4n5",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 17,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -1145,6 +1604,11 @@
         "description": "A simple image editor",
         "stargazerCount": 4,
         "homepageUrl": "http://tarsier.n4n5.dev/",
+        "forkCount": 1,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 495,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -1156,6 +1620,11 @@
         "description": "Fork of https://github.com/hopey-dishwasher/termpix",
         "stargazerCount": 1,
         "homepageUrl": null,
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "Other"
+        },
+        "diskUsage": 211,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -1167,6 +1636,9 @@
         "description": "DUT R&T - Projet tutoré avec Thales Alenia Space",
         "stargazerCount": 0,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 79113,
         "primaryLanguage": null
     },
     {
@@ -1175,6 +1647,9 @@
         "description": "just thoughts",
         "stargazerCount": 1,
         "homepageUrl": "http://thoughts.n4n5.dev/",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 31960,
         "primaryLanguage": {
             "name": "MDX",
             "color": "#fcb32c"
@@ -1186,6 +1661,11 @@
         "description": "PoC - get time by timezone",
         "stargazerCount": 1,
         "homepageUrl": "http://time.n4n5.dev/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 130,
         "primaryLanguage": {
             "name": "TypeScript",
             "color": "#3178c6"
@@ -1197,6 +1677,11 @@
         "description": "A simple TODO list",
         "stargazerCount": 0,
         "homepageUrl": "https://pypi.org/project/tiny-todo/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 11,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -1208,6 +1693,9 @@
         "description": "PoC - The toolbox made of \"blocks\"",
         "stargazerCount": 0,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 97,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -1219,6 +1707,9 @@
         "description": "PoC - Generate typst docs",
         "stargazerCount": 0,
         "homepageUrl": "http://typst-github-io.n4n5.dev/",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 11,
         "primaryLanguage": {
             "name": "Shell",
             "color": "#89e051"
@@ -1230,6 +1721,11 @@
         "description": "PoC - create video effects by reshaping in 3d",
         "stargazerCount": 0,
         "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 67718,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -1241,6 +1737,9 @@
         "description": "🌐 - Articles of n4n5.dev",
         "stargazerCount": 1,
         "homepageUrl": "https://n4n5.dev/articles/",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "diskUsage": 18633,
         "primaryLanguage": {
             "name": "MDX",
             "color": "#fcb32c"
@@ -1252,6 +1751,11 @@
         "description": "File investigator",
         "stargazerCount": 2,
         "homepageUrl": "http://whatisthis.n4n5.dev/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 153,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -1263,6 +1767,11 @@
         "description": "YakB - Yet Another Knowledge Base",
         "stargazerCount": 1,
         "homepageUrl": "http://yakb.n4n5.dev/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 1835,
         "primaryLanguage": {
             "name": "MDX",
             "color": "#fcb32c"
@@ -1274,6 +1783,9 @@
         "description": "Keybase proof",
         "stargazerCount": 0,
         "homepageUrl": null,
+        "forkCount": null,
+        "licenseInfo": null,
+        "diskUsage": null,
         "primaryLanguage": null
     },
     {
@@ -1282,6 +1794,9 @@
         "description": "Keyoxide proof",
         "stargazerCount": 0,
         "homepageUrl": null,
+        "forkCount": null,
+        "licenseInfo": null,
+        "diskUsage": null,
         "primaryLanguage": null
     }
 ]
