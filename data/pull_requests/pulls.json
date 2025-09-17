@@ -8251,9 +8251,9 @@
         "node": {
             "id": "PR_kwDOEz-dqs6oIwB7",
             "number": 208,
-            "title": "Add noscript tag",
+            "title": "Add `noscript` tag: \"You need javascript to use this website\"",
             "url": "https://github.com/emilk/eframe_template/pull/208",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-09-12T00:27:40Z",
             "baseRepository": {
                 "url": "https://github.com/emilk/eframe_template",
