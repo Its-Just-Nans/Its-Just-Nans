@@ -1,9 +1,4 @@
-android
+android-studio-stable
 fastfetch
 firefox
 fzf
-imgcat
-jadx
-nbfc
-sage
-tracy
