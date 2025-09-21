@@ -8357,7 +8357,7 @@
             "number": 6342,
             "title": "feat: add env propagation",
             "url": "https://github.com/jdx/mise/pull/6342",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-09-20T02:04:07Z",
             "baseRepository": {
                 "url": "https://github.com/jdx/mise",
@@ -8383,7 +8383,7 @@
             "number": 56,
             "title": "remove duplicate func",
             "url": "https://github.com/mitnk/cicada/pull/56",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-09-20T18:24:41Z",
             "baseRepository": {
                 "url": "https://github.com/mitnk/cicada",

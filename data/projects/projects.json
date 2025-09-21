@@ -7,7 +7,7 @@
         "homepageUrl": "https://n4n5.dev/.well-known/",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 603,
+        "diskUsage": 606,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -21,7 +21,7 @@
         "homepageUrl": "https://Its-Just-Nans.github.io",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 24685,
+        "diskUsage": 24686,
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
@@ -64,7 +64,7 @@
         "name": "apksig",
         "description": "Decoding the APK Signing Block",
         "stargazerCount": 6,
-        "homepageUrl": "http://n4n5.dev/apksig/",
+        "homepageUrl": "https://n4n5.dev/apksig/",
         "forkCount": 2,
         "licenseInfo": {
             "name": "MIT License"
@@ -142,7 +142,7 @@
         "name": "astro-redirector",
         "description": "PoC - Static url shortener using astro",
         "stargazerCount": 0,
-        "homepageUrl": "http://astro-redirector.n4n5.dev/",
+        "homepageUrl": "https://astro-redirector.n4n5.dev/",
         "forkCount": 0,
         "licenseInfo": {
             "name": "MIT License"
@@ -158,7 +158,7 @@
         "name": "astro-simple-carousel",
         "description": "Astro component to render a simple carousel",
         "stargazerCount": 1,
-        "homepageUrl": "http://n4n5.dev/astro-simple-carousel/",
+        "homepageUrl": "https://n4n5.dev/astro-simple-carousel/",
         "forkCount": 0,
         "licenseInfo": {
             "name": "MIT License"
@@ -220,7 +220,7 @@
         "name": "can-be-useful",
         "description": "Can these codes be useful? Yes",
         "stargazerCount": 2,
-        "homepageUrl": "http://n4n5.dev/can-be-useful/",
+        "homepageUrl": "https://n4n5.dev/can-be-useful/",
         "forkCount": 1,
         "licenseInfo": null,
         "diskUsage": 28479,
@@ -264,7 +264,7 @@
         "name": "coreutils-tracking-details",
         "description": "PoC - coreutils tracking but a little more detailed",
         "stargazerCount": 1,
-        "homepageUrl": "http://n4n5.dev/coreutils-tracking-details/",
+        "homepageUrl": "https://n4n5.dev/coreutils-tracking-details/",
         "forkCount": 0,
         "licenseInfo": {
             "name": "MIT License"
@@ -358,7 +358,7 @@
         "name": "cyberdeck",
         "description": "Building a cyberdeck",
         "stargazerCount": 0,
-        "homepageUrl": "http://n4n5.dev/cyberdeck/",
+        "homepageUrl": "https://n4n5.dev/cyberdeck/",
         "forkCount": 0,
         "licenseInfo": {
             "name": "MIT License"
@@ -481,7 +481,7 @@
         "name": "eggs",
         "description": "PoC - because I always forgor",
         "stargazerCount": 1,
-        "homepageUrl": "http://eggs.n4n5.dev/",
+        "homepageUrl": "https://eggs.n4n5.dev/",
         "forkCount": 0,
         "licenseInfo": {
             "name": "MIT License"
@@ -604,7 +604,7 @@
         "name": "galago",
         "description": "A simple svg editor",
         "stargazerCount": 0,
-        "homepageUrl": "http://galago.n4n5.dev/",
+        "homepageUrl": "https://galago.n4n5.dev/",
         "forkCount": 1,
         "licenseInfo": {
             "name": "MIT License"
@@ -798,7 +798,7 @@
         "name": "json-editor",
         "description": "A simple json editor in your browser",
         "stargazerCount": 2,
-        "homepageUrl": "http://n4n5.dev/json-editor/",
+        "homepageUrl": "https://n4n5.dev/json-editor/",
         "forkCount": 0,
         "licenseInfo": {
             "name": "MIT License"
@@ -814,7 +814,7 @@
         "name": "lab",
         "description": "Some experiments with (mostly) svelte",
         "stargazerCount": 1,
-        "homepageUrl": "http://n4n5.dev/lab/",
+        "homepageUrl": "https://n4n5.dev/lab/",
         "forkCount": 0,
         "licenseInfo": {
             "name": "MIT License"
@@ -952,7 +952,7 @@
         "name": "motp",
         "description": "mOTP generator",
         "stargazerCount": 1,
-        "homepageUrl": "http://motp.n4n5.dev/",
+        "homepageUrl": "https://motp.n4n5.dev/",
         "forkCount": 0,
         "licenseInfo": {
             "name": "MIT License"
@@ -968,7 +968,7 @@
         "name": "mouse-data-transfer",
         "description": "PoC - transfer data using your computer mouse",
         "stargazerCount": 1,
-        "homepageUrl": "http://n4n5.dev/mouse-data-transfer/",
+        "homepageUrl": "https://n4n5.dev/mouse-data-transfer/",
         "forkCount": 0,
         "licenseInfo": null,
         "diskUsage": 25,
@@ -1140,7 +1140,7 @@
         "name": "pokemon-platinum-map",
         "description": "PoC - A pokemon platinum map",
         "stargazerCount": 0,
-        "homepageUrl": "http://n4n5.dev/pokemon-platinum-map/",
+        "homepageUrl": "https://n4n5.dev/pokemon-platinum-map/",
         "forkCount": 0,
         "licenseInfo": {
             "name": "MIT License"
@@ -1220,7 +1220,7 @@
         "name": "radvd-project-website-fork",
         "description": "🌐 - FORK of https://github.com/radvd-project/radvd-project.github.io for demo",
         "stargazerCount": 0,
-        "homepageUrl": "http://n4n5.dev/radvd-project-website-fork/",
+        "homepageUrl": "https://n4n5.dev/radvd-project-website-fork/",
         "forkCount": 0,
         "licenseInfo": null,
         "diskUsage": 33211,
@@ -1234,7 +1234,7 @@
         "name": "rail-planner",
         "description": "PoC - Plan your train trip",
         "stargazerCount": 0,
-        "homepageUrl": "http://n4n5.dev/rail-planner/",
+        "homepageUrl": "https://n4n5.dev/rail-planner/",
         "forkCount": 0,
         "licenseInfo": null,
         "diskUsage": 37,
@@ -1350,7 +1350,7 @@
         "name": "rt",
         "description": "The website for R&T students!",
         "stargazerCount": 1,
-        "homepageUrl": "http://rt.n4n5.dev/",
+        "homepageUrl": "https://rt.n4n5.dev/",
         "forkCount": 0,
         "licenseInfo": null,
         "diskUsage": 12095,
@@ -1438,7 +1438,7 @@
         "name": "sms2call",
         "description": "sms2call app",
         "stargazerCount": 14,
-        "homepageUrl": "http://sms2call.n4n5.dev/",
+        "homepageUrl": "https://sms2call.n4n5.dev/",
         "forkCount": 2,
         "licenseInfo": {
             "name": "MIT License"
@@ -1454,7 +1454,7 @@
         "name": "sportiva",
         "description": "Ineffable Sport Application",
         "stargazerCount": 1,
-        "homepageUrl": "http://sportiva.n4n5.dev/",
+        "homepageUrl": "https://sportiva.n4n5.dev/",
         "forkCount": 0,
         "licenseInfo": null,
         "diskUsage": 1531,
@@ -1574,7 +1574,7 @@
         "name": "svelte-number-displayer",
         "description": "Display animated number easily with Svelte",
         "stargazerCount": 3,
-        "homepageUrl": "http://n4n5.dev/svelte-number-displayer/",
+        "homepageUrl": "https://n4n5.dev/svelte-number-displayer/",
         "forkCount": 0,
         "licenseInfo": {
             "name": "MIT License"
@@ -1606,7 +1606,7 @@
         "name": "tarsier",
         "description": "A simple image editor",
         "stargazerCount": 4,
-        "homepageUrl": "http://tarsier.n4n5.dev/",
+        "homepageUrl": "https://tarsier.n4n5.dev/",
         "forkCount": 1,
         "licenseInfo": {
             "name": "MIT License"
@@ -1649,7 +1649,7 @@
         "name": "thoughts",
         "description": "just thoughts",
         "stargazerCount": 1,
-        "homepageUrl": "http://thoughts.n4n5.dev/",
+        "homepageUrl": "https://thoughts.n4n5.dev/",
         "forkCount": 0,
         "licenseInfo": null,
         "diskUsage": 31960,
@@ -1663,7 +1663,7 @@
         "name": "time",
         "description": "PoC - get time by timezone",
         "stargazerCount": 1,
-        "homepageUrl": "http://time.n4n5.dev/",
+        "homepageUrl": "https://time.n4n5.dev/",
         "forkCount": 0,
         "licenseInfo": {
             "name": "MIT License"
@@ -1709,7 +1709,7 @@
         "name": "typst.github.io",
         "description": "PoC - Generate typst docs",
         "stargazerCount": 0,
-        "homepageUrl": "http://typst-github-io.n4n5.dev/",
+        "homepageUrl": "https://typst-github-io.n4n5.dev/",
         "forkCount": 0,
         "licenseInfo": null,
         "diskUsage": 11,
@@ -1753,7 +1753,7 @@
         "name": "whatisthis",
         "description": "File investigator",
         "stargazerCount": 2,
-        "homepageUrl": "http://whatisthis.n4n5.dev/",
+        "homepageUrl": "https://whatisthis.n4n5.dev/",
         "forkCount": 0,
         "licenseInfo": {
             "name": "MIT License"
@@ -1769,7 +1769,7 @@
         "name": "yakb",
         "description": "YakB - Yet Another Knowledge Base",
         "stargazerCount": 1,
-        "homepageUrl": "http://yakb.n4n5.dev/",
+        "homepageUrl": "https://yakb.n4n5.dev/",
         "forkCount": 0,
         "licenseInfo": {
             "name": "MIT License"
