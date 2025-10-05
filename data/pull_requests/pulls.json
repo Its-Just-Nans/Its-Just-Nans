@@ -2007,7 +2007,7 @@
             "baseRepository": {
                 "url": "https://github.com/http-party/http-server",
                 "name": "http-server",
-                "description": "a simple zero-configuration command-line http server",
+                "description": "A simple, zero-configuration, command-line http server",
                 "owner": {
                     "login": "http-party"
                 },
@@ -8409,7 +8409,7 @@
             "number": 57,
             "title": "use env::split_paths",
             "url": "https://github.com/mitnk/cicada/pull/57",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-09-20T18:47:59Z",
             "baseRepository": {
                 "url": "https://github.com/mitnk/cicada",
@@ -8423,6 +8423,32 @@
                         {
                             "name": "Rust",
                             "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOIvux3s6sHOLl",
+            "number": 6541,
+            "title": "fix: Add bash option in example",
+            "url": "https://github.com/jdx/mise/pull/6541",
+            "state": "MERGED",
+            "createdAt": "2025-10-04T21:48:52Z",
+            "baseRepository": {
+                "url": "https://github.com/jdx/mise",
+                "name": "mise",
+                "description": "dev tools, env vars, task runner",
+                "owner": {
+                    "login": "jdx"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Shell",
+                            "color": "#89e051"
                         }
                     ]
                 }

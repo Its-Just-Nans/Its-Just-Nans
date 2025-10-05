@@ -7,7 +7,7 @@
         "homepageUrl": "https://n4n5.dev/.well-known/",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 606,
+        "diskUsage": 608,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -21,7 +21,7 @@
         "homepageUrl": "https://Its-Just-Nans.github.io",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 24686,
+        "diskUsage": 24687,
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
@@ -63,9 +63,9 @@
         "url": "https://github.com/Its-Just-Nans/apksig",
         "name": "apksig",
         "description": "Decoding the APK Signing Block",
-        "stargazerCount": 6,
+        "stargazerCount": 5,
         "homepageUrl": "https://n4n5.dev/apksig/",
-        "forkCount": 2,
+        "forkCount": 1,
         "licenseInfo": {
             "name": "MIT License"
         },
@@ -223,7 +223,7 @@
         "homepageUrl": "https://n4n5.dev/can-be-useful/",
         "forkCount": 1,
         "licenseInfo": null,
-        "diskUsage": 28479,
+        "diskUsage": 28485,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -1611,7 +1611,7 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 495,
+        "diskUsage": 499,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -1652,7 +1652,7 @@
         "homepageUrl": "https://thoughts.n4n5.dev/",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 31960,
+        "diskUsage": 31962,
         "primaryLanguage": {
             "name": "MDX",
             "color": "#fcb32c"
@@ -1742,7 +1742,7 @@
         "homepageUrl": "https://n4n5.dev/articles/",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 18637,
+        "diskUsage": 18641,
         "primaryLanguage": {
             "name": "MDX",
             "color": "#fcb32c"
