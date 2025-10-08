@@ -8454,5 +8454,31 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOIvux3s6sJ6P-",
+            "number": 6544,
+            "title": "feat: env propagation for depends",
+            "url": "https://github.com/jdx/mise/pull/6544",
+            "state": "CLOSED",
+            "createdAt": "2025-10-05T18:27:51Z",
+            "baseRepository": {
+                "url": "https://github.com/jdx/mise",
+                "name": "mise",
+                "description": "dev tools, env vars, task runner",
+                "owner": {
+                    "login": "jdx"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Shell",
+                            "color": "#89e051"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
