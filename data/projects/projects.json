@@ -7,7 +7,7 @@
         "homepageUrl": "https://n4n5.dev/.well-known/",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 609,
+        "diskUsage": 611,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -21,7 +21,7 @@
         "homepageUrl": "https://Its-Just-Nans.github.io",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 24689,
+        "diskUsage": 24761,
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
@@ -684,7 +684,7 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 6211,
+        "diskUsage": 6218,
         "primaryLanguage": {
             "name": "CSS",
             "color": "#663399"
@@ -698,7 +698,7 @@
         "homepageUrl": "https://its-just-nans.github.io/golb",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 3172,
+        "diskUsage": 3189,
         "primaryLanguage": null
     },
     {
@@ -766,12 +766,12 @@
         "name": "indexage",
         "description": "Create apache2-like html index",
         "stargazerCount": 0,
-        "homepageUrl": "",
+        "homepageUrl": "https://n4n5.dev/indexage/",
         "forkCount": 0,
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 31,
+        "diskUsage": 35,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"

@@ -8480,5 +8480,57 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOQAT8S86tNqYc",
+            "number": 1,
+            "title": "Remove body margin",
+            "url": "https://github.com/Its-Just-Nans/mise-java/pull/1",
+            "state": "CLOSED",
+            "createdAt": "2025-10-11T05:04:00Z",
+            "baseRepository": {
+                "url": "https://github.com/Its-Just-Nans/mise-java",
+                "name": "mise-java",
+                "description": "A JVM Data Crawler",
+                "owner": {
+                    "login": "Its-Just-Nans"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Shell",
+                            "color": "#89e051"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDON-uLVc6tQ9nP",
+            "number": 241,
+            "title": "fix: Add standard index.css of swagger",
+            "url": "https://github.com/jdx/mise-java/pull/241",
+            "state": "MERGED",
+            "createdAt": "2025-10-11T18:17:13Z",
+            "baseRepository": {
+                "url": "https://github.com/jdx/mise-java",
+                "name": "mise-java",
+                "description": "A JVM Data Crawler",
+                "owner": {
+                    "login": "jdx"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
