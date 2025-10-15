@@ -9,7 +9,7 @@ async function extractLicenses() {
         // Extract licenseInfo field
         const dataExtracted = projects
             .map((project) => [project.name, project.diskUsage])
-            .filter(([n, d]) => d > 10000)
+            .filter(([_name, disk]) => disk > 10000)
             .sort((a, b) => b[1] - a[1]);
 
         // Print as JSON
