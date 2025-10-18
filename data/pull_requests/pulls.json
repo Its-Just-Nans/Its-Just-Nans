@@ -7473,7 +7473,7 @@
             "number": 63,
             "title": "Use the delay options",
             "url": "https://github.com/plume-design/opensync/pull/63",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-06-13T00:04:02Z",
             "baseRepository": {
                 "url": "https://github.com/plume-design/opensync",
