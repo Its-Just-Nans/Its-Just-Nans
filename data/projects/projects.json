@@ -7,7 +7,7 @@
         "homepageUrl": "https://n4n5.dev/.well-known/",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 614,
+        "diskUsage": 623,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -21,7 +21,7 @@
         "homepageUrl": "https://Its-Just-Nans.github.io",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 24784,
+        "diskUsage": 24785,
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
@@ -223,7 +223,7 @@
         "homepageUrl": "https://n4n5.dev/can-be-useful/",
         "forkCount": 1,
         "licenseInfo": null,
-        "diskUsage": 28490,
+        "diskUsage": 28492,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -299,10 +299,10 @@
         "homepageUrl": "https://crates.io/users/Its-Just-Nans",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 47,
+        "diskUsage": 52,
         "primaryLanguage": {
-            "name": "Shell",
-            "color": "#89e051"
+            "name": "Rust",
+            "color": "#dea584"
         }
     },
     {
@@ -376,7 +376,7 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 33,
+        "diskUsage": 35,
         "primaryLanguage": {
             "name": "Shell",
             "color": "#89e051"
@@ -392,7 +392,7 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 0,
+        "diskUsage": 10,
         "primaryLanguage": {
             "name": "HTML",
             "color": "#e34c26"
@@ -1035,7 +1035,7 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 111,
+        "diskUsage": 122,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -1229,6 +1229,22 @@
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/qr",
+        "name": "qr",
+        "description": "PoC - Generate a QR from URL",
+        "stargazerCount": 0,
+        "homepageUrl": "https://n4n5.dev/qr/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 19,
+        "primaryLanguage": {
+            "name": "HTML",
+            "color": "#e34c26"
         }
     },
     {
