@@ -26,7 +26,7 @@
 ## Design
 
 - <https://madebyevan.com/dft/> - Discrete Fourier Transform Demo
-- <http://jayse.tv/v2/?portfolio=enders-game>
+- <https://jayse.tv/v2/?portfolio=enders-game>
 - <https://www.searchsystem.co/>
 - <https://uxkits.com/products/website-deck-of-cards>
 - <https://www.forrestgoods.com/shop/double-deck-deal-the-font-and-design-decks>
@@ -99,7 +99,7 @@
 - <https://browser.engineering/> - web browser engine
 - <https://github.com/you-dont-need/You-Dont-Need-GUI> - you don't need GUI
 - <https://github.com/jlevy/the-art-of-command-line>
-- <http://fpgacpu.ca/fpga/> - FPGA
+- <https://fpgacpu.ca/fpga/> - FPGA
 - <https://github.com/dylanaraps/pure-bash-bible> - bash tutorial
 - <https://subseawirelessgroup.com> - underwater wireless communication
 - <https://manipulation.csail.mit.edu/> - robotics
@@ -115,7 +115,7 @@
 - <https://ziglang.org/>
 - <https://deepwiki.com/> - wiki powered by AI
 - <https://github.com/dendibakh/perf-ninja> - performance optimization
-- <http://loeildelaphotographie.com>
+- <https://loeildelaphotographie.com>
 - <https://lgtm.com/#explore>
 - <https://www.loisirs-nautic.fr/> - boat license
 - <https://makelinux.github.io/kernel/map/> - Linux kernel map
@@ -129,7 +129,7 @@
 - <https://dkwcs.com/> - DK YOO
 - <https://sha256algorithm.com/> - sha256 algorithm visualized
 - <https://www.jeux-geographiques.com>
-- <http://elm-chan.org/he_e.html>
+- <https://elm-chan.org/he_e.html>
 - <https://rreverser.com/>
 - <https://github.com/arachnidlabs/labs-cards> -> <https://its-just-nans.github.io/labs-cards/>
 - <https://www.quelleestladifference.fr>
@@ -169,7 +169,7 @@
 - <http://www.isthe.com/chongo/index.html>
 - <https://github.com/EbookFoundation/free-programming-books>
 - <https://github.com/goabstract/Marketing-for-Engineers>
-- <http://www.randalolson.com/2015/03/08/computing-the-optimal-road-trip-across-the-u-s/>
+- <https://www.randalolson.com/2015/03/08/computing-the-optimal-road-trip-across-the-u-s/>
 - <https://fr.wikipedia.org/wiki/Cicada_3301>
 - <https://github.com/lydiahallie/javascript-questions> - unusual js questions
 - <https://github.com/sindresorhus/awesome>
@@ -254,7 +254,6 @@
 - <https://sergioprado.blog/> - blog
 - <https://www.byran.ee/> - anyon_e computer
 - <https://www.icaria.de/> - blog - security
-- <http://blog.another-d-mention.ro/> - blog
 - <https://computers-are-fast.github.io/> - blog
 - <https://www.openmymind.net/> - blog
 - <https://eatonphil.com/blogs.html> - blog of blogs
@@ -291,7 +290,7 @@
 - <https://remonterletemps.ign.fr/>
 - <https://sailboat.guide/> - sailboat guide
 - <https://selfh.st/apps/> - self hosted apps
-- <http://www.elm-chan.org/fsw/tjpgd/00index.html>
+- <https://www.elm-chan.org/fsw/tjpgd/00index.html>
 - <https://tldr.inbrowser.app/> - tldr in browser
 - <https://web-check.xyz/> - check website
 - <https://pikimov.com/> - online motion design and video editor
@@ -305,6 +304,7 @@
 - <https://gitlab.lisn.upsaclay.fr/texlive/luatex> - latex engine
 - <https://syscalls.mebeim.net> - syscalls
 - <https://www.sqltranslate.app/>
+- <https://github.com/ReFirmLabs/binwalk> - inspect binary file
 - <https://ss64.com/> - command line reference
 - <https://github.com/erebe/wstunnel> - tunnel ws or http2
 - <https://github.com/FiloSottile/mkcert> - locally trusted certificates
@@ -353,7 +353,7 @@
 - <https://github.com/fpgmaas/deptry> - check python dependencies
 - <https://github.com/gabotechs/dep-tree> - visualize dependencies
 - <https://www.flightradar24.com/> - planes
-- <http://ianlunn.github.io/Hover/> - hovering.css
+- <https://ianlunn.github.io/Hover/> - hovering.css
 - <https://intl-demo.netlify.app/> - internationalization api demo
 - <https://cheatsheetseries.owasp.org/> - cheat sheet
 - <https://map.malfrats.industries/> - osint map
@@ -374,7 +374,7 @@
 - <https://github.com/saulpw/visidata> - terminal spreadsheet multitool
 - <https://www.karanpratapsingh.com/courses/system-design> - system design course
 - <https://expo.dev/> - mobile application development
-- <http://mathew-kurian.github.io/CharacterMap/> - to see font
+- <https://mathew-kurian.github.io/CharacterMap/> - to see font
 - <https://github.com/pmndrs/gltfjsx> - transform gltf into R3F model
 - <https://github.com/santoru/shcheck> - check headers of website
 - <https://terminaltrove.com/list/> - list of terminal tools
