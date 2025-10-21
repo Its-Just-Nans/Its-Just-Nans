@@ -7005,7 +7005,7 @@
             "number": 246,
             "title": "add trunk example",
             "url": "https://github.com/PolyMeilex/rfd/pull/246",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-04-04T18:19:21Z",
             "baseRepository": {
                 "url": "https://github.com/PolyMeilex/rfd",
@@ -8521,6 +8521,32 @@
                 "description": "A JVM Data Crawler",
                 "owner": {
                     "login": "jdx"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDONhHLBM6uvxBN",
+            "number": 5,
+            "title": "use sha2 to remove useless dependencies",
+            "url": "https://github.com/devttys0/delink/pull/5",
+            "state": "OPEN",
+            "createdAt": "2025-10-21T02:29:28Z",
+            "baseRepository": {
+                "url": "https://github.com/devttys0/delink",
+                "name": "delink",
+                "description": null,
+                "owner": {
+                    "login": "devttys0"
                 },
                 "languages": {
                     "nodes": [

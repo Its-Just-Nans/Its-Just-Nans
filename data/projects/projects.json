@@ -7,7 +7,7 @@
         "homepageUrl": "https://n4n5.dev/.well-known/",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 623,
+        "diskUsage": 624,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -21,7 +21,7 @@
         "homepageUrl": "https://Its-Just-Nans.github.io",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 24785,
+        "diskUsage": 24786,
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
@@ -63,7 +63,7 @@
         "url": "https://github.com/Its-Just-Nans/apksig",
         "name": "apksig",
         "description": "Decoding the APK Signing Block",
-        "stargazerCount": 5,
+        "stargazerCount": 6,
         "homepageUrl": "https://n4n5.dev/apksig/",
         "forkCount": 1,
         "licenseInfo": {
@@ -223,7 +223,7 @@
         "homepageUrl": "https://n4n5.dev/can-be-useful/",
         "forkCount": 1,
         "licenseInfo": null,
-        "diskUsage": 28492,
+        "diskUsage": 28499,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -486,7 +486,7 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 99,
+        "diskUsage": 102,
         "primaryLanguage": {
             "name": "Shell",
             "color": "#89e051"
@@ -700,7 +700,7 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 6292,
+        "diskUsage": 6293,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -714,7 +714,7 @@
         "homepageUrl": "https://its-just-nans.github.io/golb",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 3113,
+        "diskUsage": 3114,
         "primaryLanguage": null
     },
     {
@@ -1035,7 +1035,7 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 122,
+        "diskUsage": 144,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -1045,7 +1045,7 @@
         "url": "https://github.com/Its-Just-Nans/notox",
         "name": "notox",
         "description": "no toxic names anymore",
-        "stargazerCount": 13,
+        "stargazerCount": 14,
         "homepageUrl": "https://n4n5.dev/notox/",
         "forkCount": 1,
         "licenseInfo": {
