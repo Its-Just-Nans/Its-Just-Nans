@@ -1,0 +1,55 @@
+---
+title: Compressing pictures
+date: 2024-08-30
+description: Save storage space by compressing pictures
+---
+
+First idea was to use [https://github.com/google/guetzli](https://github.com/google/guetzli) but it is known for [slow performance](https://github.com/google/guetzli/issues/50)
+
+Then you found [https://github.com/mozilla/mozjpeg](https://github.com/mozilla/mozjpeg) and build+install it
+
+```sh
+cd /tmp
+git clone https://github.com/mozilla/mozjpeg.git
+cd mozjpeg
+mkdir build && cd build
+cmake -G"Unix Makefiles" ../
+
+# you need sudo to install at /opt/mozjpeg/bin/cjpeg
+sudo make install
+
+# now make them available in your PATH
+cd /usr/local/bin
+sudo ln -s /opt/mozjpeg/bin/cjpeg
+sudo ln -s /opt/mozjpeg/bin/djpeg
+sudo ln -s /opt/mozjpeg/bin/cjpeg mozjpeg
+```
+
+The usage command is simple
+
+```sh
+mozjpeg -quality 90 -outfile output.jpg input.jpg
+```
+
+And then, using our favorite tool [fd](https://github.com/sharkdp/fd)
+
+```sh
+# for all jpg extension files, compress them
+fd -e jpg -j 10 -x mozjpeg -quality 90 -outfile {.}_c.jpg {}
+mkdir compressed/
+mv *_c.jpg compressed/
+
+# for other format (extension)
+fd -e png -j 10 -x mozjpeg -quality 90 -outfile {.}.jpg {}
+# then delete png files
+```
+
+Other useful commands
+
+```sh
+# remove all NOT compressed files
+fd -e jpg -E "*_c.jpg" -j 10 -x rm {}
+
+# rename all compressed files
+fd --glob "*_c.jpg" -j 10 -x rename 's/_c\.jpg$/.jpg/' {}
+```

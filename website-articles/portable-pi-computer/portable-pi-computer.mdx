@@ -1,0 +1,291 @@
+---
+title: Portable Pi Computer
+date: 2021-06-30
+description: Portable Raspebrry Pi Computer
+---
+
+import Carousel from "astro-simple-carousel"
+
+export const CustomStyle = ()=>{
+    return <style>{`
+    details[open]{
+        border-left: 1px solid black;
+        background: whitesmoke;
+        padding: 10px;
+    }
+    details{
+        text-align: center;
+    }
+    .autosized{
+        height: auto !important;
+    }
+    .wrap-img{
+        margin-top: 10px;
+        padding-top: 10px;
+    }
+    .wrap-img p {
+        text-align: center;
+        width: 75%;
+        margin: auto;
+    }
+    .cover{
+        width: 75%;
+        margin: auto;
+        text-align: center;
+    }
+    .cover-img{
+        height: auto !important;
+        text-align: center;
+        border-radius: 5px;
+    }`}</style>
+}
+
+<CustomStyle/>
+
+
+import { Image } from 'astro:assets'
+
+
+
+In 2021, I had the opportunity to make a physical project during the TOCS (an IoT-focused "competition"). The TOCS is an open-to-all competition by https://www.telecom-valley.fr/. It also allows you to discover the maker world with the "SoFAB" (https://www.sofab.tv/) - a fablab in Sophia Antipolis. For this competition, I decided to make a portable computer with a Raspberry Pi 4. The idea was to have a small computer that could be used to program and test code on the go. This is frequently referred to as a cyberdeck.
+
+import CoverImg from "./2024-11-09_second_version_close_view.jpg"
+
+<div class="cover">
+    <Image class="cover-img" src={CoverImg} width={750} alt="cyberdeck" loading={"eager"} />
+</div>
+
+This project had two versions so far. The first one was made for the TOCS, the second one was the updated version of the first one. The second version was made to be more portable and more simple
+
+This project is linked to a github repository: https://github.com/Its-Just-Nans/cyberdeck. [^credits] This project is also inspired by many cyberdeck projects on the internet, some inspirations pics are available in the repo.
+
+[^credits]: Credit to all images are in the repository https://github.com/Its-Just-Nans/cyberdeck/blob/main/inspiration/README.md
+
+
+## First version
+
+The first version was made with a 7-inch screen, a Raspberry Pi 4 and a power bank to power all the components. The major difficulty was to create the case that would hold all the components. I used plexiglass to make a complete case - like the old GRID compass computer (1982) but transparent.
+
+<details>
+<summary>**Inspiration pic**: GRID compass computer (1982)</summary>
+
+<img class="autosized" src={"https://n4n5.dev/cyberdeck/inspiration/grid-compass.png"} alt="GRID compass computer (1982)" />
+
+</details>
+
+
+
+The case was made in laser-cut plexiglass, plans were made as svg files, then uploaded to the cutting machine with a USB stick.
+
+Unfortunately, I didn't have time to have a clean design. Glue was used to attach plexiglass sheets together. The screen was screwed directly into the case.
+
+<details>
+<summary>Modelisations on Fusion360</summary>
+
+<Carousel>
+    <div slot="1">
+        <img class="autosized" src={"https://n4n5.dev/cyberdeck/first-version/fusion_v1.jpg"} alt="cyberdeck first version"/>
+    </div>
+    <div slot="2">
+        <p>Cyberdeck with the full case</p>
+        <img class="autosized" src={"https://n4n5.dev/cyberdeck/first-version/first-version_fusion.jpg"} alt="cyberdeck first version" />
+    </div>
+</Carousel>
+
+</details>
+
+
+My project was ready for the TOCS, the demo was made with a simple http server on the raspberry pi. The project was well received by the jury and I received the jury's special prize.
+
+After the TOCS, the glue used for the plexiglass sheets was not strong enough. The case was no longer robust enough. The cyberdeck was put aside for a while.
+
+<details>
+<summary>Some pictures (after the TOCS - not glued) to have an idea</summary>
+
+<Carousel>
+    <div class="wrap-img" slot="img-1">
+        <img src={"https://n4n5.dev/cyberdeck/first-version/pics/2024-11-03_first_version.jpg"}  alt="cyberdeck battery pic" />
+    </div>
+    <div class="wrap-img" slot="img-2">
+        <p>Closed cyberdeck - we can see a little crack</p>
+        <img src={"https://n4n5.dev/cyberdeck/first-version/pics/2024-11-03_first_version_closed.jpg"} alt="cyberdeck battery pic" />
+    </div>
+    <div class="wrap-img" slot="img-3">
+        <p>Open cyberdeck</p>
+        <img src={"https://n4n5.dev/cyberdeck/first-version/pics/2024-11-03_first_version_open.jpg"} alt="cyberdeck battery pic" />
+    </div>
+</Carousel>
+
+</details>
+
+### Components
+
+
+
+| Components                                                |
+| :-------------------------------------------------------- |
+| 7 inch Raspberry Pi 4 Model B 3B LCD Display Touch Screen |
+| Raspberry Pi 4B 4Go RAM + accessories                     |
+| Perixx PERIDUO-212 - keyboard + mouse (unused)            |
+| Charmast Power bank 23800mAh 20 Watts                     |
+| 90 Degree Left Mini USB to Micro USB Male                 |
+| HDMI Cable Connector Adapter 90 Degree                    |
+| HDMI flat cable                                           |
+
+One of the goals of selected components is to be small and portable. Long USB cables were avoided. Flat hinges were made and 3D-printed to attach the screen to the case (https://github.com/Its-Just-Nans/flat-hinge)
+
+<details>
+<summary>Screen connectors</summary>
+
+<img src={"https://n4n5.dev/cyberdeck/second-version/screen/2024-11-09_screen_connectors.jpg"}  alt="cyberdeck screen pic" />
+
+</details>
+
+## Second version
+
+The second version was developed in September 2024. The goal was to make a more portable and more simple version of the first one.
+
+<details>
+<summary>**Inspiration pic**: Minimalist cyberdeck</summary>
+
+<img class="autosized" src={"https://n4n5.dev/cyberdeck/inspiration/2012-07-16.jpg"} alt="Inspiration simple design" />
+
+</details>
+
+Major changes were:
+
+- the reduction of the case
+- the reduction of the keyboard
+- the power bank was directly attached to the case
+
+### Power bank modifications
+
+The power bank is now attached to the plexiglass plate with velcro. Velcro is screwed to the base plate.
+
+
+<details>
+<summary>Power bank images</summary>
+
+<Carousel>
+    <div class="wrap-img" slot="img-1">
+        <p>Velcro wrapping the power bank</p>
+        <img src={"https://n4n5.dev/cyberdeck/second-version/battery/2024-11-09_battery.jpg"}  alt="cyberdeck battery pic" />
+    </div>
+    <div class="wrap-img" slot="img-2">
+        <p>Velcro attached to the base plate (with screws)</p>
+        <img src={"https://n4n5.dev/cyberdeck/second-version/battery/2024-11-09_battery_back.jpg"} alt="cyberdeck battery pic" />
+    </div>
+    <div class="wrap-img" slot="img-3">
+        <p>Final</p>
+        <img src={"https://n4n5.dev/cyberdeck/second-version/battery/2024-11-09_battery_attached.jpg"} alt="cyberdeck battery pic" />
+    </div>
+</Carousel>
+
+</details>
+
+### Keyboard reduction
+
+The keyboard is already small, but with a diet, it could be made twice as compact. We can also see that the keyboard is ergonomically tilted - the support is bigger at the top. Let's remove that!
+
+<details>
+<summary>Keyboard images</summary>
+
+<Carousel>
+    <div class="wrap-img" slot="img-1">
+        <p>Base Perixx keyboard</p>
+        <img src={"https://n4n5.dev/cyberdeck/second-version/keyboard/Perixx_PERIDUO-212_keyboard.png"}  alt="cyberdeck keyboard pic" />
+    </div>
+    <div class="wrap-img" slot="img-2">
+        <p>Base keyboard</p>
+        <img src={"https://n4n5.dev/cyberdeck/second-version/keyboard/keyboard_part_1.png"} alt="cyberdeck keyboard pic" />
+    </div>
+    <div class="wrap-img" slot="img-3">
+        <p>Red back plate removed</p>
+        <img src={"https://n4n5.dev/cyberdeck/second-version/keyboard/keyboard_part_2.png"} alt="cyberdeck keyboard pic" />
+    </div>
+    <div class="wrap-img" slot="img-4">
+        <p>Keycaps and support only - hood removed</p>
+        <img src={"https://n4n5.dev/cyberdeck/second-version/keyboard/keyboard_part_3.png"} alt="cyberdeck keyboard pic" />
+    </div>
+</Carousel>
+
+</details>
+
+With all of that removed, the keyboard connector is not attached but it needs to be! Also the long USB cable is cut with a new USB socket.
+
+<details>
+<summary>Keyboard connector images</summary>
+
+<Carousel>
+    <div class="wrap-img" slot="img-1">
+        <p>Drilled some holes into the plexiglass plate for the connectors's screws</p>
+        <img src={"https://n4n5.dev/cyberdeck/second-version/keyboard/2024-11-03_keyboard_holes.jpg"}  alt="cyberdeck keyboard pic" />
+    </div>
+    <div class="wrap-img" slot="img-2">
+        <p>Some holes are for the connector seal</p>
+        <img src={"https://n4n5.dev/cyberdeck/second-version/keyboard/2024-11-03_keyboard_support.jpg"} alt="cyberdeck keyboard pic" />
+    </div>
+    <div class="wrap-img" slot="img-3">
+        <p>Plexiglass plate (transparent), connector seal, keyboard's electrical sheets, connector and a little plexiglass plate (hidden on the picture) to fix all together with two screws</p>
+        <img src={"https://n4n5.dev/cyberdeck/second-version/keyboard/2024-11-09_keyboard_connector.png"} alt="cyberdeck keyboard pic" />
+    </div>
+</Carousel>
+
+</details>
+
+
+### Screen
+
+The screen is now attached with one plexiglass plate, the back of the screen is no longer protected.
+
+<details>
+    <summary>Screen image</summary>
+    <img src={"https://n4n5.dev/cyberdeck/second-version/screen/2024-11-09_screen_screw.jpg"}  alt="cyberdeck screen pic" />
+</details>
+
+### Raspberry
+
+As the complete case is gone, the raspberry is now protected with its own plastic case and attached with screws.
+
+<details>
+<summary>Raspberry images</summary>
+
+<Carousel>
+    <div class="wrap-img" slot="img-1">
+        <p>Raspberry</p>
+        <img src={"https://n4n5.dev/cyberdeck/second-version/raspberry/2024-11-09_raspberry.jpg"}  alt="cyberdeck raspberry pic" />
+    </div>
+    <div class="wrap-img" slot="img-2">
+        <p>Raspberry side view</p>
+        <img src={"https://n4n5.dev/cyberdeck/second-version/raspberry/2024-11-09_raspberry_side.jpg"} alt="cyberdeck raspberry pic" />
+    </div>
+    <div class="wrap-img" slot="img-3">
+        <p>Raspberry with his screws</p>
+        <img src={"https://n4n5.dev/cyberdeck/second-version/raspberry/2024-11-09_raspberry_back.jpg"} alt="cyberdeck raspberry pic" />
+    </div>
+</Carousel>
+</details>
+
+
+## Final full pics
+
+Here are a few pictures of the second version of the cyberdeck. The attentive reader will notice that the plexiglass plate of the screen is not attached to the base plate because hinges are incorrectly sized.
+
+<details>
+<summary>Cyberdeck second version images</summary>
+
+<Carousel>
+    <div class="wrap-img" slot="img-1">
+        <img src={"https://n4n5.dev/cyberdeck/second-version/pics/2024-11-09_second_version_closed.jpg"}  alt="cyberdeck full pic" />
+    </div>
+    <div class="wrap-img" slot="img-2">
+
+        <img src={"https://n4n5.dev/cyberdeck/second-version/pics/2024-11-09_second_version_open.jpg"} alt="cyberdeck full pic" />
+    </div>
+    <div class="wrap-img" slot="img-3">
+        <img src={"https://n4n5.dev/cyberdeck/second-version/pics/2024-11-09_second_version_back.jpg"} alt="cyberdeck full pic" />
+    </div>
+</Carousel>
+</details>
+
+> More images are available in the repository https://github.com/Its-Just-Nans/cyberdeck !

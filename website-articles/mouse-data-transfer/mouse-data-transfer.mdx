@@ -1,0 +1,25 @@
+---
+title: Mouse data transfer
+date: 2025-04-24
+description: Transferring data with a mouse
+---
+
+Transferring data between two devices can be sometimes complicated, especially if your devices have limitations like no Wifi connection.
+
+In this repository https://github.com/Its-Just-Nans/mouse-data-transfer, we explore the idea of using a mouse to transfer data between two devices. The concept is simple: use the mouse's movement to transfer data. The mouse is connected to a device, and the data is sent through the mouse's movement.
+
+On our case our devices are: a phone and a desktop computer with a optical mouse. We place the mouse on the phone screen and start the web application https://n4n5.dev/mouse-data-transfer/.
+
+This application has two parts:
+- on the phone side, it will act as a sender where the screen of the phone will display moving pixels that will trigger the mouse to move
+- on the desktop side, it will act as a receiver where the mouse movement will be captured and converted into data.
+
+This is a PoC (Proof of Concept) and it is not meant to be used in production. The data transfer speed is very slow, and it is not reliable. However, it is a fun experiment to see how we can use a mouse to transfer data.
+
+The limitations of the web app are:
+- problem when trying to trigger the mouse movement with the phone screen, it is not very reliable
+- for now there are no channel coding (which add redundancy to the data to make it more reliable), so if there is a problem with the mouse movement, the data will be most likely incorrect
+- the data transfer speed is very slow, and the type of data that can be transferred is limited to text
+
+
+Also this obviously requires a optical mouse and not and mechanical mouse (with a ball).

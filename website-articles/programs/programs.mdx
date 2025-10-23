@@ -1,0 +1,153 @@
+---
+title: Programs I use/used
+date:
+hidden: true
+---
+
+Check also [https://github.com/Its-Just-Nans/dotfiles](https://github.com/Its-Just-Nans/dotfiles)
+
+export const LocalStyle = () => {
+    return (
+        <style>
+            {`
+            summary h2  {
+                margin: 0 !important;
+            }
+        `}
+        </style>
+    )
+}
+
+
+import { readFileSync } from "fs";
+
+export const loadFile = (path) => {
+    return readFileSync(path, "utf-8").toString();
+}
+
+<LocalStyle/>
+
+
+```sh
+ghex # hexe editor
+httpie # fun http viewer
+fortune # quote of life
+sl # just a train
+libaa-bin # activate a little fire with `aafire`
+lolcat # download all ruby just to show rainbow
+ranger # file explorer in terminal
+telnet towel.blinkenlights.nl # real film here
+polybar # to do
+https://hannahmontana.sourceforge.net/ # wish I knew this before
+neofetch # am I a geek now?
+https://github.com/pipeseroni/pipes.sh
+screen # multiple terminal
+tmux # screen but better
+byobu # tmux but better
+cmatrix # enter now
+ffmpeg # bel art!
+obs-studio # record your screen
+htop # better top
+okular # pdf
+pdfarranger # love pdf
+vlc # if not already present
+exa # ls but newer
+blender # 3D
+dos2unix # convert file
+detox # rename files
+golang # dev with go
+default-jdk # java
+docker
+clamav # virus scanner
+lynis # antivirus
+nextcloud-desktop # nextcloud desktop client
+curl # request
+yt-dlp # youtube-dl fork
+rclone # https://github.com/rclone/rclone
+flac # https://github.com/xiph/flac
+dav1d # https://code.videolan.org/videolan/dav1d/
+unison # bidirect sync files
+unison-gtk # unison but with an interface
+keepassxc # keepassx is dead
+texlive-full # for latex
+xscreensaver # screen saver!
+blueman # bluetooth gtk interface
+valgrind # detect leak errors
+tlp # battery management
+micro # text editor
+calligra # libreoffice alternative
+nmap # networking
+network-manager-openvpn-gnome openvpn # use openvpn
+phpmyadmin # or just clone the git repo!
+mediainfo # get info of a media
+visidata # https://github.com/saulpw/visidata
+gource # https://github.com/acaudwell/Gource
+pipewire # https://www.youtube.com/watch?v=5a7_2mA2LYQ
+apt-listchanges
+needrestart
+testdisk # testdisk and photorec
+lmms # music
+ardour # music
+mixxx # dj
+sqlitebrowser # sqlite inspector
+ImHex # hexe editor https://github.com/WerWolv/ImHex
+nvm # https://github.com/nvm-sh/nvm/
+arduino-cli # https://github.com/arduino/arduino-cli
+sysstat # https://github.com/sysstat/sysstat
+czkawka # https://github.com/qarmin/czkawka
+matrix  # communication protocol https://www.youtube.com/watch?v=BieAw6lwntU
+gifsicle # gif manipulation
+hyperfine # benchmarking https://github.com/sharkdp/hyperfine
+dust # boosted du command https://github.com/bootandy/dust
+bat # for batcat command
+rg # ripgrep https://github.com/BurntSushi/ripgrep
+fd-find # find but better and in rust https://github.com/sharkdp/fd
+puddletag # music tag editor https://github.com/puddletag/puddletag
+magic-trace # https://magic-trace.org/
+vhs # record terminal https://github.com/charmbracelet/vhs
+typst # https://typst.app/
+ast-grep # https://github.com/ast-grep/ast-grep
+trippy # https://github.com/fujiapple852/trippy
+mise # https://github.com/jdx/mise
+binocle # https://github.com/sharkdp/binocle
+zizmor # Static analysis of GitHub Actions https://github.com/zizmorcore/zizmor
+```
+
+import { Code } from "astro/components";
+
+<details>
+
+<summary>
+
+## `nix-env --query`
+
+</summary>
+
+export const outputNix = loadFile("Its-Just-Nans/data/programs/nix.txt");
+
+<Code lang="shell" code={outputNix} />
+
+</details>
+
+
+
+<details>
+
+<summary>
+
+## `cargo install --list`
+
+</summary>
+
+export const outputCargo = loadFile("Its-Just-Nans/data/programs/cargo.txt");
+
+<Code lang="shell" code={outputCargo} />
+
+</details>
+
+## Visual Studio Code
+
+-   `Git: Enable Commit Signing`
+-   `Format On Save`
+
+> Reference: [https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key](https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key)

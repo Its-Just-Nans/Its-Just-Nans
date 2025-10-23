@@ -1,0 +1,96 @@
+---
+title: Using arduino-cli
+date: 2023-06-01
+description: How to use the arduino-cli
+---
+
+# arduino-cli
+
+## Install the package `arduino-cli`
+
+For example with `nix-env`
+
+```sh
+nix-env -iA nixpkgs.arduino-cli
+```
+
+## Add user to the `dialout` group
+
+We will need access to the `/dev/ttyACM0` as a simple user.
+
+An other unelegant solution is to run all the commands as root.
+
+```sh
+# add the current user to the group "dialout"
+sudo usermod -a -G dialout
+```
+
+To ensure that your current shell is using the `dialout` group, you can use the command `id`.
+
+If you don't have the `dialout` group you can force reloading your shell by using `su - $USER`
+
+## List the boards
+
+```sh
+arduino-cli board list
+```
+
+This command should shows the correct tty (for example `/dev/ttyACM0`) and the "Fully Qualified Board Name" also known as `fqbn`
+
+## Install a library
+
+If you need a library, you can install it with
+
+```sh
+arduino-cli lib install LIBRARY_NAME
+```
+
+## Compile the sketch
+
+We will need to precise the `fqbn`
+
+```sh
+arduino-cli compile --fqbn arduino:avr:uno sketch.ino
+```
+
+## Upload the sketch
+
+```sh
+arduino-cli upload -p /dev/ttyACM0 --fqbn arduino:avr:uno sketch.ino
+```
+
+## Interact with the arduino
+
+When using the [default arduino software](https://www.arduino.cc/en/software), we have an integrated serial monitor. But here, we are using the CLI and de facto there are no GUI so we will use the useful `screen` [command](https://www.gnu.org/software/screen/manual/screen.html)!
+
+To do so, we need:
+
+-   the tty (for example `/dev/ttyACM0`)
+-   the baud rate (the baud rate is specified in the sketch using `Serial.begin(115200);`)
+
+```sh
+screen /dev/ttyACM0 115200
+```
+
+To leave the screen session we can use `Ctrl+a` then `k` (for `kill`), the screen should then ask a confirmation with `y` key
+
+## Other useful commands
+
+```sh
+arduino-cli config init # create a config file
+
+arduino-cli core update-index  # update the index
+
+arduino-cli core install arduino:avr ## install arduino AVR family board
+
+arduino-cli board listall # list supported board
+
+arduino-cli board details -b arduino:avr:nano # show detail on this board (to find the correct option)
+```
+
+## Command line completion
+
+```sh
+arduino-cli completion bash > arduino-cli.sh
+mv arduino-cli.sh /etc/bash_completion.d/ # need root
+```

@@ -1,0 +1,172 @@
+---
+title: My journey to creating a CV
+description: Achieving sub-second CV generation (it's useless anyway)
+date: 2025-08-12
+needKatex: true
+---
+
+export const Helper = ({ summary, children }) => {
+    return (
+        <details class="helper">
+            <style>
+                {`
+                .helper{
+                    background-color: lightblue;
+                    padding: 10px;
+                    border-radius: 5px;
+                }
+                `}
+            </style>
+            <summary>
+                {summary}
+            </summary>
+            <br />
+            {children}
+        </details>
+    )
+}
+
+export const DateTitle = ({ date, children }) => {
+    return (
+        <span class="dateTitle">
+            <style>{`
+                .dateTitle {
+                    display: flex;
+                    justify-content: space-between;
+                }`}
+            </style>
+            <span>
+                {children}
+            </span>
+            <span>
+                {date}
+            </span>
+        </span>
+    )
+}
+
+## The Beginning
+
+The journey started back in high school, when I needed a CV for my very first job application. I wasn’t much into computers at the time, so I used the classic [LibreOffice Writer](https://www.libreoffice.org/) to make a simple CV. It was a tedious process - everything had to be formatted manually. Painful, but manageable since there wasn’t much content.
+
+LibreOffice Writer is all fun until you want something serious.
+
+## <DateTitle date="2022/01">$\LaTeX$ Superiority</DateTitle>
+
+Fast forward to engineering school - I needed another CV for an internship. This time, I decided to use $\LaTeX$. It was more complex, but it gave me much better formatting and structure. $\LaTeX$ also comes with [the simplicity of a single text file](https://stephango.com/file-over-app).
+
+In the end, my CV lived as a single `.tex` file in a Git repository hosted on [GitHub](https://github.com/).
+
+Wait... did I say GitHub? Why not build it with GitHub Actions?
+
+So I did. I created a simple workflow that compiled my `.tex` file into a PDF every time I pushed changes. It was great until I ran into my next ~problem~ challenge.
+
+A quick summary of $\LaTeX$’s strengths and weaknesses:
+
+**Pros**:
+- Superior formatting and structure
+- Very powerful for complex documents
+- Excellent for mathematical equations
+- Cool logo command `\LaTeX`: $\LaTeX$
+
+**Cons**:
+- Massive download size
+    ```
+    $ apt install texlive-full
+    Installing:
+    texlive-full
+    ...
+    Summary:
+    Upgrading: 0, Installing: 797, Removing: 0, Not Upgrading: 0
+    Download size: 4820 MB
+    Space needed: 9183 MB
+    ```
+- Steep learning curve (pixel-perfect layouts are tricky)
+- Slow compilation
+
+
+## <DateTitle date="2024/02">Lua Machinery</DateTitle>
+
+Then I faced a new ~problem~: I wanted to have two CVs, one in English and one in French, with the same layout. I decided to change my approach and use two files: one for the content and one for the layout.
+
+The content went into a JSON file, and the layout remained in $\LaTeX$.
+
+<Helper summary="Why JSON?">
+Yes **JSON**, because I believe in the [file over app](https://stephango.com/file-over-app) philosophy. And at night, I dream of one JSON file per contact, like the [RFC9553](https://www.rfc-editor.org/rfc/rfc9553).
+
+Wait... you like RFC9553? You should definitely check out https://crates.io/crates/jscontact
+
+(yes indeed this is an unsolicited but totally free ad.)
+</Helper>
+
+This is where  the real power of `lualatex` came in. Using Lua’s integration, I could load JSON directly into the document. By simply changing one parameter (`lang`), I could generate both CVs from the same content file.
+
+## <DateTitle date="2024/11">Lua Sorcery</DateTitle>
+
+This was a big improvement, but I didn’t like having too much Lua mixed directly into my $\LaTeX$ file. So I split the Lua code into a dedicated `.lua` file, which the `.tex` file could call. This left me with three files:
+1. The JSON content
+2. The $\LaTeX$ layout
+3. The Lua functions
+
+Naturally, I decided to change [again](https://github.com/Its-Just-Nans/curriculum-vitae/commit/93fa0836159265aa59c687693cbb29d182babe1d).
+
+The attentive reader would think about a Lua script that generates a `.tex` file from the JSON, then compiles it with `lualatex`. But that was too easy (too simple) and as an idiot, I wanted something more complex.
+
+
+```
+"An idiot admires complexity, a genius admires simplicity"
+- Terry A. Davis (RIP child of God)
+```
+
+So naturally, I made a Lua script that generated a `.tex` file **that still contained Lua calls**... and then launched `lualatex`. Yes, a self-invoking Lua script that writes a `.tex` file that calls Lua code to generate itself. (You’re allowed to reread that sentence to fully appreciate the ~complexity~ nonsense.)
+
+
+In the end, it worked pretty fast and could generate both CVs with a single command. But editing was still slow because I had to wait for `lualatex` every time I made a change.
+
+I ended up pushing this questionable creation to [luarocks](https://luarocks.org/modules/its-just-nans/curriculum_vitae), just in case someone wants to use this fraudulent script :nerd_face:. It works as both a library and a script.
+
+The repository is available here: https://github.com/Its-Just-Nans/curriculum-vitae
+
+Here are the timings for generating two CVs with this method:
+
+```
+$ time lua curriculum_vitae.lua
+real    0m3,297s
+user    0m2,907s
+sys     0m0,389s
+```
+
+## <DateTitle date="2025/06">Typst Supremacy</DateTitle>
+
+Then after playing around with [Typst](https://typst.app/), it’s impossible to resist rewriting everything.
+
+Typst is a modern typesetting system much faster than $\LaTeX$ and with a cleaner syntax. Typst also supports programming within the document (and much more) like built-in JSON support, allowing me to generate my layout directly from my JSON file.
+
+It also supports incremental compilation (only recompiling the parts that change) making it far faster than $\LaTeX$ during edits.
+
+The repository is available here: https://github.com/Its-Just-Nans/porygon
+
+Usage would be something like this:
+
+```typ
+#import "@preview/porygon:0.1.0": show-cv
+
+#let path_json = sys.inputs.at("CV_JSON", default: "cv_data.json")
+#let data = json(path_json)
+#show-cv(data)
+```
+
+Here are the timings for generating two CVs with this method:
+```
+$ time typst compile cv.typ --input CV_LANG=fr cv_fr.pdf
+real    0m0,509s
+user    0m0,331s
+sys     0m0,185s
+
+$ time typst compile cv.typ --input CV_LANG=en cv_en.pdf
+real    0m0,442s
+user    0m0,265s
+sys     0m0,182s
+```
+
+The time difference is caused by the French CV including a profile picture.

@@ -1,0 +1,355 @@
+---
+title: DNS Open Root
+description: Creating a DNS server with bind9
+date: 2025-02-01
+---
+
+import CommandLine from "@components/CommandLine/CommandLine.astro"
+
+In this article, we are going to create a DNS server with bind9. We will use this DNS server to create a new extension `lastname` and resolve to `n4n5.lastname` to an IP address.
+
+This DNS server will be hosted on a local network with the IP address `192.168.1.69`. Commands on the server have a little icon on the right side.
+
+First of all, we need the packages on the server.
+
+```sh
+sudo apt install dnsutils # install dig command
+sudo apt install bind9 # install bind9 dns server
+```
+
+## Retrieve the IP address of a domain
+
+To start our little journey, we first need to know where the domain n4n5.dev points to. We can do this by finding the current ip of `n4n5.dev`
+
+In DNS, a name is mapped to an IP address, this is called an `A` record. We can find the IP address of a domain by using the `dig` command.
+
+<CommandLine command="dig n4n5.dev" open>
+
+```
+;;...
+
+;; ANSWER SECTION:
+n4n5.dev.		3012	IN	A	185.199.108.153
+
+;;...
+```
+
+</CommandLine>
+
+To see the full details of our DNS request, we can use the `+trace` option.
+
+<CommandLine command="dig n4n5.dev +trace">
+
+
+```txt
+; <<>> DiG 9.18.30-0ubuntu0.24.04.2-Ubuntu <<>> +trace n4n5.dev
+;; global options: +cmd
+.			50946	IN	NS	d.root-servers.net.
+.			50946	IN	NS	e.root-servers.net.
+.			50946	IN	NS	f.root-servers.net.
+.			50946	IN	NS	g.root-servers.net.
+.			50946	IN	NS	h.root-servers.net.
+.			50946	IN	NS	i.root-servers.net.
+.			50946	IN	NS	j.root-servers.net.
+.			50946	IN	NS	k.root-servers.net.
+.			50946	IN	NS	l.root-servers.net.
+.			50946	IN	NS	m.root-servers.net.
+.			50946	IN	NS	a.root-servers.net.
+.			50946	IN	NS	b.root-servers.net.
+.			50946	IN	NS	c.root-servers.net.
+;; Received 239 bytes from 127.0.0.53#53(127.0.0.53) in 17 ms
+
+dev.			172800	IN	NS	ns-tld2.charlestonroadregistry.com.
+dev.			172800	IN	NS	ns-tld5.charlestonroadregistry.com.
+dev.			172800	IN	NS	ns-tld3.charlestonroadregistry.com.
+dev.			172800	IN	NS	ns-tld1.charlestonroadregistry.com.
+dev.			172800	IN	NS	ns-tld4.charlestonroadregistry.com.
+;; Received 756 bytes from 2801:1b8:10::b#53(b.root-servers.net) in 304 ms
+
+n4n5.dev.		10800	IN	NS	ns106.ovh.net.
+n4n5.dev.		10800	IN	NS	dns106.ovh.net.
+;; Received 329 bytes from 216.239.32.105#53(ns-tld1.charlestonroadregistry.com) in 21 ms
+
+n4n5.dev.		3600	IN	A	185.199.108.153
+;; Received 249 bytes from 213.251.188.150#53(dns106.ovh.net) in 19 ms
+```
+
+We can see here the full path of our DNS request:
+
+1. We get the root servers
+    - lines end with `.root-servers.net`
+2. We ask one root server (`2801:1b8:10::b#53(b.root-servers.net)`) about the authority servers for `.dev` domain
+    - it tells us to check with some `.charlestonroadregistry.com` servers
+3. We ask one `.dev` authority server (`216.239.32.105#53(ns-tld1.charlestonroadregistry.com)`) for the `n4n5.dev` domain
+    - it tells us to check with `ns106.ovh.net` or `dns106.ovh.net`
+4. We ask the `213.251.188.150#53(dns106.ovh.net)` servers for the IP address of `n4n5.dev`
+    - it tells us that the `A` record of `n4n5.dev` (the ip address) points to `185.199.108.153`
+
+</CommandLine>
+
+As my website is currently hosted with [github pages](https://pages.github.com/), it means that `185.199.108.153` is an IP address of a github server.
+This is correct! We can verify that on the page https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
+
+## DNS server setup
+
+Now that we got the address, we can start to create our own DNS server.
+Bind9 configuration files are located in `/etc/bind/`. The main configuration file is `/etc/bind/named.conf` which includes other configuration files.
+
+<CommandLine command="sudo nano /etc/bind/named.conf.default-zones" open server>
+
+
+```txt
+// .. others zone
+
+// name to ip conversion
+zone "lastname" IN {
+        type master;
+        file "/etc/bind/db.lastname";
+};
+```
+
+</CommandLine>
+
+
+<CommandLine command="sudo nano /etc/bind/db.lastname" open server>
+
+
+```txt
+;
+; BIND data file
+;
+$TTL	604800
+@	IN	SOA	ns.lastname. root.lastname. (
+			      2		; Serial - increment this number each time you update the file
+			 604800		; Refresh - how often secondary DNS servers should check for updates.
+			  86400		; Retry - how often secondary servers retry if the primary is unreachable.
+			2419200		; Expire - after this time, if the primary is still unreachable, the zone is considered invalid.
+			 604800 )	; Negative Cache TTL - this controls how long other servers cache no-such-domain (NXDOMAIN) responses from this server.
+;
+@	IN	NS	ns.lastname.
+ns	IN	A	192.168.1.69
+n4n5	IN	A	185.199.108.153
+```
+
+</CommandLine>
+
+
+We don't forget to restart the bind9 service on the server
+
+```sh
+sudo service bind9 restart
+```
+
+## Use the DNS server
+
+The last step is to use our new DNS server! We can do this by changing the DNS server of our computer to the one we just created.
+
+<CommandLine command="sudo nano /etc/resolv.conf" open>
+
+```bash
+nameserver 192.168.1.69
+# ... others parameters
+```
+
+</CommandLine>
+
+Then we can check if our DNS server is working by using the `host` command
+
+<CommandLine command="host n4n5.lastname" open>
+
+```txt
+n4n5.lastname has address 185.199.108.153
+```
+
+</CommandLine>
+
+Or we can use the `dig` command
+
+<CommandLine command="dig n4n5.lastname">
+
+
+```
+;; ..
+;; ANSWER SECTION:
+n4n5.lastname.		604800	IN	A	185.199.108.153
+```
+
+</CommandLine>
+
+Now, we can test with our browser or with `curl` to see if our DNS server is working.
+
+On our browser, we simply need to type `n4n5.lastname/` (the slash is mandatory to force the browser to accept this url - since this extension does not exist) and we should see our website.
+
+But that's not the case! First of all, we see that the website is not secure, it's related to the certificate not being valid for this domain. We can ignore this warning (see last paragraph) and continue to the website.
+
+And that's still not the case! A Github 404 page is displayed!
+
+This is because github as only a few addresses for many websites! To know which request is for which website, it checks the `Host` header!
+
+> We could create a browser extension to add the `Host` header to the request, but let's try with `curl` for now.
+
+<CommandLine command="curl n4n5.lastname" open>
+
+```html
+<!DOCTYPE html>
+<!-- Github Pages 404 error -->
+</html>
+```
+
+</CommandLine>
+
+We got 404! But now we know why! We need to add the `Host` header to our request!
+
+<CommandLine command="curl -H 'Host: n4n5.dev' n4n5.lastname" open>
+
+```html
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+```
+> If we use the verbose option `-v`, we can see that the server is trying to redirect us to the secure version of the website `https://n4n5.dev`
+
+</CommandLine>
+
+
+And it's still not working! This is because Github wants to redirect us to the secure version of the website! Let's try it!
+
+<CommandLine command="curl -H 'Host: n4n5.dev' https://n4n5.lastname" open>
+
+```
+curl: (60) SSL: no alternative certificate subject name matches target host name 'n4n5.lastname'
+More details here: https://curl.se/docs/sslcerts.html
+
+curl failed to verify the legitimacy of the server and therefore could not
+establish a secure connection to it. To learn more about this situation and
+how to fix it, please visit the web page mentioned above.
+```
+
+</CommandLine>
+
+As expected, we get an error! This is because the certificate is not valid for this domain! We can ignore this warning by using the `-k` option
+
+<CommandLine command="curl -k -H 'Host: n4n5.dev' https://n4n5.lastname">
+
+```html
+<!DOCTYPE html>
+<!-- n4n5.dev webpage -->
+</html>
+```
+
+</CommandLine>
+
+Yeah! The HTML of the website is displayed! Mission accomplished!
+
+
+---
+
+See also:
+
+- https://bind9.readthedocs.io/ - bind9 documentation
+- https://cr.yp.to/djbdns.html - djbdns
+- https://letsencrypt.org/how-it-works/ - how certificates works
+- Don't forget to remove the `nameserver` from `/etc/resolv.conf`
+
+Definitions:
+
+**SOA record**: the first record in a DNS zone file and defines the authoritative information for the domain.
+
+**NS record** (or nameserver record): is a DNS record that contains the name of the authoritative name server within a domain or DNS zone.
+
+
+<details class="styled-details">
+<summary>Setup reverse DNS</summary>
+
+
+<CommandLine command="sudo nano /etc/bind/named.conf.default-zones" open server>
+
+
+```txt
+// .. others zone
+
+// ip to name conversion
+zone "1.168.192.in-addr.arpa" IN {
+        type master;
+        file "/etc/bind/db.192.168.1";
+};
+```
+
+</CommandLine>
+
+
+<CommandLine command="sudo nano /etc/bind/db.192.168.1" open server>
+
+```txt
+;
+; BIND data file for reverse DNS
+;
+$TTL	604800
+@	IN	SOA	ns.lastname. root.lastname. (
+			      2		; Serial
+			 604800		; Refresh
+			  86400		; Retry
+			2419200		; Expire
+			 604800 )	; Negative Cache TTL
+;
+@	IN	NS	ns.
+69 	IN 	PTR 	ns.lastname.
+```
+> `69` is the last part of our ip address
+
+</CommandLine>
+
+Test reverse DNS
+
+<CommandLine command="dig -x 192.168.1.69" open>
+
+
+```txt
+;; ...
+;; QUESTION SECTION:
+;69.1.168.192.in-addr.arpa.	IN	PTR
+
+;; ANSWER SECTION:
+69.1.168.192.in-addr.arpa. 604800 IN	PTR	ns.lastname.
+
+;; Query time: 22 msec
+;; SERVER: 192.168.1.69#53(192.168.1.69) (UDP)
+;; MSG SIZE  rcvd: 134
+
+```
+
+> The `-x` is a shortcut of `dig  69.1.168.192.in-addr.arpa PTR`
+
+</CommandLine>
+
+</details>
+
+
+<style>
+{`
+    .styled-details {
+        border: 1px solid #aaa;
+        border-radius: 4px;
+        padding: 0.5em 0.5em 0;
+    }
+
+    .styled-details> summary {
+        font-weight: bold;
+        margin: -0.5em -0.5em 0;
+        padding: 0.5em;
+    }
+
+    .styled-details[open] {
+        padding: 0.5em;
+    }
+
+    .styled-details[open]> summary {
+        border-bottom: 1px solid #aaa;
+        margin-bottom: 0.5em;
+    }
+`}
+</style>

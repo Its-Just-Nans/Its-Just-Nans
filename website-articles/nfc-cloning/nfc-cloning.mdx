@@ -1,0 +1,119 @@
+---
+title: NFC Cloning
+description: Cloning NFC cards
+date: 2023-08-15
+---
+
+
+import { Image } from "astro:assets";
+
+export const CustomStyle = () => {
+    return <style>{`
+    .images{
+        display: block;
+        margin: auto;
+        border-radius: 10px;
+        height: auto;
+    }
+    `}</style>
+}
+
+<CustomStyle/>
+
+
+**N**ear-**F**ield **C**ommunication (NFC) is a communication protocol at 13.56 MHz.
+
+NFC can be used for:
+
+- NFC card emulation: to act as an NFC card
+- NFC reader/writer: to read an NFC tag
+- NFC peer-to-peer: to communicate between two NFC devices
+
+
+## Cloning NFC tags
+
+Cloning NFC tags is an interesting educational task. To clone an NFC tag, you need to read the content of the tag and write it to another tag. To be able to read an NFC tag, you will need appropriate keys.
+
+To clone an NFC tag, you will also need a writable NFC tag. All blocks of the target NFC tag must be writable.
+
+Here is an educational example of how to clone an MIFARE Classic NFC tag. MIFARE Classic tags are the most common tags used in NFC cards.
+
+### Cloning with smartphone
+
+The easiest way to clone the tags is using the MifareClassicTool app https://github.com/ikarus23/MifareClassicTool
+
+- Read the tag
+- Wait until correct keys are found
+- Save the dump
+- Write the dump to another tag
+
+
+### Cloning with Arduino
+
+You can also clone NFC tags with an Arduino. The default example https://github.com/miguelbalboa/rfid/blob/master/examples/RFID-Cloner/RFID-Cloner.ino is a good starting point.
+
+However, it only contains most common keys. You will need to [find keys](https://github.com/ikarus23/MifareClassicTool/blob/master/Mifare%20Classic%20Tool/app/src/main/assets/key-files/extended-std.keys) and complete the arduino code.
+
+```cpp
+#define NR_KNOWN_KEYS 8
+
+byte knownKeys[NR_KNOWN_KEYS][MFRC522::MF_KEY_SIZE] =  {
+    {0xff, 0xff, 0xff, 0xff, 0xff, 0xff},
+    {0x00, 0x00, 0x00, 0x00, 0x00, 0x00}
+
+    // Add your keys here. Don't forget to also edit NR_KNOWN_KEYS
+};
+```
+
+After editing, can upload the code to your Arduino and clone the NFC tags.
+
+However, a problem can occur if you're using a board with limited memory, such as the Arduino Uno. The code will not be able to store the entire key file of the NFC tag. To address this issue, you can send keys from the computer to the Arduino. Here is an example of code to send keys from the computer to the Arduino.
+
+<details>
+
+<summary>Example code</summary>
+
+```cpp
+#define TABLE_SIZE 8
+
+byte table[TABLE_SIZE] = {};
+
+void setup() { Serial.begin(115200); }
+
+void printBuffer() {
+    // Print the table
+    for (size_t i = 0; i < TABLE_SIZE; i++) {
+        Serial.print(table[i]);
+        Serial.print(" ");
+    }
+    Serial.println();
+}
+
+void loop() {
+    Serial.println("ASKING_VALUE");
+    delay(1);
+    size_t nb_in_buffer = Serial.readBytes(table, TABLE_SIZE);
+    if (nb_in_buffer == 0) {
+        Serial.println("READ_NOTHING");
+        return;
+    } else if (nb_in_buffer != TABLE_SIZE) {
+        Serial.println("ERROR_READING");
+        return;
+    } else {
+        printBuffer();
+    }
+}
+```
+
+Check https://github.com/Its-Just-Nans/arduino-led-matrix/blob/main/main.py for the computer code.
+
+</details>
+
+---
+
+import Img from "./RFID_RC522_with_plexiglas.jpg";
+
+<div>
+    <Image class="images" src={Img} alt="Project at start" height="500px"/>
+    <br/>
+</div>

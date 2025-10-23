@@ -1,0 +1,61 @@
+---
+title: Cryptsetup LUKS
+date: 2022-01-01
+description: using cryptsetup to create a LUKS encrypted volume
+---
+
+export let values = {
+    "$cryptsetup_name": {
+        text: "cryptsetup name",
+        value:"encrypted"
+    },
+    "$luks_label" : {
+        text: "LUKS label",
+        value: "ENCRYPTED_LUKS"
+    },
+    "$ext4_label" : {
+        text: "ext4 label",
+        value: "ENCRYPTED"
+    },
+    "$disk_path" : {
+        text: "disk path",
+        value: "/dev/sda1"
+    },
+    "$mount_point": {
+        text: "mount point",
+        value:"/home"
+    },
+}
+
+export const script = `# be root
+df -h
+
+apt install cryptsetup
+
+# create a LUKS encrypted volume
+cryptsetup -v --type luks2 --label $luks_label luksFormat $disk_path
+
+# open the encrypted volume
+cryptsetup luksOpen $disk_path $cryptsetup_name
+ls -la /dev/mapper/$cryptsetup_name
+cryptsetup -v status $cryptsetup_name
+
+# create a filesystem
+dd if=/dev/zero of=/dev/mapper/$cryptsetup_name bs=1M status=progress
+mkfs.ext4 -L $ext4_label /dev/mapper/$cryptsetup_name
+
+# test mounting
+mount /dev/mapper/$cryptsetup_name $mount_point
+
+# unmount and close
+umount $mount_point
+cryptsetup luksClose $cryptsetup_name
+`
+
+import Input from "./Input.svelte";
+import { Code } from "astro/components";
+
+
+<Input client:load values={values}>
+    <Code lang="sh" code={script} />
+</Input>

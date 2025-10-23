@@ -1,0 +1,46 @@
+---
+title: Movies
+date:
+---
+import films from "@data/movies/movies.json";
+
+export const groupMovies = (films) => {
+    const min = Object.keys(films).reduce((acc, year) => {
+        return Math.min(acc, year);
+    }, Infinity);
+    const current = new Date().getFullYear();
+    Array.from({ length: current - min }).forEach((_, i) => {
+        const year = min + i;
+        if (!films[year]) {
+            films[year] = 0;
+        }
+    });
+    return Object.entries(films).map(([dateKey, numberValue]) => ({
+        year: Number.parseInt(dateKey),
+        count: numberValue
+    }));
+};
+
+export const moviesData = groupMovies(films);
+
+export const totalNumber = Object.keys(films).reduce((acc, key) => acc + films[key], 0);
+
+import BarChart from "astro-barchart/astro";
+
+
+<BarChart
+    yLabel={`Number of movies watched (${totalNumber})`}
+    xLabel={"Year released"}
+    title={`Number of movies watched (${totalNumber}) by released year`}
+    data={moviesData}
+    keyVal={"count"}
+    nameVal={"year"}
+    tooltip={`:key movies of :name watched`}
+/>
+
+Made with [astro-barchart](https://github.com/Its-Just-Nans/astro-barchart)
+
+
+These are not all the movies I have watched, I started keeping track since ~2020.
+
+In 2022 and 2023, I bought a cinema pass - that can explain something!

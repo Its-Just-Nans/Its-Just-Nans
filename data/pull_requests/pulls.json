@@ -8558,5 +8558,57 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOQHclyc6vKogZ",
+            "number": 1,
+            "title": "Fix typos in README.md",
+            "url": "https://github.com/Its-Just-Nans/camel-converter/pull/1",
+            "state": "MERGED",
+            "createdAt": "2025-10-23T00:08:27Z",
+            "baseRepository": {
+                "url": "https://github.com/Its-Just-Nans/camel-converter",
+                "name": "camel-converter",
+                "description": "Converts a string from snake case to camel case or camel case to snake case",
+                "owner": {
+                    "login": "Its-Just-Nans"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Python",
+                            "color": "#3572A5"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOFWgZLc6vY2I6",
+            "number": 747,
+            "title": "Fix typos in README.md",
+            "url": "https://github.com/sanders41/camel-converter/pull/747",
+            "state": "OPEN",
+            "createdAt": "2025-10-23T23:46:58Z",
+            "baseRepository": {
+                "url": "https://github.com/sanders41/camel-converter",
+                "name": "camel-converter",
+                "description": "Converts a string from snake case to camel case or camel case to snake case",
+                "owner": {
+                    "login": "sanders41"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Python",
+                            "color": "#3572A5"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

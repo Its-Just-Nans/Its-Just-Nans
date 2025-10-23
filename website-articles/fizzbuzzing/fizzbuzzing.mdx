@@ -1,0 +1,154 @@
+---
+title: FizzBuzzing
+date: 2023-08-01
+description: Can we improve FizzBuzz?
+---
+
+import { Code } from "astro/components";
+import { files, useDirective } from "./code.js";
+import SpecialCode from "./SpecialCode.svelte";
+import Button from "./Button.svelte";
+
+# FizzBuzzing
+
+The [Fizz Buzz](https://en.wikipedia.org/wiki/Fizz_buzz) program is a classic program used to test a programmer.
+
+It's very simple, you have to print numbers, but:
+
+-   if the number is a multiple of **3**, you print `Fizz`
+-   if the number is a multiple of **5**, you print `Buzz`
+-   if the number is a multiple of **3 and 5**, you print `FizzBuzz`
+
+In this article, we will see the classic version and a second version using a different logic.
+
+---
+
+If you want to test the javascript code, you can click below to add a special directive which will disable the optimization of the function.
+
+<Button client:load>
+    <span slot="button">Use `%NeverOptimizeFunction` directive</span>
+    <div slot="on">
+        <span>Programmes showed here are using the directive `%NeverOptimizeFunction`.</span>
+        <div>To run the code, you can use:</div>
+        <Code lang="sh" code={"node --allow-natives-syntax index.js"} />
+    </div>
+    <div slot="off"></div>
+</Button>
+
+> Quick note here to say that in the code we will not use the string `Fizz`, `Buzz` and `FizzBuzz` but numbers.
+
+## Classic FizzBuzz in Javascript
+
+<SpecialCode client:load>
+    <Code lang="js" code={useDirective(files["fizzbuzz_0.js"], true)} slot="on" />
+    <Code lang="js" code={useDirective(files["fizzbuzz_0.js"], false)} slot="off" />
+</SpecialCode>
+
+## The twist: the algorithm is cycling!
+
+If you look at the program and it's output, you can see that the algorithm is cycling with a modulo of 15.
+
+Why? because number divisible by 15 are divisible by 3 and 5 which is the `FizzBuzz` case.
+
+<details>
+
+<summary>Here is a little proof by [The Z3 Theorem Prover](https://github.com/Z3Prover/z3)</summary>
+
+<Code lang="python" code={files["z3_proof.py"]} />
+
+</details>
+
+Now let's use that information to "optimize" the program: we don't need to test every number! We can just cycle through the 15 cases.
+
+## FizzBuzz in Javascript using array
+
+<SpecialCode client:load>
+    <Code lang="js" code={useDirective(files["fizzbuzz_1.js"], true)} slot="on" />
+    <Code lang="js" code={useDirective(files["fizzbuzz_1.js"], false)} slot="off" />
+</SpecialCode>
+
+Array are great, but we have some useless `0` values in it 😯!
+
+## FizzBuzz in Javascript using object
+
+Here is an optimized version, using an object to remove useless `0` values.
+
+<SpecialCode client:load>
+    <Code lang="js" code={useDirective(files["fizzbuzz_2.js"], true)} slot="on" />
+    <Code lang="js" code={useDirective(files["fizzbuzz_2.js"], false)} slot="off" />
+</SpecialCode>
+
+Isn't it _beautiful_? **The fizzbuzz is only `tab[n % 15] ?? n`!**
+
+## FizzBuzzing in C++
+
+First, here is the main program, it uses a external fizzbuzz function.
+
+We can also see that we are using a preprocessor directive to disable the output of the function.
+
+<Code lang="cpp" code={files["main.cpp"]} />
+
+Second, for demonstration purpose we will use constants number to be replace words.
+
+### Classic FizzBuzz in C++
+
+Just to remind you here is the classic fizzbuzz in C++:
+
+<Code lang="cpp" code={files["fizzbuzz_classic.cpp"]} />
+
+### Array FizzBuzz in C++
+
+<Code lang="cpp" code={files["fizzbuzz_array.cpp"]} />
+
+## Benchmarking
+
+Now let's benchmark the different versions of the C++ programs. These benchmark were made using [hyperfine](https://github.com/sharkdp/hyperfine).
+
+import benchmark1 from "./benchmark-O0.jpg";
+
+<img alt="benchmark 1" src={benchmark1.src} />
+
+In this benchmark, we can see that results are quite the same with [zig](https://ziglang.org/). However, we can see the difference between the classic version and the array version! We successfully optimized the program!
+
+import benchmark_03 from "./benchmark-O3.jpg";
+
+<img alt="benchmark -O3" src={benchmark_03.src} />
+
+In this benchmark we can see that sadly, with optimization, results are quite the same! (I suppose [zig](https://ziglang.org/) this time decided to remove the whole program - quite an optimization).
+
+import benchmark_03_Output from "./benchmark-O3-DOUTPUT.jpg";
+
+<img alt="benchmark -O3 -DOUTPUT" src={benchmark_03_Output.src} />
+
+Finally, this benchmark show that with a real world program with an output, both version are equivalent because of the slowdown of writing to the output.
+
+## Conclusion
+
+The focus of this article is on compiler optimizations. In the benchmark, we force the default optimization level of the compiler to `-O0`.
+But using optimization such as `-O3`, code will be optimized thanks to compilers and results are equivalents!
+
+<details>
+
+<summary>Makefile used</summary>
+
+<Code lang="makefile" code={files["Makefile"]} />
+
+</details>
+
+<details>
+
+<summary>More</summary>
+
+In our case, in a classic complete fizzbuzz function, we will do
+
+```cpp
+void fizzbuzz_full(int num_limit){
+    for(int i = 0; i < num_limit;i++){
+        fizzbuzz(i);
+    }
+}
+```
+
+But technically, to go even faster, we could (with our logic) simply iterate through our array without bothering with the modulo check!
+
+</details>

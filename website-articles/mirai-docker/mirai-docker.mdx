@@ -1,0 +1,160 @@
+---
+title: Mirai botnet dockerized
+date: 2023-04-01
+description: Understanding the mirai botnet and dockerize it
+---
+
+# Mirai botnet
+
+In this article we will see a presentation of the **Mirai Botnet**, an explanation of its internal working then the implementation in a [docker compose](https://docs.docker.com/compose/) lab.
+
+This project is related to this git repository: https://github.com/Its-Just-Nans/mirai-dockerized. The source code of mirai was taken from another repository [^source-code]. Also, another repo was used for to setup mirai[^mirai-setup].
+
+[^source-code]: Source code of Mirai, provided by this repository : [https://github.com/jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code)
+
+[^mirai-setup]: This repository provides educational instructions to run your own Mirai [https://github.com/Glowman554/mirai](https://github.com/Glowman554/mirai)
+
+
+## Botnet origin
+
+In August 2016, researcher group [MalwareMustDie!](https://www.malwaremustdie.org/) discovered and published a report on the presence of a new botnet named **Mirai**, being an evolution of the [BASHLITE malware](https://en.wikipedia.org/wiki/BASHLITE). Mirai was used for DDoS, for example the 20 September attack on Krebs (620 Gbit/s) and OVH (1 Tbit/s). After that, on September 30 (2016), a user named Anna-senpai published the botnet's source code on [HackForums.net](https://hackforums.net).
+
+## How Mirai works?
+
+Mirai's[^cloudflare] power lies in predefined password in IoT. Mirai infects IoTs equipment by opening a telnet connection and trying trivial passwords. Although the power of an IoT may seem unworkable for DDoS attacks (the botnet's main use), the sheer number of unprotected IOTs at the time made it very powerful. With a peak of 600k infected IOTs worldwide, mirai enabled the Krebs DDoS attack with over 600 Gbp/s.
+
+
+[^cloudflare]: Blog post: [What is the Mirai Botnet?](https://www.cloudflare.com/learning/ddos/glossary/mirai-botnet/)
+
+
+The mirai botnet follow a simple 4+ machines architecture:
+
+- a **CNC (Command and Control)** machine which controls the botnet
+- a **report server** that stores the list of infected IOTs
+- a **loader** machine that infects vulnerable IoTs
+- **bots** machine that scan other IoTs and launch DDoS attacks
+
+The first step of Mirai's actions is the botnet infection. Before creating a DDoS attack, you need an army of bots - a botnet.
+
+The bot infection is done in a 4 steps process:
+
+- infecteds IoTs scans potential targets
+- infected IoTs report to the report server
+- the report server report to the CNC
+- the report server then launch the loader to infect the new IoTs
+
+
+
+As a starting point, we can use a simple [`ip.txt`](https://github.com/Its-Just-Nans/mirai-dockerized/blob/main/ip.txt) file containing the list of some vulnerable IoTs. This file contains the IP address of the IoTs and the credentials to connect to them.
+
+```plaintext
+10.5.0.7:23 root:root
+10.5.0.8:23 root:root
+```
+
+The loader will parse each line and try to connect to the corresponding address port of the IoT.
+
+```sh
+cat ip.txt | ./loader
+```
+
+
+
+When connecting, it will try to detect the architecture of the IoT by analyzing the `/bin/echo` binary.
+
+If the connection succeeds, the vulnerable IOT is reported to the CNC machine. After that, the loader will then push the malware to the bot. The malware is downloaded via HTTP or FTP.
+
+Then the bot will start and do two things:
+
+- perform attacks (if asked)
+- scan for other vulnerable IoTs (using the 4 step process)
+
+The scan for other vulnerable IoTs is defined in [scanner.c](https://github.com/Its-Just-Nans/mirai-dockerized/blob/main/Mirai-Source-Code/mirai/bot/scanner.c): it will try to connect to [random ips](https://github.com/Its-Just-Nans/mirai-dockerized/blob/main/Mirai-Source-Code/mirai/bot/scanner.c#L213) with a dictionary of [trivial credentials](https://github.com/Its-Just-Nans/mirai-dockerized/blob/main/Mirai-Source-Code/mirai/bot/scanner.c#L124).
+
+```c
+// root     xc3511
+// root     vizxv
+// root     admin
+// admin    admin
+// root     888888
+// root     xmhdipc
+// root     default
+```
+
+The CNC is a program in [Go](https://go.dev/) that controls the botnet. It will be used to send the attack to bots, that will launch it. The CNC will also store the list of infected IoTs in a database.
+
+Then, from the CNC, the attacker can launch the attack on the target. The CNC will send the attack to the bots, which will then launch the attack on the target.
+
+### The various attacks
+
+Once the malware has been loaded onto the bots, it enables various DDoS attacks.
+To choose the attack you want, you can see the [attack.h](https://github.com/Its-Just-Nans/mirai-dockerized/blob/main/Mirai-Source-Code/mirai/bot/attack.h) that lists all possible attacks
+
+```c
+#define ATK_VEC_UDP        0  /* Straight up UDP flood */
+#define ATK_VEC_VSE        1  /* Valve Source Engine query flood */
+#define ATK_VEC_DNS        2  /* DNS water torture */
+#define ATK_VEC_SYN        3  /* SYN flood with options */
+#define ATK_VEC_ACK        4  /* ACK flood */
+#define ATK_VEC_STOMP      5  /* ACK flood to bypass mitigation devices */
+#define ATK_VEC_GREIP      6  /* GRE IP flood */
+#define ATK_VEC_GREETH     7  /* GRE Ethernet flood */
+#define ATK_VEC_PROXY      8  /* Proxy knockback connection */
+#define ATK_VEC_UDP_PLAIN  9  /* Plain UDP flood optimized for speed */
+#define ATK_VEC_HTTP       10 /* HTTP layer 7 flood */
+```
+
+Attacks are first [registered in the memory](https://github.com/Its-Just-Nans/mirai-dockerized/blob/main/Mirai-Source-Code/mirai/bot/attack.c#L22) of the bot, then, the CNC send an attack code to bots. If [the code is correct, the attack is launched](https://github.com/Its-Just-Nans/mirai-dockerized/blob/main/Mirai-Source-Code/mirai/bot/attack.c#L178).
+
+## Dockerization
+
+In order to transmit this project easily and without impacting the outside world, a virtual environment was designed using docker to simulate reality. Here are the different services defined in the [docker-compose.yml file](https://github.com/Its-Just-Nans/mirai-dockerized/blob/main/docker-compose.yml)
+
+Here is a little explanation of the different services:
+
+- `loader` attacks the machines listed in ip.txt on the telnet port, attempting to use the password dictionary.
+- `reporter` is the report server.
+- `host` machine acts as an host server hosting the malware, which the bots fetch using wget or tftp.
+- `cnc` executes the CNC program
+- `db` is the database for the CNC with the infected machines
+- `bot1` and `bot2` simulate vulnerable IoTs with open telnet port and [trivial `root:root` configuration](https://github.com/Its-Just-Nans/mirai-dockerized/blob/main/ip.txt).
+
+In order to have a working Mirai into the lab, we had to make some changes to the source code:
+
+-   [loader/src/main.c](https://github.com/Its-Just-Nans/mirai-dockerized/blob/main/Mirai-Source-Code/loader/src/main.c): [Change the IP address](https://github.com/Its-Just-Nans/mirai-dockerized/commit/deb29454b7301b8a2b5e645eb418cc26d6316cf1#diff-0d3f38f1eb2fbadba20ab292fb64a945df22114cb3b999d47f8a306c200ff9d5) of the mirai host (where the malware can be downloaded via [HTTP](https://www.rfc-editor.org/rfc/rfc2616.txt) using [`wget`](https://www.gnu.org/software/wget/) or [FTP](https://www.rfc-editor.org/rfc/rfc959.txt) using `tftp`)
+-   [loader/src/server.c](https://github.com/Its-Just-Nans/mirai-dockerized/blob/main/Mirai-Source-Code/loader/src/server.c) Probable error in the code that prevented connection via telnet. The `connection_consume_iacs()` function finishes too early, but [running it twice solves the problem](https://github.com/Its-Just-Nans/mirai-dockerized/commit/deb29454b7301b8a2b5e645eb418cc26d6316cf1?diff=split&w=1#diff-f30e72af0dfb21650742c279c0005be70a23db57ca96e723127677423404a712R287).
+-   [loader/src/telnet_info.c](https://github.com/Its-Just-Nans/mirai-dockerized/blob/main/Mirai-Source-Code/loader/src/telnet_info.c) the architecture is [forced to dgb](https://github.com/Its-Just-Nans/mirai-dockerized/commit/deb29454b7301b8a2b5e645eb418cc26d6316cf1#diff-2d4a05ba3fbcaf7369bab93282521adc2443605401d40780c44eb14acabad48b), as we used only the debug version of mirai.
+-   [mirai/bot/table.c](https://github.com/Its-Just-Nans/mirai-dockerized/blob/main/Mirai-Source-Code/mirai/bot/table.c): under normal condition, the bot use a domain name to get the CNC address. As we didn't wanted to use DNS. We decided [to assign and hardcode IPs in the CNC](https://github.com/Its-Just-Nans/mirai-dockerized/commit/deb29454b7301b8a2b5e645eb418cc26d6316cf1#diff-83c408bdc17c0784cd1b562d2f3c7845c373be06947c6dfdad16af96fe71d7deR18) using `./enc string <ip>`[^enc-tools] as advised in source code.
+-   [mirai/bot/main.c](https://github.com/Its-Just-Nans/mirai-dockerized/blob/main/Mirai-Source-Code/mirai/bot/main.c): As explained previously, source code uses domain names for interactions between servers. In the lab, interactions are by IP, [so we hardcoded the IP of the CNC in the bot](https://github.com/Its-Just-Nans/mirai-dockerized/commit/deb29454b7301b8a2b5e645eb418cc26d6316cf1#diff-20cdde64759d5dad70e20caeae3fa926565235a9959863b20332e92afdf4e7a7R363).
+-   [mirai/cnc/main.go](https://github.com/Its-Just-Nans/mirai-dockerized/blob/main/Mirai-Source-Code/mirai/cnc/main.go):  In real environment, the CNC was one machine running it's code with a SQL database. In the lab we choose to have a separate database so we need [to change the database credentials](https://github.com/Its-Just-Nans/mirai-dockerized/commit/deb29454b7301b8a2b5e645eb418cc26d6316cf1#diff-1042ffcd73ef5e73c2c69ce983efb335bdae1972790006d303ec9c76b5165ae1) as written as [docker-compose.yml](https://github.com/Its-Just-Nans/mirai-dockerized/blob/main/docker-compose.yml#L38).
+
+[^enc-tools]: Mirai code [provide us a tiny tool to encrypt](https://github.com/Its-Just-Nans/mirai-dockerized/blob/main/Mirai-Source-Code/mirai/tools/enc.c) an IP address to use it in the source code.
+
+### Launching the lab
+
+As the lab is dockerized, you can launch it with the following command:
+
+```sh
+docker compose up --build
+```
+
+all the logs will be displayed in the terminal. You can also check the logs of a specific service with the following command:
+
+```sh
+docker compose logs SERVICE
+```
+
+## Conclusion
+
+In conclusion, we now have a clear understanding of how a botnet works. We also understood the mirai source code in order to run it in docker!
+
+What's more, one might think that Mirai's age makes it obsolete, but its ease of infection makes it usable whenever security measures are not in place on connected objects. As proof of this, [the **Medusa** botnet](https://www.bleepingcomputer.com/news/security/medusa-botnet-returns-as-a-mirai-based-variant-with-ransomware-sting/) recently surfaced (a Mirai-based variant with ransomware sting).
+
+
+We also invite you to check others[^imperva] report[^video] on the subject[^ytb]!
+
+[^imperva]: Blog post: [Breaking Down Mirai: An IoT DDoS Botnet Analysis](https://www.imperva.com/blog/malware-analysis-mirai-ddos-botnet/)
+
+[^video]: Video post: [Inside of an IoT Botnet](https://www.youtube.com/watch?v=5fVBB84OiAo)
+
+[^ytb]: Video post: [Understanding the Mirai Botnet](https://www.youtube.com/watch?v=1pywzRTJDaY)

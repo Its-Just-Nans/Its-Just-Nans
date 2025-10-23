@@ -7,7 +7,7 @@
         "homepageUrl": "https://n4n5.dev/.well-known/",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 624,
+        "diskUsage": 634,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -21,7 +21,7 @@
         "homepageUrl": "https://Its-Just-Nans.github.io",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 24786,
+        "diskUsage": 24872,
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
@@ -281,7 +281,7 @@
         "description": "Quick and dirty cors proxy",
         "stargazerCount": 1,
         "homepageUrl": "https://crates.io/crates/cors-proxy",
-        "forkCount": 1,
+        "forkCount": 0,
         "licenseInfo": {
             "name": "MIT License"
         },
@@ -299,7 +299,7 @@
         "homepageUrl": "https://crates.io/users/Its-Just-Nans",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 52,
+        "diskUsage": 58,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -700,7 +700,7 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 6293,
+        "diskUsage": 6295,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -714,7 +714,7 @@
         "homepageUrl": "https://its-just-nans.github.io/golb",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 3114,
+        "diskUsage": 3118,
         "primaryLanguage": null
     },
     {
@@ -1684,7 +1684,7 @@
         "homepageUrl": "https://thoughts.n4n5.dev/",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 31963,
+        "diskUsage": 31982,
         "primaryLanguage": {
             "name": "MDX",
             "color": "#fcb32c"
@@ -1806,7 +1806,7 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 1839,
+        "diskUsage": 1844,
         "primaryLanguage": {
             "name": "MDX",
             "color": "#fcb32c"

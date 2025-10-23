@@ -1,0 +1,32 @@
+---
+title: Using Pico and ESP32
+date: 2024-01-31
+description: How to upload programs on Pico and ESP32
+---
+
+## Raspberry Pico: relp a program with [`rshell`](https://github.com/dhylands/rshell)
+
+- Press the BOOTSEL button on the Pico while connecting the Pico to the computer with a USB cable
+- The Pico will appear as an USB drive
+- Download the micropython bootloader (`.utf2`): [https://micropython.org/download/RPI_PICO/](https://micropython.org/download/RPI_PICO/)
+- Drag and drop the `.utf2` on the Pico USB drive
+- The Pico will disconnect and reconnect as a new USB drive
+- Install `rshell` with `python -m pip install rshell`
+- Add the user to the `dialout` group with `sudo usermod -a -G dialout $USER`
+- start `rshell`, it will automatically connect to it
+- To start a RELP enter `repl`, you will see three right arrows “>>>”
+
+## Raspberry Pico: upload a program with `pyboard`
+
+- Download `pyboard.py` from https://raw.githubusercontent.com/micropython/micropython/master/tools/pyboard.py
+- Create your program `boot.py`
+- Run `python3 pyboard.py --device /dev/ttyUSB0 -f cp :boot.py boot.py`
+
+## ESP32: upload a program with [Arduino IDE](https://www.arduino.cc/en/software)
+
+- Install the ESP32 board in the Arduino IDE
+- Select the board and the port
+- Press button RESET (EN) on the ESP32 until `Connecting...` appears in the IDE
+- The program will upload
+
+> Arduino core for the ESP32: https://github.com/espressif/arduino-esp32
