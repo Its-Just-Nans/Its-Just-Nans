@@ -4,7 +4,9 @@ sidebar_name: make
 ---
 
 - <https://makefiletutorial.com/>
-- If you use `make` for task automation, check <https://github.com/jdx/mise>
+- If you use `make` for task automation, check
+  - <https://github.com/casey/just>
+  - <https://github.com/jdx/mise>
 
 ## Example with task
 
