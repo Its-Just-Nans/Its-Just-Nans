@@ -7,7 +7,7 @@
         "homepageUrl": "https://n4n5.dev/.well-known/",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 634,
+        "diskUsage": 19153,
         "primaryLanguage": {
             "name": "MDX",
             "color": "#fcb32c"
@@ -21,7 +21,7 @@
         "homepageUrl": "https://Its-Just-Nans.github.io",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 24872,
+        "diskUsage": 24879,
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
@@ -493,22 +493,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/eggs",
-        "name": "eggs",
-        "description": "PoC - because I always forgor",
-        "stargazerCount": 1,
-        "homepageUrl": "https://eggs.n4n5.dev/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "diskUsage": 31,
-        "primaryLanguage": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/events-hook",
         "name": "events-hook",
         "description": "Easily sharing state between component",
@@ -700,7 +684,7 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 6295,
+        "diskUsage": 6312,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -714,7 +698,7 @@
         "homepageUrl": "https://its-just-nans.github.io/golb",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 3118,
+        "diskUsage": 3119,
         "primaryLanguage": null
     },
     {
