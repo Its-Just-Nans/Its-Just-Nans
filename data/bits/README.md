@@ -284,6 +284,7 @@
 - <https://github.com/luigifcruz/CyberEther>
 - <https://whatsmyname.app/> - search username on many platforms
 - <https://www.carcarekiosk.com/>
+- <https://libredirect.github.io/> - use alternative privacy-friendly website
 - <https://www.startmycar.com/>
 - <https://anivetvoyage.com/> - travel with pets
 - <https://makemydrivefun.com/> - make my drive fun
