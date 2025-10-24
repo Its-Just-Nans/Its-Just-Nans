@@ -9,8 +9,8 @@
         "licenseInfo": null,
         "diskUsage": 634,
         "primaryLanguage": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
+            "name": "MDX",
+            "color": "#fcb32c"
         }
     },
     {
@@ -1764,20 +1764,6 @@
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/website-articles",
-        "name": "website-articles",
-        "description": "🌐 - Articles of n4n5.dev",
-        "stargazerCount": 1,
-        "homepageUrl": "https://n4n5.dev/articles/",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "diskUsage": 18649,
-        "primaryLanguage": {
-            "name": "MDX",
-            "color": "#fcb32c"
         }
     },
     {
