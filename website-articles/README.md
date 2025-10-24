@@ -6,4 +6,4 @@ Links:
 
 - <https://n4n5.dev/articles/> - List of all articles
 
-See also `golb-articles` at <https://github.com/Its-Just-Nans/golb-articles>
+See also `golb` at <https://golb.n4n5.dev>
