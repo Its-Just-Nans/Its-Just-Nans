@@ -15,7 +15,8 @@
             "git-migrator",
             "indexage",
             "anrt-checker",
-            "businessfrance-checker"
+            "businessfrance-checker",
+            "photo-copier"
         ],
         "shields": [
             "https://img.shields.io/pypi/dd/:package",
