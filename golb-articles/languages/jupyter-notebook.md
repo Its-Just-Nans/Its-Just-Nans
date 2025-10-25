@@ -1,4 +1,8 @@
-# Jupyter notebook - ipynb
+---
+title: Jupyter notebook - ipynb
+---
+
+## Ignore warnings
 
 ```python
 import warnings

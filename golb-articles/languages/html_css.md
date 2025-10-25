@@ -1,8 +1,7 @@
 ---
 sidebar_name: HTML - CSS
+title: HTML && CSS
 ---
-
-# HTML && CSS
 
 ## Can be useful
 

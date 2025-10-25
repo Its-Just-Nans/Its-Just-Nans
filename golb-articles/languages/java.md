@@ -1,4 +1,6 @@
-# Java
+---
+title: Java
+---
 
 ## try catch with `AutoCloseable`
 

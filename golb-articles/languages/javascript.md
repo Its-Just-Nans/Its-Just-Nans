@@ -1,4 +1,7 @@
-# NodeJS
+---
+title: JavaScript && NodeJS
+sidebar_name: NodeJS
+---
 
 ## Simple HTTP server
 
