@@ -216,6 +216,7 @@
 - <https://wiki.mozilla.org/Areweyet>
 - <https://www.recyclermonbateau.fr/> - boat recycling
 - <https://c-git.github.io/>
+- <https://learnxinyminutes.com/> - Learn X in Y minutes
 - <https://www.aaaaaaaaaa.org/> - making research more accessible
 - <https://paroj.github.io/gltut/> - modern 3D graphics programming
 - <https://isuckatcs.github.io/how-to-compile-your-language/>
