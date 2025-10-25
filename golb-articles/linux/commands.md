@@ -146,7 +146,7 @@ fg # change to foreground
 bg # sent it to background
 ```
 
-## tar && untar
+## `tar` and `untar`
 
 ```sh
 # create
@@ -158,7 +158,7 @@ tar -cvzf archive.tar.gz directory
 tar -xvf archive.tar.gz -C extracted
 ```
 
-## zip && unzip
+## `zip` and `unzip`
 
 ```sh
 # create

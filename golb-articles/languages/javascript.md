@@ -25,7 +25,7 @@ npx http-server
 
 Reference: [http-server](https://www.npmjs.com/package/http-server)
 
-## `npm` && `npx`
+## `npm` and `npx`
 
 - `npm` means "Node Packet Manager" and [a lot of things](https://github.com/npm/npm-expansions)
 - `npx` means "Node Package eXecute", it download and execute the package
