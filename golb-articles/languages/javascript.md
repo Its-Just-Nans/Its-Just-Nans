@@ -1,6 +1,6 @@
 ---
 title: JavaScript && NodeJS
-sidebar_name: NodeJS
+sidebar_name: Javascript
 ---
 
 ## Simple HTTP server

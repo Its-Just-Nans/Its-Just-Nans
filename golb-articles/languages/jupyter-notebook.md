@@ -1,5 +1,6 @@
 ---
 title: Jupyter notebook - ipynb
+sidebar_name: Jupyter-notebook
 ---
 
 ## Ignore warnings
