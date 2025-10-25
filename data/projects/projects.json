@@ -156,7 +156,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/bandwidth-calculator",
         "name": "bandwidth-calculator",
-        "description": "🛠️ A simple HTML bandwidth calculator",
+        "description": "PoC - A simple HTML bandwidth calculator",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/bandwidth-calculator",
         "forkCount": 0,
@@ -207,7 +207,7 @@
         "homepageUrl": "https://n4n5.dev/can-be-useful/",
         "forkCount": 1,
         "licenseInfo": null,
-        "diskUsage": 29016,
+        "diskUsage": 29434,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -431,7 +431,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/domains",
         "name": "domains",
-        "description": "🛠️ Check domains availability",
+        "description": "PoC - Check domains availability",
         "stargazerCount": 1,
         "homepageUrl": "https://its-just-nans.github.io/domains/",
         "forkCount": 0,
@@ -479,7 +479,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/ffmpeg-cropper",
         "name": "ffmpeg-cropper",
-        "description": "🛠️ Easily get the ffmpeg crop filter for your video",
+        "description": "PoC - Easily get the ffmpeg crop filter for your video",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/ffmpeg-cropper/",
         "forkCount": 0,
@@ -554,7 +554,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/function-viewer",
         "name": "function-viewer",
-        "description": "🛠️ See moving functions in 3D",
+        "description": "PoC - See moving functions in 3D",
         "stargazerCount": 2,
         "homepageUrl": "https://its-just-nans.github.io/function-viewer/",
         "forkCount": 0,
@@ -753,7 +753,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/json-editor",
         "name": "json-editor",
-        "description": "🛠️ A simple json editor in your browser",
+        "description": "PoC - A simple json editor in your browser",
         "stargazerCount": 2,
         "homepageUrl": "https://n4n5.dev/json-editor/",
         "forkCount": 0,
@@ -983,22 +983,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/npm-license-dependencies",
-        "name": "npm-license-dependencies",
-        "description": "🛠️ Easily download licenses of your dependencies",
-        "stargazerCount": 0,
-        "homepageUrl": "https://npm-license-dependencies.vercel.app",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "diskUsage": 74,
-        "primaryLanguage": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/obs-webview",
         "name": "obs-webview",
         "description": "PoC - Control a web page for OBS",
@@ -1033,7 +1017,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/php-list-api",
         "name": "php-list-api",
-        "description": "🛠️ Create a simple (GitHub like) API to list your files",
+        "description": "PoC - Create a simple (GitHub like) API to list your files",
         "stargazerCount": 0,
         "homepageUrl": "",
         "forkCount": 0,
@@ -1351,7 +1335,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/shared-qr-code",
         "name": "shared-qr-code",
-        "description": "🛠️ Shared qr-code",
+        "description": "PoC - Shared qr-code",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/shared-qr-code",
         "forkCount": 0,
