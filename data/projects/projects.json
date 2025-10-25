@@ -7,7 +7,7 @@
         "homepageUrl": "https://n4n5.dev/.well-known/",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 23110,
+        "diskUsage": 23120,
         "primaryLanguage": {
             "name": "MDX",
             "color": "#fcb32c"
@@ -21,7 +21,7 @@
         "homepageUrl": "https://Its-Just-Nans.github.io",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 24760,
+        "diskUsage": 24765,
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
@@ -207,7 +207,7 @@
         "homepageUrl": "https://n4n5.dev/can-be-useful/",
         "forkCount": 1,
         "licenseInfo": null,
-        "diskUsage": 28507,
+        "diskUsage": 29016,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -767,22 +767,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/lab",
-        "name": "lab",
-        "description": "Some experiments with (mostly) svelte",
-        "stargazerCount": 1,
-        "homepageUrl": "https://n4n5.dev/lab/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "diskUsage": 588,
-        "primaryLanguage": {
-            "name": "Svelte",
-            "color": "#ff3e00"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/lambdaless-functions",
         "name": "lambdaless-functions",
         "description": "PoC - lambdaless API with explanations",
@@ -1037,8 +1021,10 @@
         "stargazerCount": 0,
         "homepageUrl": "",
         "forkCount": 0,
-        "licenseInfo": null,
-        "diskUsage": 40,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 46,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
