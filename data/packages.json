@@ -16,7 +16,8 @@
             "indexage",
             "anrt-checker",
             "businessfrance-checker",
-            "photo-copier"
+            "photo-copier",
+            "motp"
         ],
         "shields": [
             "https://img.shields.io/pypi/dd/:package",
