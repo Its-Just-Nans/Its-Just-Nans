@@ -7,7 +7,7 @@
         "homepageUrl": "https://n4n5.dev/.well-known/",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 23129,
+        "diskUsage": 23136,
         "primaryLanguage": {
             "name": "MDX",
             "color": "#fcb32c"
@@ -21,7 +21,7 @@
         "homepageUrl": "https://Its-Just-Nans.github.io",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 24774,
+        "diskUsage": 24780,
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
@@ -53,7 +53,7 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 8602,
+        "diskUsage": 8604,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -177,7 +177,7 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 107,
+        "diskUsage": 108,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -278,7 +278,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/crates",
         "name": "crates",
-        "description": "PoC - Parking for my crates",
+        "description": "🛠️ Parking for my crates",
         "stargazerCount": 0,
         "homepageUrl": "https://crates.io/users/Its-Just-Nans",
         "forkCount": 0,
@@ -577,7 +577,7 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 407,
+        "diskUsage": 408,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -652,7 +652,7 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 6353,
+        "diskUsage": 6354,
         "primaryLanguage": {
             "name": "TypeScript",
             "color": "#3178c6"
@@ -744,7 +744,7 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 165,
+        "diskUsage": 166,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -898,7 +898,7 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 19,
+        "diskUsage": 24,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -1008,7 +1008,7 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 46,
+        "diskUsage": 48,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -1517,7 +1517,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/svg-packages-stats",
         "name": "svg-packages-stats",
-        "description": "🛠️ Display packages stats on your Profile!",
+        "description": "Display packages stats on your Profile!",
         "stargazerCount": 0,
         "homepageUrl": "https://svg-packages-stats.vercel.app/api?author=n4n5",
         "forkCount": 0,
@@ -1540,7 +1540,7 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 499,
+        "diskUsage": 500,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -1673,7 +1673,7 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 153,
+        "diskUsage": 154,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"

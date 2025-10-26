@@ -8102,7 +8102,7 @@
             "baseRepository": {
                 "url": "https://github.com/typst/typst",
                 "name": "typst",
-                "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+                "description": "A markup-based typesetting system that is powerful and easy to learn.",
                 "owner": {
                     "login": "typst"
                 },
