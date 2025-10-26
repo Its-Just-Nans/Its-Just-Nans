@@ -7,7 +7,7 @@
         "homepageUrl": "https://n4n5.dev/.well-known/",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 19153,
+        "diskUsage": 23129,
         "primaryLanguage": {
             "name": "MDX",
             "color": "#fcb32c"
@@ -16,31 +16,15 @@
     {
         "url": "https://github.com/Its-Just-Nans/Its-Just-Nans.github.io",
         "name": "Its-Just-Nans.github.io",
-        "description": "Its-Just-Nans's Page",
+        "description": "🌐 Its-Just-Nans's Page",
         "stargazerCount": 1,
         "homepageUrl": "https://Its-Just-Nans.github.io",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 24879,
+        "diskUsage": 24774,
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/ais-checker",
-        "name": "ais-checker",
-        "description": "PoC - AIS checker",
-        "stargazerCount": 1,
-        "homepageUrl": "",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "diskUsage": 4,
-        "primaryLanguage": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
         }
     },
     {
@@ -78,7 +62,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/arduino-led-matrix",
         "name": "arduino-led-matrix",
-        "description": "An 8x8 arduino led matrix",
+        "description": "🛠️ An 8x8 arduino led matrix",
         "stargazerCount": 0,
         "homepageUrl": "https://n4n5.dev/articles/arduino-led-matrix/",
         "forkCount": 0,
@@ -172,7 +156,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/bandwidth-calculator",
         "name": "bandwidth-calculator",
-        "description": "A simple HTML bandwidth calculator",
+        "description": "PoC - A simple HTML bandwidth calculator",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/bandwidth-calculator",
         "forkCount": 0,
@@ -218,12 +202,12 @@
     {
         "url": "https://github.com/Its-Just-Nans/can-be-useful",
         "name": "can-be-useful",
-        "description": "Can these codes be useful? Yes",
+        "description": "🛠️ Can these codes be useful? Yes",
         "stargazerCount": 2,
         "homepageUrl": "https://n4n5.dev/can-be-useful/",
         "forkCount": 1,
         "licenseInfo": null,
-        "diskUsage": 28499,
+        "diskUsage": 29457,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -356,7 +340,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/cyberdeck",
         "name": "cyberdeck",
-        "description": "Building a cyberdeck",
+        "description": "🛠️ Building a cyberdeck",
         "stargazerCount": 0,
         "homepageUrl": "https://n4n5.dev/cyberdeck/",
         "forkCount": 0,
@@ -376,7 +360,7 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 35,
+        "diskUsage": 38,
         "primaryLanguage": {
             "name": "Shell",
             "color": "#89e051"
@@ -445,25 +429,9 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/dojo-snake",
-        "name": "dojo-snake",
-        "description": "Dojo Snake with BAM",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "diskUsage": 522,
-        "primaryLanguage": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/domains",
         "name": "domains",
-        "description": "Check domains availability",
+        "description": "PoC - Check domains availability",
         "stargazerCount": 1,
         "homepageUrl": "https://its-just-nans.github.io/domains/",
         "forkCount": 0,
@@ -479,7 +447,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/dotfiles",
         "name": "dotfiles",
-        "description": "dotfiles",
+        "description": "🛠️ dotfiles",
         "stargazerCount": 1,
         "homepageUrl": "",
         "forkCount": 0,
@@ -511,7 +479,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/ffmpeg-cropper",
         "name": "ffmpeg-cropper",
-        "description": "Easily get the ffmpeg crop filter for your video",
+        "description": "PoC - Easily get the ffmpeg crop filter for your video",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/ffmpeg-cropper/",
         "forkCount": 0,
@@ -557,7 +525,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/flat-hinge",
         "name": "flat-hinge",
-        "description": "just some 3d flat hinges",
+        "description": "🛠️ just some 3d flat hinges",
         "stargazerCount": 0,
         "homepageUrl": "",
         "forkCount": 0,
@@ -586,7 +554,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/function-viewer",
         "name": "function-viewer",
-        "description": "See moving functions in 3D",
+        "description": "PoC - See moving functions in 3D",
         "stargazerCount": 2,
         "homepageUrl": "https://its-just-nans.github.io/function-viewer/",
         "forkCount": 0,
@@ -677,29 +645,18 @@
     {
         "url": "https://github.com/Its-Just-Nans/golb",
         "name": "golb",
-        "description": "\"golb\".split(\"\").reverse().join(\"\")",
+        "description": "🌐 \"golb\".split(\"\").reverse().join(\"\")",
         "stargazerCount": 1,
         "homepageUrl": "https://golb.n4n5.dev/",
         "forkCount": 0,
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 6312,
+        "diskUsage": 6353,
         "primaryLanguage": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
+            "name": "TypeScript",
+            "color": "#3178c6"
         }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/golb-articles",
-        "name": "golb-articles",
-        "description": "🌐 - Articles of golb.n4n5.dev",
-        "stargazerCount": 1,
-        "homepageUrl": "https://its-just-nans.github.io/golb",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "diskUsage": 3119,
-        "primaryLanguage": null
     },
     {
         "url": "https://github.com/Its-Just-Nans/greener",
@@ -796,7 +753,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/json-editor",
         "name": "json-editor",
-        "description": "A simple json editor in your browser",
+        "description": "PoC - A simple json editor in your browser",
         "stargazerCount": 2,
         "homepageUrl": "https://n4n5.dev/json-editor/",
         "forkCount": 0,
@@ -804,22 +761,6 @@
             "name": "MIT License"
         },
         "diskUsage": 20,
-        "primaryLanguage": {
-            "name": "Svelte",
-            "color": "#ff3e00"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/lab",
-        "name": "lab",
-        "description": "Some experiments with (mostly) svelte",
-        "stargazerCount": 1,
-        "homepageUrl": "https://n4n5.dev/lab/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "diskUsage": 588,
         "primaryLanguage": {
             "name": "Svelte",
             "color": "#ff3e00"
@@ -957,7 +898,7 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 17,
+        "diskUsage": 19,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -1035,26 +976,10 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 112,
+        "diskUsage": 116,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/npm-license-dependencies",
-        "name": "npm-license-dependencies",
-        "description": "Easily download licenses of your dependencies",
-        "stargazerCount": 0,
-        "homepageUrl": "https://npm-license-dependencies.vercel.app",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "diskUsage": 74,
-        "primaryLanguage": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
         }
     },
     {
@@ -1074,14 +999,16 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/photo-copy",
-        "name": "photo-copy",
+        "url": "https://github.com/Its-Just-Nans/photo-copier",
+        "name": "photo-copier",
         "description": "Python code to transfer pictures easily",
         "stargazerCount": 0,
         "homepageUrl": "",
         "forkCount": 0,
-        "licenseInfo": null,
-        "diskUsage": 40,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 46,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -1090,7 +1017,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/php-list-api",
         "name": "php-list-api",
-        "description": "Create a simple (GitHub like) API to list your files",
+        "description": "PoC - Create a simple (GitHub like) API to list your files",
         "stargazerCount": 0,
         "homepageUrl": "",
         "forkCount": 0,
@@ -1274,23 +1201,9 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/readme-compiler",
-        "name": "readme-compiler",
-        "description": "An online README Compiler",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/readme-compiler",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "diskUsage": 1905,
-        "primaryLanguage": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/rio",
         "name": "rio",
-        "description": "unofficial RIO website",
+        "description": "🌐 unofficial RIO website",
         "stargazerCount": 1,
         "homepageUrl": "https://rio.n4n5.dev/",
         "forkCount": 0,
@@ -1364,7 +1277,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/rt",
         "name": "rt",
-        "description": "The website for R&T students!",
+        "description": "🌐 The website for R&T students!",
         "stargazerCount": 1,
         "homepageUrl": "https://rt.n4n5.dev/",
         "forkCount": 0,
@@ -1378,7 +1291,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/rust-apk",
         "name": "rust-apk",
-        "description": "egui/eframe as apk",
+        "description": "PoC - egui/eframe as apk",
         "stargazerCount": 0,
         "homepageUrl": "",
         "forkCount": 1,
@@ -1422,7 +1335,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/shared-qr-code",
         "name": "shared-qr-code",
-        "description": "shared-qr-code",
+        "description": "PoC - Shared qr-code",
         "stargazerCount": 0,
         "homepageUrl": "https://its-just-nans.github.io/shared-qr-code",
         "forkCount": 0,
@@ -1468,7 +1381,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/sportiva",
         "name": "sportiva",
-        "description": "Ineffable Sport Application",
+        "description": "🌐 Ineffable Sport Application",
         "stargazerCount": 1,
         "homepageUrl": "https://sportiva.n4n5.dev/",
         "forkCount": 0,
@@ -1604,7 +1517,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/svg-packages-stats",
         "name": "svg-packages-stats",
-        "description": "Display packages stats on your Profile!",
+        "description": "🛠️ Display packages stats on your Profile!",
         "stargazerCount": 0,
         "homepageUrl": "https://svg-packages-stats.vercel.app/api?author=n4n5",
         "forkCount": 0,
@@ -1663,15 +1576,15 @@
     {
         "url": "https://github.com/Its-Just-Nans/thoughts",
         "name": "thoughts",
-        "description": "just thoughts",
+        "description": "🌐 just thoughts",
         "stargazerCount": 1,
         "homepageUrl": "https://thoughts.n4n5.dev/",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 31982,
+        "diskUsage": 31987,
         "primaryLanguage": {
-            "name": "MDX",
-            "color": "#fcb32c"
+            "name": "Astro",
+            "color": "#ff5a03"
         }
     },
     {
@@ -1769,14 +1682,14 @@
     {
         "url": "https://github.com/Its-Just-Nans/yakb",
         "name": "yakb",
-        "description": "YakB - Yet Another Knowledge Base",
+        "description": "🌐 YakB - Yet Another Knowledge Base",
         "stargazerCount": 1,
         "homepageUrl": "https://yakb.n4n5.dev/",
         "forkCount": 0,
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 1844,
+        "diskUsage": 2137,
         "primaryLanguage": {
             "name": "MDX",
             "color": "#fcb32c"

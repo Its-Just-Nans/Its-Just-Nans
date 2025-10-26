@@ -166,6 +166,7 @@
 - <https://github.com/amilajack/reading/blob/master/Computer_Science/Compiler%20Construction.pdf>
 - <https://fr.wikipedia.org/wiki/Dragon_book> - compiler dragon book
 - <https://couleur-science.eu/?random>
+- <https://github.com/naklecha/llama3-from-scratch> - llama3 tutorial
 - <http://www.isthe.com/chongo/index.html>
 - <https://github.com/EbookFoundation/free-programming-books>
 - <https://github.com/goabstract/Marketing-for-Engineers>
@@ -216,6 +217,7 @@
 - <https://wiki.mozilla.org/Areweyet>
 - <https://www.recyclermonbateau.fr/> - boat recycling
 - <https://c-git.github.io/>
+- <https://learnxinyminutes.com/> - Learn X in Y minutes
 - <https://www.aaaaaaaaaa.org/> - making research more accessible
 - <https://paroj.github.io/gltut/> - modern 3D graphics programming
 - <https://isuckatcs.github.io/how-to-compile-your-language/>
