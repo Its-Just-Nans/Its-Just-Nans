@@ -7,7 +7,7 @@
         "homepageUrl": "https://n4n5.dev/.well-known/",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 23120,
+        "diskUsage": 23129,
         "primaryLanguage": {
             "name": "MDX",
             "color": "#fcb32c"
@@ -21,7 +21,7 @@
         "homepageUrl": "https://Its-Just-Nans.github.io",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 24765,
+        "diskUsage": 24774,
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
@@ -207,7 +207,7 @@
         "homepageUrl": "https://n4n5.dev/can-be-useful/",
         "forkCount": 1,
         "licenseInfo": null,
-        "diskUsage": 29434,
+        "diskUsage": 29457,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -891,14 +891,14 @@
     {
         "url": "https://github.com/Its-Just-Nans/motp",
         "name": "motp",
-        "description": "🛠️ mOTP generator",
+        "description": "mOTP generator",
         "stargazerCount": 1,
         "homepageUrl": "https://motp.n4n5.dev/",
         "forkCount": 0,
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 17,
+        "diskUsage": 19,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
