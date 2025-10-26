@@ -1,42 +1,34 @@
-[
-    {
+{
+    "GitHub": {
         "ico": "github.png",
-        "name": "GitHub",
         "link": "https://github.com/Its-Just-Nans"
     },
-    {
+    "Gitlab": {
         "ico": "gitlab.png",
-        "name": "Gitlab",
         "link": "https://gitlab.com/n4n5"
     },
-    {
+    "Codeberg": {
         "ico": "codeberg.png",
-        "name": "Codeberg",
         "link": "https://codeberg.org/n4n5"
     },
-    {
+    "keyoxide.org": {
         "ico": "keyoxide.png",
-        "name": "keyoxide.org",
         "link": "https://keyoxide.org/aspe:keyoxide.org:CHHT4XNWYVCGHGRLZWKRWB2M6M"
     },
-    {
+    "Keybase.io": {
         "ico": "keybase.png",
-        "name": "Keybase.io",
         "link": "https://keybase.io/n4n5"
     },
-    {
+    "Pypi": {
         "ico": "pypi.png",
-        "name": "Pypi",
         "link": "https://pypi.org/user/n4n5/"
     },
-    {
+    "NPM": {
         "ico": "npm.png",
-        "name": "NPM",
         "link": "https://www.npmjs.com/~n4n5"
     },
-    {
+    "Crates.io": {
         "ico": "cargo.png",
-        "name": "Crates.io",
         "link": "https://crates.io/users/Its-Just-Nans"
     }
-]
+}
