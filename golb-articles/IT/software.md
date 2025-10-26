@@ -213,9 +213,6 @@ yt-dlp --yes-playlist -f ba -x --audio-format m4a -o "%(playlist_index)s_%(title
 
 ## Random links
 
-- [http://www-igm.univ-mlv.fr/~dr/expose.php](http://www-igm.univ-mlv.fr/~dr/expose.php) - exposé random
 - [https://web.maths.unsw.edu.au/~lafaye/CCM/](https://web.maths.unsw.edu.au/~lafaye/CCM/) - Comment ça marche
 - [http://deptinfo.cnam.fr/Enseignement/Memoires/LUSTEAU.Franck/Pages/Les_codages.htm](http://deptinfo.cnam.fr/Enseignement/Memoires/LUSTEAU.Franck/Pages/Les_codages.htm)
-- [https://app.senecalearning.com/courses](https://app.senecalearning.com/courses) - courses all levels
-- [CUT101](https://www.youtube.com/watch?v=OAH0MoAv2CI) - Cuts & Transitions 101
 - [https://www.courstechinfo.be/](https://www.courstechinfo.be/) - technonoly courses
