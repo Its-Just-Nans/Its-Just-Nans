@@ -64,6 +64,7 @@ To increase use ARROW_UP, to decrease use ARROW_DOWN
 <meta name="description" content={desc} />
 <meta name="keywords" content={keywords} />
 <link rel="icon" href="/favicon.ico" />
+<link rel="canonical" href={url}>
 <meta name="google-site-verification" content={key} />
 
 <meta property="og:url" content={url} />
