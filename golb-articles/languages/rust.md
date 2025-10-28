@@ -79,3 +79,11 @@ cd target/llvm-cov/html && python -m http.server
 ```
 
 > <https://github.com/taiki-e/cargo-llvm-cov>
+
+## cargo tree
+
+```sh
+cargo tree -e features
+
+cargo tree -f "{p} {f}"
+```
