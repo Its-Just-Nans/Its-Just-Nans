@@ -8636,5 +8636,135 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOALTHTM6vxosp",
+            "number": 9040,
+            "title": "fix: show ignored args",
+            "url": "https://github.com/uutils/coreutils/pull/9040",
+            "state": "MERGED",
+            "createdAt": "2025-10-26T23:57:14Z",
+            "baseRepository": {
+                "url": "https://github.com/uutils/coreutils",
+                "name": "coreutils",
+                "description": "Cross-platform Rust rewrite of the GNU coreutils",
+                "owner": {
+                    "login": "uutils"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOALTHTM6vxpP-",
+            "number": 9041,
+            "title": "fix: make visible alias",
+            "url": "https://github.com/uutils/coreutils/pull/9041",
+            "state": "MERGED",
+            "createdAt": "2025-10-27T00:01:04Z",
+            "baseRepository": {
+                "url": "https://github.com/uutils/coreutils",
+                "name": "coreutils",
+                "description": "Cross-platform Rust rewrite of the GNU coreutils",
+                "owner": {
+                    "login": "uutils"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOALTHTM6vxt4c",
+            "number": 9042,
+            "title": "Fix wrong alias l",
+            "url": "https://github.com/uutils/coreutils/pull/9042",
+            "state": "CLOSED",
+            "createdAt": "2025-10-27T00:16:56Z",
+            "baseRepository": {
+                "url": "https://github.com/uutils/coreutils",
+                "name": "coreutils",
+                "description": "Cross-platform Rust rewrite of the GNU coreutils",
+                "owner": {
+                    "login": "uutils"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDONjm3is6wBTZF",
+            "number": 37,
+            "title": "Update canonical link to use Astro.url",
+            "url": "https://github.com/louisescher/spectre/pull/37",
+            "state": "MERGED",
+            "createdAt": "2025-10-27T23:54:50Z",
+            "baseRepository": {
+                "url": "https://github.com/louisescher/spectre",
+                "name": "spectre",
+                "description": "Spectre is a terminal-inspired theme for Astro, built using Astro and TypeScript. ",
+                "owner": {
+                    "login": "louisescher"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "TypeScript",
+                            "color": "#3178c6"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOCd2s286wRX9i",
+            "number": 7674,
+            "title": "docs and examples: Add source code link in demo",
+            "url": "https://github.com/emilk/egui/pull/7674",
+            "state": "OPEN",
+            "createdAt": "2025-10-29T01:53:15Z",
+            "baseRepository": {
+                "url": "https://github.com/emilk/egui",
+                "name": "egui",
+                "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+                "owner": {
+                    "login": "emilk"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Shell",
+                            "color": "#89e051"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
