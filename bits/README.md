@@ -213,6 +213,7 @@
 - <https://lwn.net/> - Linux Weekly News and FOSS
 - <https://missing.csail.mit.edu/> - missing CS semester
 - <https://www.c-language.org/> - C language
+- <https://github.com/FFmpeg/asm-lessons> - asm lessons
 - <http://libpng.org/> - libpng reference
 - <https://wiki.mozilla.org/Areweyet>
 - <https://www.recyclermonbateau.fr/> - boat recycling
