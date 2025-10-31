@@ -7,7 +7,7 @@
         "homepageUrl": "https://n4n5.dev/.well-known/",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 23149,
+        "diskUsage": 23153,
         "primaryLanguage": {
             "name": "MDX",
             "color": "#fcb32c"
@@ -21,7 +21,7 @@
         "homepageUrl": "https://Its-Just-Nans.github.io",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 24781,
+        "diskUsage": 24785,
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
@@ -223,7 +223,7 @@
         "homepageUrl": "https://n4n5.dev/can-be-useful/",
         "forkCount": 1,
         "licenseInfo": null,
-        "diskUsage": 29457,
+        "diskUsage": 29463,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -593,7 +593,7 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 408,
+        "diskUsage": 467,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -653,6 +653,22 @@
             "name": "MIT License"
         },
         "diskUsage": 32,
+        "primaryLanguage": {
+            "name": "Go",
+            "color": "#00ADD8"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/go-simple-uploader",
+        "name": "go-simple-uploader",
+        "description": "go-simple-uploader",
+        "stargazerCount": 0,
+        "homepageUrl": "https://hub.docker.com/r/n4n5/go-simple-uploader",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "diskUsage": 6,
         "primaryLanguage": {
             "name": "Go",
             "color": "#00ADD8"
@@ -1365,20 +1381,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/simple-next-server",
-        "name": "simple-next-server",
-        "description": "🌐 - NextJs server without dir parameter",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "diskUsage": 172,
-        "primaryLanguage": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/sms2call",
         "name": "sms2call",
         "description": "sms2call app",
@@ -1556,7 +1558,7 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 500,
+        "diskUsage": 537,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -1597,10 +1599,10 @@
         "homepageUrl": "https://thoughts.n4n5.dev/",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 31987,
+        "diskUsage": 31989,
         "primaryLanguage": {
-            "name": "Astro",
-            "color": "#ff5a03"
+            "name": "MDX",
+            "color": "#fcb32c"
         }
     },
     {

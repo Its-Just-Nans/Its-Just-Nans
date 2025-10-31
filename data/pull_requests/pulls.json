@@ -8766,5 +8766,161 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM6wRpLr",
+            "number": 460,
+            "title": "fix: print previous error when failing to search another cde",
+            "url": "https://github.com/zip-rs/zip2/pull/460",
+            "state": "OPEN",
+            "createdAt": "2025-10-29T02:47:57Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM6wR5ob",
+            "number": 461,
+            "title": "fix some import",
+            "url": "https://github.com/zip-rs/zip2/pull/461",
+            "state": "OPEN",
+            "createdAt": "2025-10-29T03:38:22Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM6wgIT_",
+            "number": 466,
+            "title": "fix crc32 check only on filename",
+            "url": "https://github.com/zip-rs/zip2/pull/466",
+            "state": "OPEN",
+            "createdAt": "2025-10-30T00:18:24Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM6wgwhJ",
+            "number": 467,
+            "title": "fix: Write ZIP64 data descriptors when large_file option is true",
+            "url": "https://github.com/zip-rs/zip2/pull/467",
+            "state": "MERGED",
+            "createdAt": "2025-10-30T02:08:30Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOFQPBK86wugpG",
+            "number": 1638,
+            "title": "fix: typos and examples",
+            "url": "https://github.com/emqx/blog/pull/1638",
+            "state": "OPEN",
+            "createdAt": "2025-10-30T23:48:55Z",
+            "baseRepository": {
+                "url": "https://github.com/emqx/blog",
+                "name": "blog",
+                "description": "EMQ Blog",
+                "owner": {
+                    "login": "emqx"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Python",
+                            "color": "#3572A5"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM6wumLA",
+            "number": 468,
+            "title": "better write_data_descriptor #467",
+            "url": "https://github.com/zip-rs/zip2/pull/468",
+            "state": "OPEN",
+            "createdAt": "2025-10-31T00:09:39Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

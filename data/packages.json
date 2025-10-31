@@ -66,7 +66,7 @@
     {
         "name": "go",
         "url": "https://pkg.go.dev/github.com/Its-Just-Nans/:package",
-        "list": ["go-calendar"]
+        "list": ["go-calendar", "go-simple-uploader"]
     },
     {
         "name": "lua",
