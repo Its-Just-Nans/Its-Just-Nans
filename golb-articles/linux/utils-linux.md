@@ -280,3 +280,11 @@ grep -oP '(http|https)://[^<"]+' rss.xml | uniq | xargs -n1 lychee -vv
 ```
 
 > <https://github.com/lycheeverse/lychee/>
+
+## Run command on file system change
+
+```sh
+apt install inotify-tools
+# here we do 'ls .' every change
+while true; do inotifywait -r -e MODIFY . && ls .; done
+```
