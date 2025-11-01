@@ -14,8 +14,6 @@ http-server
 npx http-server
 ```
 
-> Légende :
->
 > - `-g` means `--global`
 > - A useful option is `-p` to choose the server port
 > - Example: `http-server -p 80` for a web server
