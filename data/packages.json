@@ -131,7 +131,7 @@
     },
     {
         "name": "typst",
-        "profile": "https://typst.app/universe/search/?q=author%3A%22n4n5%22",
+        "profile": "https://typst.app/universe/search/?q=author:n4n5",
         "url": "https://typst.app/universe/package/:package",
         "list": ["porygon"]
     }
