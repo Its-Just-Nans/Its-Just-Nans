@@ -5,8 +5,6 @@ sidebar_name: Javascript
 
 ## Simple HTTP server
 
-Commande pour créer un serveur web rapidement
-
 ```sh
 npm install -g http-server
 # now use the installed command
@@ -42,6 +40,14 @@ npm outdated
 
 ```bash
 npx -p lolcatjs -p cowsay -c 'echo hello | cowsay | lolcatjs'
+```
+
+## tricks
+
+```js
+const myVar = "" // anything
+console.log(myVar) // don't
+console.log({ myVar }) // do - easier to debug
 ```
 
 ## (stupid) tricks
