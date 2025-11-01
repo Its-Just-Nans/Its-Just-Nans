@@ -7,7 +7,6 @@
         "homepageUrl": "https://n4n5.dev/.well-known/",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 23153,
         "primaryLanguage": {
             "name": "MDX",
             "color": "#fcb32c"
@@ -21,7 +20,6 @@
         "homepageUrl": "https://Its-Just-Nans.github.io",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 24785,
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
@@ -37,7 +35,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 77,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -53,7 +50,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 8604,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -67,7 +63,6 @@
         "homepageUrl": "https://n4n5.dev/articles/arduino-led-matrix/",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 17417,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -83,7 +78,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 7,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -99,7 +93,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 428,
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
@@ -115,7 +108,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 243,
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
@@ -131,7 +123,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 62,
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
@@ -147,7 +138,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 74,
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
@@ -161,7 +151,6 @@
         "homepageUrl": "https://its-just-nans.github.io/bandwidth-calculator",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 12,
         "primaryLanguage": {
             "name": "HTML",
             "color": "#e34c26"
@@ -177,7 +166,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 108,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -193,7 +181,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 7,
         "primaryLanguage": {
             "name": "HTML",
             "color": "#e34c26"
@@ -209,7 +196,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 9,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -223,7 +209,6 @@
         "homepageUrl": "https://n4n5.dev/can-be-useful/",
         "forkCount": 1,
         "licenseInfo": null,
-        "diskUsage": 29463,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -237,7 +222,6 @@
         "homepageUrl": "https://its-just-nans.github.io/cards-game",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 36,
         "primaryLanguage": {
             "name": "HTML",
             "color": "#e34c26"
@@ -253,7 +237,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 27,
         "primaryLanguage": {
             "name": "Svelte",
             "color": "#ff3e00"
@@ -269,7 +252,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 34,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -285,7 +267,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 25,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -299,7 +280,6 @@
         "homepageUrl": "https://crates.io/users/Its-Just-Nans",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 58,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -315,7 +295,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 65,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -331,7 +310,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 53,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -347,7 +325,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 79,
         "primaryLanguage": {
             "name": "Lua",
             "color": "#000080"
@@ -363,7 +340,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 72291,
         "primaryLanguage": null
     },
     {
@@ -376,7 +352,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 38,
         "primaryLanguage": {
             "name": "Shell",
             "color": "#89e051"
@@ -392,7 +367,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 10,
         "primaryLanguage": {
             "name": "HTML",
             "color": "#e34c26"
@@ -408,7 +382,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 6147,
         "primaryLanguage": {
             "name": "Java",
             "color": "#b07219"
@@ -422,7 +395,6 @@
         "homepageUrl": "",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 483,
         "primaryLanguage": {
             "name": "Dockerfile",
             "color": "#384d54"
@@ -438,7 +410,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 1549,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -454,7 +425,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 101,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -470,7 +440,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 102,
         "primaryLanguage": {
             "name": "Shell",
             "color": "#89e051"
@@ -486,7 +455,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 46,
         "primaryLanguage": {
             "name": "TypeScript",
             "color": "#3178c6"
@@ -502,7 +470,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 6,
         "primaryLanguage": {
             "name": "HTML",
             "color": "#e34c26"
@@ -516,7 +483,6 @@
         "homepageUrl": "https://its-just-nans.github.io/fiber-calculator",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 9,
         "primaryLanguage": {
             "name": "Visual Basic .NET",
             "color": "#945db7"
@@ -532,7 +498,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 13,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -548,7 +513,6 @@
         "licenseInfo": {
             "name": "Creative Commons Zero v1.0 Universal"
         },
-        "diskUsage": 6135,
         "primaryLanguage": null
     },
     {
@@ -561,7 +525,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 9,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -577,7 +540,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 124,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -593,7 +555,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 467,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -609,7 +570,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 10,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -625,7 +585,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 376,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -639,7 +598,6 @@
         "homepageUrl": "",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 0,
         "primaryLanguage": null
     },
     {
@@ -652,7 +610,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 32,
         "primaryLanguage": {
             "name": "Go",
             "color": "#00ADD8"
@@ -668,7 +625,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 6,
         "primaryLanguage": {
             "name": "Go",
             "color": "#00ADD8"
@@ -684,7 +640,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 6357,
         "primaryLanguage": {
             "name": "TypeScript",
             "color": "#3178c6"
@@ -698,7 +653,6 @@
         "homepageUrl": "https://its-just-nans.github.io/greener",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 4404,
         "primaryLanguage": {
             "name": "HTML",
             "color": "#e34c26"
@@ -714,7 +668,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 2,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -728,7 +681,6 @@
         "homepageUrl": "",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 206,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -744,7 +696,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 6,
         "primaryLanguage": {
             "name": "Lua",
             "color": "#000080"
@@ -760,7 +711,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 35,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -776,7 +726,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 166,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -792,7 +741,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 20,
         "primaryLanguage": {
             "name": "Svelte",
             "color": "#ff3e00"
@@ -808,7 +756,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 11,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -822,7 +769,6 @@
         "homepageUrl": "",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 127415,
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
@@ -836,7 +782,6 @@
         "homepageUrl": "",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 7,
         "primaryLanguage": {
             "name": "Lua",
             "color": "#000080"
@@ -852,7 +797,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 8,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -868,7 +812,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 6,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -884,7 +827,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 23,
         "primaryLanguage": {
             "name": "Svelte",
             "color": "#ff3e00"
@@ -898,7 +840,6 @@
         "homepageUrl": "",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 54,
         "primaryLanguage": {
             "name": "Java",
             "color": "#b07219"
@@ -914,7 +855,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 15664,
         "primaryLanguage": {
             "name": "Shell",
             "color": "#89e051"
@@ -930,7 +870,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 24,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -944,7 +883,6 @@
         "homepageUrl": "https://n4n5.dev/mouse-data-transfer/",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 25,
         "primaryLanguage": {
             "name": "Svelte",
             "color": "#ff3e00"
@@ -960,7 +898,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 12327,
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
@@ -976,7 +913,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 74,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -992,7 +928,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 144,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -1008,7 +943,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 116,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -1024,7 +958,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 33,
         "primaryLanguage": {
             "name": "Svelte",
             "color": "#ff3e00"
@@ -1040,7 +973,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 48,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -1056,7 +988,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 8,
         "primaryLanguage": {
             "name": "PHP",
             "color": "#4F5D95"
@@ -1072,7 +1003,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 47,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -1088,7 +1018,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 2940,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -1104,7 +1033,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 16520,
         "primaryLanguage": {
             "name": "Svelte",
             "color": "#ff3e00"
@@ -1120,7 +1048,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 270,
         "primaryLanguage": {
             "name": "Typst",
             "color": "#239dad"
@@ -1136,7 +1063,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 548,
         "primaryLanguage": {
             "name": "Svelte",
             "color": "#ff3e00"
@@ -1152,7 +1078,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 570,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -1168,7 +1093,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 4,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -1184,7 +1108,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 19,
         "primaryLanguage": {
             "name": "HTML",
             "color": "#e34c26"
@@ -1198,7 +1121,6 @@
         "homepageUrl": "https://n4n5.dev/radvd-project-website-fork/",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 33211,
         "primaryLanguage": {
             "name": "HTML",
             "color": "#e34c26"
@@ -1212,7 +1134,6 @@
         "homepageUrl": "https://n4n5.dev/rail-planner/",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 37,
         "primaryLanguage": {
             "name": "Svelte",
             "color": "#ff3e00"
@@ -1226,7 +1147,6 @@
         "homepageUrl": "",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 22,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -1240,7 +1160,6 @@
         "homepageUrl": "https://rio.n4n5.dev/",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 32298,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -1256,7 +1175,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 36,
         "primaryLanguage": {
             "name": "C",
             "color": "#555555"
@@ -1272,7 +1190,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 338,
         "primaryLanguage": {
             "name": "TypeScript",
             "color": "#3178c6"
@@ -1286,7 +1203,6 @@
         "homepageUrl": "https://its-just-nans.github.io/rio203-image-detection/",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 18,
         "primaryLanguage": {
             "name": "HTML",
             "color": "#e34c26"
@@ -1300,7 +1216,6 @@
         "homepageUrl": "",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 6761,
         "primaryLanguage": {
             "name": "TeX",
             "color": "#3D6117"
@@ -1314,7 +1229,6 @@
         "homepageUrl": "https://rt.n4n5.dev/",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 12095,
         "primaryLanguage": {
             "name": "HTML",
             "color": "#e34c26"
@@ -1330,7 +1244,6 @@
         "licenseInfo": {
             "name": "Apache License 2.0"
         },
-        "diskUsage": 1918,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -1344,7 +1257,6 @@
         "homepageUrl": "",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 12,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -1358,7 +1270,6 @@
         "homepageUrl": "https://n4n5.dev/ses-102/ses102_pace.pdf",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 22861,
         "primaryLanguage": {
             "name": "TeX",
             "color": "#3D6117"
@@ -1374,7 +1285,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 44,
         "primaryLanguage": {
             "name": "Svelte",
             "color": "#ff3e00"
@@ -1390,7 +1300,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 483,
         "primaryLanguage": {
             "name": "Kotlin",
             "color": "#A97BFF"
@@ -1404,7 +1313,6 @@
         "homepageUrl": "https://sportiva.n4n5.dev/",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 1531,
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
@@ -1420,7 +1328,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 24,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -1436,7 +1343,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 28,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -1450,7 +1356,6 @@
         "homepageUrl": "https://its-just-nans.github.io/string-explorer/",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 37,
         "primaryLanguage": {
             "name": "Svelte",
             "color": "#ff3e00"
@@ -1464,7 +1369,6 @@
         "homepageUrl": "",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 2157,
         "primaryLanguage": {
             "name": "Java",
             "color": "#b07219"
@@ -1478,7 +1382,6 @@
         "homepageUrl": "",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 72,
         "primaryLanguage": {
             "name": "C",
             "color": "#555555"
@@ -1494,7 +1397,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 8,
         "primaryLanguage": {
             "name": "Jupyter Notebook",
             "color": "#DA5B0B"
@@ -1510,7 +1412,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 9,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -1526,7 +1427,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 45,
         "primaryLanguage": {
             "name": "Svelte",
             "color": "#ff3e00"
@@ -1542,7 +1442,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 29,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -1558,7 +1457,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 537,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -1574,7 +1472,6 @@
         "licenseInfo": {
             "name": "Other"
         },
-        "diskUsage": 211,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -1588,7 +1485,6 @@
         "homepageUrl": "",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 79113,
         "primaryLanguage": null
     },
     {
@@ -1599,10 +1495,9 @@
         "homepageUrl": "https://thoughts.n4n5.dev/",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 31989,
         "primaryLanguage": {
-            "name": "MDX",
-            "color": "#fcb32c"
+            "name": "Astro",
+            "color": "#ff5a03"
         }
     },
     {
@@ -1615,7 +1510,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 130,
         "primaryLanguage": {
             "name": "TypeScript",
             "color": "#3178c6"
@@ -1631,7 +1525,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 11,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -1645,7 +1538,6 @@
         "homepageUrl": "",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 97,
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -1659,7 +1551,6 @@
         "homepageUrl": "https://typst-github-io.n4n5.dev/",
         "forkCount": 0,
         "licenseInfo": null,
-        "diskUsage": 11,
         "primaryLanguage": {
             "name": "Shell",
             "color": "#89e051"
@@ -1675,7 +1566,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 67718,
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
@@ -1691,7 +1581,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 154,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -1707,7 +1596,6 @@
         "licenseInfo": {
             "name": "MIT License"
         },
-        "diskUsage": 2137,
         "primaryLanguage": {
             "name": "MDX",
             "color": "#fcb32c"
@@ -1721,7 +1609,6 @@
         "homepageUrl": null,
         "forkCount": null,
         "licenseInfo": null,
-        "diskUsage": null,
         "primaryLanguage": null
     },
     {
@@ -1732,7 +1619,6 @@
         "homepageUrl": null,
         "forkCount": null,
         "licenseInfo": null,
-        "diskUsage": null,
         "primaryLanguage": null
     }
 ]
