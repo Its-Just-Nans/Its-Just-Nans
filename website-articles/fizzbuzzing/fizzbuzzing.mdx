@@ -6,8 +6,8 @@ description: Can we improve FizzBuzz?
 
 import { Code } from "astro/components";
 import { files, useDirective } from "./code.js";
-import SpecialCode from "./SpecialCode.svelte";
-import Button from "./Button.svelte";
+import SpecialCode from "@components/DynamicCode/DynamicCode.astro";
+import Button from "@components/DynamicCode/DynamicCodeButton.astro";
 
 # FizzBuzzing
 
@@ -25,7 +25,7 @@ In this article, we will see the classic version and a second version using a di
 
 If you want to test the javascript code, you can click below to add a special directive which will disable the optimization of the function.
 
-<Button client:load>
+<Button>
     <span slot="button">Use `%NeverOptimizeFunction` directive</span>
     <div slot="on">
         <span>Programmes showed here are using the directive `%NeverOptimizeFunction`.</span>
@@ -39,7 +39,7 @@ If you want to test the javascript code, you can click below to add a special di
 
 ## Classic FizzBuzz in Javascript
 
-<SpecialCode client:load>
+<SpecialCode>
     <Code lang="js" code={useDirective(files["fizzbuzz_0.js"], true)} slot="on" />
     <Code lang="js" code={useDirective(files["fizzbuzz_0.js"], false)} slot="off" />
 </SpecialCode>
@@ -62,7 +62,7 @@ Now let's use that information to "optimize" the program: we don't need to test 
 
 ## FizzBuzz in Javascript using array
 
-<SpecialCode client:load>
+<SpecialCode>
     <Code lang="js" code={useDirective(files["fizzbuzz_1.js"], true)} slot="on" />
     <Code lang="js" code={useDirective(files["fizzbuzz_1.js"], false)} slot="off" />
 </SpecialCode>
@@ -73,7 +73,7 @@ Array are great, but we have some useless `0` values in it 😯!
 
 Here is an optimized version, using an object to remove useless `0` values.
 
-<SpecialCode client:load>
+<SpecialCode>
     <Code lang="js" code={useDirective(files["fizzbuzz_2.js"], true)} slot="on" />
     <Code lang="js" code={useDirective(files["fizzbuzz_2.js"], false)} slot="off" />
 </SpecialCode>

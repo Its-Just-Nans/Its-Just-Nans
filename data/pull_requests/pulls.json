@@ -2024,27 +2024,6 @@
     },
     {
         "node": {
-            "id": "PR_kwDOG4gshM4zPCB7",
-            "number": 1,
-            "title": "New card member",
-            "url": "https://github.com/Bel-Art/members/pull/1",
-            "state": "MERGED",
-            "createdAt": "2022-02-21T15:10:05Z",
-            "baseRepository": {
-                "url": "https://github.com/Bel-Art/members",
-                "name": "members",
-                "description": "Members of the club",
-                "owner": {
-                    "login": "Bel-Art"
-                },
-                "languages": {
-                    "nodes": []
-                }
-            }
-        }
-    },
-    {
-        "node": {
             "id": "PR_kwDOFIRG9c41Qq7-",
             "number": 2,
             "title": "[fix] create send file function",
