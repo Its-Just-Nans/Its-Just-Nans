@@ -134,5 +134,13 @@
         "profile": "https://typst.app/universe/search/?q=author:n4n5",
         "url": "https://typst.app/universe/package/:package",
         "list": ["porygon"]
+    },
+    {
+        "name": "thingiverse",
+        "profile": "https://www.thingiverse.com/n4n5/designs",
+        "list": ["flat-hinge"],
+        "urls": {
+            "flat-hinge": "https://www.thingiverse.com/thing:4928759"
+        }
     }
 ]
