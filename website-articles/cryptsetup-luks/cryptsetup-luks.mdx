@@ -7,23 +7,23 @@ description: using cryptsetup to create a LUKS encrypted volume
 export let values = {
     "$cryptsetup_name": {
         text: "cryptsetup name",
-        value:"encrypted"
+        value: "encrypted"
     },
-    "$luks_label" : {
+    "$luks_label": {
         text: "LUKS label",
         value: "ENCRYPTED_LUKS"
     },
-    "$ext4_label" : {
+    "$ext4_label": {
         text: "ext4 label",
         value: "ENCRYPTED"
     },
-    "$disk_path" : {
+    "$disk_path": {
         text: "disk path",
         value: "/dev/sda1"
     },
     "$mount_point": {
         text: "mount point",
-        value:"/home"
+        value: "/home"
     },
 }
 
@@ -52,10 +52,10 @@ umount $mount_point
 cryptsetup luksClose $cryptsetup_name
 `
 
-import Input from "./Input.svelte";
+import Input from "@components/DynamicInput.astro";
 import { Code } from "astro/components";
 
 
-<Input client:load values={values}>
+<Input values={values}>
     <Code lang="sh" code={script} />
 </Input>
