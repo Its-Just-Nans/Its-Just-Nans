@@ -91,4 +91,4 @@ cargo tree -f "{p} {f}"
 ## uutils
 
 - <https://github.com/uutils/coreutils> - repo
-- <https://uutils.github.io/coreutils/docs/test_coverage.html> - comparaison to GNU coreutils
+- <https://uutils.github.io/coreutils/docs/test_coverage.html> - comparison to GNU coreutils
