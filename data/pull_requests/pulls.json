@@ -8776,7 +8776,7 @@
         "node": {
             "id": "PR_kwDOJaavgM6wR5ob",
             "number": 461,
-            "title": "fix some import",
+            "title": "refactor: Clean up imports and move types",
             "url": "https://github.com/zip-rs/zip2/pull/461",
             "state": "OPEN",
             "createdAt": "2025-10-29T03:38:22Z",

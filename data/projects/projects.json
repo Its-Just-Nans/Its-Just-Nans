@@ -508,7 +508,7 @@
         "name": "flat-hinge",
         "description": "just some 3d flat hinges",
         "stargazerCount": 0,
-        "homepageUrl": "",
+        "homepageUrl": "https://www.thingiverse.com/thing:4928759",
         "forkCount": 0,
         "licenseInfo": {
             "name": "Creative Commons Zero v1.0 Universal"
@@ -1321,9 +1321,9 @@
     {
         "url": "https://github.com/Its-Just-Nans/spust",
         "name": "spust",
-        "description": null,
+        "description": "web analytics",
         "stargazerCount": 0,
-        "homepageUrl": null,
+        "homepageUrl": "",
         "forkCount": 0,
         "licenseInfo": {
             "name": "MIT License"
@@ -1486,19 +1486,6 @@
         "forkCount": 0,
         "licenseInfo": null,
         "primaryLanguage": null
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/thoughts",
-        "name": "thoughts",
-        "description": "🌐 just thoughts",
-        "stargazerCount": 1,
-        "homepageUrl": "https://thoughts.n4n5.dev/",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "Astro",
-            "color": "#ff5a03"
-        }
     },
     {
         "url": "https://github.com/Its-Just-Nans/time",
