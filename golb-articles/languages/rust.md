@@ -7,7 +7,7 @@ keywords: rust, programming, language
 ## Guides
 
 - <https://www.rust-lang.org/> - official language
-- <https://rustup.rs/> - tnstall rust and tools
+- <https://rustup.rs/> - install rust and tools
 - <https://doc.rust-lang.org/book/>
 - <https://doc.rust-lang.org/reference/>
 - <https://cheats.rs/>
