@@ -92,3 +92,101 @@ cargo tree -f "{p} {f}"
 
 - <https://github.com/uutils/coreutils> - repo
 - <https://uutils.github.io/coreutils/docs/test_coverage.html> - comparison to GNU coreutils
+
+## Builder pattern but with a single struct - Builder Lite
+
+<https://rust-unofficial.github.io/patterns/patterns/creational/builder.html>
+
+The builder pattern use a builder struct to create a new struct. In this case, we can use the struct itself to create a new struct. This is useful when we have a struct with many optional fields and we want to create a new struct with only a few fields changed.
+
+```rust
+#[derive(Default)]
+pub struct Foo {
+    bar: Option<String>,
+}
+
+impl Foo {
+    pub fn new() -> Self {
+        Self {
+            ..Default::default(),
+        }
+    }
+
+    pub fn with_bar(mut self, bar: String) -> Self {
+        self.bar = Some(bar);
+        self
+    }
+}
+
+fn main() {
+    let foo = Foo::new().with_bar("Y".to_string());
+}
+```
+
+> This is commonly called the Builder Lite - <https://matklad.github.io/2022/05/29/builder-lite.html>
+
+## Question mark operator
+
+<https://doc.rust-lang.org/rust-by-example/std/result/question_mark.html>
+
+Simply put, the question mark operator is a shortcut for unwrapping a Result. It is used to propagate errors up the call stack.
+
+Replace
+
+```rust
+fn do_something() -> Result<Response, MyCustomError> {
+    let smth = do_something(); // returns Result<Response, RandomError>
+    match smth {
+        Ok(response) => {
+            // do stuff
+            Ok(response)
+        }
+        Err(e) => {
+            // create custom error
+            let error = MyCustomError::new(e);
+            Err(e)
+        }
+    }
+}
+```
+
+with
+
+```rust
+
+// impl from to use .into() method
+impl From<MyCustomError> for RandomError {
+    fn from(e: MyCustomError) -> Self {
+        e
+    }
+}
+
+fn do_something() -> Result<Response, MyCustomError> {
+    let smth = do_something()?;
+    // do stuff
+    Ok(smth)
+}
+```
+
+## AsRef for `&str` arg
+
+Replace
+
+```rust
+pub fn my_func(text: &str) {
+    println!("{}", text);
+}
+
+pub fn my_func_with_string(text: String) {
+    println!("{}", &text);
+}
+```
+
+with
+
+```rust
+pub fn my_func<S: AsRef<str>>(my_str: S) {
+    let text = my_str.as_ref();
+    println!("{}", text);
+}
+```
