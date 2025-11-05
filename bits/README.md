@@ -60,6 +60,10 @@
 - <https://velvetyne.fr/> - fonts
 - <https://river-runner-global.samlearner.com/> - water flow on earth
 - <https://github.com/rastapasta/mapscii> - ASCII map
+- <https://theuselessweb.com/> - discover useless websites
+- <https://pointerpointer.com/> - find your mouse pointer
+- <https://react-icons.github.io/react-icons/> - icons
+- <https://mempool.space/> - bitcoin blocks
 
 ## CTFs and cybersecurity
 
@@ -187,6 +191,7 @@
 - <https://rreverser.com/webassembly-shell-with-a-real-filesystem-access-in-a-browser/>
 - <https://news.ycombinator.com/news>
 - <https://www.journalduhacker.net/>
+- <https://devdocs.io/> - lot of docs
 - <https://github.com/styfle/breaking-changes-web>
 - <https://anglish.org> - english++
 - <https://xargs.org/> - protocols illustrated
@@ -225,6 +230,9 @@
 - <https://endesga.xyz/>
 - <https://www.youtube.com/watch?v=juWM6saNCZk> - Why is C Compiler So Smart?
 - <https://www.jezzamon.com/fourier/>
+- <https://tldr.inbrowser.app/> - tldr in browser
+- <https://www.karanpratapsingh.com/courses/system-design> - system design course
+- <https://webauthn.guide/> - web authentification
 - <https://github.com/inputsh/awesome-c> - projects in C
 - <https://www.youtube.com/@Reducible> - how some things work
 - <https://www.bibmath.net/> - math
@@ -237,6 +245,7 @@
 ### blog
 
 - <https://tomassetti.me/>
+- <https://docs.saferwall.com/blog/> - virtualization blog
 - <https://smallcultfollowing.com/babysteps/> - blog
 - <https://without.boats/blog/> - blog
 - <https://n-o-d-e.net/> - blog
@@ -261,88 +270,74 @@
 - <https://www.openmymind.net/> - blog
 - <https://eatonphil.com/blogs.html> - blog of blogs
 
+## IRL tools
+
+- <https://www.vesselfinder.com/> - boat finder
+- <https://www.marinetraffic.com/> - boat finder
+- <https://www.navily.com/> - boat anchorage
+- <https://sailboat.guide/> - sailboat guide
+- <https://appchart.c-map.com/> - map for boat
+- <https://www.windy.com/> - wind information
+- <https://windfinder.com/> - wind information
+- <https://www.flightradar24.com/> - planes
+- <https://osmand.net/> - offline earth maps
+- <https://ioverlander.com/> - place for travelers
+- <https://travelboast.com/> - show people your trip
+- <https://carto.graou.info/> - train map
+- <https://www.carcarekiosk.com/>
+- <https://www.startmycar.com/>
+- <https://www.geohints.com/> - geolocation
+- <https://anivetvoyage.com/> - travel with pets
+- <https://makemydrivefun.com/> - make my drive fun
+- <https://yums.email/> - recipe scraping
+- <https://remonterletemps.ign.fr/>
+- <https://www.pappers.fr/>
+- <https://www.societe.ninja/>
+- <https://www.jurisprudence.ninja/>
+- <https://recomedicales.fr/> - medecine
+- <https://ib.bioninja.com.au/>
+
 ## tools
 
+- <https://ceph.io/> - distributed storage
 - <https://www.yoctoproject.org/> - create custom linux distro
 - <https://www.openembedded.org/>
 - <https://buildroot.org/>
 - <https://openwrt.org/> - linux for embedded devices
-- <https://osmand.net/> - offline maps
-- <https://ioverlander.com/> - place for travelers
 - <https://gitleaks.io/> - find secrets in git repo
 - <https://float.exposed/> - inspect your floating number
-- <https://react-icons.github.io/react-icons/> - icons
-- <https://mempool.space/> - bitcoin blocks
-- <https://joeyh.name/code/moreutils/> - more utils cmd
-- <https://github.com/mborgerson/gdbstub> - debugging
 - <https://crontab.guru/> - cron expression
-- <https://ceph.io/> - distributed storage
 - <https://shell-storm.org/shellcode/> - execute shell
-- <https://www.vesselfinder.com/> - boat finder
-- <https://www.marinetraffic.com/> - boat finder
-- <https://www.windy.com/> - wind information
-- <https://windfinder.com/> - wind information
-- <https://www.navily.com/> - boat anchorage
+- <https://github.com/mborgerson/gdbstub> - debugging
 - <https://falstad.com/circuit/> - electronic circuit simulator
-- <https://github.com/luigifcruz/CyberEther>
+- <https://github.com/luigifcruz/CyberEther> - sdr
 - <https://whatsmyname.app/> - search username on many platforms
-- <https://www.carcarekiosk.com/>
 - <https://libredirect.github.io/> - use alternative privacy-friendly website
-- <https://www.startmycar.com/>
-- <https://anivetvoyage.com/> - travel with pets
-- <https://makemydrivefun.com/> - make my drive fun
-- <https://remonterletemps.ign.fr/>
-- <https://sailboat.guide/> - sailboat guide
 - <https://selfh.st/apps/> - self hosted apps
 - <https://www.elm-chan.org/fsw/tjpgd/00index.html>
-- <https://tldr.inbrowser.app/> - tldr in browser
 - <https://web-check.xyz/> - check website
 - <https://pikimov.com/> - online motion design and video editor
-- <https://carto.graou.info/> - train map
 - <https://dmarcchecker.app/> - DMARC, DKIM, SPF
 - <https://cobalt.tools/> - downloader
-- <https://github.com/saulpw/visidata> - terminal spreadsheet multitool
 - <https://csswizardry.com/ct/> - analyze your `<head>`
 - <https://godbolt.org/> - compiler explorer
-- <https://github.com/crumblingstatue/hexerator> - hex editor
-- <https://gitlab.lisn.upsaclay.fr/texlive/luatex> - latex engine
 - <https://syscalls.mebeim.net> - syscalls
 - <https://www.sqltranslate.app/>
-- <https://github.com/ReFirmLabs/binwalk> - inspect binary file
-- <https://ss64.com/> - command line reference
-- <https://github.com/erebe/wstunnel> - tunnel ws or http2
-- <https://github.com/FiloSottile/mkcert> - locally trusted certificates
 - <https://hexed.it/> - hex editor in browser
-- <https://gnucobol.sourceforge.io/> - COBOL compiler
-- <https://devenv.sh/> - dev environment with nix
-- <https://appchart.c-map.com/> - map for boat
 - <https://jvilk.com/MakeTypes/> - generate types from JSON
-- <https://github.com/tungs/timecut> - record smooth movies of web pages
-- <https://github.com/daybrush/scenejs-render> - movie with css
 - <https://github.com/chriszarate/bookmarkleter> - create bookmarklet
 - <https://osintframework.com/> - OSINT
-- <https://yums.email/> - recipe scraping
-- <https://docs.saferwall.com/blog/> - virtualization blog
 - <https://emn178.github.io/online-tools/> - hashing/encoding tools
 - <https://dencode.com/> - encoding/decoding tools
-- <https://devdocs.io/> - lot of docs
-- <https://bun.sh/> - bun javascript runtime
 - <https://github.com/justcallmekoko/ESP32Marauder> - offensive esp32
 - <https://carbon.now.sh/> - display code as image
 - <https://www.piliapp.com/> - many useful tools
 - <https://github.com/0xsyr0/OSCP> - cheat sheet
 - <https://vim.rtorr.com/> - vim cheat sheet
 - <https://github.com/juspay/hyperswitch> - open source payments switch
-- <https://travelboast.com/> - show people your trip
-- <https://www.beeper.com/> - all your chats in one app
-- <https://github.com/sickcodes/Docker-OSX> - run macOS VM in a Docker
 - <https://www.alwaysdata.com/> - hosting
-- <https://www.mcrpg.com/kohi-click-test/> - minecrafter test
-- <https://github.com/Z4nzu/hackingtool> - ALL IN ONE Hacking Tool For Hackers
-- <https://github.com/MatrixTM/MHDDoS> - DDoS Attack Script Python3
 - <https://github.com/greiman/SdFat>
 - <https://apilevels.com/> - android API levels
-- <https://github.com/bloomberg/memray> - python memory profiler
 - <https://githistory.xyz/> - view git history
 - <https://github.com/lycheeverse/lychee> - link checker
 - <https://it-tools.tech/> - IT tools
@@ -350,43 +345,50 @@
 - <https://github.com/ocornut/imgui> - GUI for C++
 - <https://lehollandaisvolant.net/tout/tools/>
 - <https://online.visual-paradigm.com/drive/> - diagram
+- <https://intl-demo.netlify.app/> - internationalization api demo
+- <https://cheatsheetseries.owasp.org/> - cheat sheet
+- <https://map.malfrats.industries/> - osint map
+- <https://imagecolorpicker.com/> - pick color on image, or use `color` CSS attributes in dev tools
+- <https://jsonvisio.com/> - json vision
+- <https://jsonhero.io/> - json vision
+- <https://binvis.io/> - visual analysis of binary files
+- <https://github.com/mtytel/helm> - music synthesizer
+- <https://48hr.email/> - disposable email
+- <https://expo.dev/> - mobile application development
+- <https://mathew-kurian.github.io/CharacterMap/> - to see font
+- <https://www.nayuki.io/page/png-file-chunk-inspector> - online `pngcheck` like tool
+
+### CLI tools
+
+- <https://typst.app/> - latex successor
+- <https://rclone.org> - easily sync file in clouds
+- <https://devenv.sh/> - dev environment with nix
+- <https://mise.jdx.dev/> - task runner and more
+- <https://github.com/casey/just> - task runner
+- <https://gnucobol.sourceforge.io/> - COBOL compiler
+- <https://github.com/bloomberg/memray> - python memory profiler
+- <https://github.com/tungs/timecut> - record smooth movies of web pages
+- <https://github.com/daybrush/scenejs-render> - movie with css
+- <https://github.com/saulpw/visidata> - terminal spreadsheet multitool
+- <https://bun.sh/> - bun javascript runtime
+- <https://github.com/yt-dlp/yt-dlp> - youtube-dl
+- <https://github.com/google/guetzli> - JPEG encoder
+- <https://github.com/santoru/shcheck> - check headers of website
+- <https://github.com/pmndrs/gltfjsx> - transform gltf into R3F model
+- <https://github.com/sickcodes/Docker-OSX> - run macOS VM in a Docker
+- <https://terminaltrove.com/list/> - list of terminal tools
+- <https://github.com/dhylands/rshell> - remote shell for MicroPython
+- <https://github.com/trunk-rs/trunk> - build, test, and run Rust WASM apps
+- <https://joeyh.name/code/moreutils/> - more utils cmd
+- <https://github.com/crumblingstatue/hexerator> - hex editor
+- <https://github.com/ReFirmLabs/binwalk> - inspect binary file
+- <https://ss64.com/> - command line reference
+- <https://github.com/FiloSottile/mkcert> - locally trusted certificates
 - <https://github.com/fathyb/carbonyl> - Chromium running inside your terminal
 - <https://github.com/google/osv-scanner> - scan for vulnerabilities
 - <https://github.com/wolfpld/tracy> - frame profiler
 - <https://github.com/andrewrk/poop> - performance optimizer observation platform
 - <https://github.com/fpgmaas/deptry> - check python dependencies
 - <https://github.com/gabotechs/dep-tree> - visualize dependencies
-- <https://www.flightradar24.com/> - planes
-- <https://ianlunn.github.io/Hover/> - hovering.css
-- <https://intl-demo.netlify.app/> - internationalization api demo
-- <https://cheatsheetseries.owasp.org/> - cheat sheet
-- <https://map.malfrats.industries/> - osint map
-- <https://www.geohints.com/> - geolocation
-- <https://theuselessweb.com/> - discover useless websites
-- <https://pointerpointer.com/> - find your mouse pointer
-- <https://imgur.com/> - pics hosting
-- <https://imagecolorpicker.com/> - pick color on image, or use `color` CSS attributes in dev tools
-- <https://jsonvisio.com/> - json vision
-- <https://jsonhero.io/> - json vision
-- <https://binvis.io/> - visual analysis of binary files
-- <https://github.com/mtytel/helm> - music synthesizer
-- <https://ngrok.com/> - make tunnels
-- <https://48hr.email/> - disposable email
-- <https://github.com/yt-dlp/yt-dlp> - youtube-dl
-- <https://github.com/google/guetzli> - JPEG encoder
-- <https://rclone.org> - easily sync file in clouds
-- <https://github.com/saulpw/visidata> - terminal spreadsheet multitool
-- <https://www.karanpratapsingh.com/courses/system-design> - system design course
-- <https://expo.dev/> - mobile application development
-- <https://mathew-kurian.github.io/CharacterMap/> - to see font
-- <https://github.com/pmndrs/gltfjsx> - transform gltf into R3F model
-- <https://github.com/santoru/shcheck> - check headers of website
-- <https://terminaltrove.com/list/> - list of terminal tools
-- <https://github.com/dhylands/rshell> - remote shell for MicroPython
-- <https://github.com/trunk-rs/trunk> - build, test, and run Rust WASM apps
-- <https://www.nayuki.io/page/png-file-chunk-inspector> - online `pngcheck` like tool
-- <https://www.pappers.fr/>
-- <https://www.societe.ninja/>
-- <https://www.jurisprudence.ninja/>
-- <https://recomedicales.fr/> - medecine
-- <https://ib.bioninja.com.au/>
+- <https://github.com/Z4nzu/hackingtool> - ALL IN ONE Hacking Tool For Hackers
+- <https://github.com/MatrixTM/MHDDoS> - DDoS Attack Script Python3
