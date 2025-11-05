@@ -232,7 +232,7 @@
 - <https://www.jezzamon.com/fourier/>
 - <https://tldr.inbrowser.app/> - tldr in browser
 - <https://www.karanpratapsingh.com/courses/system-design> - system design course
-- <https://webauthn.guide/> - web authentification
+- <https://webauthn.guide/> - web authentication
 - <https://github.com/inputsh/awesome-c> - projects in C
 - <https://www.youtube.com/@Reducible> - how some things work
 - <https://www.bibmath.net/> - math
