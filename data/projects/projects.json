@@ -187,6 +187,21 @@
         }
     },
     {
+        "url": "https://github.com/Its-Just-Nans/bladvak",
+        "name": "bladvak",
+        "description": "Base egui/eframe app - bladvak means 'pickaxe' in Gobbledegook",
+        "stargazerCount": 0,
+        "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "primaryLanguage": {
+            "name": "Rust",
+            "color": "#dea584"
+        }
+    },
+    {
         "url": "https://github.com/Its-Just-Nans/businessfrance-checker",
         "name": "businessfrance-checker",
         "description": "businessfrance checker",
@@ -1294,7 +1309,7 @@
         "url": "https://github.com/Its-Just-Nans/sms2call",
         "name": "sms2call",
         "description": "sms2call app",
-        "stargazerCount": 14,
+        "stargazerCount": 15,
         "homepageUrl": "https://sms2call.n4n5.dev/",
         "forkCount": 2,
         "licenseInfo": {
