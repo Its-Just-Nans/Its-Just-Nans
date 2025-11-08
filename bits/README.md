@@ -310,7 +310,6 @@
 - <https://shell-storm.org/shellcode/> - execute shell
 - <https://github.com/mborgerson/gdbstub> - debugging
 - <https://falstad.com/circuit/> - electronic circuit simulator
-- <https://github.com/luigifcruz/CyberEther> - sdr
 - <https://whatsmyname.app/> - search username on many platforms
 - <https://libredirect.github.io/> - use alternative privacy-friendly website
 - <https://selfh.st/apps/> - self hosted apps
@@ -358,6 +357,9 @@
 - <https://mathew-kurian.github.io/CharacterMap/> - to see font
 - <https://www.nayuki.io/page/png-file-chunk-inspector> - online `pngcheck` like tool
 - <https://gtfobins.github.io/> - bypass unix security
+- <https://github.com/luigifcruz/CyberEther> - SDR
+- <https://github.com/gqrx-sdr/gqrx> - SDR
+- <https://github.com/antirez/dump1090> - SDR
 
 ### CLI tools
 
