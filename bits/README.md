@@ -357,6 +357,7 @@
 - <https://expo.dev/> - mobile application development
 - <https://mathew-kurian.github.io/CharacterMap/> - to see font
 - <https://www.nayuki.io/page/png-file-chunk-inspector> - online `pngcheck` like tool
+- <https://gtfobins.github.io/> - bypass unix security
 
 ### CLI tools
 
