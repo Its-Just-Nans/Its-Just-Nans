@@ -99,7 +99,8 @@
             "jscontact",
             "tarsier",
             "whatisthis",
-            "galago"
+            "galago",
+            "bladvak"
         ],
         "shields": [
             "https://img.shields.io/crates/dv/:package",
