@@ -7192,7 +7192,7 @@
             "number": 8502,
             "title": "add jobs stats",
             "url": "https://github.com/rclone/rclone/pull/8502",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-04-10T21:12:24Z",
             "baseRepository": {
                 "url": "https://github.com/rclone/rclone",
@@ -7322,7 +7322,7 @@
             "number": 7841,
             "title": "Add example to manpage",
             "url": "https://github.com/uutils/coreutils/pull/7841",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-04-25T16:14:03Z",
             "baseRepository": {
                 "url": "https://github.com/uutils/coreutils",
@@ -8856,7 +8856,7 @@
             "number": 1638,
             "title": "fix: typos and examples",
             "url": "https://github.com/emqx/blog/pull/1638",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-10-30T23:48:55Z",
             "baseRepository": {
                 "url": "https://github.com/emqx/blog",
@@ -8896,6 +8896,58 @@
                         {
                             "name": "Rust",
                             "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOCd2s286xiNbc",
+            "number": 7684,
+            "title": "fix: CodeTheme functions - ui and add builder",
+            "url": "https://github.com/emilk/egui/pull/7684",
+            "state": "OPEN",
+            "createdAt": "2025-11-05T01:58:57Z",
+            "baseRepository": {
+                "url": "https://github.com/emilk/egui",
+                "name": "egui",
+                "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+                "owner": {
+                    "login": "emilk"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Shell",
+                            "color": "#89e051"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBsU1486xxgR5",
+            "number": 66,
+            "title": "fix: waitpid return pid or -1",
+            "url": "https://github.com/plume-design/opensync/pull/66",
+            "state": "OPEN",
+            "createdAt": "2025-11-06T00:37:01Z",
+            "baseRepository": {
+                "url": "https://github.com/plume-design/opensync",
+                "name": "opensync",
+                "description": "OpenSync core repository",
+                "owner": {
+                    "login": "plume-design"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Makefile",
+                            "color": "#427819"
                         }
                     ]
                 }

@@ -1,6 +1,6 @@
 {
-    "github.com/Its-Just-Nans/Its-Just-Nans": 29578,
-    "github.com/Its-Just-Nans/Its-Just-Nans.github.io": 24910,
+    "github.com/Its-Just-Nans/Its-Just-Nans": 29595,
+    "github.com/Its-Just-Nans/Its-Just-Nans.github.io": 24922,
     "github.com/Its-Just-Nans/anrt-checker": 77,
     "github.com/Its-Just-Nans/apksig": 8604,
     "github.com/Its-Just-Nans/arduino-led-matrix": 17417,
@@ -18,7 +18,7 @@
     "github.com/Its-Just-Nans/contacts-vcf": 27,
     "github.com/Its-Just-Nans/coreutils-tracking-details": 34,
     "github.com/Its-Just-Nans/cors-proxy": 25,
-    "github.com/Its-Just-Nans/crates": 58,
+    "github.com/Its-Just-Nans/crates": 76,
     "github.com/Its-Just-Nans/csv-to-custom-json": 65,
     "github.com/Its-Just-Nans/csv-to-custom-json-python": 53,
     "github.com/Its-Just-Nans/curriculum-vitae": 79,
@@ -43,7 +43,7 @@
     "github.com/Its-Just-Nans/gitlab-proof": 0,
     "github.com/Its-Just-Nans/go-calendar": 32,
     "github.com/Its-Just-Nans/go-simple-uploader": 7,
-    "github.com/Its-Just-Nans/golb": 6239,
+    "github.com/Its-Just-Nans/golb": 6244,
     "github.com/Its-Just-Nans/greener": 4404,
     "github.com/Its-Just-Nans/halting-problem": 2,
     "github.com/Its-Just-Nans/hangman-game": 206,
@@ -63,7 +63,7 @@
     "github.com/Its-Just-Nans/mouse-data-transfer": 25,
     "github.com/Its-Just-Nans/movies-display": 12327,
     "github.com/Its-Just-Nans/music-exporter": 74,
-    "github.com/Its-Just-Nans/n4n5-crate": 180,
+    "github.com/Its-Just-Nans/n4n5-crate": 228,
     "github.com/Its-Just-Nans/notox": 116,
     "github.com/Its-Just-Nans/obs-webview": 33,
     "github.com/Its-Just-Nans/photo-copier": 48,
@@ -109,5 +109,5 @@
     "github.com/Its-Just-Nans/typst.github.io": 11,
     "github.com/Its-Just-Nans/video-is-3d": 67718,
     "github.com/Its-Just-Nans/whatisthis": 154,
-    "github.com/Its-Just-Nans/yakb": 2146
+    "github.com/Its-Just-Nans/yakb": 2147
 }
