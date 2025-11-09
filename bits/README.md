@@ -245,6 +245,7 @@
 ### blog
 
 - <https://tomassetti.me/>
+- <https://beej.us/blog/> - blog
 - <https://docs.saferwall.com/blog/> - virtualization blog
 - <https://smallcultfollowing.com/babysteps/> - blog
 - <https://without.boats/blog/> - blog
