@@ -186,3 +186,36 @@ pub fn my_func<S: AsRef<str>>(my_str: S) {
     println!("{}", text);
 }
 ```
+
+## PartialEq with full destructuring
+
+> This pattern will ensure that the compilation break if you add a new field to the struct
+
+```rust
+impl PartialEq for PizzaOrder {
+    fn eq(&self, other: &Self) -> bool {
+        let Self {
+            a_field,
+            b_field,
+        } = self;
+        let Self {
+            a_field: other_a_field,
+            b_field: other_b_field,
+        } = other;
+        a_field == other_a_field && b_field == other_b_field
+    }
+}
+```
+
+## Use `#[non_exhaustive]` attribute
+
+> Indicates that a type or variant may have more fields or variants added in the future.
+> It also ensure cannot be constructed outside of the defining crate - useful for library
+
+```rust
+#[non_exhaustive]
+pub struct MyStruct {
+    pub a_field: u64,
+    pub b_field: u64
+}
+```
