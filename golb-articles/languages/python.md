@@ -34,6 +34,18 @@ def multi_process(my_func, my_args, num_processes=10):
     return results
 ```
 
+## Debug a string with `repr`
+
+```python
+my_str = 'my string\x00'
+
+print(my_str)
+# my string
+
+print(repr(my_str))
+# my string\x00
+```
+
 ## How to get the path of the current folder
 
 ```python
