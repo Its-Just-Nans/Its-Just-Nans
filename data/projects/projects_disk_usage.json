@@ -1,6 +1,6 @@
 {
-    "github.com/Its-Just-Nans/Its-Just-Nans": 29544,
-    "github.com/Its-Just-Nans/Its-Just-Nans.github.io": 24968,
+    "github.com/Its-Just-Nans/Its-Just-Nans": 29547,
+    "github.com/Its-Just-Nans/Its-Just-Nans.github.io": 24909,
     "github.com/Its-Just-Nans/anrt-checker": 77,
     "github.com/Its-Just-Nans/apksig": 8604,
     "github.com/Its-Just-Nans/arduino-led-matrix": 17417,
@@ -63,7 +63,7 @@
     "github.com/Its-Just-Nans/motp": 24,
     "github.com/Its-Just-Nans/mouse-data-transfer": 25,
     "github.com/Its-Just-Nans/movies-display": 12327,
-    "github.com/Its-Just-Nans/music-exporter": 131,
+    "github.com/Its-Just-Nans/music-exporter": 136,
     "github.com/Its-Just-Nans/n4n5-crate": 349,
     "github.com/Its-Just-Nans/notox": 116,
     "github.com/Its-Just-Nans/obs-webview": 33,
@@ -110,5 +110,5 @@
     "github.com/Its-Just-Nans/typst.github.io": 11,
     "github.com/Its-Just-Nans/video-is-3d": 67718,
     "github.com/Its-Just-Nans/whatisthis": 154,
-    "github.com/Its-Just-Nans/yakb": 2147
+    "github.com/Its-Just-Nans/yakb": 2226
 }
