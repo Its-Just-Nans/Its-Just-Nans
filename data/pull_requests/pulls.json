@@ -8880,9 +8880,9 @@
         "node": {
             "id": "PR_kwDOJaavgM6wumLA",
             "number": 468,
-            "title": "better write_data_descriptor #467",
+            "title": "feat: ZipWriter `set_auto_large_file()` method to enable large-file data descriptor when necessary",
             "url": "https://github.com/zip-rs/zip2/pull/468",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-10-31T00:09:39Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -9130,6 +9130,58 @@
                         {
                             "name": "Python",
                             "color": "#3572A5"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJKcikM6zwGX0",
+            "number": 3560,
+            "title": "[i18nIgnore] fix: typos",
+            "url": "https://github.com/withastro/starlight/pull/3560",
+            "state": "MERGED",
+            "createdAt": "2025-11-16T23:50:43Z",
+            "baseRepository": {
+                "url": "https://github.com/withastro/starlight",
+                "name": "starlight",
+                "description": "🌟 Build beautiful, accessible, high-performance documentation websites with Astro",
+                "owner": {
+                    "login": "withastro"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Astro",
+                            "color": "#ff5a03"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOFn5RYs60eozw",
+            "number": 12740,
+            "title": "feat: add doc for web components in MDX",
+            "url": "https://github.com/withastro/docs/pull/12740",
+            "state": "OPEN",
+            "createdAt": "2025-11-20T02:01:20Z",
+            "baseRepository": {
+                "url": "https://github.com/withastro/docs",
+                "name": "docs",
+                "description": "Astro documentation",
+                "owner": {
+                    "login": "withastro"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "JavaScript",
+                            "color": "#f1e05a"
                         }
                     ]
                 }
