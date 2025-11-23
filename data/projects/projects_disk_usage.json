@@ -1,6 +1,6 @@
 {
-    "github.com/Its-Just-Nans/Its-Just-Nans": 29554,
-    "github.com/Its-Just-Nans/Its-Just-Nans.github.io": 24990,
+    "github.com/Its-Just-Nans/Its-Just-Nans": 29558,
+    "github.com/Its-Just-Nans/Its-Just-Nans.github.io": 24994,
     "github.com/Its-Just-Nans/anrt-checker": 77,
     "github.com/Its-Just-Nans/apksig": 8604,
     "github.com/Its-Just-Nans/arduino-led-matrix": 17417,
@@ -12,7 +12,7 @@
     "github.com/Its-Just-Nans/bandwidth-calculator": 12,
     "github.com/Its-Just-Nans/baobab": 108,
     "github.com/Its-Just-Nans/base64-image": 7,
-    "github.com/Its-Just-Nans/bladvak": 189,
+    "github.com/Its-Just-Nans/bladvak": 196,
     "github.com/Its-Just-Nans/businessfrance-checker": 9,
     "github.com/Its-Just-Nans/can-be-useful": 29961,
     "github.com/Its-Just-Nans/cards-game": 36,
@@ -38,7 +38,7 @@
     "github.com/Its-Just-Nans/flat-hinge": 6135,
     "github.com/Its-Just-Nans/forem-client": 9,
     "github.com/Its-Just-Nans/function-viewer": 124,
-    "github.com/Its-Just-Nans/galago": 521,
+    "github.com/Its-Just-Nans/galago": 279,
     "github.com/Its-Just-Nans/git-migrator": 10,
     "github.com/Its-Just-Nans/git-mover": 376,
     "github.com/Its-Just-Nans/gitlab-proof": 0,
@@ -101,7 +101,7 @@
     "github.com/Its-Just-Nans/supercharged-store": 9,
     "github.com/Its-Just-Nans/svelte-number-displayer": 45,
     "github.com/Its-Just-Nans/svg-packages-stats": 29,
-    "github.com/Its-Just-Nans/tarsier": 805,
+    "github.com/Its-Just-Nans/tarsier": 869,
     "github.com/Its-Just-Nans/termpic": 211,
     "github.com/Its-Just-Nans/thales-project": 79113,
     "github.com/Its-Just-Nans/time": 130,
@@ -110,5 +110,5 @@
     "github.com/Its-Just-Nans/typst.github.io": 11,
     "github.com/Its-Just-Nans/video-is-3d": 67718,
     "github.com/Its-Just-Nans/whatisthis": 154,
-    "github.com/Its-Just-Nans/yakb": 2101
+    "github.com/Its-Just-Nans/yakb": 2105
 }

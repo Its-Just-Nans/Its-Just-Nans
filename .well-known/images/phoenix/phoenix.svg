@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="100 0 400 400">
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="http://schema.org/"
+      xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:license rdf:resource="MIT License for n4n5" />
+        <dc:creator>
+          <rdf:Bag>
+            <rdf:li>n4n5</rdf:li>
+          </rdf:Bag>
+        </dc:creator>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <polygon fill="#bf362e" points="300 260, 300 310, 285 285" />
+  <polygon fill="#bf362e" points="300 260, 300 310, 315 285" />
+  <polygon fill="#f0584a" points="300 260, 325 265, 315 285" />
+  <polygon fill="#f0584a" points="300 260, 275 265, 285 285" />
+  <polygon fill="#f48244" points="300 260, 300 240, 275 265" />
+  <polygon fill="#f48244" points="300 260, 300 240, 325 265" />
+  <polygon fill="#c62e2b" points="290 220, 300 240, 275 265" />
+  <polygon fill="#c62e2b" points="310 220, 300 240, 325 265" />
+
+  <polygon fill="#f4c64e" points="300 240, 310 220, 300 185" />
+  <polygon fill="#f4c64e" points="300 240, 290 220, 300 185" />
+  <polygon fill="#f69a1b" points="285 195, 300 185,290 220" />
+  <polygon fill="#f69a1b" points="315 195, 300 185,310 220" />
+  <polygon fill="#f69a1b" points="285 195, 300 185,275 175" />
+  <polygon fill="#ee8041" points="315 195, 300 185,325 175" />
+  <polygon fill="#ed604c" points="300 150, 300 185,325 175" />
+  <polygon fill="#ed604c" points="300 150, 300 185,275 175" />
+  <polygon fill="#f78644" points="300 150, 315 135,325 175" />
+  <polygon fill="#f78644" points="300 150, 285 135,275 175" />
+  <polygon fill="#f8a219" points="300 150, 315 135,300 120" />
+  <polygon fill="#f8a219" points="300 150, 285 135,300 120" />
+  <polygon fill="#f7d045" points="265 150, 285 135,275 175" />
+  <polygon fill="#f7d045" points="335 150, 315 135,325 175" />
+
+  <polygon fill="#b03627" points="265 150, 285 135,265 120" />
+  <polygon fill="#f4823b" points="265 150, 245 120,265 120" />
+  <polygon fill="#f35951" points="265 150, 245 120,240 140" />
+  <polygon fill="#ef8440" points="215 125, 245 120,240 140" />
+  <polygon fill="#ae3429" points="215 125, 245 120,210 105" />
+  <polygon fill="#eb4e47" points="215 125, 185 95,210 105" />
+
+  <polygon fill="#b03627" points="335 150, 315 135,335 120" />
+  <polygon fill="#f4823b" points="335 150, 355 120,335 120" />
+  <polygon fill="#f35951" points="335 150, 355 120,360 140" />
+  <polygon fill="#ef8440" points="385 125, 355 120,360 140" />
+  <polygon fill="#ae3429" points="385 125, 355 120,390 105" />
+  <polygon fill="#eb4e47" points="385 125, 415 95,390 105" />
+
+  <polygon fill="#b24036" points="260 100, 245 120,265 120" />
+  <polygon fill="#f28439" points="260 100, 245 120,220 100" />
+  <polygon fill="#efcb43" points="260 100, 225 80,220 100" />
+  <polygon fill="#f55b4f" points="195 90, 225 80,220 100" />
+  <polygon fill="#f4a11f" points="195 90, 225 80,195 65" />
+  <polygon fill="#ffce3d" points="195 90, 170 40,195 65" />
+
+  <polygon fill="#b24036" points="340 100, 355 120,335 120" />
+  <polygon fill="#f28439" points="340 100, 355 120,380 100" />
+  <polygon fill="#efcb43" points="340 100, 375 80,380 100" />
+  <polygon fill="#f55b4f" points="405 90, 375 80,380 100" />
+  <polygon fill="#f4a11f" points="405 90, 375 80,405 65" />
+  <polygon fill="#ffce3d" points="405 90, 430 40,405 65" />
+
+  <polygon fill="#f37967" points="290 115, 285 135,300 120" />
+  <polygon fill="#f37967" points="310 115, 315 135,300 120" />
+  <polygon fill="#5c0c00" points="290 115, 300 110,300 120" />
+  <polygon fill="#b73a26" points="290 115, 300 110,290 105" />
+  <polygon fill="#5c0c00" points="310 115, 300 110,300 120" />
+  <polygon fill="#b73a26" points="310 115, 300 110,310 105" />
+  <polygon fill="#fcc865" points="295 100, 300 110,305 100" />
+  <polygon fill="#e18b68" points="320 100, 300 110,305 100" />
+  <polygon fill="#e18b68" points="280 100, 300 110,295 100" />
+  <polygon fill="#e4543e" points="280 110, 280 100,290 105" />
+  <polygon fill="#eca332" points="280 110, 280 100,275 110" />
+  <polygon fill="#d3886b" points="280 110, 275 115,275 110" />
+
+  <polygon fill="#fb8140" points="265 150, 260 170,275 175" />
+  <polygon fill="#c53423" points="265 150, 260 170,240 145" />
+  <polygon fill="#e29f2c" points="240 160, 260 170,240 145" />
+  <polygon fill="#fcca57" points="240 160, 220 140,240 145" />
+
+  <polygon fill="#fb8140" points="335 150, 340 170,325 175" />
+  <polygon fill="#c53423" points="335 150, 340 170,360 145" />
+  <polygon fill="#e29f2c" points="360 160, 340 170,360 145" />
+  <polygon fill="#fcca57" points="360 160, 380 140,360 145" />
+
+  <polygon fill="#ba3121" points="285 195, 275 215,290 220" />
+  <polygon fill="#f17f40" points="280 230, 275 215,290 220" />
+  <polygon fill="#f35b58" points="280 230, 275 215,265 230" />
+  <polygon fill="#f8a018" points="280 230, 275 245,265 230" />
+  <polygon fill="#fac93e" points="260 240, 275 245,265 230" />
+  <polygon fill="#ff9f22" points="260 240, 275 245,270 260" />
+
+  <polygon fill="#ba3121" points="315 195, 325 215,310 220" />
+  <polygon fill="#f17f40" points="320 230, 325 215,310 220" />
+  <polygon fill="#f35b58" points="320 230, 325 215,335 230" />
+  <polygon fill="#f8a018" points="320 230, 325 245,335 230" />
+  <polygon fill="#fac93e" points="340 240, 325 245,335 230" />
+  <polygon fill="#ff9f22" points="340 240, 325 245,330 260" />
+</svg>
