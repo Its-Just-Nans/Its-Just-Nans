@@ -50,7 +50,6 @@
 - <https://www.nerdfonts.com/> - programming fonts
 - <https://digitalattackmap.com/> - DDoS map
 - <https://typings.gg/> - typing game
-- <https://www.youtube.com/watch?v=-5tak0tHqIg> - externOS
 - <https://github.com/GitSquared/edex-ui>
 - <https://github.com/lowlighter/gracidea> - a Pokémon 2D live map
 - <https://michelamazonka.com/>
@@ -94,6 +93,21 @@
 - <https://kalmarc.tf/>
 - <https://insomnihack.ch/contest/>
 - <https://angr.io/>
+
+## Videos
+
+- <https://www.youtube.com/watch?v=-5tak0tHqIg> - externOS
+- <https://www.youtube.com/watch?v=hvVXj1mMHWs> - Xpider — World's Cutest Spider Robot!
+- <https://www.youtube.com/playlist?list=PLjS13O8ZcTgYIn2cPTT-uSOF8G0CBrtrZ> - Des atomes et l'électricité
+- <https://www.youtube.com/playlist?list=PLjS13O8ZcTgZpoGv5QAMoHt4be6gIcjJU> - Voyage en électricité
+- <https://www.youtube.com/playlist?list=PLjS13O8ZcTgY_7sK64W6wDdfzdZvVshiE> - Petit voyage en électricité
+- <https://www.youtube.com/playlist?list=PLCwXWOyIR22veT31gK5JwmqxuVc0Uoy8a> - Voyage au pays des maths
+- <https://www.youtube.com/playlist?list=PLSFF03yVNdA6bGYAUyLYRopM2bZbyJuQE> - Le coeur a ses raisons saison 2
+- <https://www.youtube.com/watch?v=BieAw6lwntU> - Matrix protocol - just use Matrix.
+- <https://www.youtube.com/watch?v=OAH0MoAv2CI> - Cuts & Transitions 101
+- <https://www.youtube.com/@Reducible> - how some things work
+- <https://www.youtube.com/watch?v=juWM6saNCZk> - Why is C Compiler So Smart?
+- <https://www.youtube.com/watch?v=oz9cEqFynHU> - data structures and algorithms in 15 minutes
 
 ## reading
 
@@ -139,16 +153,8 @@
 - <https://www.quelleestladifference.fr>
 - <https://www.cea.fr/comprendre/jeunes>
 - <https://andersbrownworth.com/blockchain/> - learn basis of blockchain
-- <https://www.youtube.com/watch?v=hvVXj1mMHWs> - Xpider — World's Cutest Spider Robot!
 - <https://www.wideopencountry.com/perfect-travel-route-across-us-according-science/>
 - <https://www.bonnesnouvellesdujour.fr> - only great news!
-- <https://www.youtube.com/playlist?list=PLjS13O8ZcTgYIn2cPTT-uSOF8G0CBrtrZ> - Des atomes et l'électricité
-- <https://www.youtube.com/playlist?list=PLjS13O8ZcTgZpoGv5QAMoHt4be6gIcjJU> - Voyage en électricité
-- <https://www.youtube.com/playlist?list=PLjS13O8ZcTgY_7sK64W6wDdfzdZvVshiE> - Petit voyage en électricité
-- <https://www.youtube.com/playlist?list=PLCwXWOyIR22veT31gK5JwmqxuVc0Uoy8a> - Voyage au pays des maths
-- <https://www.youtube.com/playlist?list=PLSFF03yVNdA6bGYAUyLYRopM2bZbyJuQE> - Le coeur a ses raisons saison 2
-- <https://www.youtube.com/watch?v=BieAw6lwntU> - Just use Matrix.
-- <https://www.youtube.com/watch?v=OAH0MoAv2CI> - Cuts & Transitions 101
 - <https://makefiletutorial.com/> - Makefile
 - <https://github.com/cnlohr/minimdnsd/>
 - <https://thecopenhagenbook.com/> - guideline for auth in web applications
@@ -228,15 +234,12 @@
 - <https://paroj.github.io/gltut/> - modern 3D graphics programming
 - <https://isuckatcs.github.io/how-to-compile-your-language/>
 - <https://endesga.xyz/>
-- <https://www.youtube.com/watch?v=juWM6saNCZk> - Why is C Compiler So Smart?
 - <https://www.jezzamon.com/fourier/>
 - <https://tldr.inbrowser.app/> - tldr in browser
 - <https://www.karanpratapsingh.com/courses/system-design> - system design course
 - <https://webauthn.guide/> - web authentication
 - <https://github.com/inputsh/awesome-c> - projects in C
-- <https://www.youtube.com/@Reducible> - how some things work
 - <https://www.bibmath.net/> - math
-- <https://www.youtube.com/watch?v=oz9cEqFynHU> - data structures and algorithms in 15 minutes
 - <https://www.server-world.info/en/> - server configuration
 - <https://www.learndmarc.com/> - DMARC
 - <https://github.com/goabstract/Awesome-Design-Tools>
