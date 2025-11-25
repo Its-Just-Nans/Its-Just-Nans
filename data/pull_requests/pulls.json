@@ -9064,7 +9064,7 @@
             "number": 3555,
             "title": "fix: customCSS catch and throw error",
             "url": "https://github.com/withastro/starlight/pull/3555",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-11-15T20:18:25Z",
             "baseRepository": {
                 "url": "https://github.com/withastro/starlight",
@@ -9168,7 +9168,7 @@
             "number": 12740,
             "title": "feat: add doc for web components in MDX",
             "url": "https://github.com/withastro/docs/pull/12740",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2025-11-20T02:01:20Z",
             "baseRepository": {
                 "url": "https://github.com/withastro/docs",
@@ -9182,6 +9182,32 @@
                         {
                             "name": "JavaScript",
                             "color": "#f1e05a"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOONBnBc61Ungw",
+            "number": 2,
+            "title": "use class:list",
+            "url": "https://github.com/pascal-brand38/astro-splide/pull/2",
+            "state": "OPEN",
+            "createdAt": "2025-11-25T02:01:56Z",
+            "baseRepository": {
+                "url": "https://github.com/pascal-brand38/astro-splide",
+                "name": "astro-splide",
+                "description": "The Astro component for Splide  dedicated to slides / carousel / photo swiper. ⭐️ Star to support",
+                "owner": {
+                    "login": "pascal-brand38"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Astro",
+                            "color": "#ff5a03"
                         }
                     ]
                 }
