@@ -7,9 +7,7 @@ tags: ["thought"]
 > A brief description of my participation in student associations
 
 export const Style = () => {
-    return (
-        <style>
-            {`
+    const style = `
             .special-in-title{
                 margin: 5px;
                 text-align: right;
@@ -20,6 +18,9 @@ export const Style = () => {
                 justify-content: space-between;
             }
             .special-img {
+                box-shadow: 0px 3px 3px -2px rgba(0, 0, 0, 0.2), 0px 3px 4px 0px rgba(0, 0, 0, 0.14), 0px 1px 8px 0px rgba(0, 0, 0, 0.12);
+                border-radius: 10px;
+                padding: 10px;
                 max-height: 50px;
                 max-width: 50px;
                 width: auto;
@@ -53,7 +54,10 @@ export const Style = () => {
             .job{
                 text-align: left;
             }
-        `}
+        `
+    return (
+        <style>
+            {style}
         </style>
     )
 }
