@@ -241,6 +241,7 @@
 - <https://www.learndmarc.com/> - DMARC
 - <https://github.com/goabstract/Awesome-Design-Tools>
 - <https://github.com/jstrieb/systems-programming-cheat-sheet>
+- <https://en.algorithmica.org/hpc/> - high performance computing
 
 ### blog
 
@@ -270,6 +271,7 @@
 - <https://computers-are-fast.github.io/> - blog
 - <https://www.openmymind.net/> - blog
 - <https://eatonphil.com/blogs.html> - blog of blogs
+- <https://ciechanow.ski/archives/> - blog with great interactive examples
 
 ## IRL tools
 
