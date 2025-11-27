@@ -63,6 +63,7 @@
 - <https://pointerpointer.com/> - find your mouse pointer
 - <https://react-icons.github.io/react-icons/> - icons
 - <https://mempool.space/> - bitcoin blocks
+- <https://http.cat/> - http status cats
 
 ## CTFs and cybersecurity
 
@@ -93,6 +94,7 @@
 - <https://kalmarc.tf/>
 - <https://insomnihack.ch/contest/>
 - <https://angr.io/>
+- <https://fr.wikipedia.org/wiki/Cicada_3301>
 
 ## Videos
 
@@ -111,10 +113,10 @@
 
 ## reading
 
-- <https://www.fibre.wiki/>
+- <https://www.fibre.wiki/> - optical fiber wiki
 - <https://www.numbeo.com/cost-of-living/> - compare cost of living
 - <https://ohshitgit.com/> - maybe save your git
-- <https://browser.engineering/> - web browser engine
+- <https://browser.engineering/> - web browser engine build guide
 - <https://github.com/you-dont-need/You-Dont-Need-GUI> - you don't need GUI
 - <https://github.com/jlevy/the-art-of-command-line>
 - <https://fpgacpu.ca/fpga/> - FPGA
@@ -123,19 +125,17 @@
 - <https://manipulation.csail.mit.edu/> - robotics
 - <https://compileroptimizations.com/> - compiler optimizations
 - <https://sysprog21.github.io/lkmpg/> - The Linux Kernel Module Programming Guide
-- <https://www.petermekhaeil.com/today-i-learned/>
 - <https://www.atlasobscura.com/articles/all-places-in-the-atlas-on-one-map>
 - <https://flexboxfroggy.com/> - learn flexbox
 - <https://blessed.rs/> - an unofficial guide to the rust ecosystem
 - <https://beginners.re/> - reverse engineering for beginners
 - <https://github.com/tpn/pdfs> - programming books
 - <https://makeityourself.org/> - learn how to make things
-- <https://ziglang.org/>
+- <https://ziglang.org/> - zig programming lang
 - <https://deepwiki.com/> - wiki powered by AI
 - <https://github.com/dendibakh/perf-ninja> - performance optimization
 - <https://loeildelaphotographie.com>
 - <https://lgtm.com/#explore>
-- <https://www.loisirs-nautic.fr/> - boat license
 - <https://makelinux.github.io/kernel/map/> - Linux kernel map
 - <https://devhints.io/> - cheatsheets
 - <https://learngitbranching.js.org/> - learn git
@@ -147,8 +147,6 @@
 - <https://dkwcs.com/> - DK YOO
 - <https://sha256algorithm.com/> - sha256 algorithm visualized
 - <https://www.jeux-geographiques.com>
-- <https://elm-chan.org/he_e.html>
-- <https://rreverser.com/>
 - <https://github.com/arachnidlabs/labs-cards> -> <https://its-just-nans.github.io/labs-cards/>
 - <https://www.quelleestladifference.fr>
 - <https://www.cea.fr/comprendre/jeunes>
@@ -156,7 +154,6 @@
 - <https://www.wideopencountry.com/perfect-travel-route-across-us-according-science/>
 - <https://www.bonnesnouvellesdujour.fr> - only great news!
 - <https://makefiletutorial.com/> - Makefile
-- <https://github.com/cnlohr/minimdnsd/>
 - <https://thecopenhagenbook.com/> - guideline for auth in web applications
 - <https://cheeaun.github.io/repokemon/> - index of projects using pokemon names
 - <https://www.karanpratapsingh.com/courses/system-design>
@@ -177,22 +174,17 @@
 - <https://fr.wikipedia.org/wiki/Dragon_book> - compiler dragon book
 - <https://couleur-science.eu/?random>
 - <https://github.com/naklecha/llama3-from-scratch> - llama3 tutorial
-- <http://www.isthe.com/chongo/index.html>
 - <https://github.com/EbookFoundation/free-programming-books>
 - <https://github.com/goabstract/Marketing-for-Engineers>
 - <https://www.randalolson.com/2015/03/08/computing-the-optimal-road-trip-across-the-u-s/>
-- <https://fr.wikipedia.org/wiki/Cicada_3301>
+- <https://github.com/airbnb/javascript> - JavaScript Style Guide
 - <https://github.com/lydiahallie/javascript-questions> - unusual js questions
+- <https://github.com/type-challenges/type-challenges>
 - <https://github.com/sindresorhus/awesome>
 - <https://github.com/amilajack/reading>
-- <https://github.com/type-challenges/type-challenges>
 - <https://archive.org/details/malwaremuseum>
-- <https://www.ski-epic.com/index.html> - i think he likes skiing
 - <https://lwn.net/Kernel/LDD3/> - <https://github.com/martinezjavier/ldd3>
 - <https://fr.wikipedia.org/wiki/Universal_Plug_and_Play>
-- <https://words.filippo.io/the-ecb-penguin/>
-- <https://dev.to/>
-- <https://zig.news/>
 - <https://apod.nasa.gov/apod/astropix.html> - astronomy picture of the day
 - <https://rreverser.com/webassembly-shell-with-a-real-filesystem-access-in-a-browser/>
 - <https://news.ycombinator.com/news>
@@ -201,24 +193,18 @@
 - <https://github.com/styfle/breaking-changes-web>
 - <https://anglish.org> - english++
 - <https://xargs.org/> - protocols illustrated
-- <https://nat.org/> - Nat Friedman
-- <https://math.ucr.edu/home/baez/physics/index.html>
+- <https://math.ucr.edu/home/baez/physics/> - physics FAQ
 - <https://www.karanpratapsingh.com/courses>
 - <https://cpu.land/> - how cpu works
-- <https://mazzo.li/archive.html>
 - <https://wiki.osdev.org/> - osdev wiki
 - <https://cure53.de/> - pentest reports
 - <https://github.com/bregman-arie/devops-exercises>
-- <https://github.com/airbnb/javascript> - JavaScript Style Guide
 - <https://raytracing.github.io/> - learn how to do raytracing
 - <https://cstack.github.io/db_tutorial/> - build a clone of sqlite from scratch
-- <https://gigamonkeys.com/flowers/> - understand Engineering Effectiveness
-- <https://gigamonkeys.com/engineering/> - things a software engineer should be able to do
 - <https://www.flickr.com/photos/95869671@N08/> - maps of things
 - <https://github.com/ByteByteGoHq/system-design-101>
 - <https://docs.kernel.org/process/development-process.html#>
 - <https://sysprog21.github.io/lkmpg/> - the linux kernel module guide
-- <https://http.cat/> - http status cats
 - <https://c9x.me/compile/bib/> - Resources for Amateur Compiler Writers
 - <https://infovisual.info/> - schemas
 - <https://lwn.net/> - Linux Weekly News and FOSS
@@ -246,9 +232,19 @@
 - <https://github.com/jstrieb/systems-programming-cheat-sheet>
 - <https://en.algorithmica.org/hpc/> - high performance computing
 
-### blog
+### blog and personal websites
 
 - <https://tomassetti.me/>
+- <https://nat.org/> - Nat Friedman
+- <https://mazzo.li/archive.html>
+- <https://elm-chan.org/> - Electronic
+- <https://rreverser.com/>
+- <http://www.isthe.com/chongo/>
+- <https://gigamonkeys.com/flowers/> - understand Engineering Effectiveness
+- <https://gigamonkeys.com/engineering/> - things a software engineer should be able to do
+- <https://www.ski-epic.com/> - i think he likes skiing
+- <https://words.filippo.io/the-ecb-penguin/>
+- <https://www.petermekhaeil.com/today-i-learned/>
 - <https://beej.us/blog/> - blog
 - <https://docs.saferwall.com/blog/> - virtualization blog
 - <https://smallcultfollowing.com/babysteps/> - blog
@@ -282,6 +278,7 @@
 - <https://www.marinetraffic.com/> - boat finder
 - <https://www.navily.com/> - boat anchorage
 - <https://sailboat.guide/> - sailboat guide
+- <https://www.loisirs-nautic.fr/> - french boat license training
 - <https://appchart.c-map.com/> - map for boat
 - <https://www.windy.com/> - wind information
 - <https://windfinder.com/> - wind information
@@ -309,6 +306,7 @@
 - <https://www.yoctoproject.org/> - create custom linux distro
 - <https://www.openembedded.org/>
 - <https://buildroot.org/>
+- <https://github.com/cnlohr/minimdnsd/> - mini dnsd
 - <https://openwrt.org/> - linux for embedded devices
 - <https://gitleaks.io/> - find secrets in git repo
 - <https://float.exposed/> - inspect your floating number
