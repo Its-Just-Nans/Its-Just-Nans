@@ -288,19 +288,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/crates",
-        "name": "crates",
-        "description": "📍 Parking for my crates",
-        "stargazerCount": 0,
-        "homepageUrl": "https://crates.io/users/Its-Just-Nans",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "Rust",
-            "color": "#dea584"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/csv-to-custom-json",
         "name": "csv-to-custom-json",
         "description": "Easily transform your CSV to a custom JSON with cool options",

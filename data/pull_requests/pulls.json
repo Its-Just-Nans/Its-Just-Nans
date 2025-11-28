@@ -9213,5 +9213,57 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOK0J3p861Uw7y",
+            "number": 411,
+            "title": "Create web-component-in-mdx.mdx",
+            "url": "https://github.com/astrolicious/astro-tips.dev/pull/411",
+            "state": "OPEN",
+            "createdAt": "2025-11-25T02:21:06Z",
+            "baseRepository": {
+                "url": "https://github.com/astrolicious/astro-tips.dev",
+                "name": "astro-tips.dev",
+                "description": "The place for content that goes beyond the official docs, for all Astronauts!",
+                "owner": {
+                    "login": "astrolicious"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "TypeScript",
+                            "color": "#3178c6"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOAQ-n5M61U0Qp",
+            "number": 8995,
+            "title": "fix: casing for job/status - and background compatibility for jobid",
+            "url": "https://github.com/rclone/rclone/pull/8995",
+            "state": "OPEN",
+            "createdAt": "2025-11-25T02:30:49Z",
+            "baseRepository": {
+                "url": "https://github.com/rclone/rclone",
+                "name": "rclone",
+                "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+                "owner": {
+                    "login": "rclone"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Makefile",
+                            "color": "#427819"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
