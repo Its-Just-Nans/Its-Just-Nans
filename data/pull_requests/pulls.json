@@ -6957,15 +6957,15 @@
             "id": "PR_kwDOAW4RGc6RUlEz",
             "number": 8,
             "title": "add link to ceil function",
-            "url": "https://github.com/bash/bash.github.io/pull/8",
+            "url": "https://github.com/tautropfli/bash.github.io/pull/8",
             "state": "MERGED",
             "createdAt": "2025-04-03T21:39:40Z",
             "baseRepository": {
-                "url": "https://github.com/bash/bash.github.io",
+                "url": "https://github.com/tautropfli/bash.github.io",
                 "name": "bash.github.io",
                 "description": "Source code of my personal website and blog",
                 "owner": {
-                    "login": "bash"
+                    "login": "tautropfli"
                 },
                 "languages": {
                     "nodes": [

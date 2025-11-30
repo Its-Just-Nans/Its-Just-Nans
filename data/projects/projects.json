@@ -230,34 +230,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/cards-game",
-        "name": "cards-game",
-        "description": "PoC - A quiz creator and player",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/cards-game",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "HTML",
-            "color": "#e34c26"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/contacts-vcf",
-        "name": "contacts-vcf",
-        "description": "PoC - rudimentary VCF viewer",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/contacts-vcf/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Svelte",
-            "color": "#ff3e00"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/coreutils-tracking-details",
         "name": "coreutils-tracking-details",
         "description": "PoC - coreutils tracking but a little more detailed",
@@ -848,21 +820,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/motion-extraction",
-        "name": "motion-extraction",
-        "description": "PoC - Video motion extraction",
-        "stargazerCount": 1,
-        "homepageUrl": null,
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Shell",
-            "color": "#89e051"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/motp",
         "name": "motp",
         "description": "mOTP generator",
@@ -888,21 +845,6 @@
         "primaryLanguage": {
             "name": "Svelte",
             "color": "#ff3e00"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/movies-display",
-        "name": "movies-display",
-        "description": "PoC - display movies list",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/movies-display/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Astro",
-            "color": "#ff5a03"
         }
     },
     {
@@ -1351,19 +1293,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/string-explorer",
-        "name": "string-explorer",
-        "description": "PoC - Explore the world of string and encoding",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/string-explorer/",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "Svelte",
-            "color": "#ff3e00"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/student-app",
         "name": "student-app",
         "description": "DUT R&T - The student app, make and play quiz games",
@@ -1387,21 +1316,6 @@
         "primaryLanguage": {
             "name": "C",
             "color": "#555555"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/sudoku-z3",
-        "name": "sudoku-z3",
-        "description": "PoC - A weird way to verify sudoku",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Jupyter Notebook",
-            "color": "#DA5B0B"
         }
     },
     {
@@ -1530,19 +1444,6 @@
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/typst.github.io",
-        "name": "typst.github.io",
-        "description": "PoC - Generate typst docs",
-        "stargazerCount": 0,
-        "homepageUrl": "https://typst-github-io.n4n5.dev/",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "Shell",
-            "color": "#89e051"
         }
     },
     {
