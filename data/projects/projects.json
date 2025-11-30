@@ -633,21 +633,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/halting-problem",
-        "name": "halting-problem",
-        "description": "PoC - Please don't halt",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Python",
-            "color": "#3572A5"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/hangman-game",
         "name": "hangman-game",
         "description": "DUT R&T - Python hangman game",
@@ -1402,21 +1387,6 @@
         "forkCount": 0,
         "licenseInfo": null,
         "primaryLanguage": null
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/time",
-        "name": "time",
-        "description": "PoC - get time by timezone",
-        "stargazerCount": 1,
-        "homepageUrl": "https://time.n4n5.dev/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-        }
     },
     {
         "url": "https://github.com/Its-Just-Nans/tiny-todo",
