@@ -1069,19 +1069,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/ratatui-testing",
-        "name": "ratatui-testing",
-        "description": "PoC - ratatui json editor",
-        "stargazerCount": 1,
-        "homepageUrl": "",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "Rust",
-            "color": "#dea584"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/rio",
         "name": "rio",
         "description": "🌐 unofficial RIO website",
