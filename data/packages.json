@@ -101,7 +101,8 @@
             "whatisthis",
             "galago",
             "bladvak",
-            "pngtools"
+            "pngtools",
+            "galion"
         ],
         "shields": [
             "https://img.shields.io/crates/dv/:package",
