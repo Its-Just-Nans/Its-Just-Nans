@@ -44,9 +44,9 @@
         "url": "https://github.com/Its-Just-Nans/apksig",
         "name": "apksig",
         "description": "Decoding the APK Signing Block",
-        "stargazerCount": 6,
+        "stargazerCount": 7,
         "homepageUrl": "https://n4n5.dev/apksig/",
-        "forkCount": 1,
+        "forkCount": 2,
         "licenseInfo": {
             "name": "MIT License"
         },
@@ -1239,7 +1239,7 @@
         "name": "spust",
         "description": "web analytics",
         "stargazerCount": 0,
-        "homepageUrl": "",
+        "homepageUrl": "https://crates.io/crates/spust",
         "forkCount": 0,
         "licenseInfo": {
             "name": "MIT License"
