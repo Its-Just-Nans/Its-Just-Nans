@@ -177,7 +177,7 @@ grep -rni "pandoc" ./**/Makefile # in specific file
 >
 > `-r`: recursive
 > `-n`: line number
-> `-r`: ignore  case
+> `-i`: ignore  case
 
 Or use ripgrep <https://github.com/BurntSushi/ripgrep>
 
