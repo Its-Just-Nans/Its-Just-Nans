@@ -191,7 +191,7 @@
         "name": "bladvak",
         "description": "Base egui/eframe app - bladvak means 'pickaxe' in Gobbledegook",
         "stargazerCount": 0,
-        "homepageUrl": "",
+        "homepageUrl": "https://crates.io/crates/bladvak",
         "forkCount": 0,
         "licenseInfo": {
             "name": "MIT License"
