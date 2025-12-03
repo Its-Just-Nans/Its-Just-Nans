@@ -100,7 +100,9 @@
             "tarsier",
             "whatisthis",
             "galago",
-            "bladvak"
+            "bladvak",
+            "pngtools",
+            "galion"
         ],
         "shields": [
             "https://img.shields.io/crates/dv/:package",

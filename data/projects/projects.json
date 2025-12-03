@@ -44,9 +44,9 @@
         "url": "https://github.com/Its-Just-Nans/apksig",
         "name": "apksig",
         "description": "Decoding the APK Signing Block",
-        "stargazerCount": 6,
+        "stargazerCount": 7,
         "homepageUrl": "https://n4n5.dev/apksig/",
-        "forkCount": 1,
+        "forkCount": 2,
         "licenseInfo": {
             "name": "MIT License"
         },
@@ -227,34 +227,6 @@
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/cards-game",
-        "name": "cards-game",
-        "description": "PoC - A quiz creator and player",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/cards-game",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "HTML",
-            "color": "#e34c26"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/contacts-vcf",
-        "name": "contacts-vcf",
-        "description": "PoC - rudimentary VCF viewer",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/contacts-vcf/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Svelte",
-            "color": "#ff3e00"
         }
     },
     {
@@ -661,21 +633,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/halting-problem",
-        "name": "halting-problem",
-        "description": "PoC - Please don't halt",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Python",
-            "color": "#3572A5"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/hangman-game",
         "name": "hangman-game",
         "description": "DUT R&T - Python hangman game",
@@ -848,21 +805,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/motion-extraction",
-        "name": "motion-extraction",
-        "description": "PoC - Video motion extraction",
-        "stargazerCount": 1,
-        "homepageUrl": null,
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Shell",
-            "color": "#89e051"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/motp",
         "name": "motp",
         "description": "mOTP generator",
@@ -888,21 +830,6 @@
         "primaryLanguage": {
             "name": "Svelte",
             "color": "#ff3e00"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/movies-display",
-        "name": "movies-display",
-        "description": "PoC - display movies list",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/movies-display/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Astro",
-            "color": "#ff5a03"
         }
     },
     {
@@ -1142,19 +1069,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/ratatui-testing",
-        "name": "ratatui-testing",
-        "description": "PoC - ratatui json editor",
-        "stargazerCount": 1,
-        "homepageUrl": "",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "Rust",
-            "color": "#dea584"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/rio",
         "name": "rio",
         "description": "🌐 unofficial RIO website",
@@ -1325,7 +1239,7 @@
         "name": "spust",
         "description": "web analytics",
         "stargazerCount": 0,
-        "homepageUrl": "",
+        "homepageUrl": "https://crates.io/crates/spust",
         "forkCount": 0,
         "licenseInfo": {
             "name": "MIT License"
@@ -1348,19 +1262,6 @@
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/string-explorer",
-        "name": "string-explorer",
-        "description": "PoC - Explore the world of string and encoding",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/string-explorer/",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "Svelte",
-            "color": "#ff3e00"
         }
     },
     {
@@ -1387,21 +1288,6 @@
         "primaryLanguage": {
             "name": "C",
             "color": "#555555"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/sudoku-z3",
-        "name": "sudoku-z3",
-        "description": "PoC - A weird way to verify sudoku",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Jupyter Notebook",
-            "color": "#DA5B0B"
         }
     },
     {
@@ -1490,21 +1376,6 @@
         "primaryLanguage": null
     },
     {
-        "url": "https://github.com/Its-Just-Nans/time",
-        "name": "time",
-        "description": "PoC - get time by timezone",
-        "stargazerCount": 1,
-        "homepageUrl": "https://time.n4n5.dev/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/tiny-todo",
         "name": "tiny-todo",
         "description": "A simple TODO list",
@@ -1530,19 +1401,6 @@
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/typst.github.io",
-        "name": "typst.github.io",
-        "description": "PoC - Generate typst docs",
-        "stargazerCount": 0,
-        "homepageUrl": "https://typst-github-io.n4n5.dev/",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "Shell",
-            "color": "#89e051"
         }
     },
     {

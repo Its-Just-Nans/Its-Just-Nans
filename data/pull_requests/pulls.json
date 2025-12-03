@@ -6954,32 +6954,6 @@
     },
     {
         "node": {
-            "id": "PR_kwDOAW4RGc6RUlEz",
-            "number": 8,
-            "title": "add link to ceil function",
-            "url": "https://github.com/bash/bash.github.io/pull/8",
-            "state": "MERGED",
-            "createdAt": "2025-04-03T21:39:40Z",
-            "baseRepository": {
-                "url": "https://github.com/bash/bash.github.io",
-                "name": "bash.github.io",
-                "description": "Source code of my personal website and blog",
-                "owner": {
-                    "login": "bash"
-                },
-                "languages": {
-                    "nodes": [
-                        {
-                            "name": "HTML",
-                            "color": "#e34c26"
-                        }
-                    ]
-                }
-            }
-        }
-    },
-    {
-        "node": {
             "id": "PR_kwDOEg8ams6Rchh8",
             "number": 246,
             "title": "add trunk example",
@@ -9194,7 +9168,7 @@
             "number": 2,
             "title": "use class:list",
             "url": "https://github.com/pascal-brand38/astro-splide/pull/2",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-11-25T02:01:56Z",
             "baseRepository": {
                 "url": "https://github.com/pascal-brand38/astro-splide",
