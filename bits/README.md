@@ -272,6 +272,7 @@
 - <https://eatonphil.com/blogs.html> - blog of blogs
 - <https://ciechanow.ski/archives/> - blog with great interactive examples
 - <https://www.brendangregg.com/blog/> - blog
+- <https://thume.ca/archive.html> - blog
 
 ## IRL tools
 
