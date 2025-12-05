@@ -8726,7 +8726,7 @@
             "number": 460,
             "title": "fix: print previous error when failing to search another cde",
             "url": "https://github.com/zip-rs/zip2/pull/460",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-10-29T02:47:57Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -8776,9 +8776,9 @@
         "node": {
             "id": "PR_kwDOJaavgM6wgIT_",
             "number": 466,
-            "title": "fix crc32 check only on filename",
+            "title": "fix: CRC32 check on filename shouldn't include directory path (#454)",
             "url": "https://github.com/zip-rs/zip2/pull/466",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2025-10-30T00:18:24Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
