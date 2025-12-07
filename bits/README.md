@@ -301,10 +301,12 @@
 - <https://www.jurisprudence.ninja/>
 - <https://recomedicales.fr/> - medecine
 - <https://ib.bioninja.com.au/>
+- <https://www.onezoom.org/life/> - map of animals
 
 ## tools
 
 - <https://ceph.io/> - distributed storage
+- <https://www.veripool.org/verilator/> - verilog simulator
 - <https://www.yoctoproject.org/> - create custom linux distro
 - <https://www.openembedded.org/>
 - <https://buildroot.org/>
