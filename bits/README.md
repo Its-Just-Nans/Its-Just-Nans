@@ -259,6 +259,7 @@
 - <http://zlethic.com/> - building robots
 - <https://andrewkelley.me/> - blog
 - <https://jameshfisher.com/>
+- <https://devonzuegel.com/> - blog
 - <https://blog.shrirambalaji.com/> - blog
 - <https://mcyoung.xyz/> - blog
 - <https://www.arp242.net/> - blog
