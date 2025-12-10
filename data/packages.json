@@ -103,7 +103,8 @@
             "bladvak",
             "pngtools",
             "galion",
-            "wombat"
+            "wombat",
+            "meka"
         ],
         "shields": [
             "https://img.shields.io/crates/dv/:package",
