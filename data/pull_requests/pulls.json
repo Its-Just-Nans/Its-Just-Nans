@@ -7530,7 +7530,7 @@
             "number": 1,
             "title": "fix typo",
             "url": "https://github.com/package-url/packageurl.rs/pull/1",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2025-07-15T23:16:16Z",
             "baseRepository": {
                 "url": "https://github.com/package-url/packageurl.rs",
@@ -8726,7 +8726,7 @@
             "number": 460,
             "title": "fix: print previous error when failing to search another cde",
             "url": "https://github.com/zip-rs/zip2/pull/460",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-10-29T02:47:57Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -8776,9 +8776,9 @@
         "node": {
             "id": "PR_kwDOJaavgM6wgIT_",
             "number": 466,
-            "title": "fix crc32 check only on filename",
+            "title": "fix: CRC32 check on filename shouldn't include directory path (#454)",
             "url": "https://github.com/zip-rs/zip2/pull/466",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2025-10-30T00:18:24Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -9234,6 +9234,110 @@
                         {
                             "name": "Makefile",
                             "color": "#427819"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBEyLlM63f1CS",
+            "number": 980,
+            "title": "feat: do not write empty defs",
+            "url": "https://github.com/linebender/resvg/pull/980",
+            "state": "MERGED",
+            "createdAt": "2025-12-07T02:24:49Z",
+            "baseRepository": {
+                "url": "https://github.com/linebender/resvg",
+                "name": "resvg",
+                "description": "An SVG rendering library.",
+                "owner": {
+                    "login": "linebender"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBEyLlM63iROw",
+            "number": 981,
+            "title": "Check if text paths need to be written out",
+            "url": "https://github.com/linebender/resvg/pull/981",
+            "state": "MERGED",
+            "createdAt": "2025-12-07T15:21:17Z",
+            "baseRepository": {
+                "url": "https://github.com/linebender/resvg",
+                "name": "resvg",
+                "description": "An SVG rendering library.",
+                "owner": {
+                    "login": "linebender"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBQiTpM64qs6U",
+            "number": 59,
+            "title": "feat: cleanup code",
+            "url": "https://github.com/mitnk/cicada/pull/59",
+            "state": "OPEN",
+            "createdAt": "2025-12-13T01:52:20Z",
+            "baseRepository": {
+                "url": "https://github.com/mitnk/cicada",
+                "name": "cicada",
+                "description": "An old-school bash-like Unix shell written in Rust",
+                "owner": {
+                    "login": "mitnk"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOQJjIks64qwiG",
+            "number": 3,
+            "title": "feat: add duration setter",
+            "url": "https://github.com/AriajSarkar/eventix/pull/3",
+            "state": "OPEN",
+            "createdAt": "2025-12-13T02:09:03Z",
+            "baseRepository": {
+                "url": "https://github.com/AriajSarkar/eventix",
+                "name": "eventix",
+                "description": "A high-level calendar and recurrence library for Rust with timezone-aware scheduling, exceptions, and ICS import/export.",
+                "owner": {
+                    "login": "AriajSarkar"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
                         }
                     ]
                 }

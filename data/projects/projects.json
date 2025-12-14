@@ -553,7 +553,7 @@
         "url": "https://github.com/Its-Just-Nans/git-mover",
         "name": "git-mover",
         "description": "Move git repositories to a new location",
-        "stargazerCount": 1,
+        "stargazerCount": 2,
         "homepageUrl": "https://crates.io/crates/git-mover",
         "forkCount": 0,
         "licenseInfo": {
@@ -1424,6 +1424,21 @@
         "description": "File investigator",
         "stargazerCount": 2,
         "homepageUrl": "https://whatisthis.n4n5.dev/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "primaryLanguage": {
+            "name": "Rust",
+            "color": "#dea584"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/wombat",
+        "name": "wombat",
+        "description": "Hex file viewer",
+        "stargazerCount": 0,
+        "homepageUrl": "http://wombat.n4n5.dev/",
         "forkCount": 0,
         "licenseInfo": {
             "name": "MIT License"

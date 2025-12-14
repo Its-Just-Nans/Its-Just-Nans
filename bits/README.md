@@ -259,6 +259,7 @@
 - <http://zlethic.com/> - building robots
 - <https://andrewkelley.me/> - blog
 - <https://jameshfisher.com/>
+- <https://devonzuegel.com/> - blog
 - <https://blog.shrirambalaji.com/> - blog
 - <https://mcyoung.xyz/> - blog
 - <https://www.arp242.net/> - blog
@@ -272,6 +273,7 @@
 - <https://eatonphil.com/blogs.html> - blog of blogs
 - <https://ciechanow.ski/archives/> - blog with great interactive examples
 - <https://www.brendangregg.com/blog/> - blog
+- <https://thume.ca/archive.html> - blog
 
 ## IRL tools
 
@@ -300,10 +302,12 @@
 - <https://www.jurisprudence.ninja/>
 - <https://recomedicales.fr/> - medecine
 - <https://ib.bioninja.com.au/>
+- <https://www.onezoom.org/life/> - map of animals
 
 ## tools
 
 - <https://ceph.io/> - distributed storage
+- <https://www.veripool.org/verilator/> - verilog simulator
 - <https://www.yoctoproject.org/> - create custom linux distro
 - <https://www.openembedded.org/>
 - <https://buildroot.org/>
