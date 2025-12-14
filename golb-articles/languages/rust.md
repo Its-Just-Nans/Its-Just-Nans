@@ -235,7 +235,7 @@ pub struct MyStruct {
 }
 ```
 
-## Useful convertions with Result and Option
+## Useful conversions with Result and Option
 
 ```rust
 // Convert Result error type
