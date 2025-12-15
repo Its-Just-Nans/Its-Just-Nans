@@ -10,15 +10,13 @@ keywords: rust, programming, language
 - <https://rustup.rs/> - install rust and tools
 - <https://doc.rust-lang.org/book/>
 - <https://doc.rust-lang.org/reference/>
-- <https://cheats.rs/>
 - <https://google.github.io/comprehensive-rust/>
 - <https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials>
-- <https://upsuper.github.io/rust-cheatsheet/>
 - <https://rust-unofficial.github.io/patterns/>
 - <https://teach-rs.tweede.golf/>
 - <https://github.com/johnthagen/min-sized-rust>
 - <https://doc.rust-lang.org/nightly/nomicon/>
-- <https://marabos.nl/atomics/>
+- <https://marabos.nl/atomics/> - book on atomics and concurrency
 - <https://docs.rs/releases/queue> - docs.rs build queue
 - <https://lib.rs/~Its-Just-Nans/dash> - unofficial dashboard for crate maintainers (change username)
 
@@ -236,3 +234,26 @@ pub struct MyStruct {
     pub b_field: u64
 }
 ```
+
+## Useful conversions with Result and Option
+
+```rust
+// Convert Result error type
+let variable: Result<T, E> = Ok(42);
+let variable_t = variable.map_err(|e| format!("Error {e}"))?; // note the ?
+
+// Convert Option to Result
+let variable: Option<T> = Some(42);
+let variable_t = variable.ok_or("Error: None value")?; // note the ?
+
+// Convert Result to Option
+let res: Result<u8, ()> = Ok(42);
+let opt: Option<u8> = res.ok();
+
+/// Convert Option<Result<T, E>> to Result<Option<T>, E> - also works in reverse
+let opt_res: Option<Result<u8, ()>> = Some(Ok(42));
+let res_opt: Result<Option<u8>, ()> = opt_res.transpose();
+```
+
+> - <https://cheats.rs/>
+> - <https://upsuper.github.io/rust-cheatsheet/>
