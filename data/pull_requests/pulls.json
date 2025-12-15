@@ -9343,5 +9343,213 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBEyLlM64t4I3",
+            "number": 984,
+            "title": "Consolidate `to_string` implementation of `BlendMode`",
+            "url": "https://github.com/linebender/resvg/pull/984",
+            "state": "MERGED",
+            "createdAt": "2025-12-13T21:03:24Z",
+            "baseRepository": {
+                "url": "https://github.com/linebender/resvg",
+                "name": "resvg",
+                "description": "An SVG rendering library.",
+                "owner": {
+                    "login": "linebender"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBEyLlM64t4Vj",
+            "number": 985,
+            "title": "poc: don't write empty nodes",
+            "url": "https://github.com/linebender/resvg/pull/985",
+            "state": "OPEN",
+            "createdAt": "2025-12-13T21:04:50Z",
+            "baseRepository": {
+                "url": "https://github.com/linebender/resvg",
+                "name": "resvg",
+                "description": "An SVG rendering library.",
+                "owner": {
+                    "login": "linebender"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOAUYDTc64ulvZ",
+            "number": 12492,
+            "title": "fix: instruction for contributing",
+            "url": "https://github.com/rust-lang/crates.io/pull/12492",
+            "state": "OPEN",
+            "createdAt": "2025-12-14T01:55:02Z",
+            "baseRepository": {
+                "url": "https://github.com/rust-lang/crates.io",
+                "name": "crates.io",
+                "description": "The Rust package registry",
+                "owner": {
+                    "login": "rust-lang"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "JavaScript",
+                            "color": "#f1e05a"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBEyLlM64yau1",
+            "number": 986,
+            "title": "Add display units",
+            "url": "https://github.com/linebender/resvg/pull/986",
+            "state": "OPEN",
+            "createdAt": "2025-12-14T18:59:03Z",
+            "baseRepository": {
+                "url": "https://github.com/linebender/resvg",
+                "name": "resvg",
+                "description": "An SVG rendering library.",
+                "owner": {
+                    "login": "linebender"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBEyLlM64yjWJ",
+            "number": 987,
+            "title": "Use checked arithmetic when computing bounding box",
+            "url": "https://github.com/linebender/resvg/pull/987",
+            "state": "MERGED",
+            "createdAt": "2025-12-14T19:32:21Z",
+            "baseRepository": {
+                "url": "https://github.com/linebender/resvg",
+                "name": "resvg",
+                "description": "An SVG rendering library.",
+                "owner": {
+                    "login": "linebender"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBEyLlM64ysGx",
+            "number": 988,
+            "title": "Fix https://github.com/linebender/resvg/issues/921",
+            "url": "https://github.com/linebender/resvg/pull/988",
+            "state": "OPEN",
+            "createdAt": "2025-12-14T19:59:53Z",
+            "baseRepository": {
+                "url": "https://github.com/linebender/resvg",
+                "name": "resvg",
+                "description": "An SVG rendering library.",
+                "owner": {
+                    "login": "linebender"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBEyLlM64zHhj",
+            "number": 989,
+            "title": "checked operations",
+            "url": "https://github.com/linebender/resvg/pull/989",
+            "state": "OPEN",
+            "createdAt": "2025-12-14T21:25:46Z",
+            "baseRepository": {
+                "url": "https://github.com/linebender/resvg",
+                "name": "resvg",
+                "description": "An SVG rendering library.",
+                "owner": {
+                    "login": "linebender"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBEyLlM64zK8y",
+            "number": 990,
+            "title": "handle unwrap",
+            "url": "https://github.com/linebender/resvg/pull/990",
+            "state": "OPEN",
+            "createdAt": "2025-12-14T21:41:25Z",
+            "baseRepository": {
+                "url": "https://github.com/linebender/resvg",
+                "name": "resvg",
+                "description": "An SVG rendering library.",
+                "owner": {
+                    "login": "linebender"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
