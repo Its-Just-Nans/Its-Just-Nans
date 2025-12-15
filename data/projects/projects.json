@@ -332,21 +332,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/dictee",
-        "name": "dictee",
-        "description": "PoC - Dictaction exercices",
-        "stargazerCount": 0,
-        "homepageUrl": "https://n4n5.dev/dictee/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "HTML",
-            "color": "#e34c26"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/dijkstra",
         "name": "dijkstra",
         "description": "TP - INF103 - dijkstra (labyrinth and graph) in java",
@@ -646,21 +631,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/hexagon-background",
-        "name": "hexagon-background",
-        "description": "PoC - Generate a hexagon svg then use it as a background image",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/hexagon-background/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Lua",
-            "color": "#000080"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/indexage",
         "name": "indexage",
         "description": "Create apache2-like html index",
@@ -734,19 +704,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/llamafile-lualatex",
-        "name": "llamafile-lualatex",
-        "description": "PoC - latex report automation using lualatex and llamafile🤓 😎 🥸",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "Lua",
-            "color": "#000080"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/localstorage-supercharged",
         "name": "localstorage-supercharged",
         "description": "A javascript object which under the hood save all his data in the localStorage",
@@ -759,36 +716,6 @@
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/maps-history",
-        "name": "maps-history",
-        "description": "PoC - Visualize your google maps history",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Python",
-            "color": "#3572A5"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/matrix-tests",
-        "name": "matrix-tests",
-        "description": "PoC - matrix protocol tests",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/matrix-tests/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Svelte",
-            "color": "#ff3e00"
         }
     },
     {
@@ -950,21 +877,6 @@
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/pokemon-platinum-map",
-        "name": "pokemon-platinum-map",
-        "description": "PoC - A pokemon platinum map",
-        "stargazerCount": 0,
-        "homepageUrl": "https://n4n5.dev/pokemon-platinum-map/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Svelte",
-            "color": "#ff3e00"
         }
     },
     {
@@ -1401,21 +1313,6 @@
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/video-is-3d",
-        "name": "video-is-3d",
-        "description": "PoC - create video effects by reshaping in 3d",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Python",
-            "color": "#3572A5"
         }
     },
     {
