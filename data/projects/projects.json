@@ -129,19 +129,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/bandwidth-calculator",
-        "name": "bandwidth-calculator",
-        "description": "PoC - A simple HTML bandwidth calculator",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/bandwidth-calculator",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "HTML",
-            "color": "#e34c26"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/baobab",
         "name": "baobab",
         "description": "boa_cli in egui",
@@ -628,21 +615,6 @@
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/json-editor",
-        "name": "json-editor",
-        "description": "PoC - A simple json editor in your browser",
-        "stargazerCount": 2,
-        "homepageUrl": "https://n4n5.dev/json-editor/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Svelte",
-            "color": "#ff3e00"
         }
     },
     {
@@ -1214,19 +1186,6 @@
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/tool-blocks",
-        "name": "tool-blocks",
-        "description": "PoC - The toolbox made of \"blocks\"",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
         }
     },
     {
