@@ -114,21 +114,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/astro-redirector",
-        "name": "astro-redirector",
-        "description": "PoC - Static url shortener using astro",
-        "stargazerCount": 0,
-        "homepageUrl": "https://astro-redirector.n4n5.dev/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Astro",
-            "color": "#ff5a03"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/astro-simple-carousel",
         "name": "astro-simple-carousel",
         "description": "Astro component to render a simple carousel",
@@ -676,21 +661,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/lambdaless-functions",
-        "name": "lambdaless-functions",
-        "description": "PoC - lambdaless API with explanations",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Python",
-            "color": "#3572A5"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/lettre-hebdomadaire.github.io",
         "name": "lettre-hebdomadaire.github.io",
         "description": "🌐 - Le site de la LH, en attendant des jours plus heureux",
@@ -744,19 +714,6 @@
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/mouse-data-transfer",
-        "name": "mouse-data-transfer",
-        "description": "PoC - transfer data using your computer mouse",
-        "stargazerCount": 1,
-        "homepageUrl": "https://n4n5.dev/mouse-data-transfer/",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "Svelte",
-            "color": "#ff3e00"
         }
     },
     {
