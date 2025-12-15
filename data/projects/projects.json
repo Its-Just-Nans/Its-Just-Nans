@@ -360,21 +360,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/domains",
-        "name": "domains",
-        "description": "PoC - Check domains availability",
-        "stargazerCount": 1,
-        "homepageUrl": "https://its-just-nans.github.io/domains/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/dotfiles",
         "name": "dotfiles",
         "description": "📍 dotfiles",
@@ -792,21 +777,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/php-list-api",
-        "name": "php-list-api",
-        "description": "PoC - Create a simple (GitHub like) API to list your files",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "PHP",
-            "color": "#4F5D95"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/plugin-astro-content",
         "name": "plugin-astro-content",
         "description": "plugin-astro-content is an Astro.glob() alternative",
@@ -922,19 +892,6 @@
         "primaryLanguage": {
             "name": "HTML",
             "color": "#e34c26"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/rail-planner",
-        "name": "rail-planner",
-        "description": "PoC - Plan your train trip",
-        "stargazerCount": 0,
-        "homepageUrl": "https://n4n5.dev/rail-planner/",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "Svelte",
-            "color": "#ff3e00"
         }
     },
     {
