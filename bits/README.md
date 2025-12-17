@@ -285,6 +285,7 @@
 - <https://appchart.c-map.com/> - map for boat
 - <https://www.windy.com/> - wind information
 - <https://windfinder.com/> - wind information
+- <https://cartes.app/> - planes
 - <https://www.flightradar24.com/> - planes
 - <https://osmand.net/> - offline earth maps
 - <https://ioverlander.com/> - place for travelers
