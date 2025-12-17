@@ -62,6 +62,7 @@
 - <https://react-icons.github.io/react-icons/> - icons
 - <https://mempool.space/> - bitcoin blocks
 - <https://http.cat/> - http status cats
+- <https://turnoff.us/> - nice geek comics
 
 ## CTFs and cybersecurity
 
