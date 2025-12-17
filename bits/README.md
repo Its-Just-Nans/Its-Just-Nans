@@ -11,10 +11,8 @@
 
 - <https://github.com/alicevision/meshroom>
 - <https://github.com/udevbe/greenfield>
-- <https://github.com/rerun-io/rerun>
 - <https://github.com/adafruit/Adafruit_ILI9341>
 - <https://github.com/vosen/ZLUDA> - CUDA for AMD
-- <https://atomicsemi.com/>
 - <https://px4.io/> - Open Source Autopilot for Drone
 
 ## Others
