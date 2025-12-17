@@ -9400,9 +9400,9 @@
         "node": {
             "id": "PR_kwDOAUYDTc64ulvZ",
             "number": 12492,
-            "title": "fix: instruction for contributing",
+            "title": "Improve contributing instructions",
             "url": "https://github.com/rust-lang/crates.io/pull/12492",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-12-14T01:55:02Z",
             "baseRepository": {
                 "url": "https://github.com/rust-lang/crates.io",
@@ -9530,9 +9530,9 @@
         "node": {
             "id": "PR_kwDOBEyLlM64zK8y",
             "number": 990,
-            "title": "handle unwrap",
+            "title": "Avoid unwraps on pixmap creation",
             "url": "https://github.com/linebender/resvg/pull/990",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-12-14T21:41:25Z",
             "baseRepository": {
                 "url": "https://github.com/linebender/resvg",
@@ -9546,6 +9546,32 @@
                         {
                             "name": "Rust",
                             "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOAUYDTc65Cz2C",
+            "number": 12513,
+            "title": "Use `env bash` in `script/import-database-dump.sh`",
+            "url": "https://github.com/rust-lang/crates.io/pull/12513",
+            "state": "MERGED",
+            "createdAt": "2025-12-16T01:19:45Z",
+            "baseRepository": {
+                "url": "https://github.com/rust-lang/crates.io",
+                "name": "crates.io",
+                "description": "The Rust package registry",
+                "owner": {
+                    "login": "rust-lang"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "JavaScript",
+                            "color": "#f1e05a"
                         }
                     ]
                 }
