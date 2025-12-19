@@ -218,7 +218,8 @@
 - <https://www.aaaaaaaaaa.org/> - making research more accessible
 - <https://paroj.github.io/gltut/> - modern 3D graphics programming
 - <https://isuckatcs.github.io/how-to-compile-your-language/>
-- <https://endesga.xyz/>
+- <https://endesga.xyz/> - maths
+- <https://docs.fileformat.com/> - file format documentation
 - <https://www.jezzamon.com/fourier/>
 - <https://tldr.inbrowser.app/> - tldr in browser
 - <https://www.karanpratapsingh.com/courses/system-design> - system design course

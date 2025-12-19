@@ -1,6 +1,6 @@
 {
-    "github.com/Its-Just-Nans/Its-Just-Nans": 45168,
-    "github.com/Its-Just-Nans/Its-Just-Nans.github.io": 25003,
+    "github.com/Its-Just-Nans/Its-Just-Nans": 45177,
+    "github.com/Its-Just-Nans/Its-Just-Nans.github.io": 25007,
     "github.com/Its-Just-Nans/anrt-checker": 77,
     "github.com/Its-Just-Nans/apksig": 8678,
     "github.com/Its-Just-Nans/arduino-led-matrix": 17417,
@@ -10,7 +10,7 @@
     "github.com/Its-Just-Nans/astro-simple-carousel": 74,
     "github.com/Its-Just-Nans/baobab": 135,
     "github.com/Its-Just-Nans/base64-image": 7,
-    "github.com/Its-Just-Nans/bladvak": 537,
+    "github.com/Its-Just-Nans/bladvak": 547,
     "github.com/Its-Just-Nans/businessfrance-checker": 9,
     "github.com/Its-Just-Nans/can-be-useful": 130521,
     "github.com/Its-Just-Nans/coreutils-tracking-details": 34,
@@ -31,7 +31,7 @@
     "github.com/Its-Just-Nans/flat-hinge": 6135,
     "github.com/Its-Just-Nans/forem-client": 9,
     "github.com/Its-Just-Nans/function-viewer": 124,
-    "github.com/Its-Just-Nans/galago": 579,
+    "github.com/Its-Just-Nans/galago": 586,
     "github.com/Its-Just-Nans/git-migrator": 10,
     "github.com/Its-Just-Nans/git-mover": 416,
     "github.com/Its-Just-Nans/gitlab-proof": 0,
@@ -83,6 +83,6 @@
     "github.com/Its-Just-Nans/thales-project": 79113,
     "github.com/Its-Just-Nans/tiny-todo": 11,
     "github.com/Its-Just-Nans/whatisthis": 154,
-    "github.com/Its-Just-Nans/wombat": 268,
+    "github.com/Its-Just-Nans/wombat": 309,
     "github.com/Its-Just-Nans/yakb": 2122
 }

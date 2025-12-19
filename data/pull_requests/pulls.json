@@ -9298,7 +9298,7 @@
             "number": 59,
             "title": "feat: cleanup code",
             "url": "https://github.com/mitnk/cicada/pull/59",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2025-12-13T01:52:20Z",
             "baseRepository": {
                 "url": "https://github.com/mitnk/cicada",
@@ -9324,7 +9324,7 @@
             "number": 3,
             "title": "feat: add duration setter",
             "url": "https://github.com/AriajSarkar/eventix/pull/3",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-12-13T02:09:03Z",
             "baseRepository": {
                 "url": "https://github.com/AriajSarkar/eventix",
@@ -9572,6 +9572,84 @@
                         {
                             "name": "JavaScript",
                             "color": "#f1e05a"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBEyLlM65SolI",
+            "number": 991,
+            "title": "Fix https://github.com/linebender/resvg/issues/934",
+            "url": "https://github.com/linebender/resvg/pull/991",
+            "state": "OPEN",
+            "createdAt": "2025-12-17T05:24:19Z",
+            "baseRepository": {
+                "url": "https://github.com/linebender/resvg",
+                "name": "resvg",
+                "description": "An SVG rendering library.",
+                "owner": {
+                    "login": "linebender"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM65fxYC",
+            "number": 487,
+            "title": "Draft: iterable zip",
+            "url": "https://github.com/zip-rs/zip2/pull/487",
+            "state": "OPEN",
+            "createdAt": "2025-12-18T03:26:47Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOEFhL2s65uUuT",
+            "number": 81,
+            "title": "poc: variable fonts",
+            "url": "https://github.com/RazrFalcon/fontdb/pull/81",
+            "state": "OPEN",
+            "createdAt": "2025-12-19T01:32:06Z",
+            "baseRepository": {
+                "url": "https://github.com/RazrFalcon/fontdb",
+                "name": "fontdb",
+                "description": "A simple, in-memory font database with CSS-like queries.",
+                "owner": {
+                    "login": "RazrFalcon"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
                         }
                     ]
                 }
