@@ -9655,5 +9655,57 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBQiTpM65vzIX",
+            "number": 60,
+            "title": "Upgrade dep libs; A bit of clean-up",
+            "url": "https://github.com/mitnk/cicada/pull/60",
+            "state": "MERGED",
+            "createdAt": "2025-12-19T04:49:26Z",
+            "baseRepository": {
+                "url": "https://github.com/mitnk/cicada",
+                "name": "cicada",
+                "description": "An old-school bash-like Unix shell written in Rust",
+                "owner": {
+                    "login": "mitnk"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOCV-eOM654Swc",
+            "number": 211,
+            "title": "Fix wrong hex in chars() representation",
+            "url": "https://github.com/ralfbiedert/cheats.rs/pull/211",
+            "state": "OPEN",
+            "createdAt": "2025-12-19T19:23:50Z",
+            "baseRepository": {
+                "url": "https://github.com/ralfbiedert/cheats.rs",
+                "name": "cheats.rs",
+                "description": "Rust Language Cheat Sheet - https://cheats.rs",
+                "owner": {
+                    "login": "ralfbiedert"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
