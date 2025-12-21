@@ -286,3 +286,9 @@ apt install inotify-tools
 # here we do 'ls .' every change
 while true; do inotifywait -r -e MODIFY . && ls .; done
 ```
+
+## List fonts
+
+```sh
+fc-list
+```
