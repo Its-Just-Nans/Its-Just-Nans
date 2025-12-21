@@ -88,6 +88,7 @@
             "notox",
             "spust",
             "tramex",
+            "tramex-tools",
             "types_lte_3gpp",
             "music-exporter",
             "n4n5",
@@ -115,6 +116,7 @@
         "repos": {
             "n4n5": "https://github.com/Its-Just-Nans/n4n5-crate",
             "tramex": "https://github.com/tramex/tramex",
+            "tramex-tools": "https://github.com/tramex/tramex",
             "types_lte_3gpp": "https://github.com/tramex/types_lte_3gpp"
         }
     },

@@ -114,21 +114,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/astro-redirector",
-        "name": "astro-redirector",
-        "description": "PoC - Static url shortener using astro",
-        "stargazerCount": 0,
-        "homepageUrl": "https://astro-redirector.n4n5.dev/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Astro",
-            "color": "#ff5a03"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/astro-simple-carousel",
         "name": "astro-simple-carousel",
         "description": "Astro component to render a simple carousel",
@@ -141,19 +126,6 @@
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/bandwidth-calculator",
-        "name": "bandwidth-calculator",
-        "description": "PoC - A simple HTML bandwidth calculator",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/bandwidth-calculator",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "HTML",
-            "color": "#e34c26"
         }
     },
     {
@@ -332,21 +304,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/dictee",
-        "name": "dictee",
-        "description": "PoC - Dictaction exercices",
-        "stargazerCount": 0,
-        "homepageUrl": "https://n4n5.dev/dictee/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "HTML",
-            "color": "#e34c26"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/dijkstra",
         "name": "dijkstra",
         "description": "TP - INF103 - dijkstra (labyrinth and graph) in java",
@@ -387,21 +344,6 @@
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/domains",
-        "name": "domains",
-        "description": "PoC - Check domains availability",
-        "stargazerCount": 1,
-        "homepageUrl": "https://its-just-nans.github.io/domains/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
         }
     },
     {
@@ -480,7 +422,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/flat-hinge",
         "name": "flat-hinge",
-        "description": "just some 3d flat hinges",
+        "description": "🛠️ just some 3d flat hinges",
         "stargazerCount": 0,
         "homepageUrl": "https://www.thingiverse.com/thing:4928759",
         "forkCount": 0,
@@ -523,9 +465,9 @@
         "url": "https://github.com/Its-Just-Nans/galago",
         "name": "galago",
         "description": "A simple svg editor",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "homepageUrl": "https://galago.n4n5.dev/",
-        "forkCount": 1,
+        "forkCount": 2,
         "licenseInfo": {
             "name": "MIT License"
         },
@@ -646,21 +588,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/hexagon-background",
-        "name": "hexagon-background",
-        "description": "PoC - Generate a hexagon svg then use it as a background image",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/hexagon-background/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Lua",
-            "color": "#000080"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/indexage",
         "name": "indexage",
         "description": "Create apache2-like html index",
@@ -691,36 +618,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/json-editor",
-        "name": "json-editor",
-        "description": "PoC - A simple json editor in your browser",
-        "stargazerCount": 2,
-        "homepageUrl": "https://n4n5.dev/json-editor/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Svelte",
-            "color": "#ff3e00"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/lambdaless-functions",
-        "name": "lambdaless-functions",
-        "description": "PoC - lambdaless API with explanations",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Python",
-            "color": "#3572A5"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/lettre-hebdomadaire.github.io",
         "name": "lettre-hebdomadaire.github.io",
         "description": "🌐 - Le site de la LH, en attendant des jours plus heureux",
@@ -731,19 +628,6 @@
         "primaryLanguage": {
             "name": "Astro",
             "color": "#ff5a03"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/llamafile-lualatex",
-        "name": "llamafile-lualatex",
-        "description": "PoC - latex report automation using lualatex and llamafile🤓 😎 🥸",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "Lua",
-            "color": "#000080"
         }
     },
     {
@@ -759,36 +643,6 @@
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/maps-history",
-        "name": "maps-history",
-        "description": "PoC - Visualize your google maps history",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Python",
-            "color": "#3572A5"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/matrix-tests",
-        "name": "matrix-tests",
-        "description": "PoC - matrix protocol tests",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/matrix-tests/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Svelte",
-            "color": "#ff3e00"
         }
     },
     {
@@ -817,19 +671,6 @@
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/mouse-data-transfer",
-        "name": "mouse-data-transfer",
-        "description": "PoC - transfer data using your computer mouse",
-        "stargazerCount": 1,
-        "homepageUrl": "https://n4n5.dev/mouse-data-transfer/",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "Svelte",
-            "color": "#ff3e00"
         }
     },
     {
@@ -866,7 +707,7 @@
         "url": "https://github.com/Its-Just-Nans/notox",
         "name": "notox",
         "description": "no toxic names anymore",
-        "stargazerCount": 14,
+        "stargazerCount": 15,
         "homepageUrl": "https://n4n5.dev/notox/",
         "forkCount": 1,
         "licenseInfo": {
@@ -908,21 +749,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/php-list-api",
-        "name": "php-list-api",
-        "description": "PoC - Create a simple (GitHub like) API to list your files",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "PHP",
-            "color": "#4F5D95"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/plugin-astro-content",
         "name": "plugin-astro-content",
         "description": "plugin-astro-content is an Astro.glob() alternative",
@@ -950,21 +776,6 @@
         "primaryLanguage": {
             "name": "Python",
             "color": "#3572A5"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/pokemon-platinum-map",
-        "name": "pokemon-platinum-map",
-        "description": "PoC - A pokemon platinum map",
-        "stargazerCount": 0,
-        "homepageUrl": "https://n4n5.dev/pokemon-platinum-map/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Svelte",
-            "color": "#ff3e00"
         }
     },
     {
@@ -1028,21 +839,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/qr",
-        "name": "qr",
-        "description": "PoC - Generate a QR from URL",
-        "stargazerCount": 0,
-        "homepageUrl": "https://n4n5.dev/qr/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "HTML",
-            "color": "#e34c26"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/radvd-project-website-fork",
         "name": "radvd-project-website-fork",
         "description": "🌐 - FORK of https://github.com/radvd-project/radvd-project.github.io for demo",
@@ -1053,19 +849,6 @@
         "primaryLanguage": {
             "name": "HTML",
             "color": "#e34c26"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/rail-planner",
-        "name": "rail-planner",
-        "description": "PoC - Plan your train trip",
-        "stargazerCount": 0,
-        "homepageUrl": "https://n4n5.dev/rail-planner/",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "Svelte",
-            "color": "#ff3e00"
         }
     },
     {
@@ -1202,8 +985,8 @@
             "name": "MIT License"
         },
         "primaryLanguage": {
-            "name": "Svelte",
-            "color": "#ff3e00"
+            "name": "CSS",
+            "color": "#663399"
         }
     },
     {
@@ -1381,34 +1164,6 @@
         "description": "A simple TODO list",
         "stargazerCount": 0,
         "homepageUrl": "https://pypi.org/project/tiny-todo/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Python",
-            "color": "#3572A5"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/tool-blocks",
-        "name": "tool-blocks",
-        "description": "PoC - The toolbox made of \"blocks\"",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/video-is-3d",
-        "name": "video-is-3d",
-        "description": "PoC - create video effects by reshaping in 3d",
-        "stargazerCount": 0,
-        "homepageUrl": "",
         "forkCount": 0,
         "licenseInfo": {
             "name": "MIT License"

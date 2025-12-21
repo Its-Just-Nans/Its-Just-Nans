@@ -11,10 +11,8 @@
 
 - <https://github.com/alicevision/meshroom>
 - <https://github.com/udevbe/greenfield>
-- <https://github.com/rerun-io/rerun>
 - <https://github.com/adafruit/Adafruit_ILI9341>
 - <https://github.com/vosen/ZLUDA> - CUDA for AMD
-- <https://atomicsemi.com/>
 - <https://px4.io/> - Open Source Autopilot for Drone
 
 ## Others
@@ -64,6 +62,7 @@
 - <https://react-icons.github.io/react-icons/> - icons
 - <https://mempool.space/> - bitcoin blocks
 - <https://http.cat/> - http status cats
+- <https://turnoff.us/> - nice geek comics
 
 ## CTFs and cybersecurity
 
@@ -219,7 +218,8 @@
 - <https://www.aaaaaaaaaa.org/> - making research more accessible
 - <https://paroj.github.io/gltut/> - modern 3D graphics programming
 - <https://isuckatcs.github.io/how-to-compile-your-language/>
-- <https://endesga.xyz/>
+- <https://endesga.xyz/> - maths
+- <https://docs.fileformat.com/> - file format documentation
 - <https://www.jezzamon.com/fourier/>
 - <https://tldr.inbrowser.app/> - tldr in browser
 - <https://www.karanpratapsingh.com/courses/system-design> - system design course
@@ -285,6 +285,7 @@
 - <https://appchart.c-map.com/> - map for boat
 - <https://www.windy.com/> - wind information
 - <https://windfinder.com/> - wind information
+- <https://cartes.app/> - planes
 - <https://www.flightradar24.com/> - planes
 - <https://osmand.net/> - offline earth maps
 - <https://ioverlander.com/> - place for travelers
