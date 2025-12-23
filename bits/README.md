@@ -206,7 +206,6 @@
 - <https://sysprog21.github.io/lkmpg/> - the linux kernel module guide
 - <https://c9x.me/compile/bib/> - Resources for Amateur Compiler Writers
 - <https://infovisual.info/> - schemas
-- <https://lwn.net/> - Linux Weekly News and FOSS
 - <https://missing.csail.mit.edu/> - missing CS semester
 - <https://www.c-language.org/> - C language
 - <https://github.com/FFmpeg/asm-lessons> - asm lessons
@@ -235,6 +234,7 @@
 ### blog and personal websites
 
 - <https://tomassetti.me/>
+- <https://lwn.net/> - Linux Weekly News and FOSS
 - <https://nat.org/> - Nat Friedman
 - <https://mazzo.li/archive.html>
 - <https://elm-chan.org/> - Electronic
