@@ -9194,7 +9194,7 @@
             "number": 411,
             "title": "Create web-component-in-mdx.mdx",
             "url": "https://github.com/astrolicious/astro-tips.dev/pull/411",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-11-25T02:21:06Z",
             "baseRepository": {
                 "url": "https://github.com/astrolicious/astro-tips.dev",
@@ -9696,6 +9696,58 @@
                 "description": "Rust Language Cheat Sheet - https://cheats.rs",
                 "owner": {
                     "login": "ralfbiedert"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOCd2s2866BdGt",
+            "number": 7800,
+            "title": "feat: add documentation to structs",
+            "url": "https://github.com/emilk/egui/pull/7800",
+            "state": "OPEN",
+            "createdAt": "2025-12-21T19:28:16Z",
+            "baseRepository": {
+                "url": "https://github.com/emilk/egui",
+                "name": "egui",
+                "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+                "owner": {
+                    "login": "emilk"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Shell",
+                            "color": "#89e051"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBEyLlM66Bw7w",
+            "number": 994,
+            "title": "Don't emit warning when encountering link with `none`",
+            "url": "https://github.com/linebender/resvg/pull/994",
+            "state": "MERGED",
+            "createdAt": "2025-12-21T20:54:42Z",
+            "baseRepository": {
+                "url": "https://github.com/linebender/resvg",
+                "name": "resvg",
+                "description": "An SVG rendering library.",
+                "owner": {
+                    "login": "linebender"
                 },
                 "languages": {
                     "nodes": [
