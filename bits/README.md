@@ -23,6 +23,9 @@
 
 ## Design
 
+- <https://tempo.xyz/>
+- <https://neal.fun/deep-sea/>
+- <https://bruno-simon.com/>
 - <https://madebyevan.com/dft/> - Discrete Fourier Transform Demo
 - <https://jayse.tv/v2/?portfolio=enders-game>
 - <https://www.searchsystem.co/>
