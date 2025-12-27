@@ -6157,7 +6157,7 @@
             "baseRepository": {
                 "url": "https://github.com/ratatui/ratatui-website",
                 "name": "ratatui-website",
-                "description": "Ratatui Documentation",
+                "description": "Ratatui Website/Documentation",
                 "owner": {
                     "login": "ratatui"
                 },
@@ -9754,6 +9754,32 @@
                         {
                             "name": "Rust",
                             "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOCd2s2866rqfH",
+            "number": 7813,
+            "title": "feat: add command example",
+            "url": "https://github.com/emilk/egui/pull/7813",
+            "state": "OPEN",
+            "createdAt": "2025-12-27T06:02:24Z",
+            "baseRepository": {
+                "url": "https://github.com/emilk/egui",
+                "name": "egui",
+                "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+                "owner": {
+                    "login": "emilk"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Shell",
+                            "color": "#89e051"
                         }
                     ]
                 }
