@@ -101,7 +101,7 @@
 ## Videos
 
 - <https://www.youtube.com/watch?v=-5tak0tHqIg> - externOS
-- <https://www.youtube.com/watch?v=hvVXj1mMHWs> - Xpider — World's Cutest Spider Robot!
+- <https://www.youtube.com/watch?v=hvVXj1mMHWs> - Xpider - World's Cutest Spider Robot!
 - <https://www.youtube.com/playlist?list=PLjS13O8ZcTgYIn2cPTT-uSOF8G0CBrtrZ> - Des atomes et l'électricité
 - <https://www.youtube.com/playlist?list=PLjS13O8ZcTgZpoGv5QAMoHt4be6gIcjJU> - Voyage en électricité
 - <https://www.youtube.com/playlist?list=PLjS13O8ZcTgY_7sK64W6wDdfzdZvVshiE> - Petit voyage en électricité

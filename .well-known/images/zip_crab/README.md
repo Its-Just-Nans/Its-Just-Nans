@@ -13,7 +13,7 @@ resvg --background white zip_crab.svg zip_crab_white.png
 
 ## License
 
-Dually licensed — choose based on your kindness:
+Dually licensed - choose based on your kindness:
 
 - [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 or
