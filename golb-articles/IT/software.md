@@ -6,7 +6,8 @@ title: Software
 
 ## VLC
 
-Subtitle delay shortcut: `g` and `h`
+- Easy subtitles: `View` -> `VLsub` (a plugin to download subtitles)
+- Subtitle delay shortcut: `g` and `h`
 
 ## Thunar sftp connection
 
@@ -162,7 +163,7 @@ systemctl restart webhook
 systemctl status webhook
 ```
 
-## ngrok alternative
+## tunneling services to localhost
 
 - [https://ngrok.com/](https://ngrok.com/)
 - [https://localtunnel.github.io/www/](https://localtunnel.github.io/www/)
