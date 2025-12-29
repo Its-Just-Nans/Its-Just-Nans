@@ -257,3 +257,17 @@ let res_opt: Result<Option<u8>, ()> = opt_res.transpose();
 
 > - <https://cheats.rs/>
 > - <https://upsuper.github.io/rust-cheatsheet/>
+
+## Match patterns (with ignoring)
+
+```rust
+match foo {
+    Type::Struct { a, b, .. } => {},
+    Type::Tuple(_, _, x) => {},
+    Type::Number(x) if x % 2 == 0 => println!("even"),
+    s @ Type::Value(x) if x > 10 => {
+        println!("I use s {s:?} and x {x}");
+    }
+    _ => {}
+}
+```
