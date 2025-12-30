@@ -9688,7 +9688,7 @@
             "number": 211,
             "title": "Fix wrong hex in chars() representation",
             "url": "https://github.com/ralfbiedert/cheats.rs/pull/211",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-12-19T19:23:50Z",
             "baseRepository": {
                 "url": "https://github.com/ralfbiedert/cheats.rs",
@@ -9780,6 +9780,162 @@
                         {
                             "name": "Shell",
                             "color": "#89e051"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBAsbdc66wRlt",
+            "number": 7802,
+            "title": "rt: clarify the behavior of `Runtime::spawn`",
+            "url": "https://github.com/tokio-rs/tokio/pull/7802",
+            "state": "CLOSED",
+            "createdAt": "2025-12-28T20:41:28Z",
+            "baseRepository": {
+                "url": "https://github.com/tokio-rs/tokio",
+                "name": "tokio",
+                "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+                "owner": {
+                    "login": "tokio-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOCV-eOM66wTif",
+            "number": 212,
+            "title": "Add doc method",
+            "url": "https://github.com/ralfbiedert/cheats.rs/pull/212",
+            "state": "OPEN",
+            "createdAt": "2025-12-28T20:57:27Z",
+            "baseRepository": {
+                "url": "https://github.com/ralfbiedert/cheats.rs",
+                "name": "cheats.rs",
+                "description": "Rust Language Cheat Sheet - https://cheats.rs",
+                "owner": {
+                    "login": "ralfbiedert"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBAsbdc66xTau",
+            "number": 7803,
+            "title": "rt: clarify the documentation of `Runtime::spawn`",
+            "url": "https://github.com/tokio-rs/tokio/pull/7803",
+            "state": "OPEN",
+            "createdAt": "2025-12-29T03:41:05Z",
+            "baseRepository": {
+                "url": "https://github.com/tokio-rs/tokio",
+                "name": "tokio",
+                "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+                "owner": {
+                    "login": "tokio-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBAsbdc66xZoY",
+            "number": 7804,
+            "title": "chore: fix minor typos",
+            "url": "https://github.com/tokio-rs/tokio/pull/7804",
+            "state": "OPEN",
+            "createdAt": "2025-12-29T04:11:43Z",
+            "baseRepository": {
+                "url": "https://github.com/tokio-rs/tokio",
+                "name": "tokio",
+                "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+                "owner": {
+                    "login": "tokio-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOI9DLB8666a_R",
+            "number": 2309,
+            "title": "feat: add comment for inner area to popup example",
+            "url": "https://github.com/ratatui/ratatui/pull/2309",
+            "state": "OPEN",
+            "createdAt": "2025-12-30T05:15:33Z",
+            "baseRepository": {
+                "url": "https://github.com/ratatui/ratatui",
+                "name": "ratatui",
+                "description": "A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs",
+                "owner": {
+                    "login": "ratatui"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJrYYCc666bUQ",
+            "number": 1029,
+            "title": "add link to example",
+            "url": "https://github.com/ratatui/ratatui-website/pull/1029",
+            "state": "OPEN",
+            "createdAt": "2025-12-30T05:16:25Z",
+            "baseRepository": {
+                "url": "https://github.com/ratatui/ratatui-website",
+                "name": "ratatui-website",
+                "description": "Ratatui Website/Documentation",
+                "owner": {
+                    "login": "ratatui"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Nix",
+                            "color": "#7e7eff"
                         }
                     ]
                 }
