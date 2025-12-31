@@ -1,0 +1,2 @@
+sort_assets:
+    cd assets/miscellaneous/ && jq 'sort_by(.properties.date)' --indent 4  records.json > temp.json && mv temp.json records.json
