@@ -202,6 +202,15 @@ pub fn my_func<S: AsRef<str>>(my_str: S) {
 }
 ```
 
+## `Into<>` as arg
+
+```rust
+fn my_func<S: Into<String>>(my_str: S) {
+    let text: String = my_str.into();
+    println!("{}", text);
+}
+```
+
 ## PartialEq with full destructuring
 
 > This pattern will ensure that the compilation break if you add a new field to the struct
