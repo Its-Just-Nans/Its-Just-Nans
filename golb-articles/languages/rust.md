@@ -280,3 +280,17 @@ match foo {
     _ => {}
 }
 ```
+
+## Methods with different self types
+
+```rust
+struct MyStruct;
+impl MyStruct {
+    fn method1(&self) {}      // Borrows self immutably
+    fn method2(&mut self) {}  // Borrows self mutably
+
+    // for consuming self or transforming it
+    fn method3(self) {}       // Takes ownership of self
+    fn method4(mut self) {}   // Takes ownership and can mutate it inside the method
+}
+```
