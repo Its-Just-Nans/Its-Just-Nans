@@ -477,6 +477,21 @@
         }
     },
     {
+        "url": "https://github.com/Its-Just-Nans/galion",
+        "name": "galion",
+        "description": "Sync tui for rclone",
+        "stargazerCount": 0,
+        "homepageUrl": "http://crates.io/crates/galion",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "primaryLanguage": {
+            "name": "Rust",
+            "color": "#dea584"
+        }
+    },
+    {
         "url": "https://github.com/Its-Just-Nans/git-migrator",
         "name": "git-migrator",
         "description": "Migrate your repo",

@@ -9870,7 +9870,7 @@
             "number": 7804,
             "title": "chore: fix minor typos",
             "url": "https://github.com/tokio-rs/tokio/pull/7804",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-12-29T04:11:43Z",
             "baseRepository": {
                 "url": "https://github.com/tokio-rs/tokio",
@@ -9922,7 +9922,7 @@
             "number": 1029,
             "title": "add link to example",
             "url": "https://github.com/ratatui/ratatui-website/pull/1029",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-12-30T05:16:25Z",
             "baseRepository": {
                 "url": "https://github.com/ratatui/ratatui-website",
