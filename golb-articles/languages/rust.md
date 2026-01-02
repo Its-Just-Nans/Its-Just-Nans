@@ -19,6 +19,7 @@ keywords: rust, programming, language
 - <https://marabos.nl/atomics/> - book on atomics and concurrency
 - <https://docs.rs/releases/queue> - docs.rs build queue
 - <https://lib.rs/~Its-Just-Nans/dash> - unofficial dashboard for crate maintainers (change username)
+- <https://diff.rs/> - compare crates
 
 ## Cargo commands
 
