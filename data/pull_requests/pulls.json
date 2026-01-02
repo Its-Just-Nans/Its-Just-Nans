@@ -3735,32 +3735,6 @@
     },
     {
         "node": {
-            "id": "PR_kwDOLaLB1s5suatG",
-            "number": 1,
-            "title": "Ci",
-            "url": "https://github.com/Its-Just-Nans/proj311-test/pull/1",
-            "state": "MERGED",
-            "createdAt": "2024-04-15T20:42:37Z",
-            "baseRepository": {
-                "url": "https://github.com/Its-Just-Nans/proj311-test",
-                "name": "proj311-test",
-                "description": "TP - test on proj311 - check github.com/tramex",
-                "owner": {
-                    "login": "Its-Just-Nans"
-                },
-                "languages": {
-                    "nodes": [
-                        {
-                            "name": "JavaScript",
-                            "color": "#f1e05a"
-                        }
-                    ]
-                }
-            }
-        }
-    },
-    {
-        "node": {
             "id": "PR_kwDOGh0Q885s6QuQ",
             "number": 336,
             "title": "[Error message] add file permissions in message ",
@@ -9896,7 +9870,7 @@
             "number": 2309,
             "title": "feat: add comment for inner area to popup example",
             "url": "https://github.com/ratatui/ratatui/pull/2309",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-12-30T05:15:33Z",
             "baseRepository": {
                 "url": "https://github.com/ratatui/ratatui",

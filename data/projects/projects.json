@@ -447,21 +447,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/function-viewer",
-        "name": "function-viewer",
-        "description": "PoC - See moving functions in 3D",
-        "stargazerCount": 2,
-        "homepageUrl": "https://its-just-nans.github.io/function-viewer/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/galago",
         "name": "galago",
         "description": "A simple svg editor",
@@ -821,21 +806,6 @@
         "primaryLanguage": {
             "name": "Svelte",
             "color": "#ff3e00"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/proj311-test",
-        "name": "proj311-test",
-        "description": "TP - test on proj311 - check github.com/tramex",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/proj311-test/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Rust",
-            "color": "#dea584"
         }
     },
     {
