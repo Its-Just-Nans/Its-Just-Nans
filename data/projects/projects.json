@@ -144,21 +144,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/base64-image",
-        "name": "base64-image",
-        "description": "PoC - Convert an image to base64 and the other way",
-        "stargazerCount": 0,
-        "homepageUrl": "http://n4n5.dev/base64-image/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "HTML",
-            "color": "#e34c26"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/bladvak",
         "name": "bladvak",
         "description": "Base egui/eframe app - bladvak means 'pickaxe' in Gobbledegook",
@@ -199,21 +184,6 @@
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/coreutils-tracking-details",
-        "name": "coreutils-tracking-details",
-        "description": "PoC - coreutils tracking but a little more detailed",
-        "stargazerCount": 1,
-        "homepageUrl": "https://n4n5.dev/coreutils-tracking-details/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Python",
-            "color": "#3572A5"
         }
     },
     {
@@ -701,21 +671,6 @@
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/obs-webview",
-        "name": "obs-webview",
-        "description": "PoC - Control a web page for OBS",
-        "stargazerCount": 1,
-        "homepageUrl": "https://its-just-nans.github.io/obs-webview/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Svelte",
-            "color": "#ff3e00"
         }
     },
     {
