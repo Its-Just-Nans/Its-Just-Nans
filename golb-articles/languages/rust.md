@@ -4,7 +4,7 @@ description: Rust programming language
 keywords: rust, programming, language
 ---
 
-## Guides
+## Guides and links
 
 - <https://www.rust-lang.org/> - official language
 - <https://rustup.rs/> - install rust and tools
@@ -13,9 +13,9 @@ keywords: rust, programming, language
 - <https://google.github.io/comprehensive-rust/>
 - <https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials>
 - <https://rust-unofficial.github.io/patterns/>
-- <https://teach-rs.tweede.golf/>
+- <https://teach-rs.tweede.golf/> - university course
 - <https://github.com/johnthagen/min-sized-rust>
-- <https://doc.rust-lang.org/nightly/nomicon/>
+- <https://doc.rust-lang.org/nightly/nomicon/> - Unsafe Rust
 - <https://marabos.nl/atomics/> - book on atomics and concurrency
 - <https://docs.rs/releases/queue> - docs.rs build queue
 - <https://lib.rs/~Its-Just-Nans/dash> - unofficial dashboard for crate maintainers (change username)
