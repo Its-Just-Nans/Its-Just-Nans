@@ -1,85 +1,5 @@
 [
     {
-        "name": "pypi",
-        "profile": "https://pypi.org/user/n4n5/",
-        "url": "https://pypi.org/project/:package",
-        "stats": "https://pypistats.org/packages/:package",
-        "list": [
-            "csv-to-custom-json",
-            "array-cache",
-            "static-sitemap",
-            "figer",
-            "docx-asn1",
-            "pngtools",
-            "tiny-todo",
-            "git-migrator",
-            "indexage",
-            "anrt-checker",
-            "businessfrance-checker",
-            "photo-copier",
-            "motp"
-        ],
-        "shields": [
-            "https://img.shields.io/pypi/dd/:package",
-            "https://img.shields.io/pypi/dw/:package",
-            "https://img.shields.io/pypi/dm/:package",
-            "https://img.shields.io/pypi/v/:package"
-        ],
-        "repos": {
-            "csv-to-custom-json": "https://github.com/Its-Just-Nans/csv-to-custom-json-python"
-        }
-    },
-    {
-        "name": "npm",
-        "profile": "https://www.npmjs.com/~n4n5",
-        "url": "https://www.npmjs.com/package/:package",
-        "profile_urls": [
-            "https://img.shields.io/npm-stat/dw/n4n5",
-            "https://img.shields.io/npm-stat/dm/n4n5",
-            "https://img.shields.io/npm-stat/dy/n4n5"
-        ],
-        "list": [
-            "csv-to-custom-json",
-            "forem-client",
-            "localstorage-supercharged",
-            "supercharged-store",
-            "events-hook",
-            "svelte-number-displayer",
-            "@n4n5/proxy-ws",
-            "astro-barchart",
-            "astro-index",
-            "plugin-astro-content",
-            "astro-simple-carousel",
-            "svg-packages-stats"
-        ],
-        "shields": [
-            "https://img.shields.io/npm/dw/:package",
-            "https://img.shields.io/npm/dm/:package",
-            "https://img.shields.io/npm/dy/:package",
-            "https://img.shields.io/npm/dt/:package",
-            "https://img.shields.io/npm/v/:package"
-        ],
-        "repos": {
-            "@n4n5/proxy-ws": "https://github.com/Its-Just-Nans/proxy-ws"
-        }
-    },
-    {
-        "name": "go",
-        "url": "https://pkg.go.dev/github.com/Its-Just-Nans/:package",
-        "list": ["go-calendar", "go-simple-uploader"]
-    },
-    {
-        "name": "lua",
-        "username": "Its-Just-Nans",
-        "profile": "https://luarocks.org/modules/Its-Just-Nans",
-        "url": "https://luarocks.org/modules/Its-Just-Nans/:package",
-        "list": ["curriculum_vitae"],
-        "shields": ["https://img.shields.io/luarocks/v/Its-Just-Nans/:package"],
-        "repos": {
-            "curriculum_vitae": "https://github.com/Its-Just-Nans/curriculum-vitae"
-        }
-    },
-    {
         "name": "rust",
         "profile": "https://crates.io/users/Its-Just-Nans/",
         "url": "https://crates.io/crates/:package",
@@ -118,6 +38,86 @@
             "tramex": "https://github.com/tramex/tramex",
             "tramex-tools": "https://github.com/tramex/tramex",
             "types_lte_3gpp": "https://github.com/tramex/types_lte_3gpp"
+        }
+    },
+    {
+        "name": "npm",
+        "profile": "https://www.npmjs.com/~n4n5",
+        "url": "https://www.npmjs.com/package/:package",
+        "profile_urls": [
+            "https://img.shields.io/npm-stat/dw/n4n5",
+            "https://img.shields.io/npm-stat/dm/n4n5",
+            "https://img.shields.io/npm-stat/dy/n4n5"
+        ],
+        "list": [
+            "csv-to-custom-json",
+            "forem-client",
+            "localstorage-supercharged",
+            "supercharged-store",
+            "events-hook",
+            "svelte-number-displayer",
+            "@n4n5/proxy-ws",
+            "astro-barchart",
+            "astro-index",
+            "plugin-astro-content",
+            "astro-simple-carousel",
+            "svg-packages-stats"
+        ],
+        "shields": [
+            "https://img.shields.io/npm/dw/:package",
+            "https://img.shields.io/npm/dm/:package",
+            "https://img.shields.io/npm/dy/:package",
+            "https://img.shields.io/npm/dt/:package",
+            "https://img.shields.io/npm/v/:package"
+        ],
+        "repos": {
+            "@n4n5/proxy-ws": "https://github.com/Its-Just-Nans/proxy-ws"
+        }
+    },
+    {
+        "name": "pypi",
+        "profile": "https://pypi.org/user/n4n5/",
+        "url": "https://pypi.org/project/:package",
+        "stats": "https://pypistats.org/packages/:package",
+        "list": [
+            "csv-to-custom-json",
+            "array-cache",
+            "static-sitemap",
+            "figer",
+            "docx-asn1",
+            "pngtools",
+            "tiny-todo",
+            "git-migrator",
+            "indexage",
+            "anrt-checker",
+            "businessfrance-checker",
+            "photo-copier",
+            "motp"
+        ],
+        "shields": [
+            "https://img.shields.io/pypi/dd/:package",
+            "https://img.shields.io/pypi/dw/:package",
+            "https://img.shields.io/pypi/dm/:package",
+            "https://img.shields.io/pypi/v/:package"
+        ],
+        "repos": {
+            "csv-to-custom-json": "https://github.com/Its-Just-Nans/csv-to-custom-json-python"
+        }
+    },
+    {
+        "name": "go",
+        "url": "https://pkg.go.dev/github.com/Its-Just-Nans/:package",
+        "list": ["go-calendar", "go-simple-uploader"]
+    },
+    {
+        "name": "lua",
+        "username": "Its-Just-Nans",
+        "profile": "https://luarocks.org/modules/Its-Just-Nans",
+        "url": "https://luarocks.org/modules/Its-Just-Nans/:package",
+        "list": ["curriculum_vitae"],
+        "shields": ["https://img.shields.io/luarocks/v/Its-Just-Nans/:package"],
+        "repos": {
+            "curriculum_vitae": "https://github.com/Its-Just-Nans/curriculum-vitae"
         }
     },
     {
