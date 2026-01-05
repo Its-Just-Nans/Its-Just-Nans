@@ -204,6 +204,48 @@
     },
     {
         "coords": [
+            45.4045432,
+            12.3873328
+        ],
+        "name": "Venise"
+    },
+    {
+        "coords": [
+            48.8333617,
+            2.3717786
+        ],
+        "name": "STATION F"
+    },
+    {
+        "coords": [
+            44.0985255,
+            9.7376016
+        ],
+        "name": "Riomaggiore"
+    },
+    {
+        "coords": [
+            44.0968702,
+            6.9401196
+        ],
+        "name": "Chalet"
+    },
+    {
+        "coords": [
+            43.5641787,
+            7.1321803
+        ],
+        "name": "Sanctuaire de la Garoupe - Notre-Dame-de-Bon-Port"
+    },
+    {
+        "coordinates": [
+            43.8015827,
+            6.2494548
+        ],
+        "name": "Pont du Galetas"
+    },
+    {
+        "coords": [
             50.8948705,
             4.3414994
         ],
@@ -212,6 +254,16 @@
             "date": "2015-05-02"
         },
         "type": "place"
+    },
+    {
+        "coords": [
+            45.7622698,
+            4.822638
+        ],
+        "name": "Basilique Notre-Dame de Fourvière",
+        "properties": {
+            "date": "2021-12-12T16:21:11Z"
+        }
     },
     {
         "type": "place",
