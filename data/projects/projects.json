@@ -900,21 +900,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/shared-qr-code",
-        "name": "shared-qr-code",
-        "description": "PoC - Shared qr-code",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/shared-qr-code",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "CSS",
-            "color": "#663399"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/sms2call",
         "name": "sms2call",
         "description": "sms2call app",

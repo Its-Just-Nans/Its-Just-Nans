@@ -8856,7 +8856,7 @@
             "number": 7684,
             "title": "fix: CodeTheme functions - ui and add builder",
             "url": "https://github.com/emilk/egui/pull/7684",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-11-05T01:58:57Z",
             "baseRepository": {
                 "url": "https://github.com/emilk/egui",
@@ -9688,7 +9688,7 @@
             "number": 7800,
             "title": "feat: add documentation to structs",
             "url": "https://github.com/emilk/egui/pull/7800",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-12-21T19:28:16Z",
             "baseRepository": {
                 "url": "https://github.com/emilk/egui",
@@ -9738,9 +9738,9 @@
         "node": {
             "id": "PR_kwDOCd2s2866rqfH",
             "number": 7813,
-            "title": "feat: add command example",
+            "title": "Improve docstring for egui_extras features",
             "url": "https://github.com/emilk/egui/pull/7813",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-12-27T06:02:24Z",
             "baseRepository": {
                 "url": "https://github.com/emilk/egui",

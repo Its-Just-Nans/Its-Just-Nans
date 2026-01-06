@@ -1,6 +1,6 @@
 {
-    "github.com/Its-Just-Nans/Its-Just-Nans": 45417,
-    "github.com/Its-Just-Nans/Its-Just-Nans.github.io": 25031,
+    "github.com/Its-Just-Nans/Its-Just-Nans": 45422,
+    "github.com/Its-Just-Nans/Its-Just-Nans.github.io": 25033,
     "github.com/Its-Just-Nans/anrt-checker": 77,
     "github.com/Its-Just-Nans/apksig": 8678,
     "github.com/Its-Just-Nans/arduino-led-matrix": 17417,
@@ -45,7 +45,7 @@
     "github.com/Its-Just-Nans/motp": 24,
     "github.com/Its-Just-Nans/music-exporter": 155,
     "github.com/Its-Just-Nans/n4n5-crate": 225,
-    "github.com/Its-Just-Nans/notox": 138,
+    "github.com/Its-Just-Nans/notox": 146,
     "github.com/Its-Just-Nans/photo-copier": 48,
     "github.com/Its-Just-Nans/plugin-astro-content": 47,
     "github.com/Its-Just-Nans/pngtools": 2948,
@@ -62,7 +62,6 @@
     "github.com/Its-Just-Nans/rust-apk": 1918,
     "github.com/Its-Just-Nans/rust-mnist-neural-network": 12,
     "github.com/Its-Just-Nans/ses-102": 22861,
-    "github.com/Its-Just-Nans/shared-qr-code": 48,
     "github.com/Its-Just-Nans/sms2call": 483,
     "github.com/Its-Just-Nans/sportiva": 1531,
     "github.com/Its-Just-Nans/spust": 64,
@@ -78,5 +77,5 @@
     "github.com/Its-Just-Nans/tiny-todo": 11,
     "github.com/Its-Just-Nans/whatisthis": 154,
     "github.com/Its-Just-Nans/wombat": 473,
-    "github.com/Its-Just-Nans/yakb": 2166
+    "github.com/Its-Just-Nans/yakb": 2170
 }
