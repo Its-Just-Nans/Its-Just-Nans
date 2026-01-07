@@ -6859,7 +6859,7 @@
             "baseRepository": {
                 "url": "https://github.com/nmeylan/json-table-editor",
                 "name": "json-table-editor",
-                "description": "A tool to view JSON array as table, to ease visualisation and edition of large json array with performance as main objective ",
+                "description": "A tool to view JSON array or JSONL as table, to ease visualisation and edition of large json array with performance as main objective ",
                 "owner": {
                     "login": "nmeylan"
                 },
@@ -6885,7 +6885,7 @@
             "baseRepository": {
                 "url": "https://github.com/nmeylan/json-table-editor",
                 "name": "json-table-editor",
-                "description": "A tool to view JSON array as table, to ease visualisation and edition of large json array with performance as main objective ",
+                "description": "A tool to view JSON array or JSONL as table, to ease visualisation and edition of large json array with performance as main objective ",
                 "owner": {
                     "login": "nmeylan"
                 },
@@ -6911,7 +6911,7 @@
             "baseRepository": {
                 "url": "https://github.com/nmeylan/json-table-editor",
                 "name": "json-table-editor",
-                "description": "A tool to view JSON array as table, to ease visualisation and edition of large json array with performance as main objective ",
+                "description": "A tool to view JSON array or JSONL as table, to ease visualisation and edition of large json array with performance as main objective ",
                 "owner": {
                     "login": "nmeylan"
                 },
@@ -9452,9 +9452,9 @@
         "node": {
             "id": "PR_kwDOBEyLlM64ysGx",
             "number": 988,
-            "title": "Fix https://github.com/linebender/resvg/issues/921",
+            "title": "Fix bug in rewriting of clip paths with transformed path",
             "url": "https://github.com/linebender/resvg/pull/988",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-12-14T19:59:53Z",
             "baseRepository": {
                 "url": "https://github.com/linebender/resvg",

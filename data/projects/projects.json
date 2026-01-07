@@ -874,19 +874,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/rust-mnist-neural-network",
-        "name": "rust-mnist-neural-network",
-        "description": "PoC - Simple MNIST NN from scratch in rust",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "Rust",
-            "color": "#dea584"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/ses-102",
         "name": "ses-102",
         "description": "TP - SES102 - Pratiques et Analyses de Communication écrite",
