@@ -764,19 +764,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/radvd-project-website-fork",
-        "name": "radvd-project-website-fork",
-        "description": "🌐 - FORK of https://github.com/radvd-project/radvd-project.github.io for demo",
-        "stargazerCount": 0,
-        "homepageUrl": "https://n4n5.dev/radvd-project-website-fork/",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "HTML",
-            "color": "#e34c26"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/rio",
         "name": "rio",
         "description": "🌐 unofficial RIO website",
