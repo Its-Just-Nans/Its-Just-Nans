@@ -601,19 +601,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/mdi-210",
-        "name": "mdi-210",
-        "description": "TP - MDI210 - Optimisation",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "Java",
-            "color": "#b07219"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/motp",
         "name": "motp",
         "description": "mOTP generator",
@@ -777,21 +764,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/rio201",
-        "name": "rio201",
-        "description": "TP - My RIO201 project",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "C",
-            "color": "#555555"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/rio203",
         "name": "rio203",
         "description": "TP - RIO203 - a student project to manage a parking using IoT devices.",
@@ -804,32 +776,6 @@
         "primaryLanguage": {
             "name": "TypeScript",
             "color": "#3178c6"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/rio203-image-detection",
-        "name": "rio203-image-detection",
-        "description": "TP - rio203-image-detection",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/rio203-image-detection/",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "HTML",
-            "color": "#e34c26"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/rio203-report",
-        "name": "rio203-report",
-        "description": "TP - The report for our rio203",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "TeX",
-            "color": "#3D6117"
         }
     },
     {
