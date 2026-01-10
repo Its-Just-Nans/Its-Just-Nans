@@ -3,6 +3,10 @@ title: Go
 sidebar_name: Go lang
 ---
 
+## Utils
+
+- <https://goreportcard.com/>
+
 ## Mirai botnet (Go + C) in a docker compose
 
 - <https://github.com/3-dd-1/SR2I-project-mirai-docker>
