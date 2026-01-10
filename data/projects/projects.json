@@ -721,21 +721,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/product-creation",
-        "name": "product-creation",
-        "description": "PoC - Helping you creating a product",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/product-creation/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Svelte",
-            "color": "#ff3e00"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/proxy-ws",
         "name": "proxy-ws",
         "description": "Tiny CLI for a ws proxy",
@@ -761,21 +746,6 @@
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/rio203",
-        "name": "rio203",
-        "description": "TP - RIO203 - a student project to manage a parking using IoT devices.",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/rio203/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "TypeScript",
-            "color": "#3178c6"
         }
     },
     {
