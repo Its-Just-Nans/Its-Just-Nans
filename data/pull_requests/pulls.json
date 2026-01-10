@@ -3787,32 +3787,6 @@
     },
     {
         "node": {
-            "id": "PR_kwDOLyfpbs5tkESU",
-            "number": 1,
-            "title": "add serde by default",
-            "url": "https://github.com/tramex/hampi/pull/1",
-            "state": "MERGED",
-            "createdAt": "2024-04-24T07:15:42Z",
-            "baseRepository": {
-                "url": "https://github.com/tramex/hampi",
-                "name": "hampi",
-                "description": "Rust ASN.1 Toolkit ",
-                "owner": {
-                    "login": "tramex"
-                },
-                "languages": {
-                    "nodes": [
-                        {
-                            "name": "Python",
-                            "color": "#3572A5"
-                        }
-                    ]
-                }
-            }
-        }
-    },
-    {
-        "node": {
             "id": "PR_kwDOFm5GtM5tkFIF",
             "number": 115,
             "title": "Add serde by default",
