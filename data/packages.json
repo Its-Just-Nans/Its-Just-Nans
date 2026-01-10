@@ -149,5 +149,9 @@
         "urls": {
             "flat-hinge": "https://www.thingiverse.com/thing:4928759"
         }
+    },
+    {
+        "name": "bash",
+        "list": ["dotfiles"]
     }
 ]

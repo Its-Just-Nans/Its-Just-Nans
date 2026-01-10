@@ -319,7 +319,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/dotfiles",
         "name": "dotfiles",
-        "description": "📍 dotfiles",
+        "description": "dotfiles",
         "stargazerCount": 1,
         "homepageUrl": "",
         "forkCount": 0,
@@ -377,7 +377,7 @@
     {
         "url": "https://github.com/Its-Just-Nans/flat-hinge",
         "name": "flat-hinge",
-        "description": "🛠️ just some 3d flat hinges",
+        "description": "just some 3d flat hinges",
         "stargazerCount": 0,
         "homepageUrl": "https://www.thingiverse.com/thing:4928759",
         "forkCount": 0,
@@ -601,19 +601,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/mdi-210",
-        "name": "mdi-210",
-        "description": "TP - MDI210 - Optimisation",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "Java",
-            "color": "#b07219"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/motp",
         "name": "motp",
         "description": "mOTP generator",
@@ -734,21 +721,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/product-creation",
-        "name": "product-creation",
-        "description": "PoC - Helping you creating a product",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/product-creation/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "Svelte",
-            "color": "#ff3e00"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/proxy-ws",
         "name": "proxy-ws",
         "description": "Tiny CLI for a ws proxy",
@@ -764,19 +736,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/radvd-project-website-fork",
-        "name": "radvd-project-website-fork",
-        "description": "🌐 - FORK of https://github.com/radvd-project/radvd-project.github.io for demo",
-        "stargazerCount": 0,
-        "homepageUrl": "https://n4n5.dev/radvd-project-website-fork/",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "HTML",
-            "color": "#e34c26"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/rio",
         "name": "rio",
         "description": "🌐 unofficial RIO website",
@@ -787,62 +746,6 @@
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/rio201",
-        "name": "rio201",
-        "description": "TP - My RIO201 project",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "C",
-            "color": "#555555"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/rio203",
-        "name": "rio203",
-        "description": "TP - RIO203 - a student project to manage a parking using IoT devices.",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/rio203/",
-        "forkCount": 0,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
-        "primaryLanguage": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/rio203-image-detection",
-        "name": "rio203-image-detection",
-        "description": "TP - rio203-image-detection",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/rio203-image-detection/",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "HTML",
-            "color": "#e34c26"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/rio203-report",
-        "name": "rio203-report",
-        "description": "TP - The report for our rio203",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "TeX",
-            "color": "#3D6117"
         }
     },
     {
@@ -868,19 +771,6 @@
         "licenseInfo": {
             "name": "Apache License 2.0"
         },
-        "primaryLanguage": {
-            "name": "Rust",
-            "color": "#dea584"
-        }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/rust-mnist-neural-network",
-        "name": "rust-mnist-neural-network",
-        "description": "PoC - Simple MNIST NN from scratch in rust",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "forkCount": 0,
-        "licenseInfo": null,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"

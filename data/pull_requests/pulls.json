@@ -3787,32 +3787,6 @@
     },
     {
         "node": {
-            "id": "PR_kwDOLyfpbs5tkESU",
-            "number": 1,
-            "title": "add serde by default",
-            "url": "https://github.com/tramex/hampi/pull/1",
-            "state": "MERGED",
-            "createdAt": "2024-04-24T07:15:42Z",
-            "baseRepository": {
-                "url": "https://github.com/tramex/hampi",
-                "name": "hampi",
-                "description": "Rust ASN.1 Toolkit ",
-                "owner": {
-                    "login": "tramex"
-                },
-                "languages": {
-                    "nodes": [
-                        {
-                            "name": "Python",
-                            "color": "#3572A5"
-                        }
-                    ]
-                }
-            }
-        }
-    },
-    {
-        "node": {
             "id": "PR_kwDOFm5GtM5tkFIF",
             "number": 115,
             "title": "Add serde by default",
@@ -6859,7 +6833,7 @@
             "baseRepository": {
                 "url": "https://github.com/nmeylan/json-table-editor",
                 "name": "json-table-editor",
-                "description": "A tool to view JSON array as table, to ease visualisation and edition of large json array with performance as main objective ",
+                "description": "A tool to view JSON array or JSONL as table, to ease visualisation and edition of large json array with performance as main objective ",
                 "owner": {
                     "login": "nmeylan"
                 },
@@ -6885,7 +6859,7 @@
             "baseRepository": {
                 "url": "https://github.com/nmeylan/json-table-editor",
                 "name": "json-table-editor",
-                "description": "A tool to view JSON array as table, to ease visualisation and edition of large json array with performance as main objective ",
+                "description": "A tool to view JSON array or JSONL as table, to ease visualisation and edition of large json array with performance as main objective ",
                 "owner": {
                     "login": "nmeylan"
                 },
@@ -6911,7 +6885,7 @@
             "baseRepository": {
                 "url": "https://github.com/nmeylan/json-table-editor",
                 "name": "json-table-editor",
-                "description": "A tool to view JSON array as table, to ease visualisation and edition of large json array with performance as main objective ",
+                "description": "A tool to view JSON array or JSONL as table, to ease visualisation and edition of large json array with performance as main objective ",
                 "owner": {
                     "login": "nmeylan"
                 },
@@ -9452,9 +9426,9 @@
         "node": {
             "id": "PR_kwDOBEyLlM64ysGx",
             "number": 988,
-            "title": "Fix https://github.com/linebender/resvg/issues/921",
+            "title": "Fix bug in rewriting of clip paths with transformed path",
             "url": "https://github.com/linebender/resvg/pull/988",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-12-14T19:59:53Z",
             "baseRepository": {
                 "url": "https://github.com/linebender/resvg",
@@ -9910,6 +9884,58 @@
                         {
                             "name": "Nix",
                             "color": "#7e7eff"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOQ2K7qs68KTmk",
+            "number": 1,
+            "title": "Update v1.0.yaml",
+            "url": "https://github.com/Its-Just-Nans/libre-graph-api/pull/1",
+            "state": "CLOSED",
+            "createdAt": "2026-01-08T16:58:30Z",
+            "baseRepository": {
+                "url": "https://github.com/Its-Just-Nans/libre-graph-api",
+                "name": "libre-graph-api",
+                "description": ":cloud: Libre Graph Cloud Collaboration API",
+                "owner": {
+                    "login": "Its-Just-Nans"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "HTML",
+                            "color": "#e34c26"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDONoaEgM68KWSX",
+            "number": 28,
+            "title": "Update v1.0.yaml",
+            "url": "https://github.com/opencloud-eu/libre-graph-api/pull/28",
+            "state": "OPEN",
+            "createdAt": "2026-01-08T17:01:55Z",
+            "baseRepository": {
+                "url": "https://github.com/opencloud-eu/libre-graph-api",
+                "name": "libre-graph-api",
+                "description": ":cloud: Libre Graph Cloud Collaboration API",
+                "owner": {
+                    "login": "opencloud-eu"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "HTML",
+                            "color": "#e34c26"
                         }
                     ]
                 }
