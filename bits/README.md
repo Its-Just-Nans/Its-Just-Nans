@@ -66,6 +66,7 @@
 - <https://mempool.space/> - bitcoin blocks
 - <https://http.cat/> - http status cats
 - <https://turnoff.us/> - nice geek comics
+- <https://github.com/sickcodes/Docker-OSX> - run macOS VM in a Docker
 
 ## CTFs and cybersecurity
 
@@ -288,14 +289,14 @@
 - <https://appchart.c-map.com/> - map for boat
 - <https://www.windy.com/> - wind information
 - <https://windfinder.com/> - wind information
-- <https://cartes.app/> - planes
+- <https://cartes.app/> - map
 - <https://www.flightradar24.com/> - planes
 - <https://osmand.net/> - offline earth maps
 - <https://ioverlander.com/> - place for travelers
 - <https://travelboast.com/> - show people your trip
 - <https://carto.graou.info/> - train map
-- <https://www.carcarekiosk.com/>
-- <https://www.startmycar.com/>
+- <https://www.carcarekiosk.com/> - car stuff
+- <https://www.startmycar.com/> - car stuff
 - <https://www.geohints.com/> - geolocation
 - <https://anivetvoyage.com/> - travel with pets
 - <https://makemydrivefun.com/> - make my drive fun
@@ -315,10 +316,9 @@
 - <https://www.yoctoproject.org/> - create custom linux distro
 - <https://www.openembedded.org/>
 - <https://buildroot.org/>
-- <https://github.com/cnlohr/minimdnsd/> - mini dnsd
 - <https://openwrt.org/> - linux for embedded devices
+- <https://github.com/cnlohr/minimdnsd/> - mini dnsd
 - <https://gitleaks.io/> - find secrets in git repo
-- <https://float.exposed/> - inspect your floating number
 - <https://crontab.guru/> - cron expression
 - <https://shell-storm.org/shellcode/> - execute shell
 - <https://github.com/mborgerson/gdbstub> - debugging
@@ -334,13 +334,9 @@
 - <https://csswizardry.com/ct/> - analyze your `<head>`
 - <https://godbolt.org/> - compiler explorer
 - <https://syscalls.mebeim.net> - syscalls
-- <https://www.sqltranslate.app/>
-- <https://hexed.it/> - hex editor in browser
-- <https://jvilk.com/MakeTypes/> - generate types from JSON
 - <https://github.com/chriszarate/bookmarkleter> - create bookmarklet
 - <https://osintframework.com/> - OSINT
 - <https://emn178.github.io/online-tools/> - hashing/encoding tools
-- <https://dencode.com/> - encoding/decoding tools
 - <https://github.com/justcallmekoko/ESP32Marauder> - offensive esp32
 - <https://carbon.now.sh/> - display code as image
 - <https://www.piliapp.com/> - many useful tools
@@ -360,12 +356,9 @@
 - <https://intl-demo.netlify.app/> - internationalization api demo
 - <https://cheatsheetseries.owasp.org/> - cheat sheet
 - <https://map.malfrats.industries/> - osint map
-- <https://imagecolorpicker.com/> - pick color on image, or use `color` CSS attributes in dev tools
 - <https://jsonvisio.com/> - json vision
 - <https://jsonhero.io/> - json vision
-- <https://binvis.io/> - visual analysis of binary files
 - <https://github.com/mtytel/helm> - music synthesizer
-- <https://48hr.email/> - disposable email
 - <https://expo.dev/> - mobile application development
 - <https://mathew-kurian.github.io/CharacterMap/> - to see font
 - <https://www.nayuki.io/page/png-file-chunk-inspector> - online `pngcheck` like tool
@@ -391,12 +384,9 @@
 - <https://github.com/google/guetzli> - JPEG encoder
 - <https://github.com/santoru/shcheck> - check headers of website
 - <https://github.com/pmndrs/gltfjsx> - transform gltf into R3F model
-- <https://github.com/sickcodes/Docker-OSX> - run macOS VM in a Docker
 - <https://terminaltrove.com/list/> - list of terminal tools
-- <https://github.com/dhylands/rshell> - remote shell for MicroPython
 - <https://github.com/trunk-rs/trunk> - build, test, and run Rust WASM apps
 - <https://joeyh.name/code/moreutils/> - more utils cmd
-- <https://github.com/crumblingstatue/hexerator> - hex editor
 - <https://github.com/ReFirmLabs/binwalk> - inspect binary file
 - <https://ss64.com/> - command line reference
 - <https://github.com/FiloSottile/mkcert> - locally trusted certificates

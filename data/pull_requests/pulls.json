@@ -8700,7 +8700,7 @@
             "number": 461,
             "title": "refactor: Clean up imports and move types",
             "url": "https://github.com/zip-rs/zip2/pull/461",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-10-29T03:38:22Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -9936,6 +9936,32 @@
                         {
                             "name": "HTML",
                             "color": "#e34c26"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDONuiWSc68caJa",
+            "number": 567,
+            "title": "Clarify App token usage",
+            "url": "https://github.com/opencloud-eu/docs/pull/567",
+            "state": "OPEN",
+            "createdAt": "2026-01-10T05:22:15Z",
+            "baseRepository": {
+                "url": "https://github.com/opencloud-eu/docs",
+                "name": "docs",
+                "description": "📖 OpenCloud Documentation built with Docusaurus 🦖 ",
+                "owner": {
+                    "login": "opencloud-eu"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "TypeScript",
+                            "color": "#3178c6"
                         }
                     ]
                 }
