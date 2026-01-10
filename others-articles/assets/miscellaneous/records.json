@@ -24,6 +24,7 @@
         "name": "Basilique Notre-Dame de la Garde"
     },
     {
+        "type": "place",
         "coords": [
             48.8418193,
             2.3562677
@@ -31,6 +32,7 @@
         "name": "Muséum National d'Histoire Naturelle"
     },
     {
+        "type": "place",
         "coords": [
             48.860642,
             2.352245
@@ -38,6 +40,7 @@
         "name": "Le Centre Pompidou"
     },
     {
+        "type": "place",
         "coords": [
             48.860642,
             2.352245
@@ -45,6 +48,7 @@
         "name": "Le Centre Pompidou"
     },
     {
+        "type": "place",
         "coords": [
             48.8599614,
             2.3265614
@@ -52,6 +56,7 @@
         "name": "Musée d'Orsay"
     },
     {
+        "type": "place",
         "coords": [
             48.8583701,
             2.2944813
@@ -59,6 +64,7 @@
         "name": "Tour Eiffel"
     },
     {
+        "type": "place",
         "coords": [
             44.622695,
             6.631471
@@ -66,6 +72,7 @@
         "name": "Risoul"
     },
     {
+        "type": "place",
         "coords": [
             45.898018,
             6.830944
@@ -73,6 +80,7 @@
         "name": "Camping le Grand Champ - Chamonix"
     },
     {
+        "type": "place",
         "coords": [
             44.647256,
             6.210735
@@ -80,6 +88,7 @@
         "name": "Saint-Léger-les-Mélèzes"
     },
     {
+        "type": "place",
         "coords": [
             46.730796,
             -1.991758
@@ -88,6 +97,7 @@
         "name": "Next to Saint-Gilles-Croix-de-Vie"
     },
     {
+        "type": "place",
         "coords": [
             48.7130105,
             2.2001932
@@ -234,7 +244,7 @@
     },
     {
         "type": "place",
-        "coordinates": [
+        "coords": [
             43.8015827,
             6.2494548
         ],
