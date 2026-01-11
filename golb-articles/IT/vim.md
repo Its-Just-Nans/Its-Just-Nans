@@ -13,6 +13,22 @@ keywords: vim, shortcuts
 - `:wq`: write and quit
 - `:q!` quit (force)
 
+## Moving cursor
+
+```txt
+# move cursor
+h j k l
+
+# move relative
+8j
+# will move 8 line down
+
+# go to last line
+G
+# go to line 5
+5G
+```
+
 ## Shortcuts Normal mode
 
 - `x`: delete character
@@ -46,6 +62,9 @@ CTRL-w l
 ```
 
 ```vim
+# read and insert a file
+:r file.txt
+
 # launch shell commands
 :!echo 1
 
@@ -53,4 +72,15 @@ CTRL-w l
 :r! echo 1
 # will insert 1
 ```
+
+```vi
+# sort a file
+1G!Gsort
+```
+
+
+## Links
+
+- <https://stackoverflow.com/a/1220118>
+- <https://stackoverflow.com/a/2559262>
 
