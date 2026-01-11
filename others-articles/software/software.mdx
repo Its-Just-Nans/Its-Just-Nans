@@ -1,0 +1,68 @@
+---
+title: software thoughts
+date: 2025-12-27
+tags: ["thought"]
+---
+
+## Janky Software
+
+### `make`
+
+Make is problematic as a build tool for modern software projects for several reasons:
+- Whitespace sensitivity (tabs vs spaces)
+- `make` does not describe what should happen, only what commands to run. This means a Makefile can do literally anything, with no structure, validation, or safety.
+- Encourages shell-script abuse instead of modeling builds
+
+### `git apply`
+
+- fails without error (only error code...)
+
+## File format
+
+### Yaml
+
+- Ambiguous parsing (Norway problem)
+
+### ini
+
+- No standard (every parser differs)
+- No nesting
+
+### PDF
+
+- Is great for archiving and sharing work
+- Not meant for data extraction
+- No semantic structure
+
+## Bad practice
+
+- "It's working on my side"
+- Using closes source software (what if there no more release? what if the software is not free anymore, or costs skyrocket?)
+
+## License reviews
+
+Licensing is extremely important in the FOSS (Free and Open-Source Software) ecosystem because it defines how others can use, modify, and distribute your software.
+
+In a perfect world, everything would be open source and free—but we do not live in that world.
+
+Types of licenses
+
+- **[Copyleft](https://en.wikipedia.org/wiki/Copyleft)** licenses are designed to *enforce* certain conditions, usually requiring derivative works to remain open source under the same license.
+- **Permissive licenses** are mostly used for legal clarity and flexibility, but they also potentially ensure attribution and credit.
+- **Public domain** licenses place the work as close as possible to having no restrictions at all.
+
+I think that if you are confident enough, the best approach is to release everything you create under **CC0**, and let time and adoption naturally turn your software into **CC-BY**.
+
+## Programming languages
+
+### Error Handling in Programming Languages
+
+Older and widely used languages (like **Python**, **JavaScript**, and **C**) do not enforce error handling. If you want safe behavior, **you must explicitly write your code to handle errors**. If you forget, errors can be ignored, crash the program, or fail silently. Error handling is optional, easy to forget and only depends  on developer discipline.
+
+Languages like **Rust**, **Zig**, and **Go** include error handling **as part of the language design**. Errors are part of function signatures the compiler forces you to handle them, and the syntax is simple and explicit. The developer is encouraged to use the errors practices.
+
+Because error handling is built-in and enforced, programs are safer, failures are predictable. Modern languages make **correct error handling the default**, not a best practice.
+
+### Reproducible software
+
+TODO
