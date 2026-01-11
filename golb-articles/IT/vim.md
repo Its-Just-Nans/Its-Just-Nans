@@ -48,4 +48,9 @@ CTRL-w l
 ```vim
 # launch shell commands
 :!echo 1
+
+# launch shell commands and capture output in the file
+:r! echo 1
+# will insert 1
 ```
+
