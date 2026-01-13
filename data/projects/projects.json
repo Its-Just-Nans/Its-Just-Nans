@@ -517,19 +517,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/greener",
-        "name": "greener",
-        "description": "DUT R&T -  website about ecology",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/greener",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "HTML",
-            "color": "#e34c26"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/hangman-game",
         "name": "hangman-game",
         "description": "DUT R&T - Python hangman game",
@@ -1019,7 +1006,7 @@
     {
         "url": "https://gist.github.com/2eb017f4ecbe59628c95a741b8238cb1",
         "name": "2eb017f4ecbe59628c95a741b8238cb1",
-        "description": "Keybase proof",
+        "description": "🌐 Keybase proof",
         "stargazerCount": 0,
         "homepageUrl": null,
         "forkCount": null,
@@ -1029,7 +1016,7 @@
     {
         "url": "https://gist.github.com/af05c0b79a267cf70626bb06b0ede18d",
         "name": "af05c0b79a267cf70626bb06b0ede18d",
-        "description": "Keyoxide proof",
+        "description": "🌐 Keyoxide proof",
         "stargazerCount": 0,
         "homepageUrl": null,
         "forkCount": null,
