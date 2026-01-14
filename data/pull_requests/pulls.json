@@ -9452,7 +9452,7 @@
         "node": {
             "id": "PR_kwDOBEyLlM64zHhj",
             "number": 989,
-            "title": "checked operations",
+            "title": "fix: remove dangerous unwrap",
             "url": "https://github.com/linebender/resvg/pull/989",
             "state": "OPEN",
             "createdAt": "2025-12-14T21:25:46Z",
@@ -10050,7 +10050,7 @@
         "node": {
             "id": "PR_kwDOBEyLlM6806QL",
             "number": 1008,
-            "title": "fix: change assert to result",
+            "title": "fix: change `assert!()` to `Result` with `Error`",
             "url": "https://github.com/linebender/resvg/pull/1008",
             "state": "OPEN",
             "createdAt": "2026-01-13T02:48:38Z",
