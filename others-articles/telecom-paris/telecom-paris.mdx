@@ -19,6 +19,23 @@ Equivalent to a top-tier university in the UK/US.
     - major in *RIO* (networks and IoT)
     - in apprenticeship at Quandela https://www.quandela.com/
 
+import pact from "./pact.png";
+
+## 2022-06-01 - PACT - Autoform <Image src={pact} alt="pact logo" height={50}/>
+
+PACT means "Projet d'Apprentissage Collaboratif Thématique" which translates to "Thematic Collaborative Learning Project".
+
+A project consisting of a Desktop application in ElectronJS and a browser extension. Fill, save, and secure your information in the application, and use it via the extension to automatically fill forms.
+
+Made with some classmates
+
+Stack:
+- ElectronJS
+- NodeJS
+- SvelteJS
+- Jest
+- Cypress
+- GitlabCI
 
 ## Prague trip
 
@@ -32,7 +49,7 @@ One week course on `CTU13: Company Crisis` at Czech Technical University in Prag
 import MapPoints from "@components/MapPoints.astro"
 import pointsPrague from "@others-articles/assets/prague-trip/records.json"
 
-<MapPoints points={pointsPrague} height={400} view={[50.08, 14.42]}/>
+<MapPoints mapId="map-prague" points={pointsPrague} height={400} view={[50.08, 14.42]} customStyle="width:80%;margin:auto;border:1px solid black;" />
 
 
 ## WES weekend
@@ -68,7 +85,7 @@ One week course on `WUT10: Sound: Hearing and Acoustical Measurements` at Warsaw
 
 import pointsWarsaw from "@others-articles/assets/warsaw-trip/records.json"
 
-<MapPoints points={pointsWarsaw} height={400} view={[52.22, 21.0]} mapId="warsawMap"/>
+<MapPoints points={pointsWarsaw} height={400} view={[52.22, 21.0]} mapId="warsawMap" customStyle="width:80%;margin:auto;border:1px solid black;" />
 
 <br />
 
