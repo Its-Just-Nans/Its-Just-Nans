@@ -4,6 +4,8 @@ date: 2021-09-06
 tags: ["school"]
 ---
 
+import { Image } from "astro:assets";
+
 > From 2019-09-01 to 2021-09-06
 
 The DUT (Diplôme Universitaire de Technologie) is a two-year diploma awarded by an IUT (Institut Universitaire de Technologie).
@@ -23,10 +25,74 @@ In second year:
 - apprenticeship at nextSourcia (https://www.nextsourcia.com/), where I worked as a Full Stack JS developer
 - tutored Project with Thales Alenia Space (https://www.thalesaleniaspace.com/)
 
+## 2020-03-01 - Greener
+
+Creation of a website about ecology for a school project
+
+Using only HTML5 and CSS3! - used the famous https://validator.w3.org/
+
+A save is available here: https://n4n5.dev/can-be-useful/html-website-greener/
+
+import greener from "./greener.png"
+
+<div style="text-align: center">
+    <div>https://github.com/Its-Just-Nans/greener</div>
+    <br />
+    <Image src={greener} alt="greener logo" height={100}/>
+</div>
+
+## 2020-06-01 - Trombinouc
+
+Creation of a Facebook like social network (with a personal pages, posts and basic features: adding and removing friends, posting updates, comments, etc.).
+
+Using PHP, SQL, HTML, CSS
+
+import trombinouc from "./trombinouc.png";
+
+<div style="text-align: center">
+    <div>https://github.com/Its-Just-Nans/trombinouc</div>
+    <br />
+    <Image src={trombinouc} alt="trombinouc logo" height={100}/>
+</div>
+
+
+## 2021-06-10 - Student app
+
+`student-app` is a quiz app developed by three students for students.
+
+This project was created for the "Android" course at DUT R&T. The topic was open-ended, with only one requirement: use a database provided by the instructor.
+
+The challenge was that the database could only store key-value pairs (related to a user id), so we had to figure out a way to save the questions and answers in a format that would allow easy retrieval.
+
+Repo: https://github.com/Its-Just-Nans/student-app
+
+## 2021-06-20 - Tutored Project
+
+> Tutored Project with Thales Alenia Space. From 2020-04 to 2021-06
+
+The project (made in group of 6) was to update a moving robot and adapt a spacial Camera (ToF - Time Of Flight) to it.
+
+The robot was used to demonstrate some satellite trajectories.
+
+Worked with :
+
+- Raspberry Pi
+- API of a spatial camera (Basler ToF Camera)
+- Fusion 360
+- FabLab
+
+Links:
+
+- https://youtu.be/Xz0L6iHNSwA - presentation of the project
+
+import logo_thales from "./thales.png";
+
+<div style="text-align: center">
+    <Image src={logo_thales} alt="logo" height={100}/>
+</div>
 
 ---
 
-import { Image } from "astro:assets";
 import logo from "./iut.png";
 
 <div style="text-align: center">

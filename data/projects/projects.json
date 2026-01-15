@@ -764,19 +764,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/ses-102",
-        "name": "ses-102",
-        "description": "TP - SES102 - Pratiques et Analyses de Communication écrite",
-        "stargazerCount": 1,
-        "homepageUrl": "https://n4n5.dev/ses-102/ses102_pace.pdf",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "TeX",
-            "color": "#3D6117"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/sms2call",
         "name": "sms2call",
         "description": "sms2call app",
@@ -934,16 +921,6 @@
             "name": "Rust",
             "color": "#dea584"
         }
-    },
-    {
-        "url": "https://github.com/Its-Just-Nans/thales-project",
-        "name": "thales-project",
-        "description": "DUT R&T - Projet tutoré avec Thales Alenia Space",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": null
     },
     {
         "url": "https://github.com/Its-Just-Nans/tiny-todo",
