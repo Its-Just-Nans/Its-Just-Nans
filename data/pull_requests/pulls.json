@@ -10097,5 +10097,31 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM694LAw",
+            "number": 536,
+            "title": "fix: make create safer and more readable",
+            "url": "https://github.com/zip-rs/zip2/pull/536",
+            "state": "OPEN",
+            "createdAt": "2026-01-18T18:48:57Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
