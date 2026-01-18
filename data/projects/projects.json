@@ -78,7 +78,7 @@
         "name": "array-cache",
         "description": "Cache the index of an array between program executions",
         "stargazerCount": 0,
-        "archivedAt": null,
+        "archivedAt": "2026-01-18T21:14:43Z",
         "homepageUrl": "",
         "forkCount": 0,
         "licenseInfo": {
@@ -252,7 +252,7 @@
         "name": "curriculum-vitae",
         "description": "Generate curriculum vitæ from json using lua and lualatex",
         "stargazerCount": 1,
-        "archivedAt": null,
+        "archivedAt": "2026-01-18T21:13:59Z",
         "homepageUrl": "",
         "forkCount": 0,
         "licenseInfo": {
@@ -359,7 +359,7 @@
         "name": "events-hook",
         "description": "Easily sharing state between component",
         "stargazerCount": 0,
-        "archivedAt": null,
+        "archivedAt": "2026-01-18T21:13:41Z",
         "homepageUrl": "https://its-just-nans.github.io/events-hook/",
         "forkCount": 0,
         "licenseInfo": {
@@ -375,7 +375,7 @@
         "name": "fiber-calculator",
         "description": "DUT R&T - Fiber Calculator",
         "stargazerCount": 0,
-        "archivedAt": null,
+        "archivedAt": "2026-01-18T21:13:50Z",
         "homepageUrl": "https://its-just-nans.github.io/fiber-calculator",
         "forkCount": 0,
         "licenseInfo": null,
@@ -405,7 +405,7 @@
         "name": "flat-hinge",
         "description": "just some 3d flat hinges",
         "stargazerCount": 0,
-        "archivedAt": null,
+        "archivedAt": "2026-01-18T21:13:34Z",
         "homepageUrl": "https://www.thingiverse.com/thing:4928759",
         "forkCount": 0,
         "licenseInfo": {
@@ -525,7 +525,7 @@
         "name": "go-simple-uploader",
         "description": "go-simple-uploader",
         "stargazerCount": 0,
-        "archivedAt": null,
+        "archivedAt": "2026-01-18T21:13:25Z",
         "homepageUrl": "https://hub.docker.com/r/n4n5/go-simple-uploader",
         "forkCount": 0,
         "licenseInfo": {
@@ -557,7 +557,7 @@
         "name": "hangman-game",
         "description": "DUT R&T - Python hangman game",
         "stargazerCount": 0,
-        "archivedAt": null,
+        "archivedAt": "2026-01-18T21:13:16Z",
         "homepageUrl": "",
         "forkCount": 0,
         "licenseInfo": null,
@@ -633,7 +633,7 @@
         "name": "motp",
         "description": "mOTP generator",
         "stargazerCount": 1,
-        "archivedAt": null,
+        "archivedAt": "2026-01-18T21:15:38Z",
         "homepageUrl": "https://motp.n4n5.dev/",
         "forkCount": 0,
         "licenseInfo": {
@@ -729,7 +729,7 @@
         "name": "pngtools",
         "description": "tiny cli to explore png",
         "stargazerCount": 1,
-        "archivedAt": null,
+        "archivedAt": "2026-01-18T21:13:04Z",
         "homepageUrl": "https://pypi.org/project/pngtools/",
         "forkCount": 0,
         "licenseInfo": {
@@ -975,7 +975,7 @@
         "name": "termpic",
         "description": "Fork of https://github.com/hopey-dishwasher/termpix",
         "stargazerCount": 1,
-        "archivedAt": null,
+        "archivedAt": "2026-01-18T21:15:05Z",
         "homepageUrl": null,
         "forkCount": 0,
         "licenseInfo": {
@@ -991,7 +991,7 @@
         "name": "tiny-todo",
         "description": "A simple TODO list",
         "stargazerCount": 0,
-        "archivedAt": null,
+        "archivedAt": "2026-01-18T21:14:52Z",
         "homepageUrl": "https://pypi.org/project/tiny-todo/",
         "forkCount": 0,
         "licenseInfo": {
