@@ -44,7 +44,9 @@ cargo build --timings
     clippy::missing_panics_doc,
     clippy::cargo,
     clippy::unwrap_used,
-    clippy::expect_used
+    clippy::expect_used,
+    clippy::cast_lossless,
+    // clippy::pedantic
 )]
 #![warn(clippy::multiple_crate_versions)]
 ```
