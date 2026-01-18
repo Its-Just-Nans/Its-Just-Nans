@@ -32,7 +32,7 @@
         "name": "anrt-checker",
         "description": "Scrap PhD offers",
         "stargazerCount": 1,
-        "archivedAt": null,
+        "archivedAt": "2026-01-18T21:08:07Z",
         "homepageUrl": "",
         "forkCount": 0,
         "licenseInfo": {
@@ -174,7 +174,7 @@
         "name": "businessfrance-checker",
         "description": "businessfrance checker",
         "stargazerCount": 1,
-        "archivedAt": null,
+        "archivedAt": "2026-01-18T21:08:17Z",
         "homepageUrl": "",
         "forkCount": 0,
         "licenseInfo": {
@@ -297,7 +297,7 @@
         "name": "dijkstra",
         "description": "TP - INF103 - dijkstra (labyrinth and graph) in java",
         "stargazerCount": 0,
-        "archivedAt": null,
+        "archivedAt": "2026-01-18T21:08:27Z",
         "homepageUrl": "",
         "forkCount": 0,
         "licenseInfo": {
@@ -389,7 +389,7 @@
         "name": "figer",
         "description": "Easily manage config files in multi user environment",
         "stargazerCount": 1,
-        "archivedAt": null,
+        "archivedAt": "2026-01-18T21:09:47Z",
         "homepageUrl": "https://pypi.org/project/figer/",
         "forkCount": 0,
         "licenseInfo": {
@@ -466,7 +466,7 @@
         "name": "git-migrator",
         "description": "Migrate your repo",
         "stargazerCount": 0,
-        "archivedAt": null,
+        "archivedAt": "2026-01-18T21:08:41Z",
         "homepageUrl": "",
         "forkCount": 0,
         "licenseInfo": {
@@ -617,7 +617,7 @@
         "name": "localstorage-supercharged",
         "description": "A javascript object which under the hood save all his data in the localStorage",
         "stargazerCount": 0,
-        "archivedAt": null,
+        "archivedAt": "2026-01-18T21:09:30Z",
         "homepageUrl": "",
         "forkCount": 0,
         "licenseInfo": {
@@ -697,7 +697,7 @@
         "name": "photo-copier",
         "description": "Python code to transfer pictures easily",
         "stargazerCount": 0,
-        "archivedAt": null,
+        "archivedAt": "2026-01-18T21:08:53Z",
         "homepageUrl": "",
         "forkCount": 0,
         "licenseInfo": {
@@ -761,7 +761,7 @@
         "name": "proxy-ws",
         "description": "Tiny CLI for a ws proxy",
         "stargazerCount": 0,
-        "archivedAt": null,
+        "archivedAt": "2026-01-18T21:09:38Z",
         "homepageUrl": "https://www.npmjs.com/package/@n4n5/proxy-ws",
         "forkCount": 0,
         "licenseInfo": {
@@ -883,7 +883,7 @@
         "name": "student-app",
         "description": "DUT R&T - The student app, make and play quiz games",
         "stargazerCount": 0,
-        "archivedAt": null,
+        "archivedAt": "2026-01-18T21:09:02Z",
         "homepageUrl": "",
         "forkCount": 0,
         "licenseInfo": null,
@@ -911,7 +911,7 @@
         "name": "supercharged-store",
         "description": "svelte-store but in VanillaJS",
         "stargazerCount": 0,
-        "archivedAt": null,
+        "archivedAt": "2026-01-18T21:09:11Z",
         "homepageUrl": "",
         "forkCount": 0,
         "licenseInfo": {
