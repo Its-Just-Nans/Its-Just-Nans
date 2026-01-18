@@ -7971,15 +7971,15 @@
             "id": "PR_kwDOLkOWB86kALPQ",
             "number": 129,
             "title": "feat: add pdf document options",
-            "url": "https://github.com/DeveloperPaul123/modern-cv/pull/129",
+            "url": "https://github.com/ptsouchlos/modern-cv/pull/129",
             "state": "MERGED",
             "createdAt": "2025-08-17T20:16:48Z",
             "baseRepository": {
-                "url": "https://github.com/DeveloperPaul123/modern-cv",
+                "url": "https://github.com/ptsouchlos/modern-cv",
                 "name": "modern-cv",
                 "description": "A modern resume template written in Typst, inspired by Awesome-CV",
                 "owner": {
-                    "login": "DeveloperPaul123"
+                    "login": "ptsouchlos"
                 },
                 "languages": {
                     "nodes": [
@@ -8049,15 +8049,15 @@
             "id": "PR_kwDOLkOWB86kJQV-",
             "number": 130,
             "title": "feat: add pdf info for cover letter",
-            "url": "https://github.com/DeveloperPaul123/modern-cv/pull/130",
+            "url": "https://github.com/ptsouchlos/modern-cv/pull/130",
             "state": "MERGED",
             "createdAt": "2025-08-18T16:36:49Z",
             "baseRepository": {
-                "url": "https://github.com/DeveloperPaul123/modern-cv",
+                "url": "https://github.com/ptsouchlos/modern-cv",
                 "name": "modern-cv",
                 "description": "A modern resume template written in Typst, inspired by Awesome-CV",
                 "owner": {
-                    "login": "DeveloperPaul123"
+                    "login": "ptsouchlos"
                 },
                 "languages": {
                     "nodes": [
@@ -9452,7 +9452,7 @@
         "node": {
             "id": "PR_kwDOBEyLlM64zHhj",
             "number": 989,
-            "title": "checked operations",
+            "title": "fix: remove dangerous unwrap",
             "url": "https://github.com/linebender/resvg/pull/989",
             "state": "OPEN",
             "createdAt": "2025-12-14T21:25:46Z",
@@ -9962,6 +9962,136 @@
                         {
                             "name": "TypeScript",
                             "color": "#3178c6"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM68l0mH",
+            "number": 504,
+            "title": "fix: add condition for `getrandom` dependency",
+            "url": "https://github.com/zip-rs/zip2/pull/504",
+            "state": "MERGED",
+            "createdAt": "2026-01-11T22:50:51Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM68mET8",
+            "number": 505,
+            "title": "fix: bench with auto zip64 comment",
+            "url": "https://github.com/zip-rs/zip2/pull/505",
+            "state": "MERGED",
+            "createdAt": "2026-01-11T23:41:18Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBtX13c68nUG1",
+            "number": 4899,
+            "title": "fix the rustversion min version",
+            "url": "https://github.com/wasm-bindgen/wasm-bindgen/pull/4899",
+            "state": "MERGED",
+            "createdAt": "2026-01-12T03:54:09Z",
+            "baseRepository": {
+                "url": "https://github.com/wasm-bindgen/wasm-bindgen",
+                "name": "wasm-bindgen",
+                "description": "Facilitating high-level interactions between Wasm modules and JavaScript",
+                "owner": {
+                    "login": "wasm-bindgen"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBEyLlM6806QL",
+            "number": 1008,
+            "title": "fix: change `assert!()` to `Result` with `Error`",
+            "url": "https://github.com/linebender/resvg/pull/1008",
+            "state": "OPEN",
+            "createdAt": "2026-01-13T02:48:38Z",
+            "baseRepository": {
+                "url": "https://github.com/linebender/resvg",
+                "name": "resvg",
+                "description": "An SVG rendering library.",
+                "owner": {
+                    "login": "linebender"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM69uphA",
+            "number": 527,
+            "title": "docs(examples): simplify examples by having them return Result (#187)",
+            "url": "https://github.com/zip-rs/zip2/pull/527",
+            "state": "MERGED",
+            "createdAt": "2026-01-17T00:48:42Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
                         }
                     ]
                 }

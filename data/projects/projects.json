@@ -205,7 +205,7 @@
         "url": "https://github.com/Its-Just-Nans/csv-to-custom-json",
         "name": "csv-to-custom-json",
         "description": "Easily transform your CSV to a custom JSON with cool options",
-        "stargazerCount": 4,
+        "stargazerCount": 5,
         "homepageUrl": "https://n4n5.dev/csv-to-custom-json/",
         "forkCount": 0,
         "licenseInfo": {
@@ -517,19 +517,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/greener",
-        "name": "greener",
-        "description": "DUT R&T -  website about ecology",
-        "stargazerCount": 0,
-        "homepageUrl": "https://its-just-nans.github.io/greener",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "HTML",
-            "color": "#e34c26"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/hangman-game",
         "name": "hangman-game",
         "description": "DUT R&T - Python hangman game",
@@ -777,19 +764,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/ses-102",
-        "name": "ses-102",
-        "description": "TP - SES102 - Pratiques et Analyses de Communication écrite",
-        "stargazerCount": 1,
-        "homepageUrl": "https://n4n5.dev/ses-102/ses102_pace.pdf",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "TeX",
-            "color": "#3D6117"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/sms2call",
         "name": "sms2call",
         "description": "sms2call app",
@@ -949,16 +923,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/thales-project",
-        "name": "thales-project",
-        "description": "DUT R&T - Projet tutoré avec Thales Alenia Space",
-        "stargazerCount": 0,
-        "homepageUrl": "",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": null
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/tiny-todo",
         "name": "tiny-todo",
         "description": "A simple TODO list",
@@ -1019,7 +983,7 @@
     {
         "url": "https://gist.github.com/2eb017f4ecbe59628c95a741b8238cb1",
         "name": "2eb017f4ecbe59628c95a741b8238cb1",
-        "description": "Keybase proof",
+        "description": "🌐 Keybase proof",
         "stargazerCount": 0,
         "homepageUrl": null,
         "forkCount": null,
@@ -1029,7 +993,7 @@
     {
         "url": "https://gist.github.com/af05c0b79a267cf70626bb06b0ede18d",
         "name": "af05c0b79a267cf70626bb06b0ede18d",
-        "description": "Keyoxide proof",
+        "description": "🌐 Keyoxide proof",
         "stargazerCount": 0,
         "homepageUrl": null,
         "forkCount": null,
