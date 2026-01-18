@@ -7971,15 +7971,15 @@
             "id": "PR_kwDOLkOWB86kALPQ",
             "number": 129,
             "title": "feat: add pdf document options",
-            "url": "https://github.com/DeveloperPaul123/modern-cv/pull/129",
+            "url": "https://github.com/ptsouchlos/modern-cv/pull/129",
             "state": "MERGED",
             "createdAt": "2025-08-17T20:16:48Z",
             "baseRepository": {
-                "url": "https://github.com/DeveloperPaul123/modern-cv",
+                "url": "https://github.com/ptsouchlos/modern-cv",
                 "name": "modern-cv",
                 "description": "A modern resume template written in Typst, inspired by Awesome-CV",
                 "owner": {
-                    "login": "DeveloperPaul123"
+                    "login": "ptsouchlos"
                 },
                 "languages": {
                     "nodes": [
@@ -8049,15 +8049,15 @@
             "id": "PR_kwDOLkOWB86kJQV-",
             "number": 130,
             "title": "feat: add pdf info for cover letter",
-            "url": "https://github.com/DeveloperPaul123/modern-cv/pull/130",
+            "url": "https://github.com/ptsouchlos/modern-cv/pull/130",
             "state": "MERGED",
             "createdAt": "2025-08-18T16:36:49Z",
             "baseRepository": {
-                "url": "https://github.com/DeveloperPaul123/modern-cv",
+                "url": "https://github.com/ptsouchlos/modern-cv",
                 "name": "modern-cv",
                 "description": "A modern resume template written in Typst, inspired by Awesome-CV",
                 "owner": {
-                    "login": "DeveloperPaul123"
+                    "login": "ptsouchlos"
                 },
                 "languages": {
                     "nodes": [
@@ -10060,6 +10060,32 @@
                 "description": "An SVG rendering library.",
                 "owner": {
                     "login": "linebender"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM69uphA",
+            "number": 527,
+            "title": "docs(examples): simplify examples by having them return Result (#187)",
+            "url": "https://github.com/zip-rs/zip2/pull/527",
+            "state": "MERGED",
+            "createdAt": "2026-01-17T00:48:42Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
                 },
                 "languages": {
                     "nodes": [
