@@ -197,6 +197,16 @@ exiftool -d '%Y-%m-%d_%H-%M%-S%%-c.%%e' '-filename<CreateDate' .
 
 > Reference <https://blog.wxm.be/2024/07/26/exiftool-rename-from-date.html>
 
+## exiftool check
+
+```sh
+# for all supported format
+exiftool -r .
+
+# for jpg
+exiftool -r -ext jpg .
+```
+
 ## Convert jpg to png with background
 
 ```sh
