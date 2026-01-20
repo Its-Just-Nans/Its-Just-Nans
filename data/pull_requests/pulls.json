@@ -9948,7 +9948,7 @@
             "number": 567,
             "title": "Clarify App token usage",
             "url": "https://github.com/opencloud-eu/docs/pull/567",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-01-10T05:22:15Z",
             "baseRepository": {
                 "url": "https://github.com/opencloud-eu/docs",
@@ -10118,6 +10118,32 @@
                         {
                             "name": "Rust",
                             "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOLysTMc6-Gz4u",
+            "number": 1,
+            "title": "Update time dependency with wasm-bindgen feature",
+            "url": "https://github.com/irevoire/egui-meteo/pull/1",
+            "state": "OPEN",
+            "createdAt": "2026-01-20T00:45:46Z",
+            "baseRepository": {
+                "url": "https://github.com/irevoire/egui-meteo",
+                "name": "egui-meteo",
+                "description": null,
+                "owner": {
+                    "login": "irevoire"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "JavaScript",
+                            "color": "#f1e05a"
                         }
                     ]
                 }

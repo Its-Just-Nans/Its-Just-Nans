@@ -1,6 +1,6 @@
 {
-    "github.com/Its-Just-Nans/Its-Just-Nans": 45368,
-    "github.com/Its-Just-Nans/Its-Just-Nans.github.io": 25316,
+    "github.com/Its-Just-Nans/Its-Just-Nans": 45380,
+    "github.com/Its-Just-Nans/Its-Just-Nans.github.io": 25319,
     "github.com/Its-Just-Nans/anrt-checker": 77,
     "github.com/Its-Just-Nans/apksig": 8678,
     "github.com/Its-Just-Nans/arduino-led-matrix": 17417,
@@ -34,7 +34,7 @@
     "github.com/Its-Just-Nans/gitlab-proof": 0,
     "github.com/Its-Just-Nans/go-calendar": 32,
     "github.com/Its-Just-Nans/go-simple-uploader": 7,
-    "github.com/Its-Just-Nans/golb": 6274,
+    "github.com/Its-Just-Nans/golb": 6275,
     "github.com/Its-Just-Nans/hangman-game": 206,
     "github.com/Its-Just-Nans/indexage": 35,
     "github.com/Its-Just-Nans/jscontact": 166,
@@ -42,7 +42,7 @@
     "github.com/Its-Just-Nans/localstorage-supercharged": 8,
     "github.com/Its-Just-Nans/motp": 24,
     "github.com/Its-Just-Nans/music-exporter": 155,
-    "github.com/Its-Just-Nans/n4n5-crate": 230,
+    "github.com/Its-Just-Nans/n4n5-crate": 257,
     "github.com/Its-Just-Nans/notox": 146,
     "github.com/Its-Just-Nans/photo-copier": 48,
     "github.com/Its-Just-Nans/plugin-astro-content": 47,
@@ -65,6 +65,6 @@
     "github.com/Its-Just-Nans/termpic": 211,
     "github.com/Its-Just-Nans/tiny-todo": 11,
     "github.com/Its-Just-Nans/whatisthis": 154,
-    "github.com/Its-Just-Nans/wombat": 665,
-    "github.com/Its-Just-Nans/yakb": 2184
+    "github.com/Its-Just-Nans/wombat": 708,
+    "github.com/Its-Just-Nans/yakb": 2187
 }
