@@ -45,6 +45,7 @@
 - <https://100.antfu.me/> - design experiments
 - <https://lofi.cafe/> - music lobby
 - <https://natto.dev/> - js on a 2D canvas
+- <https://cannoneyed.com/isometric-nyc/> - new york isometric
 - <https://commitmono.com/> - font
 - <https://sid.ethz.ch/fonts/> - fonts files with a random button
 - <https://www.programmingfonts.org/> - test programming fonts
@@ -294,7 +295,8 @@
 - <https://osmand.net/> - offline earth maps
 - <https://ioverlander.com/> - place for travelers
 - <https://travelboast.com/> - show people your trip
-- <https://carto.graou.info/> - train map
+- <https://carto.tchoo.net/> - train map
+- <https://opendatamap.fr/> - useful maps
 - <https://www.carcarekiosk.com/> - car stuff
 - <https://www.startmycar.com/> - car stuff
 - <https://www.geohints.com/> - geolocation
