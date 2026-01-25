@@ -10102,7 +10102,7 @@
         "node": {
             "id": "PR_kwDOJaavgM694LAw",
             "number": 536,
-            "title": "fix: make create safer and more readable",
+            "title": "fix: make zip crate safer and more readable",
             "url": "https://github.com/zip-rs/zip2/pull/536",
             "state": "OPEN",
             "createdAt": "2026-01-18T18:48:57Z",
@@ -10144,6 +10144,32 @@
                         {
                             "name": "JavaScript",
                             "color": "#f1e05a"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM6_Er_p",
+            "number": 549,
+            "title": "style: Improve code",
+            "url": "https://github.com/zip-rs/zip2/pull/549",
+            "state": "OPEN",
+            "createdAt": "2026-01-24T04:02:37Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
                         }
                     ]
                 }
