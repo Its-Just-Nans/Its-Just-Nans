@@ -304,13 +304,15 @@ impl MyStruct {
 if cfg!(feature = "my_feature") {
     // do something
 }
-```
 
-Is different than
+// Is different than
 
-```rust
 #[cfg(feature = "my_feature")]
 {
     // do something
 }
+
+// cfg!, unlike #[cfg], does not remove any code and only evaluates to true or false
 ```
+
+> <https://doc.rust-lang.org/rust-by-example/attribute/cfg.html>
