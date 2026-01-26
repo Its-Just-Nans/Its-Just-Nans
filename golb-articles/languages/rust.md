@@ -305,7 +305,7 @@ if cfg!(feature = "my_feature") {
     // do something
 }
 
-// Is different than
+// is different than
 
 #[cfg(feature = "my_feature")]
 {
