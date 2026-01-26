@@ -64,7 +64,7 @@
         "name": "arduino-led-matrix",
         "description": "🛠️ An 8x8 arduino led matrix",
         "stargazerCount": 0,
-        "archivedAt": null,
+        "archivedAt": "2026-01-19T00:19:50Z",
         "homepageUrl": "https://n4n5.dev/articles/arduino-led-matrix/",
         "forkCount": 0,
         "licenseInfo": null,
@@ -268,7 +268,7 @@
         "name": "cyberdeck",
         "description": "🛠️ Building a cyberdeck",
         "stargazerCount": 0,
-        "archivedAt": null,
+        "archivedAt": "2026-01-19T00:19:17Z",
         "homepageUrl": "https://n4n5.dev/cyberdeck/",
         "forkCount": 0,
         "licenseInfo": {
@@ -1044,8 +1044,8 @@
         "forkCount": 0,
         "licenseInfo": null,
         "primaryLanguage": {
-            "name": "MDX",
-            "color": "#fcb32c"
+            "name": "JavaScript",
+            "color": "#f1e05a"
         }
     },
     {
