@@ -297,3 +297,20 @@ impl MyStruct {
     fn method4(mut self) {}   // Takes ownership and can mutate it inside the method
 }
 ```
+
+## `cfg!()`
+
+```rust
+if cfg!(feature = "my_feature") {
+    // do something
+}
+```
+
+Is different than
+
+```rust
+#[cfg(feature = "my_feature")]
+{
+    // do something
+}
+```
