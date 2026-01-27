@@ -312,7 +312,7 @@ if cfg!(feature = "my_feature") {
     // do something
 }
 
-// cfg!, unlike #[cfg], does not remove any code and only evaluates to true or false
+// cfg!(), unlike #[cfg()], does not remove any code and only evaluates to true or false
 ```
 
 > <https://doc.rust-lang.org/rust-by-example/attribute/cfg.html>
