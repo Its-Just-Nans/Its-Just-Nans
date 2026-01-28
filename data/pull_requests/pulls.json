@@ -10156,7 +10156,7 @@
             "number": 549,
             "title": "style: Improve code",
             "url": "https://github.com/zip-rs/zip2/pull/549",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-01-24T04:02:37Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -10164,6 +10164,84 @@
                 "description": "Zip implementation in Rust",
                 "owner": {
                     "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM6_Q0w7",
+            "number": 563,
+            "title": "style: no macro export",
+            "url": "https://github.com/zip-rs/zip2/pull/563",
+            "state": "OPEN",
+            "createdAt": "2026-01-25T21:45:55Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOH2bgy86_wAoh",
+            "number": 59,
+            "title": "fix: remove impl for for `Cow<'_, str>`",
+            "url": "https://github.com/chipsenkbeil/typed-path/pull/59",
+            "state": "OPEN",
+            "createdAt": "2026-01-28T03:37:25Z",
+            "baseRepository": {
+                "url": "https://github.com/chipsenkbeil/typed-path",
+                "name": "typed-path",
+                "description": "Provides typed variants of Path and PathBuf for Unix and Windows",
+                "owner": {
+                    "login": "chipsenkbeil"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBEyLlM6_wOLq",
+            "number": 1011,
+            "title": "feat(usvg): add warning of error during parsing",
+            "url": "https://github.com/linebender/resvg/pull/1011",
+            "state": "OPEN",
+            "createdAt": "2026-01-28T04:05:34Z",
+            "baseRepository": {
+                "url": "https://github.com/linebender/resvg",
+                "name": "resvg",
+                "description": "An SVG rendering library.",
+                "owner": {
+                    "login": "linebender"
                 },
                 "languages": {
                     "nodes": [
