@@ -10182,7 +10182,7 @@
             "number": 563,
             "title": "style: no macro export",
             "url": "https://github.com/zip-rs/zip2/pull/563",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-01-25T21:45:55Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
