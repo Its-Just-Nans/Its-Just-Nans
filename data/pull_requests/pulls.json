@@ -10253,5 +10253,31 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBQN_-M7ATeQ2",
+            "number": 231,
+            "title": "feat: add wasm-bindgen feature for wasm",
+            "url": "https://github.com/rusticata/x509-parser/pull/231",
+            "state": "OPEN",
+            "createdAt": "2026-01-30T05:13:21Z",
+            "baseRepository": {
+                "url": "https://github.com/rusticata/x509-parser",
+                "name": "x509-parser",
+                "description": "X.509 parser written in pure Rust. Fast, zero-copy, safe.",
+                "owner": {
+                    "login": "rusticata"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
