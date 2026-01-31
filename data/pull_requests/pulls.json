@@ -10279,5 +10279,31 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOL5nw387AmC_x",
+            "number": 968,
+            "title": "fix: use more `PathBuf`",
+            "url": "https://github.com/reubeno/brush/pull/968",
+            "state": "MERGED",
+            "createdAt": "2026-01-31T18:11:02Z",
+            "baseRepository": {
+                "url": "https://github.com/reubeno/brush",
+                "name": "brush",
+                "description": "🐚bash/POSIX-compatible shell implemented in Rust 🦀",
+                "owner": {
+                    "login": "reubeno"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Dockerfile",
+                            "color": "#384d54"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
