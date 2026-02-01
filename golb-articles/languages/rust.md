@@ -75,15 +75,6 @@ cargo hack test --feature-powerset --all-targets
 
 > <https://github.com/taiki-e/cargo-hack>
 
-## Update all installed packages
-
-```sh
-cargo install cargo-update
-cargo install-update -a
-```
-
-> <https://github.com/nabijaczleweli/cargo-update>
-
 ## Test coverage
 
 ```sh
@@ -100,6 +91,19 @@ cd target/llvm-cov/html && python -m http.server
 cargo tree -e features
 
 cargo tree -f "{p} {f}"
+```
+
+## cargo packages
+
+```sh
+# check import and unimport
+cargo shear # https://github.com/Boshen/cargo-shear
+
+
+# Update all installed packages
+# <https://github.com/nabijaczleweli/cargo-update>
+cargo install cargo-update
+cargo install-update -a
 ```
 
 ## uutils
