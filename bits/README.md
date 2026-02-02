@@ -235,6 +235,7 @@
 - <https://github.com/goabstract/Awesome-Design-Tools>
 - <https://github.com/jstrieb/systems-programming-cheat-sheet>
 - <https://en.algorithmica.org/hpc/> - high performance computing
+- <https://ihatecoordinatesystems.com/> - coordinates issues
 
 ### blog and personal websites
 
