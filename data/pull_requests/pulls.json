@@ -10310,10 +10310,62 @@
         "node": {
             "id": "PR_kwDOJaavgM7AvKn5",
             "number": 606,
-            "title": "feat: cleanup the benchs and Cargo.toml",
+            "title": "chore: cleanup the benchs and Cargo.toml",
             "url": "https://github.com/zip-rs/zip2/pull/606",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-02-01T17:18:35Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7AxBT3",
+            "number": 609,
+            "title": "test: Fix wasm-pack test on Node",
+            "url": "https://github.com/zip-rs/zip2/pull/609",
+            "state": "MERGED",
+            "createdAt": "2026-02-01T21:53:02Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7BCyFr",
+            "number": 616,
+            "title": "fix: Document feature `unreserved` and make the mapping of extra fields public",
+            "url": "https://github.com/zip-rs/zip2/pull/616",
+            "state": "OPEN",
+            "createdAt": "2026-02-03T01:11:15Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
                 "name": "zip2",
