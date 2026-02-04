@@ -1,6 +1,17 @@
 [
     {
         "node": {
+            "title": "fix: cursor, add, delete on itinary",
+            "url": "https://codeberg.org/cartes/web/pulls/1513",
+            "state": "MERGED",
+            "createdAt": "2026-01-29",
+            "baseRepository": {
+                "url": "https://codeberg.org/cartes/web"
+            }
+        }
+    },
+    {
+        "node": {
             "title": "show error summary",
             "url": "https://git.meli-email.org/meli/meli/pulls/586",
             "state": "MERGED",
