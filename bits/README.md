@@ -318,6 +318,7 @@
 - <https://www.veripool.org/verilator/> - verilog simulator
 - <https://www.yoctoproject.org/> - create custom linux distro
 - <https://www.openembedded.org/>
+- <https://mergiraf.org/> - handle merge conflict
 - <https://buildroot.org/>
 - <https://openwrt.org/> - linux for embedded devices
 - <https://github.com/cnlohr/minimdnsd/> - mini dnsd
