@@ -7270,7 +7270,7 @@
             "number": 7936,
             "title": "fix docs hashsumS and test",
             "url": "https://github.com/uutils/coreutils/pull/7936",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-05-15T03:59:57Z",
             "baseRepository": {
                 "url": "https://github.com/uutils/coreutils",
@@ -9792,7 +9792,7 @@
             "number": 7803,
             "title": "rt: clarify the documentation of `Runtime::spawn`",
             "url": "https://github.com/tokio-rs/tokio/pull/7803",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-12-29T03:41:05Z",
             "baseRepository": {
                 "url": "https://github.com/tokio-rs/tokio",
@@ -10364,7 +10364,7 @@
             "number": 616,
             "title": "fix: Document feature `unreserved` and make the mapping of extra fields public",
             "url": "https://github.com/zip-rs/zip2/pull/616",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-02-03T01:11:15Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -10372,6 +10372,58 @@
                 "description": "Zip implementation in Rust",
                 "owner": {
                     "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOAwxzzs7BWEvh",
+            "number": 285,
+            "title": "feat: improve create security on unchecked array access",
+            "url": "https://github.com/sseemayer/keepass-rs/pull/285",
+            "state": "MERGED",
+            "createdAt": "2026-02-04T02:22:12Z",
+            "baseRepository": {
+                "url": "https://github.com/sseemayer/keepass-rs",
+                "name": "keepass-rs",
+                "description": "Rust KeePass database file parser for KDB, KDBX3 and KDBX4, with experimental support for KDBX4 writing.",
+                "owner": {
+                    "login": "sseemayer"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOAwxzzs7Bms1N",
+            "number": 286,
+            "title": "feat: add more clippy fix",
+            "url": "https://github.com/sseemayer/keepass-rs/pull/286",
+            "state": "OPEN",
+            "createdAt": "2026-02-05T01:59:01Z",
+            "baseRepository": {
+                "url": "https://github.com/sseemayer/keepass-rs",
+                "name": "keepass-rs",
+                "description": "Rust KeePass database file parser for KDB, KDBX3 and KDBX4, with experimental support for KDBX4 writing.",
+                "owner": {
+                    "login": "sseemayer"
                 },
                 "languages": {
                     "nodes": [
