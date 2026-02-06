@@ -47,7 +47,7 @@
         "url": "https://github.com/Its-Just-Nans/apksig",
         "name": "apksig",
         "description": "Decoding the APK Signing Block",
-        "stargazerCount": 8,
+        "stargazerCount": 9,
         "archivedAt": null,
         "homepageUrl": "https://n4n5.dev/apksig/",
         "forkCount": 2,
@@ -329,7 +329,7 @@
         "stargazerCount": 0,
         "archivedAt": null,
         "homepageUrl": "https://pypi.org/project/docx-asn1/",
-        "forkCount": 0,
+        "forkCount": 1,
         "licenseInfo": {
             "name": "MIT License"
         },
@@ -680,7 +680,7 @@
         "url": "https://github.com/Its-Just-Nans/notox",
         "name": "notox",
         "description": "no toxic names anymore",
-        "stargazerCount": 15,
+        "stargazerCount": 16,
         "archivedAt": null,
         "homepageUrl": "https://n4n5.dev/notox/",
         "forkCount": 1,
