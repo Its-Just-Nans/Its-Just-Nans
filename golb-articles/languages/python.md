@@ -89,6 +89,12 @@ python -c "import numpy as _;print(_.__file__)"
 python -m http.server
 ```
 
+## Prettify json
+
+```sh
+python -m json.tool file.json
+```
+
 ## Pip config
 
 Location:
