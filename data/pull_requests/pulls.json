@@ -10416,7 +10416,7 @@
             "number": 286,
             "title": "feat: add more clippy fix",
             "url": "https://github.com/sseemayer/keepass-rs/pull/286",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2026-02-05T01:59:01Z",
             "baseRepository": {
                 "url": "https://github.com/sseemayer/keepass-rs",
@@ -10424,6 +10424,188 @@
                 "description": "Rust KeePass database file parser for KDB, KDBX3 and KDBX4, with experimental support for KDBX4 writing.",
                 "owner": {
                     "login": "sseemayer"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOCVDcms7B4AKX",
+            "number": 255,
+            "title": "fix: calculate header size for offeset column",
+            "url": "https://github.com/sharkdp/hexyl/pull/255",
+            "state": "OPEN",
+            "createdAt": "2026-02-06T01:54:23Z",
+            "baseRepository": {
+                "url": "https://github.com/sharkdp/hexyl",
+                "name": "hexyl",
+                "description": "A command-line hex viewer",
+                "owner": {
+                    "login": "sharkdp"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOCVDcms7B4DLB",
+            "number": 256,
+            "title": "Improve crate && fix CI",
+            "url": "https://github.com/sharkdp/hexyl/pull/256",
+            "state": "OPEN",
+            "createdAt": "2026-02-06T02:00:01Z",
+            "baseRepository": {
+                "url": "https://github.com/sharkdp/hexyl",
+                "name": "hexyl",
+                "description": "A command-line hex viewer",
+                "owner": {
+                    "login": "sharkdp"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOCVDcms7B4KET",
+            "number": 257,
+            "title": "feat: handle standard input \"-\"",
+            "url": "https://github.com/sharkdp/hexyl/pull/257",
+            "state": "OPEN",
+            "createdAt": "2026-02-06T02:10:58Z",
+            "baseRepository": {
+                "url": "https://github.com/sharkdp/hexyl",
+                "name": "hexyl",
+                "description": "A command-line hex viewer",
+                "owner": {
+                    "login": "sharkdp"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7B4tIs",
+            "number": 629,
+            "title": "DRAFT: fix: zip64 central header",
+            "url": "https://github.com/zip-rs/zip2/pull/629",
+            "state": "OPEN",
+            "createdAt": "2026-02-06T03:11:37Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOFPg7gM7B5FUc",
+            "number": 28,
+            "title": "fix: handling of ZIP64 extended field",
+            "url": "https://github.com/pmqs/zipdetails/pull/28",
+            "state": "OPEN",
+            "createdAt": "2026-02-06T03:52:58Z",
+            "baseRepository": {
+                "url": "https://github.com/pmqs/zipdetails",
+                "name": "zipdetails",
+                "description": "zipdetails - Display details about the internal structure of Zip files.",
+                "owner": {
+                    "login": "pmqs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Perl",
+                            "color": "#0298c3"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7B5JWh",
+            "number": 630,
+            "title": "style: Fix typos and add typo CI",
+            "url": "https://github.com/zip-rs/zip2/pull/630",
+            "state": "MERGED",
+            "createdAt": "2026-02-06T04:03:19Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7CMo6Y",
+            "number": 639,
+            "title": "feat: document zip flags as enum",
+            "url": "https://github.com/zip-rs/zip2/pull/639",
+            "state": "OPEN",
+            "createdAt": "2026-02-07T16:57:27Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
                 },
                 "languages": {
                     "nodes": [

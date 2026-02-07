@@ -292,6 +292,7 @@
 - <https://www.windy.com/> - wind information
 - <https://windfinder.com/> - wind information
 - <https://cartes.app/> - map
+- <https://search-eo-imagery.iconem.com/> - satellite map
 - <https://www.flightradar24.com/> - planes
 - <https://osmand.net/> - offline earth maps
 - <https://ioverlander.com/> - place for travelers
