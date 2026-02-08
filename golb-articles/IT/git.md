@@ -94,3 +94,20 @@ git push --force-with-lease
 ```sh
 GIT_EDITOR=vi git rebase -i HEAD~10
 ```
+
+## Find big object
+
+```sh
+git rev-list --objects --all \
+| git cat-file --batch-check='%(objecttype) %(objectname) %(objectsize) %(rest)' \
+| sed -n 's/^blob //p' \
+| sort --numeric-sort --key=2 \
+| tail -n 10 \
+| cut -c 1-12,41- \
+| $(command -v gnumfmt || echo numfmt) --field=2 --to=iec-i --suffix=B --padding=7 --round=nearest
+
+
+git log --all --find-object=OBJECTID
+```
+
+> <https://stackoverflow.com/a/46085465>
