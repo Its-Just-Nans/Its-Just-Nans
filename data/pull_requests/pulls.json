@@ -10544,9 +10544,9 @@
         "node": {
             "id": "PR_kwDOFPg7gM7B5FUc",
             "number": 28,
-            "title": "fix: handling of ZIP64 extended field",
+            "title": "Check for presence of unexpected entries in the ZIP64 extra field",
             "url": "https://github.com/pmqs/zipdetails/pull/28",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-02-06T03:52:58Z",
             "baseRepository": {
                 "url": "https://github.com/pmqs/zipdetails",
@@ -10612,6 +10612,32 @@
                         {
                             "name": "Rust",
                             "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOOaGaIs7CY3MA",
+            "number": 22,
+            "title": "fix: remove assert causing panic",
+            "url": "https://github.com/gitpatch-rs/gitpatch/pull/22",
+            "state": "OPEN",
+            "createdAt": "2026-02-09T05:43:33Z",
+            "baseRepository": {
+                "url": "https://github.com/gitpatch-rs/gitpatch",
+                "name": "gitpatch",
+                "description": null,
+                "owner": {
+                    "login": "gitpatch-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Nix",
+                            "color": "#7e7eff"
                         }
                     ]
                 }
