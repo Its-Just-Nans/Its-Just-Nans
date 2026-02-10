@@ -144,6 +144,9 @@ command &
 fg # change to foreground
 # pause with CTRL+Z
 bg # sent it to background
+
+# list processes
+jobs
 ```
 
 ## `tar` and `untar`

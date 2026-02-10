@@ -5,6 +5,10 @@ description: Linux network commands
 keywords: network, linux, commands
 ---
 
+## Links
+
+- <https://www.wireshark.org/>
+
 ## IPs
 
 Args of `ip` (before the action command)
@@ -28,6 +32,48 @@ ip address add 10.0.0.1/24 dev eth0
 ip link set eth0 up
 ```
 
+## Utils file
+
+```sh
+# IPv4 addresses:
+cat /proc/net/fib_trie
+
+# hex-encoded port data:
+cat /proc/net/tcp
+
+# ARP
+cat /proc/net/arp
+```
+
+## Custom host resolution
+
+You will need first need to ensure that the file `/etc/nsswitch.conf` is created
+
+```txt
+# /etc/nsswitch.conf
+
+hosts:          files dns
+networks:       files
+```
+
+Then you can create and use the file `/etc/hosts` to do a custom host resolution
+
+```txt
+# /etc/hosts
+127.0.0.1       localhost
+::1             localhost ip6-localhost ip6-loopback
+192.168.1.45    my_server
+```
+
+## Get network packets
+
+```sh
+# as root
+tcpdump -i any
+```
+
+> <https://www.youtube.com/watch?v=hWc-ddF5g1I>
+
 ## Linux network namespaces
 
 ```sh
@@ -49,7 +95,8 @@ ip netns exec red bash
 ## Bridges
 
 ```sh
-sudo apt install bridge-utils
+# need root
+apt install bridge-utils
 
 # create new interface NEW_INTERFACE
 tunctl -u user -t NEW_INTERFACE
