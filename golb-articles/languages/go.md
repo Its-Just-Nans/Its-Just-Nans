@@ -3,7 +3,7 @@ title: Go
 sidebar_name: Go lang
 ---
 
-## Utils
+## Links
 
 - <https://goreportcard.com/>
 
