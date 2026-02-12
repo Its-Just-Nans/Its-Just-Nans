@@ -10208,7 +10208,7 @@
             "number": 59,
             "title": "fix: remove impl for for `Cow<'_, str>`",
             "url": "https://github.com/chipsenkbeil/typed-path/pull/59",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2026-01-28T03:37:25Z",
             "baseRepository": {
                 "url": "https://github.com/chipsenkbeil/typed-path",
@@ -10638,6 +10638,58 @@
                         {
                             "name": "Nix",
                             "color": "#7e7eff"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7C5wA1",
+            "number": 646,
+            "title": "fix: Revert change to `data_start` return type",
+            "url": "https://github.com/zip-rs/zip2/pull/646",
+            "state": "CLOSED",
+            "createdAt": "2026-02-11T03:40:38Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOPDMYxs7C6ob9",
+            "number": 88,
+            "title": "fix: pin crc version to 3.2",
+            "url": "https://github.com/hasenbanck/lzma-rust2/pull/88",
+            "state": "MERGED",
+            "createdAt": "2026-02-11T05:51:59Z",
+            "baseRepository": {
+                "url": "https://github.com/hasenbanck/lzma-rust2",
+                "name": "lzma-rust2",
+                "description": "LZMA / LZMA2 in native Rust",
+                "owner": {
+                    "login": "hasenbanck"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
                         }
                     ]
                 }
