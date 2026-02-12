@@ -114,3 +114,13 @@ brctl show
 
 ifconfig BRIDGE up
 ```
+
+## Network-Manager
+
+- <https://networkmanager.dev/>
+
+```sh
+nmcli device status
+
+nmcli dev set INTERFACE managed no
+```
