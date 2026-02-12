@@ -103,16 +103,6 @@ slock
 aspell -l en -c file.txt
 ```
 
-## Utils
-
-```sh
-# IPv4 addresses:
-cat /proc/net/fib_trie
-
-# hex-encoded port data:
-cat /proc/net/tcp
-```
-
 ## Using `su` on Linux (Debian)
 
 The `su` command allows you to switch users for the duration of a session (after entering the password, if there is one). To use it, type:
@@ -233,26 +223,6 @@ passwd
 # enter new password
 ```
 
-## Custom host resolution
-
-You will need first need to ensure that the file `/etc/nsswitch.conf` is created
-
-```txt
-# /etc/nsswitch.conf
-
-hosts:          files dns
-networks:       files
-```
-
-Then you can create and use the file `/etc/hosts` to do a custom host resolution
-
-```txt
-# /etc/hosts
-127.0.0.1       localhost
-::1             localhost ip6-localhost ip6-loopback
-192.168.1.45    my_server
-```
-
 ## Share files
 
 - <https://www.commandlinefu.com/commands/view/9589/create-a-file-server-listening-in-port-7000>
@@ -270,15 +240,6 @@ tar c myfile | nc localhost 7000
 # Send directory mydir to server
 tar c mydir | nc localhost 7000
 ```
-
-## Get network packets
-
-```sh
-# as root
-tcpdump -i any
-```
-
-> <https://www.youtube.com/watch?v=hWc-ddF5g1I>
 
 ## Check links in file
 

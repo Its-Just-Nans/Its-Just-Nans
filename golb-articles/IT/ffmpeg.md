@@ -93,3 +93,10 @@ ffmpeg -i input.mp4 -vf "fps=10,scale=320:-1:flags=lanczos,split[s0][s1];[s0]pal
 # 100 colors
 ffmpeg -i input.mp4 -vf "fps=10,scale=720:-1:flags=neighbor,split[s0][s1];[s0]palettegen=max_colors=100[p];[s1][p]paletteuse=dither=none" -loop 0 output.gif
 ```
+
+## Record screen
+
+```sh
+xhost +local:
+ffmpeg -f x11grab -framerate 25 -video_size 1024x768 -i $DISPLAY+100,200 output.mp4
+```

@@ -3,6 +3,10 @@ title: C++
 sidebar_name: C++
 ---
 
+## Links
+
+- <https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines>
+
 ## `cmake`
 
 ### Start `cmake` folder

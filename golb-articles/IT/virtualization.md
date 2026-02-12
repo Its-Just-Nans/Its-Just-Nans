@@ -7,6 +7,7 @@ title: Virtualization
 - [https://wiki.debian.org/KVM](https://wiki.debian.org/KVM)
 
 ```sh
+# need root
 apt install qemu-system libvirt-daemon-system
 adduser $USER libvirt
 apt install virt-manager # nice GUI

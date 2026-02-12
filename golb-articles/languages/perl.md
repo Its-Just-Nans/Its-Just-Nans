@@ -7,7 +7,8 @@ title: Perl
 ```perl
 #!/usr/bin/perl
 
-# sudo cpan install Perl::Critic
+# as root
+# cpan install Perl::Critic
 
 use Perl::Critic;
 my $file = shift;
