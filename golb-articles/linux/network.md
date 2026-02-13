@@ -17,6 +17,7 @@ Args of `ip` (before the action command)
 - `-j`: json output
 - `-j -p`: json indented output
 - `-d`: display more information
+- `-o`: oneline (useful for piping)
 
 | Command `net-tools` | Command `iproute2` | Description             |
 | ------------------- | ------------------ | ----------------------- |
