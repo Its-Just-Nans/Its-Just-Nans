@@ -289,6 +289,7 @@
 - <https://sailboat.guide/> - sailboat guide
 - <https://www.loisirs-nautic.fr/> - french boat license training
 - <https://appchart.c-map.com/> - map for boat
+- <https://www.arcgis.com/apps/dashboards/fe88b5e18c6443c7afaf6e32f8432687> - Sunken Ships of the Second World War
 - <https://www.windy.com/> - wind information
 - <https://windfinder.com/> - wind information
 - <https://cartes.app/> - map
