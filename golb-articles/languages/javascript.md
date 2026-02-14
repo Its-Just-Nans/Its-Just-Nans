@@ -31,10 +31,16 @@ Here is some great `npx` commands
 ```sh
 npx npm-check-updates
 
-npx unimported
+bunx knip --production --dependencies --files
 
 npm outdated
 ```
+
+> - <https://www.npmjs.com/package/npm-check-updates>
+> - <https://knip.dev/explanations/comparison-and-migration#unimported>
+> - <https://www.npmjs.com/package/outdated>
+
+### Combine packages
 
 ```bash
 npx -p lolcatjs -p cowsay -c 'echo hello | cowsay | lolcatjs'
@@ -174,4 +180,17 @@ async function processWithPool(items, task, concurrency = 10) {
     await Promise.all(workers);
     return results;
 }
+```
+
+## Typescript
+
+```ts
+// prefer
+const arrayVar: Array<string> = ["1", "2"]
+// over
+const arrayVar2: string[] = ["1", "2"]
+
+// object
+const obj: { [k: string]: string } = { test: '1' }
+const obj2: Record<string, string> = { test: '1' }
 ```
