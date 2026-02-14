@@ -11,6 +11,8 @@ Moved to <https://n4n5.dev/articles/work-with-apk/>
 ```sh
 sudo waydroid init
 waydroid session start
+waydroid app install app.apk
+
 waydroid show-full-ui
 
 # stop
