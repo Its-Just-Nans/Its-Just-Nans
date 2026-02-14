@@ -1,6 +1,6 @@
 {
-    "github.com/Its-Just-Nans/Its-Just-Nans": 45517,
-    "github.com/Its-Just-Nans/Its-Just-Nans.github.io": 25049,
+    "github.com/Its-Just-Nans/Its-Just-Nans": 45500,
+    "github.com/Its-Just-Nans/Its-Just-Nans.github.io": 25067,
     "github.com/Its-Just-Nans/anrt-checker": 77,
     "github.com/Its-Just-Nans/apksig": 8678,
     "github.com/Its-Just-Nans/arduino-led-matrix": 17417,
@@ -9,7 +9,7 @@
     "github.com/Its-Just-Nans/astro-index": 503,
     "github.com/Its-Just-Nans/astro-simple-carousel": 74,
     "github.com/Its-Just-Nans/baobab": 135,
-    "github.com/Its-Just-Nans/bladvak": 247,
+    "github.com/Its-Just-Nans/bladvak": 289,
     "github.com/Its-Just-Nans/businessfrance-checker": 9,
     "github.com/Its-Just-Nans/can-be-useful": 143440,
     "github.com/Its-Just-Nans/cors-proxy": 25,
@@ -34,7 +34,7 @@
     "github.com/Its-Just-Nans/gitlab-proof": 0,
     "github.com/Its-Just-Nans/go-calendar": 32,
     "github.com/Its-Just-Nans/go-simple-uploader": 7,
-    "github.com/Its-Just-Nans/golb": 6287,
+    "github.com/Its-Just-Nans/golb": 6290,
     "github.com/Its-Just-Nans/hangman-game": 206,
     "github.com/Its-Just-Nans/indexage": 35,
     "github.com/Its-Just-Nans/jscontact": 166,
@@ -65,6 +65,6 @@
     "github.com/Its-Just-Nans/termpic": 211,
     "github.com/Its-Just-Nans/tiny-todo": 11,
     "github.com/Its-Just-Nans/whatisthis": 154,
-    "github.com/Its-Just-Nans/wombat": 337,
-    "github.com/Its-Just-Nans/yakb": 2190
+    "github.com/Its-Just-Nans/wombat": 379,
+    "github.com/Its-Just-Nans/yakb": 2196
 }
