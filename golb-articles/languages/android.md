@@ -6,6 +6,23 @@ title: Android
 
 Moved to <https://n4n5.dev/articles/work-with-apk/>
 
+## Waydroid
+
+```sh
+sudo waydroid init
+waydroid session start
+waydroid show-full-ui
+
+# stop
+waydroid session stop
+
+# if you are running x11, use weston to have wayland interface
+weston --socket=mysocket
+# then do the command inside the weston terminal
+```
+
+> <https://docs.waydro.id/usage/install-on-desktops>
+
 ## Manually install SDK
 
 Choose version
