@@ -10468,7 +10468,7 @@
             "number": 256,
             "title": "Improve crate && fix CI",
             "url": "https://github.com/sharkdp/hexyl/pull/256",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-02-06T02:00:01Z",
             "baseRepository": {
                 "url": "https://github.com/sharkdp/hexyl",
@@ -10494,7 +10494,7 @@
             "number": 257,
             "title": "feat: handle standard input \"-\"",
             "url": "https://github.com/sharkdp/hexyl/pull/257",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-02-06T02:10:58Z",
             "baseRepository": {
                 "url": "https://github.com/sharkdp/hexyl",
@@ -10598,7 +10598,7 @@
             "number": 639,
             "title": "feat: document zip flags as enum",
             "url": "https://github.com/zip-rs/zip2/pull/639",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-02-07T16:57:27Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -10684,6 +10684,32 @@
                 "description": "LZMA / LZMA2 in native Rust",
                 "owner": {
                     "login": "hasenbanck"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7Ds-Ch",
+            "number": 660,
+            "title": "DRAFT: feat: add system for FileOption",
+            "url": "https://github.com/zip-rs/zip2/pull/660",
+            "state": "OPEN",
+            "createdAt": "2026-02-14T01:08:32Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
                 },
                 "languages": {
                     "nodes": [
