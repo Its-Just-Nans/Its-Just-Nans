@@ -111,3 +111,10 @@ git log --all --find-object=OBJECTID
 ```
 
 > <https://stackoverflow.com/a/46085465>
+
+## Fetch repository on different remote
+
+```sh
+git fetch -u https://codeberg.org/org/repo master:master-local
+git switch master-local
+```
