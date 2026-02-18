@@ -10700,10 +10700,62 @@
         "node": {
             "id": "PR_kwDOJaavgM7Ds-Ch",
             "number": 660,
-            "title": "DRAFT: feat: add system for FileOption",
+            "title": "feat: add system to FileOption, so byte-for-byte identical archives can be created across platforms",
             "url": "https://github.com/zip-rs/zip2/pull/660",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-02-14T01:08:32Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7EPsYX",
+            "number": 674,
+            "title": "test(ci): enforce clippy in CI",
+            "url": "https://github.com/zip-rs/zip2/pull/674",
+            "state": "MERGED",
+            "createdAt": "2026-02-17T03:30:12Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7EgEuc",
+            "number": 680,
+            "title": "feat: allow custom salt",
+            "url": "https://github.com/zip-rs/zip2/pull/680",
+            "state": "OPEN",
+            "createdAt": "2026-02-18T02:17:16Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
                 "name": "zip2",
