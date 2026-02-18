@@ -18,6 +18,14 @@ except Exception as exception:
 
 > <https://stackoverflow.com/a/18176682>
 
+## Check if python2
+
+```python
+import sys
+
+_IS_PY2 = sys.version_info[0] < 3
+```
+
 ## Super easy multiprocess
 
 ```python
