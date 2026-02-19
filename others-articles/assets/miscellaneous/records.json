@@ -377,5 +377,13 @@
         ],
         "name": "Cantina - creperie",
         "date": "2025-03-29"
+    },
+    {
+        "type": "place",
+        "coords": [
+            48.5937084,
+            7.7661097
+        ],
+        "name": "Arte"
     }
 ]
