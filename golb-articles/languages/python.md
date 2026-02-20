@@ -103,6 +103,16 @@ python -m http.server
 python -m json.tool file.json
 ```
 
+## Base64
+
+```sh
+# encode
+python -m base64 -e file.txt
+
+# decode
+python -m base64 -d file.b64
+```
+
 ## Pip config
 
 Location:
