@@ -104,6 +104,10 @@ cargo shear # https://github.com/Boshen/cargo-shear
 # <https://github.com/nabijaczleweli/cargo-update>
 cargo install cargo-update
 cargo install-update -a
+
+# cargo expand
+# if you have a src/write.rs which contains macro
+cargo expand --lib write > expanded.rs
 ```
 
 ## uutils
