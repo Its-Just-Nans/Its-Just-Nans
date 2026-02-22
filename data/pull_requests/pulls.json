@@ -10780,7 +10780,7 @@
             "number": 682,
             "title": "fix: handle extra field padding",
             "url": "https://github.com/zip-rs/zip2/pull/682",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-02-20T05:19:11Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -10794,6 +10794,84 @@
                         {
                             "name": "Rust",
                             "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7FXMQI",
+            "number": 686,
+            "title": "fix: allow aes password as bytes",
+            "url": "https://github.com/zip-rs/zip2/pull/686",
+            "state": "MERGED",
+            "createdAt": "2026-02-21T18:38:34Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7FYQVq",
+            "number": 689,
+            "title": "style: Remove macros",
+            "url": "https://github.com/zip-rs/zip2/pull/689",
+            "state": "OPEN",
+            "createdAt": "2026-02-21T21:19:07Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOEw9yEM7FgSFw",
+            "number": 7156,
+            "title": "fix: use correct type",
+            "url": "https://github.com/maplibre/maplibre-gl-js/pull/7156",
+            "state": "MERGED",
+            "createdAt": "2026-02-22T20:11:05Z",
+            "baseRepository": {
+                "url": "https://github.com/maplibre/maplibre-gl-js",
+                "name": "maplibre-gl-js",
+                "description": "MapLibre GL JS - Interactive vector tile maps in the browser",
+                "owner": {
+                    "login": "maplibre"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "JavaScript",
+                            "color": "#f1e05a"
                         }
                     ]
                 }
