@@ -300,6 +300,7 @@
 - <https://travelboast.com/> - show people your trip
 - <https://carto.tchoo.net/> - train map
 - <https://opendatamap.fr/> - useful maps
+- <https://dr-cos.info/> - sewing patterns
 - <https://www.carcarekiosk.com/> - car stuff
 - <https://www.startmycar.com/> - car stuff
 - <https://www.geohints.com/> - geolocation
