@@ -113,6 +113,16 @@ python -m base64 -e file.txt
 python -m base64 -d file.b64
 ```
 
+## Zip
+
+```sh
+# create zip archive
+python -m zipfile -c archive.zip file1.txt file2.txt
+
+# extract zip archive
+python -m zipfile -e archive.zip output_dir
+```
+
 ## Pip config
 
 Location:
