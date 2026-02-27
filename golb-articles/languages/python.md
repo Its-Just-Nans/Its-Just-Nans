@@ -123,6 +123,14 @@ python -m zipfile -c archive.zip file1.txt file2.txt
 python -m zipfile -e archive.zip output_dir
 ```
 
+## venv
+
+```sh
+python -m venv my_venv
+
+source my_venv/bin/activate
+```
+
 ## Pip config
 
 Location:
