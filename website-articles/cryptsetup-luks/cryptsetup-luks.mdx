@@ -73,5 +73,12 @@ sudo cryptsetup lucksOpen /dev/sdX mapped
 
 # mount the disk to mount point
 sudo mount /dev/mapper/mapped DISK
+
+# do things
+
+# umount
+sudo umount DISK
+# close
+sudo cryptsetup luksClose mapped
 ```
 
