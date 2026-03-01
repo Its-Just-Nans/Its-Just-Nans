@@ -30,6 +30,10 @@ cargo clippy --all-targets --all-features -- -D warnings
 
 # timings build
 cargo build --timings
+
+# list installed packages
+cargo install --list
+cargo install --root .cargo/ --list
 ```
 
 ## Default `lib.rs`
