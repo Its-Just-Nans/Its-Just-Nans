@@ -59,3 +59,19 @@ import { Code } from "astro/components";
 <Input values={values}>
     <Code lang="sh" code={script} />
 </Input>
+
+
+## Test mount
+
+```sh
+apt install cryptsetup
+# create mountpoint
+mkdir -p DISK
+
+# map the disk - need password
+sudo cryptsetup lucksOpen /dev/sdX mapped
+
+# mount the disk to mount point
+sudo mount /dev/mapper/mapped DISK
+```
+
