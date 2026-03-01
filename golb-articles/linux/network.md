@@ -125,3 +125,10 @@ nmcli device status
 
 nmcli dev set INTERFACE managed no
 ```
+
+## Wifi interfaces
+
+```sh
+# see the interfaces
+iw dev
+```
