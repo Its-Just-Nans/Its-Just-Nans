@@ -35,6 +35,15 @@ G
 - `ro`: replace current letter by `o`
 - `dd`: delete and copy line
 
+## Selection
+
+- `v`: select inside line (complete with `h` or `l`)
+- `V`: select lines (complete with `j` or `k`)
+
+## Search
+
+- `/SEARCH`: then `Enter` then `N` (previous) and `n` (next)
+
 ## Files
 
 ```vim

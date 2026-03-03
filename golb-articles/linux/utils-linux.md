@@ -263,3 +263,17 @@ while true; do inotifywait -r -e MODIFY . && ls .; done
 ```sh
 fc-list
 ```
+
+## Change GRUB settings
+
+```sh
+# update grub config - needs root
+vi /etc/default/grub
+
+# in the file - for example add a background image
+# note that the image format is important
+GRUB_BACKGROUND=/etc/default/back.png
+
+# update grub - needs root
+update-grub
+```
