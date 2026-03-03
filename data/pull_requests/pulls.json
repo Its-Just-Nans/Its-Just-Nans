@@ -10518,9 +10518,9 @@
         "node": {
             "id": "PR_kwDOJaavgM7B4tIs",
             "number": 629,
-            "title": "DRAFT: fix: zip64 central header",
+            "title": "fix: zip64 central header (issue 617)",
             "url": "https://github.com/zip-rs/zip2/pull/629",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-02-06T03:11:37Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -10754,7 +10754,7 @@
             "number": 680,
             "title": "feat: allow custom salt",
             "url": "https://github.com/zip-rs/zip2/pull/680",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-02-18T02:17:16Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -10832,7 +10832,7 @@
             "number": 689,
             "title": "style: Remove macros",
             "url": "https://github.com/zip-rs/zip2/pull/689",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-02-21T21:19:07Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -10866,6 +10866,84 @@
                 "description": "MapLibre GL JS - Interactive vector tile maps in the browser",
                 "owner": {
                     "login": "maplibre"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "JavaScript",
+                            "color": "#f1e05a"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7HBchR",
+            "number": 700,
+            "title": "docs: improve README",
+            "url": "https://github.com/zip-rs/zip2/pull/700",
+            "state": "MERGED",
+            "createdAt": "2026-02-28T16:51:41Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7HNB3z",
+            "number": 705,
+            "title": "test: add test to check len of zip64",
+            "url": "https://github.com/zip-rs/zip2/pull/705",
+            "state": "MERGED",
+            "createdAt": "2026-03-02T00:57:08Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOKVw9ss7HNkn8",
+            "number": 346,
+            "title": "Document icon display issues in FAQ",
+            "url": "https://github.com/yazi-rs/yazi-rs.github.io/pull/346",
+            "state": "MERGED",
+            "createdAt": "2026-03-02T02:21:26Z",
+            "baseRepository": {
+                "url": "https://github.com/yazi-rs/yazi-rs.github.io",
+                "name": "yazi-rs.github.io",
+                "description": "Documentation site for Yazi.",
+                "owner": {
+                    "login": "yazi-rs"
                 },
                 "languages": {
                     "nodes": [
