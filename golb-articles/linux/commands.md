@@ -255,3 +255,10 @@ whereis <command>
 type <command>
 command -v <command>
 ```
+
+## Show pipe bandwidth and progress
+
+```sh
+# pv - pipe viewer
+yes | pv | grep no
+```
