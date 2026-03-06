@@ -10955,5 +10955,57 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7HwAbl",
+            "number": 708,
+            "title": "doc: improve crate documentation",
+            "url": "https://github.com/zip-rs/zip2/pull/708",
+            "state": "OPEN",
+            "createdAt": "2026-03-04T01:05:06Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7IEpAw",
+            "number": 710,
+            "title": "feat: add crc32 ignore option",
+            "url": "https://github.com/zip-rs/zip2/pull/710",
+            "state": "OPEN",
+            "createdAt": "2026-03-05T04:59:26Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
