@@ -285,6 +285,7 @@
 
 - <https://www.vesselfinder.com/> - boat finder
 - <https://www.marinetraffic.com/> - boat finder
+- <https://sdrmap.org> - amateur boat and plane map
 - <https://www.navily.com/> - boat anchorage
 - <https://sailboat.guide/> - sailboat guide
 - <https://www.loisirs-nautic.fr/> - french boat license training
