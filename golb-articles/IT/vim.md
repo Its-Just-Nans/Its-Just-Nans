@@ -9,9 +9,9 @@ keywords: vim, shortcuts
 
 - `h`, `j`, `k`, `l`: move cursor
 - `i`: enter insert mode
-- `ESC`: leave mode
-- `:wq`: write and quit
-- `:q!` quit (force)
+- `ESC`: leave current mode
+- `ESC` + `:wq`: write and quit
+- `ESC` + `:q!`: quit (force)
 
 ## Moving cursor
 
@@ -23,22 +23,43 @@ h j k l
 8j
 # will move 8 line down
 
-# go to last line
-G
-# go to line 5
-5G
+G # go to last line
+gg # go to first line
+5G # go to line 5
+
+
+w  # move to beginning of next word
+b  # move to previous beginning of word
+e  # move to end of word
+W  # move to beginning of next word after a whitespace
+B  # move to beginning of previous word before a whitespace
+E  # move to end of word before a whitespace
+
+0  # move to beginning of line
+$  # move to end of line
+_  # move to first non-blank character of the line
+g_ # move to last non-blank character of the line
 ```
+
+## Insert mode
+
+- `a`: (append) enter instert mode after cursor
 
 ## Shortcuts Normal mode
 
 - `x`: delete character
 - `ro`: replace current letter by `o`
 - `dd`: delete and copy line
+- `yy`: copy (yank) a line
+- `p`: paste after cursor
+- `P`: paste before cursor
 
 ## Selection
 
 - `v`: select inside line (complete with `h` or `l`)
 - `V`: select lines (complete with `j` or `k`)
+- `y`: copy selection
+- `d`: delete selection
 
 ## Search
 
