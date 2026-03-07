@@ -6,6 +6,7 @@
             "state": "MERGED",
             "createdAt": "2026-01-29",
             "baseRepository": {
+                "pullUrl": "https://codeberg.org/cartes/web/pulls?q=&type=all&sort=relevance&state=all&labels=&milestone=0&project=0&assignee=0&poster=178768&archived=false",
                 "url": "https://codeberg.org/cartes/web"
             }
         }

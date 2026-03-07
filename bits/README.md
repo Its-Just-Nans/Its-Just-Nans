@@ -341,6 +341,7 @@
 - <https://csswizardry.com/ct/> - analyze your `<head>`
 - <https://godbolt.org/> - compiler explorer
 - <https://syscalls.mebeim.net> - syscalls
+- <https://syscall.sh/> - syscalls
 - <https://github.com/chriszarate/bookmarkleter> - create bookmarklet
 - <https://osintframework.com/> - OSINT
 - <https://emn178.github.io/online-tools/> - hashing/encoding tools
@@ -405,3 +406,4 @@
 - <https://github.com/gabotechs/dep-tree> - visualize dependencies
 - <https://github.com/Z4nzu/hackingtool> - ALL IN ONE Hacking Tool For Hackers
 - <https://github.com/MatrixTM/MHDDoS> - DDoS Attack Script Python3
+
