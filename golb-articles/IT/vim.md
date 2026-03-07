@@ -87,6 +87,12 @@ CTRL-w l
 1G!Gsort
 ```
 
+## System clipboard
+
+You should have a clipboard util like `xclip` installed
+
+- `"*y`: copy
+- `"*p`: paste
 
 ## Links
 
