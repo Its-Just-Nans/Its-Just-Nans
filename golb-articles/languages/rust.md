@@ -112,6 +112,8 @@ cargo install-update -a
 # cargo expand
 # if you have a src/write.rs which contains macro
 cargo expand --lib write > expanded.rs
+
+cargo-nextest
 ```
 
 ## uutils
