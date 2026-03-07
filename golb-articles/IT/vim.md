@@ -43,7 +43,7 @@ g_ # move to last non-blank character of the line
 
 ## Insert mode
 
-- `a`: (append) enter instert mode after cursor
+- `a`: (append) enter insert mode after cursor
 
 ## Shortcuts Normal mode
 
