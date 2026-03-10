@@ -330,3 +330,14 @@ if cfg!(feature = "my_feature") {
 ```
 
 > <https://doc.rust-lang.org/rust-by-example/attribute/cfg.html>
+
+## Cell types
+
+| Single-threaded (std) | Multi-threaded (std) `Sync` | Purpose                                          |
+| --------------------- | --------------------------- | ------------------------------------------------ |
+| `Rc<T>`               | `Arc<T>`                    | Reference counting shared ownership              |
+| `RefCell<T>`          | `RwLock<T>`                 | Interior mutability with runtime borrow checking |
+| `Cell<T>`             | `Mutex<T>`                  | Interior mutability for simple values            |
+| `OnceCell<T>`         | `OnceLock<T>`               | Write once, read many initialization             |
+| `LazyCell<T>`         | `LazyLock<T>`               | Lazy initialization on first access              |
+
