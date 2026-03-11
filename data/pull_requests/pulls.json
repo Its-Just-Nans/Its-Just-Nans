@@ -11007,5 +11007,213 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7Ipo0-",
+            "number": 712,
+            "title": "feat: path related code in single file",
+            "url": "https://github.com/zip-rs/zip2/pull/712",
+            "state": "MERGED",
+            "createdAt": "2026-03-07T03:01:34Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7IrP68",
+            "number": 713,
+            "title": "feat: improve and fix extended timestamp extra field parsing",
+            "url": "https://github.com/zip-rs/zip2/pull/713",
+            "state": "OPEN",
+            "createdAt": "2026-03-07T06:33:44Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOFPg7gM7Iuk0T",
+            "number": 29,
+            "title": "feat: add & symbol",
+            "url": "https://github.com/pmqs/zipdetails/pull/29",
+            "state": "MERGED",
+            "createdAt": "2026-03-07T14:56:15Z",
+            "baseRepository": {
+                "url": "https://github.com/pmqs/zipdetails",
+                "name": "zipdetails",
+                "description": "zipdetails - Display details about the internal structure of Zip files.",
+                "owner": {
+                    "login": "pmqs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Perl",
+                            "color": "#0298c3"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOQfZXqs7IwuBy",
+            "number": 12,
+            "title": "change zip read",
+            "url": "https://github.com/Marcel-Scherzinger/scratch-test-model/pull/12",
+            "state": "CLOSED",
+            "createdAt": "2026-03-07T20:02:20Z",
+            "baseRepository": {
+                "url": "https://github.com/Marcel-Scherzinger/scratch-test-model",
+                "name": "scratch-test-model",
+                "description": "Library for reading the blocks of a Scratch program from a sb3 file",
+                "owner": {
+                    "login": "Marcel-Scherzinger"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7I4PpU",
+            "number": 714,
+            "title": "refactor: reorganize code",
+            "url": "https://github.com/zip-rs/zip2/pull/714",
+            "state": "OPEN",
+            "createdAt": "2026-03-08T17:12:01Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7JICdX",
+            "number": 717,
+            "title": "fix: zip64 extended information",
+            "url": "https://github.com/zip-rs/zip2/pull/717",
+            "state": "OPEN",
+            "createdAt": "2026-03-09T16:33:25Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOB_zxBs7JPOPc",
+            "number": 5354,
+            "title": "Add unstage keyword",
+            "url": "https://github.com/jesseduffield/lazygit/pull/5354",
+            "state": "OPEN",
+            "createdAt": "2026-03-10T01:30:08Z",
+            "baseRepository": {
+                "url": "https://github.com/jesseduffield/lazygit",
+                "name": "lazygit",
+                "description": "simple terminal UI for git commands",
+                "owner": {
+                    "login": "jesseduffield"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Go",
+                            "color": "#00ADD8"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOAAsO6M7JPzVi",
+            "number": 153633,
+            "title": "feat: improve `Cell` doc",
+            "url": "https://github.com/rust-lang/rust/pull/153633",
+            "state": "OPEN",
+            "createdAt": "2026-03-10T02:37:29Z",
+            "baseRepository": {
+                "url": "https://github.com/rust-lang/rust",
+                "name": "rust",
+                "description": "Empowering everyone to build reliable and efficient software.",
+                "owner": {
+                    "login": "rust-lang"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Makefile",
+                            "color": "#427819"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
