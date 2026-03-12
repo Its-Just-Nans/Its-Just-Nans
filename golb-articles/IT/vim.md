@@ -112,8 +112,10 @@ CTRL-w l
 
 You should have a clipboard util like `xclip` installed
 
-- `"*y`: copy
-- `"*p`: paste
+- `"*y`: copy on mouse clipboard
+- `"*p`: paste on mouse clipboard
+- `"+y`: copy on system clipboard
+- `"+p`: paste on system clipboard
 
 ## Links
 
