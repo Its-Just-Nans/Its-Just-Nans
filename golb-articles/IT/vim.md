@@ -117,6 +117,19 @@ You should have a clipboard util like `xclip` installed
 - `"+y`: copy on system clipboard
 - `"+p`: paste on system clipboard
 
+## Registers
+
+- The unnamed register `""`
+- The numbered registers `"0-9`
+- The small delete register `"-`
+- The named registers `"a` `"b`..`"z`
+- The read-only registers `":` `".` `"%`
+- The alternate file register `"#`
+- The expression register `"=`
+- The selection registers `"*` and `"+`
+- The black hole register `"_`
+- The last search pattern register `"/`
+
 ## Links
 
 - <https://stackoverflow.com/a/1220118>
