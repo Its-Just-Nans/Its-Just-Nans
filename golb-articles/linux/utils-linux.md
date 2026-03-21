@@ -41,6 +41,8 @@ fdisk /dev/sdx
 
 ```sh
 mkfs.vfat /dev/sdx1
+mkfs.ext4 /dev/sdx1
+mkfs.ntfs /dev/sdx1
 ```
 
 ## Use dd to copy an ISO
