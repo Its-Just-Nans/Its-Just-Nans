@@ -7769,7 +7769,7 @@
             "baseRepository": {
                 "url": "https://github.com/typst-jp/docs",
                 "name": "docs",
-                "description": "Typst Documentationのコミュニティ主導による日本語版",
+                "description": "Typst Documentation 日本語版",
                 "owner": {
                     "login": "typst-jp"
                 },
@@ -7821,7 +7821,7 @@
             "baseRepository": {
                 "url": "https://github.com/typst-jp/docs",
                 "name": "docs",
-                "description": "Typst Documentationのコミュニティ主導による日本語版",
+                "description": "Typst Documentation 日本語版",
                 "owner": {
                     "login": "typst-jp"
                 },
@@ -7847,7 +7847,7 @@
             "baseRepository": {
                 "url": "https://github.com/typst-jp/docs",
                 "name": "docs",
-                "description": "Typst Documentationのコミュニティ主導による日本語版",
+                "description": "Typst Documentation 日本語版",
                 "owner": {
                     "login": "typst-jp"
                 },
@@ -7873,7 +7873,7 @@
             "baseRepository": {
                 "url": "https://github.com/typst-jp/docs",
                 "name": "docs",
-                "description": "Typst Documentationのコミュニティ主導による日本語版",
+                "description": "Typst Documentation 日本語版",
                 "owner": {
                     "login": "typst-jp"
                 },
@@ -11040,7 +11040,7 @@
             "number": 713,
             "title": "feat: improve and fix extended timestamp extra field parsing",
             "url": "https://github.com/zip-rs/zip2/pull/713",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-03-07T06:33:44Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -11144,7 +11144,7 @@
             "number": 717,
             "title": "fix: Malformed ZIP64 file output (#715)",
             "url": "https://github.com/zip-rs/zip2/pull/717",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-03-09T16:33:25Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -11248,7 +11248,7 @@
             "number": 725,
             "title": "refactor: improve part of the code with clippy help",
             "url": "https://github.com/zip-rs/zip2/pull/725",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-03-15T16:13:36Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -11300,8 +11300,216 @@
             "number": 727,
             "title": "feat: add must_use",
             "url": "https://github.com/zip-rs/zip2/pull/727",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-03-15T23:57:31Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7LbJOn",
+            "number": 730,
+            "title": "refactor: remove useless magic in struct",
+            "url": "https://github.com/zip-rs/zip2/pull/730",
+            "state": "OPEN",
+            "createdAt": "2026-03-18T05:14:42Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7LbMvz",
+            "number": 731,
+            "title": "refactor: move stream code to `src/read/stream.rs`",
+            "url": "https://github.com/zip-rs/zip2/pull/731",
+            "state": "MERGED",
+            "createdAt": "2026-03-18T05:20:29Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7LbjnN",
+            "number": 732,
+            "title": "refactor: remove zip64 extra field update",
+            "url": "https://github.com/zip-rs/zip2/pull/732",
+            "state": "MERGED",
+            "createdAt": "2026-03-18T05:50:27Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7Lo5mb",
+            "number": 733,
+            "title": "refactor: move code to distinct file (datetime, FixedSizeBlock)",
+            "url": "https://github.com/zip-rs/zip2/pull/733",
+            "state": "MERGED",
+            "createdAt": "2026-03-18T19:01:15Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7LuD6T",
+            "number": 734,
+            "title": "refactor: refactor some imports",
+            "url": "https://github.com/zip-rs/zip2/pull/734",
+            "state": "MERGED",
+            "createdAt": "2026-03-19T02:04:45Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7MCaWG",
+            "number": 735,
+            "title": "refactor: update tests to add big endian miri check",
+            "url": "https://github.com/zip-rs/zip2/pull/735",
+            "state": "MERGED",
+            "createdAt": "2026-03-20T04:20:52Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7MCn6K",
+            "number": 736,
+            "title": "refactor: use `AexEncryption::new`",
+            "url": "https://github.com/zip-rs/zip2/pull/736",
+            "state": "MERGED",
+            "createdAt": "2026-03-20T04:44:42Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7MS1gp",
+            "number": 743,
+            "title": "chore: cleanup repository files",
+            "url": "https://github.com/zip-rs/zip2/pull/743",
+            "state": "MERGED",
+            "createdAt": "2026-03-21T01:23:23Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
                 "name": "zip2",
