@@ -44,6 +44,8 @@ g_ # move to last non-blank character of the line
 ## Insert mode
 
 - `a`: (append) enter insert mode after cursor
+- `u`: undo
+- `CTRL` + `r`: undo undo
 
 ## Shortcuts Normal mode
 
