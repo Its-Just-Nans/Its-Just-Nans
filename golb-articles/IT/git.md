@@ -5,10 +5,42 @@ description: GIT commands
 keywords: git, github, gitlab
 ---
 
+## Useful git commands
+
+```sh
+git add -p
+
+git commit -v
+
+git push --force-with-lease
+```
+
+> <https://dimtion.fr/blog/average-engineer-tips/>
+
+## GIT config
+
+```sh
+# show the config
+git config --list --global
+
+# change the config
+git config --global user.name "n4n5"
+```
+
 ## Submodules
 
 ```sh
 git submodule update --recursive --init
+```
+
+## Sometimes useful GIT commands
+
+```sh
+# commits stats
+git shortlog -sn
+
+# empty commit (useful to trigger CI)
+git commit --allow-empty -m "Trigger CI"
 ```
 
 ## Reset history of a repo
@@ -23,29 +55,13 @@ git push -f origin master  # Force push master branch to github
 git gc --aggressive --prune=all     # remove the old files
 ```
 
-> - [https://stackoverflow.com/a/13102849](https://stackoverflow.com/a/13102849)
+> - <https://stackoverflow.com/a/13102849>
 
 ## See public ssh keys
 
 ```url
 https://github.com/USERNAME.keys
 https://gitlab.com/USERNAME.keys
-```
-
-## GIT config
-
-```sh
-# show the config
-git config --list --global
-
-# change the config
-git config --global user.name "n4n5"
-```
-
-## Commits stats
-
-```sh
-git shortlog -sn
 ```
 
 ## pre-commit
@@ -76,18 +92,6 @@ changeCommitDate() {
   printf 'DAT=$(date --date "%s days ago" -R) GIT_AUTHOR_DATE=$DAT GIT_COMMITTER_DATE=$DAT git commit -m "message"\n' "$VARIABLE"
 }
 ```
-
-## Useful git commands
-
-```sh
-git add -p
-
-git commit -v
-
-git push --force-with-lease
-```
-
-> <https://dimtion.fr/blog/average-engineer-tips/>
 
 ## Rebase
 
