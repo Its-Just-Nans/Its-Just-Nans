@@ -319,6 +319,7 @@
 ## tools
 
 - <https://ceph.io/> - distributed storage
+- <https://gifcap.dev/> - record your browser as GIF
 - <https://www.veripool.org/verilator/> - verilog simulator
 - <https://www.yoctoproject.org/> - create custom linux distro
 - <https://www.openembedded.org/>
