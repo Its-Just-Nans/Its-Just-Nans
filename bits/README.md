@@ -333,6 +333,7 @@
 - <https://github.com/mborgerson/gdbstub> - debugging
 - <https://falstad.com/circuit/> - electronic circuit simulator
 - <https://whatsmyname.app/> - search username on many platforms
+- <https://privacytests.org/> - web browser privacy comparison
 - <https://libredirect.github.io/> - use alternative privacy-friendly website
 - <https://selfh.st/apps/> - self hosted apps
 - <https://www.elm-chan.org/fsw/tjpgd/00index.html>
