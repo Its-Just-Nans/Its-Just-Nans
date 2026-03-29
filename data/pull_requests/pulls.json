@@ -11787,5 +11787,135 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOEw9yEM7OMWZ2",
+            "number": 7347,
+            "title": "feat: add auto hide compass on neutral values",
+            "url": "https://github.com/maplibre/maplibre-gl-js/pull/7347",
+            "state": "CLOSED",
+            "createdAt": "2026-03-28T00:36:20Z",
+            "baseRepository": {
+                "url": "https://github.com/maplibre/maplibre-gl-js",
+                "name": "maplibre-gl-js",
+                "description": "MapLibre GL JS - Interactive vector tile maps in the browser",
+                "owner": {
+                    "login": "maplibre"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "JavaScript",
+                            "color": "#f1e05a"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOH9mcF87OTxgb",
+            "number": 3156,
+            "title": "feat: remove little endian cfg",
+            "url": "https://github.com/google/zerocopy/pull/3156",
+            "state": "CLOSED",
+            "createdAt": "2026-03-28T20:23:12Z",
+            "baseRepository": {
+                "url": "https://github.com/google/zerocopy",
+                "name": "zerocopy",
+                "description": "Zerocopy makes zero-cost memory manipulation effortless. We write `unsafe` so you don’t have to.",
+                "owner": {
+                    "login": "google"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOAyDP6s7OT64C",
+            "number": 143,
+            "title": "feat: change LowerExp fmt",
+            "url": "https://github.com/VoidStarKat/half-rs/pull/143",
+            "state": "OPEN",
+            "createdAt": "2026-03-28T20:51:33Z",
+            "baseRepository": {
+                "url": "https://github.com/VoidStarKat/half-rs",
+                "name": "half-rs",
+                "description": "Half-precision floating point types f16 and bf16 for Rust.",
+                "owner": {
+                    "login": "VoidStarKat"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7OUemC",
+            "number": 755,
+            "title": "fix: try adding the website to harden runnner",
+            "url": "https://github.com/zip-rs/zip2/pull/755",
+            "state": "CLOSED",
+            "createdAt": "2026-03-28T22:44:04Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7OZGuQ",
+            "number": 758,
+            "title": "chore: cleanup README",
+            "url": "https://github.com/zip-rs/zip2/pull/758",
+            "state": "OPEN",
+            "createdAt": "2026-03-29T15:42:57Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
