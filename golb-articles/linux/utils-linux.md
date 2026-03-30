@@ -279,3 +279,24 @@ GRUB_BACKGROUND=/etc/default/back.png
 # update grub - needs root
 update-grub
 ```
+
+## Enroll MOK (Machine Owner Key) to fix bad shim signature
+
+```sh
+# error: bad shim signature
+# error: you need to load the kernel first
+# press any key to continue ...
+
+# this could means that you have a secure boot enabled
+# and you cannot boot the (example) /dev/sdaX partition
+# as root
+apt install mokutil pesign
+mount /dev/sdaX /mnt
+mokutil --import-hash $(pesign -P -h -i /mnt/boot/vmlinuz_NAME | awk '{ print $1 }')
+# enter a password
+reboot
+# you will be prompted to enroll the key with the same password
+```
+
+> <https://unix.stackexchange.com/a/785233>
+
