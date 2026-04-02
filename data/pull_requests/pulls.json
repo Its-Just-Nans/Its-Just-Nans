@@ -11326,7 +11326,7 @@
             "number": 730,
             "title": "refactor: remove useless magic in struct",
             "url": "https://github.com/zip-rs/zip2/pull/730",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-03-18T05:14:42Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -11586,7 +11586,7 @@
             "number": 747,
             "title": "fix: remove `zip64 comment` and add `zip64 extensible data sector`",
             "url": "https://github.com/zip-rs/zip2/pull/747",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-03-22T21:57:21Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -11898,8 +11898,60 @@
             "number": 758,
             "title": "chore: cleanup README",
             "url": "https://github.com/zip-rs/zip2/pull/758",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-03-29T15:42:57Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDORyk4Fc7PYeHU",
+            "number": 1,
+            "title": "fix units",
+            "url": "https://github.com/lovasoa/tinyzip/pull/1",
+            "state": "OPEN",
+            "createdAt": "2026-04-01T21:13:35Z",
+            "baseRepository": {
+                "url": "https://github.com/lovasoa/tinyzip",
+                "name": "tinyzip",
+                "description": "read zip files without allocating memory in rust",
+                "owner": {
+                    "login": "lovasoa"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7PZVf7",
+            "number": 763,
+            "title": "DRAFT fix: change magic finder to stack buffer",
+            "url": "https://github.com/zip-rs/zip2/pull/763",
+            "state": "OPEN",
+            "createdAt": "2026-04-01T22:23:37Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
                 "name": "zip2",
