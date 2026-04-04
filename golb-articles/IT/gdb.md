@@ -1,5 +1,5 @@
 ---
-title: dbg
+title: gdb
 ---
 
 ## Commands
