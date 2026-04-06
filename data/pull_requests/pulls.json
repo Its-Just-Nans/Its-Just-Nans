@@ -8076,7 +8076,7 @@
             "number": 1,
             "title": "Use CLI args",
             "url": "https://github.com/Engage-Press/typst-docs/pull/1",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-08-20T02:34:46Z",
             "baseRepository": {
                 "url": "https://github.com/Engage-Press/typst-docs",
@@ -11948,9 +11948,9 @@
         "node": {
             "id": "PR_kwDOJaavgM7PZVf7",
             "number": 763,
-            "title": "DRAFT fix: change magic finder to stack buffer",
+            "title": "refactor: change magic finder to stack buffer",
             "url": "https://github.com/zip-rs/zip2/pull/763",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-04-01T22:23:37Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -11964,6 +11964,58 @@
                         {
                             "name": "Rust",
                             "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7QATXe",
+            "number": 764,
+            "title": "refactor: simplify extra field parsing",
+            "url": "https://github.com/zip-rs/zip2/pull/764",
+            "state": "MERGED",
+            "createdAt": "2026-04-05T01:36:39Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDONHaNIM7QP9fu",
+            "number": 127,
+            "title": "fix: README clarify usage of libbzip2-rs in Rust projects",
+            "url": "https://github.com/trifectatechfoundation/libbzip2-rs/pull/127",
+            "state": "MERGED",
+            "createdAt": "2026-04-06T16:03:45Z",
+            "baseRepository": {
+                "url": "https://github.com/trifectatechfoundation/libbzip2-rs",
+                "name": "libbzip2-rs",
+                "description": "An implementation of bzip2 in pure rust",
+                "owner": {
+                    "login": "trifectatechfoundation"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "CMake",
+                            "color": "#DA3434"
                         }
                     ]
                 }
