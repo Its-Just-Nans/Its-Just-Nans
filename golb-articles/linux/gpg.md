@@ -64,4 +64,11 @@ rm -rf private.asc
 gpg --list-secret-keys
 ```
 
+## Forwarding GPG agent
+
+```sh
+ssh -A -R /run/user/1000/gnupg/S.gpg-agent:/run/user/1000/gnupg/S.gpg-agent -o StreamLocalBindUnlink=yes 192.168.1.128
+```
+
+> You may need the public key on the remote
 
