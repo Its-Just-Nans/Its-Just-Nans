@@ -132,6 +132,17 @@ You should have a clipboard util like `xclip` installed
 - The black hole register `"_`
 - The last search pattern register `"/`
 
+## Commands
+
+```
+# to replace
+:%s/toto/tata/g
+
+# to wrap lines
+:set nowrap
+:set wrap
+```
+
 ## Links
 
 - <https://stackoverflow.com/a/1220118>
