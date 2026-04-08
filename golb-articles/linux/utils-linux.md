@@ -300,3 +300,9 @@ reboot
 
 > <https://unix.stackexchange.com/a/785233>
 
+## Check kernel logs
+
+```sh
+tail -F /var/log/kern.log
+```
+
