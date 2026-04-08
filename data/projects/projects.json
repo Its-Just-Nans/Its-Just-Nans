@@ -601,12 +601,14 @@
     {
         "url": "https://github.com/Its-Just-Nans/lemming",
         "name": "lemming",
-        "description": null,
+        "description": "A simple patch editor",
         "stargazerCount": 0,
         "archivedAt": null,
         "homepageUrl": "https://n4n5.dev/lemming/",
         "forkCount": 0,
-        "licenseInfo": null,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
