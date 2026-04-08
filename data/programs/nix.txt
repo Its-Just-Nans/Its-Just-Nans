@@ -1,4 +1,0 @@
-android-studio-stable
-fastfetch
-firefox
-fzf
