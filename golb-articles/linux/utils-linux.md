@@ -300,3 +300,13 @@ reboot
 
 > <https://unix.stackexchange.com/a/785233>
 
+## Check kernel logs
+
+```sh
+tail -F /var/log/kern.log
+
+# with systemd
+journalctl -b0 > journal.txt
+journalctl -b-1 > prevjournal.txt
+```
+
