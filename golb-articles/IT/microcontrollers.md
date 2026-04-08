@@ -1,7 +1,6 @@
 ---
-title: Using Pico and ESP32
+title: Microcontrollers
 date: 2024-01-31
-description: How to upload programs on Pico and ESP32
 ---
 
 ## Raspberry Pico: relp a program with [`rshell`](https://github.com/dhylands/rshell)
