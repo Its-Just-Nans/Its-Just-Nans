@@ -599,6 +599,22 @@
         }
     },
     {
+        "url": "https://github.com/Its-Just-Nans/lemming",
+        "name": "lemming",
+        "description": "A simple patch editor",
+        "stargazerCount": 0,
+        "archivedAt": null,
+        "homepageUrl": "https://n4n5.dev/lemming/",
+        "forkCount": 0,
+        "licenseInfo": {
+            "name": "MIT License"
+        },
+        "primaryLanguage": {
+            "name": "Rust",
+            "color": "#dea584"
+        }
+    },
+    {
         "url": "https://github.com/Its-Just-Nans/lettre-hebdomadaire.github.io",
         "name": "lettre-hebdomadaire.github.io",
         "description": "🌐 - Le site de la LH, en attendant des jours plus heureux",
@@ -1044,8 +1060,8 @@
         "forkCount": 0,
         "licenseInfo": null,
         "primaryLanguage": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
+            "name": "MDX",
+            "color": "#fcb32c"
         }
     },
     {
