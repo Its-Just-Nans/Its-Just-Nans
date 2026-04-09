@@ -67,6 +67,9 @@ gpg --list-secret-keys
 ## Forwarding GPG agent
 
 ```sh
+# sometimes you need to do on the remote
+rm -f /run/user/1000/gnupg/S.gpg-agent*
+
 ssh -A -R /run/user/1000/gnupg/S.gpg-agent:/run/user/1000/gnupg/S.gpg-agent -o StreamLocalBindUnlink=yes 192.168.1.128
 ```
 
