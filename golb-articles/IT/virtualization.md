@@ -19,7 +19,7 @@ apt install virt-manager # nice GUI
 # or you can also edit the config
 EDITOR=nano virsh edit --domain vm_name
 
-# customize an qcow2 - useful for a cloud image
+# customize a qcow2 - useful for a cloud image
 virt-customize -a disk.qcow2 \
   --hostname myvm \
   --root-password password:YourPass
@@ -45,6 +45,7 @@ swapoff -a
 fdisk /dev/vda
     # delete partitions
     # create a new partitions with the same start sector
+    # DONT delete the signature
 partprobe
 resize2fs /dev/vdaNUMBER
 # optionally, if you have a swap partition
