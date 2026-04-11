@@ -310,3 +310,16 @@ journalctl -b0 > journal.txt
 journalctl -b-1 > prevjournal.txt
 ```
 
+## Keyboard setup
+
+```sh
+#list layout
+localectl list-x11-keymap-layouts
+
+# list variant of layout fr
+localectl list-x11-keymap-variants fr
+
+# set variant
+setxkbmap -layout fr -variant nodeadkeys
+```
+
