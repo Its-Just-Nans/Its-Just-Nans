@@ -321,5 +321,8 @@ localectl list-x11-keymap-variants fr
 
 # set variant
 setxkbmap -layout fr -variant nodeadkeys
+
+# to make it permanent
+# edit /etc/default/keyboard
 ```
 
