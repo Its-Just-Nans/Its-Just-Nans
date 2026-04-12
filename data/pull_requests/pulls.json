@@ -12021,5 +12021,187 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBC3Cis7RTcOm",
+            "number": 92595,
+            "title": "Update hydration error documentation with key index issue",
+            "url": "https://github.com/vercel/next.js/pull/92595",
+            "state": "OPEN",
+            "createdAt": "2026-04-10T01:16:28Z",
+            "baseRepository": {
+                "url": "https://github.com/vercel/next.js",
+                "name": "next.js",
+                "description": "The React Framework",
+                "owner": {
+                    "login": "vercel"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "JavaScript",
+                            "color": "#f1e05a"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7Rc7o4",
+            "number": 774,
+            "title": "feat: add `compression not supported` as enum error",
+            "url": "https://github.com/zip-rs/zip2/pull/774",
+            "state": "OPEN",
+            "createdAt": "2026-04-10T12:59:27Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOGcp0M87Rlucf",
+            "number": 2,
+            "title": "Enhance Rust tips with testing binary examples",
+            "url": "https://github.com/marcinjahn/technology-notebook/pull/2",
+            "state": "OPEN",
+            "createdAt": "2026-04-10T23:11:30Z",
+            "baseRepository": {
+                "url": "https://github.com/marcinjahn/technology-notebook",
+                "name": "technology-notebook",
+                "description": "A website with my personal notes on IT technologies",
+                "owner": {
+                    "login": "marcinjahn"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "JavaScript",
+                            "color": "#f1e05a"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7RtKsm",
+            "number": 775,
+            "title": "fix: allow for `[u8]` as filename",
+            "url": "https://github.com/zip-rs/zip2/pull/775",
+            "state": "OPEN",
+            "createdAt": "2026-04-11T21:34:22Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOL_FTVc7RtXxy",
+            "number": 1,
+            "title": "Add explanation for sorting",
+            "url": "https://github.com/junegunn/junegunn.github.io/pull/1",
+            "state": "OPEN",
+            "createdAt": "2026-04-11T22:20:23Z",
+            "baseRepository": {
+                "url": "https://github.com/junegunn/junegunn.github.io",
+                "name": "junegunn.github.io",
+                "description": null,
+                "owner": {
+                    "login": "junegunn"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "HTML",
+                            "color": "#e34c26"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7RtaJU",
+            "number": 776,
+            "title": "refactor: use and simplify is_dir",
+            "url": "https://github.com/zip-rs/zip2/pull/776",
+            "state": "OPEN",
+            "createdAt": "2026-04-11T22:29:44Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7RuERr",
+            "number": 777,
+            "title": "refactor: add non exhaustive and more `pub(crate)`",
+            "url": "https://github.com/zip-rs/zip2/pull/777",
+            "state": "OPEN",
+            "createdAt": "2026-04-12T01:28:15Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
