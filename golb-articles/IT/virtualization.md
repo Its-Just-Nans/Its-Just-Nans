@@ -13,12 +13,24 @@ adduser $USER libvirt
 apt install virt-manager # nice GUI
 ```
 
+## Virsh command
+
+```sh
+# or you can also edit the config
+EDITOR=nano virsh edit --domain vm_name
+
+# customize a qcow2 - useful for a cloud image
+virt-customize -a disk.qcow2 \
+  --hostname myvm \
+  --root-password password:YourPass
+```
+
 ## Resize VM
 
 ```sh
 # should be root
-# edit the config
-EDITOR=nano virsh edit --domain vm_name
+# get the path of the qcow2 disk
+virsh dumpxml --domain debian13 | grep qcow
 
 # resize the disk
 qemu-img resize /path/to/vm.qcow2 +20G
@@ -33,6 +45,7 @@ swapoff -a
 fdisk /dev/vda
     # delete partitions
     # create a new partitions with the same start sector
+    # DONT delete the signature
 partprobe
 resize2fs /dev/vdaNUMBER
 # optionally, if you have a swap partition

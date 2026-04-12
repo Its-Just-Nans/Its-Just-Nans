@@ -69,8 +69,14 @@ gpg --list-secret-keys
 ```sh
 # sometimes you need to do on the remote
 rm -f /run/user/1000/gnupg/S.gpg-agent*
+gpgconf --kill gpg-agent
+gpgconf --launch gpg-agent
+gpgconf --list-dirs agent-socket
 
-ssh -A -R /run/user/1000/gnupg/S.gpg-agent:/run/user/1000/gnupg/S.gpg-agent -o StreamLocalBindUnlink=yes 192.168.1.128
+# add in /etc/ssh/sshd_config
+# StreamLocalBindUnlink yes
+
+ssh -A -R /run/user/1000/gnupg/S.gpg-agent:/run/user/1000/gnupg/S.gpg-agent.extra -o StreamLocalBindUnlink=yes 192.168.1.128
 ```
 
 > You may need the public key on the remote
