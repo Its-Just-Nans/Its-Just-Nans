@@ -12054,7 +12054,7 @@
             "number": 774,
             "title": "feat: add `compression not supported` as enum error",
             "url": "https://github.com/zip-rs/zip2/pull/774",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-04-10T12:59:27Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -12238,6 +12238,32 @@
             "url": "https://github.com/ge3224/ged_io/pull/47",
             "state": "OPEN",
             "createdAt": "2026-04-18T02:54:24Z",
+            "baseRepository": {
+                "url": "https://github.com/ge3224/ged_io",
+                "name": "ged_io",
+                "description": "Parse GEDCOM genealogy files in Rust",
+                "owner": {
+                    "login": "ge3224"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOO38ktM7Txp-2",
+            "number": 49,
+            "title": "Use ignore tag from the ParserConfig",
+            "url": "https://github.com/ge3224/ged_io/pull/49",
+            "state": "OPEN",
+            "createdAt": "2026-04-19T22:53:30Z",
             "baseRepository": {
                 "url": "https://github.com/ge3224/ged_io",
                 "name": "ged_io",
