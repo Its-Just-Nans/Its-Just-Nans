@@ -101,7 +101,7 @@ kill -9 <PID>
 cmd | less
 cmd | more
 
-# for raw inoput mode
+# for raw input mode
 less -R
 ```
 
