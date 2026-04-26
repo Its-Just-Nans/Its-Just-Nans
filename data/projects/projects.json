@@ -604,7 +604,7 @@
         "description": "A simple patch editor",
         "stargazerCount": 0,
         "archivedAt": null,
-        "homepageUrl": "https://n4n5.dev/lemming/",
+        "homepageUrl": "http://lemming.n4n5.dev/",
         "forkCount": 0,
         "licenseInfo": {
             "name": "MIT License"
@@ -936,6 +936,20 @@
         "primaryLanguage": {
             "name": "JavaScript",
             "color": "#f1e05a"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/suricate",
+        "name": "suricate",
+        "description": null,
+        "stargazerCount": 0,
+        "archivedAt": null,
+        "homepageUrl": "http://suricate.n4n5.dev/",
+        "forkCount": 0,
+        "licenseInfo": null,
+        "primaryLanguage": {
+            "name": "Rust",
+            "color": "#dea584"
         }
     },
     {
