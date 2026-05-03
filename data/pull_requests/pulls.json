@@ -12106,7 +12106,7 @@
             "number": 775,
             "title": "fix: allow for `[u8]` as filename",
             "url": "https://github.com/zip-rs/zip2/pull/775",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-04-11T21:34:22Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -12270,6 +12270,162 @@
                 "description": "Parse GEDCOM genealogy files in Rust",
                 "owner": {
                     "login": "ge3224"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOMZyJHc7Tx1Jz",
+            "number": 375,
+            "title": "feat: add colour on empty search",
+            "url": "https://github.com/thomasschafer/scooter/pull/375",
+            "state": "MERGED",
+            "createdAt": "2026-04-19T23:28:04Z",
+            "baseRepository": {
+                "url": "https://github.com/thomasschafer/scooter",
+                "name": "scooter",
+                "description": "Interactive find-and-replace in the terminal",
+                "owner": {
+                    "login": "thomasschafer"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7VISbZ",
+            "number": 789,
+            "title": "refactor: store the file_name_raw only as key (BREAKING)",
+            "url": "https://github.com/zip-rs/zip2/pull/789",
+            "state": "OPEN",
+            "createdAt": "2026-04-23T21:23:32Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7VqlME",
+            "number": 790,
+            "title": "refactor: Remove `ZipFileData` fields",
+            "url": "https://github.com/zip-rs/zip2/pull/790",
+            "state": "OPEN",
+            "createdAt": "2026-04-26T00:53:04Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7Vw7FI",
+            "number": 791,
+            "title": "refactor: Remove useless compressed level",
+            "url": "https://github.com/zip-rs/zip2/pull/791",
+            "state": "OPEN",
+            "createdAt": "2026-04-26T20:09:35Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7Vw7hQ",
+            "number": 792,
+            "title": "refactor: remove macro export",
+            "url": "https://github.com/zip-rs/zip2/pull/792",
+            "state": "OPEN",
+            "createdAt": "2026-04-26T20:10:40Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7Vw85V",
+            "number": 793,
+            "title": "refactor: add non exhaustive to extra fields",
+            "url": "https://github.com/zip-rs/zip2/pull/793",
+            "state": "OPEN",
+            "createdAt": "2026-04-26T20:14:13Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
                 },
                 "languages": {
                     "nodes": [
