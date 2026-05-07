@@ -12546,10 +12546,88 @@
         "node": {
             "id": "PR_kwDOJaavgM7YLEHT",
             "number": 817,
-            "title": "refactor: change vendor_version and allow AES in zip file stream",
+            "title": "refactor: change vendor_version",
             "url": "https://github.com/zip-rs/zip2/pull/817",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-05-04T21:24:38Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7YVQQP",
+            "number": 820,
+            "title": "refactor: allow AES in zip file stream",
+            "url": "https://github.com/zip-rs/zip2/pull/820",
+            "state": "MERGED",
+            "createdAt": "2026-05-05T09:15:23Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7YkLgt",
+            "number": 821,
+            "title": "refactor: update some extra field",
+            "url": "https://github.com/zip-rs/zip2/pull/821",
+            "state": "OPEN",
+            "createdAt": "2026-05-05T22:18:39Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7YtA3Y",
+            "number": 823,
+            "title": "refactor: Allow zip file with data descriptor using `ZipReadOptions`",
+            "url": "https://github.com/zip-rs/zip2/pull/823",
+            "state": "MERGED",
+            "createdAt": "2026-05-06T09:17:43Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
                 "name": "zip2",
