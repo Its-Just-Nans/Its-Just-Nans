@@ -49,3 +49,15 @@ killSSH() {
   while true; do pkill -f "sshd: $USER"; done
 }
 ```
+
+## SSH Config example
+
+```txt
+# ~/.ssh/config
+
+Host myconfigname
+    HostName website.fr
+    User username
+    IdentityFile ~/.ssh/mykey
+```
+
