@@ -132,3 +132,14 @@ nmcli dev set INTERFACE managed no
 # see the interfaces
 iw dev
 ```
+
+## Connect to Wifi
+
+```sh
+# list wifi
+sudo iwlist wlp4s0 scan
+
+# connect
+nmcli dev wifi connect <ssid> password <password>
+```
+
