@@ -326,3 +326,16 @@ setxkbmap -layout fr -variant nodeadkeys
 # edit /etc/default/keyboard
 ```
 
+## Upgrade BIOS
+
+```sh
+# list the devices
+fwupdmgr get-devices
+# refresh the metadata
+fwupdmgr refresh
+# check if we can do upgrade
+fwupdmgr get-updates
+# do the upgrade
+fwupdmgr update
+```
+
