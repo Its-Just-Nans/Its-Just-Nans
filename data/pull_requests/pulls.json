@@ -12210,7 +12210,7 @@
             "number": 46,
             "title": "feat: upgrade packages dependencies",
             "url": "https://github.com/ge3224/ged_io/pull/46",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-04-18T02:31:51Z",
             "baseRepository": {
                 "url": "https://github.com/ge3224/ged_io",
@@ -12236,7 +12236,7 @@
             "number": 47,
             "title": "feat: more clippy lints and fix",
             "url": "https://github.com/ge3224/ged_io/pull/47",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-04-18T02:54:24Z",
             "baseRepository": {
                 "url": "https://github.com/ge3224/ged_io",
@@ -12262,7 +12262,7 @@
             "number": 49,
             "title": "Use ignore tag from the ParserConfig",
             "url": "https://github.com/ge3224/ged_io/pull/49",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2026-04-19T22:53:30Z",
             "baseRepository": {
                 "url": "https://github.com/ge3224/ged_io",
@@ -12600,7 +12600,7 @@
             "number": 821,
             "title": "refactor: update some extra field",
             "url": "https://github.com/zip-rs/zip2/pull/821",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-05-05T22:18:39Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -12628,6 +12628,110 @@
             "url": "https://github.com/zip-rs/zip2/pull/823",
             "state": "MERGED",
             "createdAt": "2026-05-06T09:17:43Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7ZNseF",
+            "number": 827,
+            "title": "refactor: move types to zip format folder",
+            "url": "https://github.com/zip-rs/zip2/pull/827",
+            "state": "OPEN",
+            "createdAt": "2026-05-07T15:59:30Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7ZO8be",
+            "number": 828,
+            "title": "refactor: add doc and remove useless variables",
+            "url": "https://github.com/zip-rs/zip2/pull/828",
+            "state": "MERGED",
+            "createdAt": "2026-05-07T16:58:08Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7ZSq87",
+            "number": 829,
+            "title": "refactor: move tests outside of read.rs",
+            "url": "https://github.com/zip-rs/zip2/pull/829",
+            "state": "MERGED",
+            "createdAt": "2026-05-07T20:09:57Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7Zmhwg",
+            "number": 832,
+            "title": "refactor: split `read.rs` file to read folder",
+            "url": "https://github.com/zip-rs/zip2/pull/832",
+            "state": "MERGED",
+            "createdAt": "2026-05-08T16:13:53Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
                 "name": "zip2",
