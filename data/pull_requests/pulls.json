@@ -12652,7 +12652,7 @@
             "number": 827,
             "title": "refactor: move types to zip format folder",
             "url": "https://github.com/zip-rs/zip2/pull/827",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-05-07T15:59:30Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -12732,6 +12732,58 @@
             "url": "https://github.com/zip-rs/zip2/pull/832",
             "state": "MERGED",
             "createdAt": "2026-05-08T16:13:53Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7aYVDi",
+            "number": 833,
+            "title": "refactor: change extra_data to extra_fields",
+            "url": "https://github.com/zip-rs/zip2/pull/833",
+            "state": "OPEN",
+            "createdAt": "2026-05-11T18:47:40Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7aZ0QI",
+            "number": 834,
+            "title": "refactor: change zip64 parsing",
+            "url": "https://github.com/zip-rs/zip2/pull/834",
+            "state": "MERGED",
+            "createdAt": "2026-05-11T19:56:38Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
                 "name": "zip2",
