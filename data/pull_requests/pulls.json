@@ -5272,15 +5272,15 @@
             "id": "PR_kwDOJz3YHs5z_d9i",
             "number": 156,
             "title": "Social Tags: change cover img code",
-            "url": "https://github.com/Lissy93/web-check/pull/156",
+            "url": "https://github.com/lissy93/web-check/pull/156",
             "state": "MERGED",
             "createdAt": "2024-06-30T17:23:21Z",
             "baseRepository": {
-                "url": "https://github.com/Lissy93/web-check",
+                "url": "https://github.com/lissy93/web-check",
                 "name": "web-check",
                 "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
                 "owner": {
-                    "login": "Lissy93"
+                    "login": "lissy93"
                 },
                 "languages": {
                     "nodes": [
@@ -12652,7 +12652,7 @@
             "number": 827,
             "title": "refactor: move types to zip format folder",
             "url": "https://github.com/zip-rs/zip2/pull/827",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-05-07T15:59:30Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -12732,6 +12732,84 @@
             "url": "https://github.com/zip-rs/zip2/pull/832",
             "state": "MERGED",
             "createdAt": "2026-05-08T16:13:53Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7aYVDi",
+            "number": 833,
+            "title": "refactor: change extra_data to extra_fields",
+            "url": "https://github.com/zip-rs/zip2/pull/833",
+            "state": "OPEN",
+            "createdAt": "2026-05-11T18:47:40Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7aZ0QI",
+            "number": 834,
+            "title": "refactor: change zip64 parsing",
+            "url": "https://github.com/zip-rs/zip2/pull/834",
+            "state": "MERGED",
+            "createdAt": "2026-05-11T19:56:38Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7b4kmN",
+            "number": 839,
+            "title": "fix: zip64 creation of exactly 4GB without large file should crash",
+            "url": "https://github.com/zip-rs/zip2/pull/839",
+            "state": "OPEN",
+            "createdAt": "2026-05-15T10:52:49Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
                 "name": "zip2",
