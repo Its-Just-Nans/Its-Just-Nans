@@ -143,6 +143,17 @@ You should have a clipboard util like `xclip` installed
 :set wrap
 ```
 
+## Format json
+
+```txt
+# select the json with shift + V then run
+# to prettify
+:!jq
+
+# to uglify
+:!jq -c
+```
+
 ## Links
 
 - <https://stackoverflow.com/a/1220118>
