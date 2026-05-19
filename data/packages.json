@@ -27,7 +27,8 @@
             "wombat",
             "meka",
             "lemming",
-            "bladvak-cli"
+            "bladvak-cli",
+            "pdf_to_text"
         ],
         "shields": [
             "https://img.shields.io/crates/dv/:package",
