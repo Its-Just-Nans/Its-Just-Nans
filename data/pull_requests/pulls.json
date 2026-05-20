@@ -12827,5 +12827,57 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBwSiZs7dsIDB",
+            "number": 2877,
+            "title": "Update quickstart.md with stage2 note",
+            "url": "https://github.com/rust-lang/rustc-dev-guide/pull/2877",
+            "state": "OPEN",
+            "createdAt": "2026-05-20T20:28:30Z",
+            "baseRepository": {
+                "url": "https://github.com/rust-lang/rustc-dev-guide",
+                "name": "rustc-dev-guide",
+                "description": "A guide to how rustc works and how to contribute to it.",
+                "owner": {
+                    "login": "rust-lang"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Shell",
+                            "color": "#89e051"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBwSiZs7dsU5i",
+            "number": 2878,
+            "title": "Add note on building tools in how-to-build-and-run.md",
+            "url": "https://github.com/rust-lang/rustc-dev-guide/pull/2878",
+            "state": "OPEN",
+            "createdAt": "2026-05-20T20:39:37Z",
+            "baseRepository": {
+                "url": "https://github.com/rust-lang/rustc-dev-guide",
+                "name": "rustc-dev-guide",
+                "description": "A guide to how rustc works and how to contribute to it.",
+                "owner": {
+                    "login": "rust-lang"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Shell",
+                            "color": "#89e051"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
