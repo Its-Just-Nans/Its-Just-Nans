@@ -2054,7 +2054,7 @@
             "number": 177,
             "title": "use then() with d3",
             "url": "https://github.com/plotly/graphing-library-docs/pull/177",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2022-05-04T10:51:34Z",
             "baseRepository": {
                 "url": "https://github.com/plotly/graphing-library-docs",
@@ -7646,8 +7646,8 @@
                 "languages": {
                     "nodes": [
                         {
-                            "name": "PHP",
-                            "color": "#4F5D95"
+                            "name": "HTML",
+                            "color": "#e34c26"
                         }
                     ]
                 }
@@ -7672,8 +7672,8 @@
                 "languages": {
                     "nodes": [
                         {
-                            "name": "PHP",
-                            "color": "#4F5D95"
+                            "name": "HTML",
+                            "color": "#e34c26"
                         }
                     ]
                 }
@@ -12834,7 +12834,7 @@
             "number": 2877,
             "title": "Update quickstart.md with stage2 note",
             "url": "https://github.com/rust-lang/rustc-dev-guide/pull/2877",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-05-20T20:28:30Z",
             "baseRepository": {
                 "url": "https://github.com/rust-lang/rustc-dev-guide",
@@ -12860,7 +12860,7 @@
             "number": 2878,
             "title": "Add note on building tools in how-to-build-and-run.md",
             "url": "https://github.com/rust-lang/rustc-dev-guide/pull/2878",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-05-20T20:39:37Z",
             "baseRepository": {
                 "url": "https://github.com/rust-lang/rustc-dev-guide",
