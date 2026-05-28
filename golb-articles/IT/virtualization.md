@@ -53,3 +53,10 @@ mkswap /dev/vdaNUMBER --uuid <UUID>
 # restart the swap
 swapon -a
 ```
+
+## Change user password
+
+```sh
+# need root
+virt-customize -v -x -a /path/to/vm.qcow2 --password USERNAME:password:NEWPASSWORD
+```
