@@ -12884,7 +12884,7 @@
         "node": {
             "id": "PR_kwDOJaavgM7gUJy8",
             "number": 851,
-            "title": "fix: change directory attributes detection",
+            "title": "fix: change directory attributes detection and set `external attributes`",
             "url": "https://github.com/zip-rs/zip2/pull/851",
             "state": "OPEN",
             "createdAt": "2026-05-28T16:27:08Z",
