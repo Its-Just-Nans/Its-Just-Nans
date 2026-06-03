@@ -12957,5 +12957,83 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOLitrd87iG8iU",
+            "number": 7,
+            "title": "Change meta.json checking",
+            "url": "https://github.com/zaytri/slime2-desktop/pull/7",
+            "state": "OPEN",
+            "createdAt": "2026-06-03T07:12:10Z",
+            "baseRepository": {
+                "url": "https://github.com/zaytri/slime2-desktop",
+                "name": "slime2-desktop",
+                "description": "Slime2 - Manage and customize local stream widgets in a cross-platform desktop app!",
+                "owner": {
+                    "login": "zaytri"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "HTML",
+                            "color": "#e34c26"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7iN4rl",
+            "number": 856,
+            "title": "refactor: add debug Derive for struct",
+            "url": "https://github.com/zip-rs/zip2/pull/856",
+            "state": "OPEN",
+            "createdAt": "2026-06-03T12:30:54Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7iRe6j",
+            "number": 857,
+            "title": "feat: add method to README",
+            "url": "https://github.com/zip-rs/zip2/pull/857",
+            "state": "OPEN",
+            "createdAt": "2026-06-03T14:45:17Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
