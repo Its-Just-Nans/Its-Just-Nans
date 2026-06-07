@@ -2495,15 +2495,15 @@
             "id": "PR_kwDOAJy2Ks5V4oNn",
             "number": 27127,
             "title": "[test] Add unit test for ReactDOMInput",
-            "url": "https://github.com/facebook/react/pull/27127",
+            "url": "https://github.com/react/react/pull/27127",
             "state": "CLOSED",
             "createdAt": "2023-07-19T12:05:51Z",
             "baseRepository": {
-                "url": "https://github.com/facebook/react",
+                "url": "https://github.com/react/react",
                 "name": "react",
                 "description": "The library for web and native user interfaces.",
                 "owner": {
-                    "login": "facebook"
+                    "login": "react"
                 },
                 "languages": {
                     "nodes": [
@@ -5720,7 +5720,7 @@
             "baseRepository": {
                 "url": "https://github.com/WebBreacher/WhatsMyName",
                 "name": "WhatsMyName",
-                "description": "This repository has the JSON file required to perform user enumeration on various websites.",
+                "description": "Community-maintained dataset of 700+ websites for finding accounts by username — powers OSINT and digital footprint tools.",
                 "owner": {
                     "login": "WebBreacher"
                 },
@@ -5746,7 +5746,7 @@
             "baseRepository": {
                 "url": "https://github.com/WebBreacher/WhatsMyName",
                 "name": "WhatsMyName",
-                "description": "This repository has the JSON file required to perform user enumeration on various websites.",
+                "description": "Community-maintained dataset of 700+ websites for finding accounts by username — powers OSINT and digital footprint tools.",
                 "owner": {
                     "login": "WebBreacher"
                 },
@@ -12938,7 +12938,7 @@
             "number": 8209,
             "title": "Enhance documentation for Ui::disabled method",
             "url": "https://github.com/emilk/egui/pull/8209",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-05-29T15:30:18Z",
             "baseRepository": {
                 "url": "https://github.com/emilk/egui",
@@ -12964,7 +12964,7 @@
             "number": 7,
             "title": "Change meta.json checking",
             "url": "https://github.com/zaytri/slime2-desktop/pull/7",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-06-03T07:12:10Z",
             "baseRepository": {
                 "url": "https://github.com/zaytri/slime2-desktop",
@@ -12990,7 +12990,7 @@
             "number": 856,
             "title": "refactor: add debug Derive for struct",
             "url": "https://github.com/zip-rs/zip2/pull/856",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-06-03T12:30:54Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -13016,8 +13016,60 @@
             "number": 857,
             "title": "feat: add method to README",
             "url": "https://github.com/zip-rs/zip2/pull/857",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-06-03T14:45:17Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7ilyc0",
+            "number": 858,
+            "title": "fix: remove seek call and inline",
+            "url": "https://github.com/zip-rs/zip2/pull/858",
+            "state": "OPEN",
+            "createdAt": "2026-06-04T08:15:00Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7jKKbx",
+            "number": 861,
+            "title": "docs: add documentation string for is_dir",
+            "url": "https://github.com/zip-rs/zip2/pull/861",
+            "state": "MERGED",
+            "createdAt": "2026-06-05T15:33:25Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
                 "name": "zip2",
