@@ -162,6 +162,11 @@ You should have a clipboard util like `xclip` installed
 - `CTRL+W` + `l`: move to right window
 - `CTRL+W` + `j`: move to down window
 
+## Comment
+
+- `gcc`: Comment line
+- `{Visual}gc`: Comment or uncomment the selected line(s).
+
 ## Links
 
 - <https://stackoverflow.com/a/1220118>
