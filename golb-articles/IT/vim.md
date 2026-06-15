@@ -154,6 +154,14 @@ You should have a clipboard util like `xclip` installed
 :!jq -c
 ```
 
+## Windows
+
+- `Ctrl+W`: windows shortcut
+- `CTRL+W` + `n`: new window (or `:new`)
+- `CTRL+W` + `CTRL+V`: split window (or `:vs`)
+- `CTRL+W` + `l`: move to right window
+- `CTRL+W` + `j`: move to down window
+
 ## Links
 
 - <https://stackoverflow.com/a/1220118>
