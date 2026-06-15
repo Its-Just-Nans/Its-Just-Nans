@@ -13087,5 +13087,135 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7lOfDV",
+            "number": 868,
+            "title": "fix: ignore zip info extra field on failure",
+            "url": "https://github.com/zip-rs/zip2/pull/868",
+            "state": "OPEN",
+            "createdAt": "2026-06-11T08:39:11Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOO38ktM7mUAId",
+            "number": 55,
+            "title": "feat: use direclty the inner method",
+            "url": "https://github.com/ge3224/ged_io/pull/55",
+            "state": "OPEN",
+            "createdAt": "2026-06-14T21:26:17Z",
+            "baseRepository": {
+                "url": "https://github.com/ge3224/ged_io",
+                "name": "ged_io",
+                "description": "Parse GEDCOM genealogy files in Rust",
+                "owner": {
+                    "login": "ge3224"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOO38ktM7mULx_",
+            "number": 56,
+            "title": "feat: add the surname to the name for NAME",
+            "url": "https://github.com/ge3224/ged_io/pull/56",
+            "state": "OPEN",
+            "createdAt": "2026-06-14T21:48:04Z",
+            "baseRepository": {
+                "url": "https://github.com/ge3224/ged_io",
+                "name": "ged_io",
+                "description": "Parse GEDCOM genealogy files in Rust",
+                "owner": {
+                    "login": "ge3224"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOO38ktM7mfjIt",
+            "number": 58,
+            "title": "feat: add NOTE_RECORD from 5.5.5",
+            "url": "https://github.com/ge3224/ged_io/pull/58",
+            "state": "OPEN",
+            "createdAt": "2026-06-15T10:35:06Z",
+            "baseRepository": {
+                "url": "https://github.com/ge3224/ged_io",
+                "name": "ged_io",
+                "description": "Parse GEDCOM genealogy files in Rust",
+                "owner": {
+                    "login": "ge3224"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOO38ktM7mfyX7",
+            "number": 59,
+            "title": "fix: handle encoding",
+            "url": "https://github.com/ge3224/ged_io/pull/59",
+            "state": "OPEN",
+            "createdAt": "2026-06-15T10:46:43Z",
+            "baseRepository": {
+                "url": "https://github.com/ge3224/ged_io",
+                "name": "ged_io",
+                "description": "Parse GEDCOM genealogy files in Rust",
+                "owner": {
+                    "login": "ge3224"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
