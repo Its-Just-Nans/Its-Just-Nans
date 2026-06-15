@@ -1,9 +1,12 @@
 ---
-title: Vim
+title: Vim && Neovim
 sidebar_name: Vim
-description: Vim shortcuts
-keywords: vim, shortcuts
+description: Vim and Neovim shortcuts
+keywords: vim, neovim, shortcuts
 ---
+
+- <https://www.vim.org/>
+- <https://neovim.io/>
 
 ## Survival
 
