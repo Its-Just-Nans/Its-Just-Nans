@@ -13120,7 +13120,7 @@
             "number": 55,
             "title": "feat: use direclty the inner method",
             "url": "https://github.com/ge3224/ged_io/pull/55",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-06-14T21:26:17Z",
             "baseRepository": {
                 "url": "https://github.com/ge3224/ged_io",
@@ -13146,7 +13146,7 @@
             "number": 56,
             "title": "feat: add the surname to the name for NAME",
             "url": "https://github.com/ge3224/ged_io/pull/56",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-06-14T21:48:04Z",
             "baseRepository": {
                 "url": "https://github.com/ge3224/ged_io",
@@ -13172,7 +13172,7 @@
             "number": 58,
             "title": "feat: add NOTE_RECORD from 5.5.5",
             "url": "https://github.com/ge3224/ged_io/pull/58",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-06-15T10:35:06Z",
             "baseRepository": {
                 "url": "https://github.com/ge3224/ged_io",
@@ -13198,8 +13198,138 @@
             "number": 59,
             "title": "fix: handle encoding",
             "url": "https://github.com/ge3224/ged_io/pull/59",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-06-15T10:46:43Z",
+            "baseRepository": {
+                "url": "https://github.com/ge3224/ged_io",
+                "name": "ged_io",
+                "description": "Parse GEDCOM genealogy files in Rust",
+                "owner": {
+                    "login": "ge3224"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOO38ktM7m7LNI",
+            "number": 61,
+            "title": "Change gender sex default",
+            "url": "https://github.com/ge3224/ged_io/pull/61",
+            "state": "OPEN",
+            "createdAt": "2026-06-16T09:01:11Z",
+            "baseRepository": {
+                "url": "https://github.com/ge3224/ged_io",
+                "name": "ged_io",
+                "description": "Parse GEDCOM genealogy files in Rust",
+                "owner": {
+                    "login": "ge3224"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOO38ktM7m7wpf",
+            "number": 62,
+            "title": "add note on GEDCOM specifications",
+            "url": "https://github.com/ge3224/ged_io/pull/62",
+            "state": "MERGED",
+            "createdAt": "2026-06-16T09:25:08Z",
+            "baseRepository": {
+                "url": "https://github.com/ge3224/ged_io",
+                "name": "ged_io",
+                "description": "Parse GEDCOM genealogy files in Rust",
+                "owner": {
+                    "login": "ge3224"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOO38ktM7m8Pvg",
+            "number": 63,
+            "title": "feat: add test for 5.1 NOTE_RECORD",
+            "url": "https://github.com/ge3224/ged_io/pull/63",
+            "state": "MERGED",
+            "createdAt": "2026-06-16T09:43:54Z",
+            "baseRepository": {
+                "url": "https://github.com/ge3224/ged_io",
+                "name": "ged_io",
+                "description": "Parse GEDCOM genealogy files in Rust",
+                "owner": {
+                    "login": "ge3224"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOO38ktM7m80sh",
+            "number": 64,
+            "title": "feat: add test for note record",
+            "url": "https://github.com/ge3224/ged_io/pull/64",
+            "state": "MERGED",
+            "createdAt": "2026-06-16T10:08:14Z",
+            "baseRepository": {
+                "url": "https://github.com/ge3224/ged_io",
+                "name": "ged_io",
+                "description": "Parse GEDCOM genealogy files in Rust",
+                "owner": {
+                    "login": "ge3224"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOO38ktM7nXjip",
+            "number": 65,
+            "title": "Default to use year for age",
+            "url": "https://github.com/ge3224/ged_io/pull/65",
+            "state": "OPEN",
+            "createdAt": "2026-06-17T07:52:02Z",
             "baseRepository": {
                 "url": "https://github.com/ge3224/ged_io",
                 "name": "ged_io",
