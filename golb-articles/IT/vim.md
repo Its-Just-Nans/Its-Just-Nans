@@ -1,9 +1,12 @@
 ---
-title: Vim
+title: Vim && Neovim
 sidebar_name: Vim
-description: Vim shortcuts
-keywords: vim, shortcuts
+description: Vim and Neovim shortcuts
+keywords: vim, neovim, shortcuts
 ---
+
+- <https://www.vim.org/>
+- <https://neovim.io/>
 
 ## Survival
 
@@ -161,6 +164,11 @@ You should have a clipboard util like `xclip` installed
 - `CTRL+W` + `CTRL+V`: split window (or `:vs`)
 - `CTRL+W` + `l`: move to right window
 - `CTRL+W` + `j`: move to down window
+
+## Comment
+
+- `gcc`: Comment line
+- `{Visual}gc`: Comment or uncomment the selected line(s).
 
 ## Links
 

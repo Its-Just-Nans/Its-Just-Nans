@@ -143,3 +143,11 @@ sudo iwlist wlp4s0 scan
 nmcli dev wifi connect <ssid> password <password>
 ```
 
+## Nmap
+
+```sh
+nmap -sn 192.168.1.0/24
+# check for port 80
+nmap -p 80 --open 192.168.1.0/24
+```
+
