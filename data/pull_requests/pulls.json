@@ -13380,7 +13380,7 @@
             "number": 67,
             "title": "fix: use full_name in display",
             "url": "https://github.com/ge3224/ged_io/pull/67",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-06-18T12:40:44Z",
             "baseRepository": {
                 "url": "https://github.com/ge3224/ged_io",
