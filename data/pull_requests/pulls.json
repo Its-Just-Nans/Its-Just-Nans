@@ -13094,7 +13094,7 @@
             "number": 868,
             "title": "fix: ignore zip info extra field on failure",
             "url": "https://github.com/zip-rs/zip2/pull/868",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-06-11T08:39:11Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -13328,8 +13328,60 @@
             "number": 65,
             "title": "Default to use year for age",
             "url": "https://github.com/ge3224/ged_io/pull/65",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-06-17T07:52:02Z",
+            "baseRepository": {
+                "url": "https://github.com/ge3224/ged_io",
+                "name": "ged_io",
+                "description": "Parse GEDCOM genealogy files in Rust",
+                "owner": {
+                    "login": "ge3224"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOO38ktM7n5fZG",
+            "number": 66,
+            "title": "fix: better full name and add tests",
+            "url": "https://github.com/ge3224/ged_io/pull/66",
+            "state": "MERGED",
+            "createdAt": "2026-06-18T10:36:57Z",
+            "baseRepository": {
+                "url": "https://github.com/ge3224/ged_io",
+                "name": "ged_io",
+                "description": "Parse GEDCOM genealogy files in Rust",
+                "owner": {
+                    "login": "ge3224"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOO38ktM7n8Xbx",
+            "number": 67,
+            "title": "fix: use full_name in display",
+            "url": "https://github.com/ge3224/ged_io/pull/67",
+            "state": "OPEN",
+            "createdAt": "2026-06-18T12:40:44Z",
             "baseRepository": {
                 "url": "https://github.com/ge3224/ged_io",
                 "name": "ged_io",
