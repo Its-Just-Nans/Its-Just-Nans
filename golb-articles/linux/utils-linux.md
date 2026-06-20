@@ -339,3 +339,10 @@ fwupdmgr get-updates
 fwupdmgr update
 ```
 
+## Memory profiler
+
+```sh
+heaptrack
+valgrind
+```
+
