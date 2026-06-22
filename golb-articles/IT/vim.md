@@ -44,9 +44,12 @@ _  # move to first non-blank character of the line
 g_ # move to last non-blank character of the line
 ```
 
-## Insert mode
+## Normal mode and insert mode
 
-- `a`: (append) enter insert mode after cursor
+- `i`: (insert) enter insert mode (before cursor)
+- `a`: (append) enter insert mode (after cursor)
+- `I`: insert at the start of the line (before the first word)
+- `A`: append at the end of the line (after the last word)
 - `u`: undo
 - `CTRL` + `r`: undo undo
 
@@ -124,8 +127,13 @@ You should have a clipboard util like `xclip` installed
 
 ## Registers
 
+```vi
+# view the registers
+:registers
+```
+
 - The unnamed register `""`
-- The numbered registers `"0-9`
+- The numbered registers `"0-9`: previously copied things
 - The small delete register `"-`
 - The named registers `"a` `"b`..`"z`
 - The read-only registers `":` `".` `"%`
@@ -134,6 +142,17 @@ You should have a clipboard util like `xclip` installed
 - The selection registers `"*` and `"+`
 - The black hole register `"_`
 - The last search pattern register `"/`
+
+## Macros
+
+```vi
+q<register><commands>q
+
+# then to play it
+@<register>
+# then
+@@
+```
 
 ## Commands
 
@@ -159,7 +178,7 @@ You should have a clipboard util like `xclip` installed
 
 ## Windows
 
-- `Ctrl+W`: windows shortcut
+- `CTRL+W`: windows shortcut
 - `CTRL+W` + `n`: new window (or `:new`)
 - `CTRL+W` + `CTRL+V`: split window (or `:vs`)
 - `CTRL+W` + `l`: move to right window
