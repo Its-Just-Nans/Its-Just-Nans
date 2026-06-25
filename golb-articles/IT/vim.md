@@ -42,7 +42,24 @@ E  # move to end of word before a whitespace
 $  # move to end of line
 _  # move to first non-blank character of the line
 g_ # move to last non-blank character of the line
+f<char> # to next <char> cursor is on <char> (same line)
+F<char> # to previous <char> cursor is on <char> (same line)
+t<char> # to next <char> cursor is before (same line)
+F<char> # to previous <char> cursor is after (same line)
+
+% # jump to bracket pair
 ```
+
+## Moving cursor
+
+- `H`: move cursor to top of screen
+- `M`: move cursor to middle of screen
+- `L`: move cursor to bottom of screen
+- `zz`: move view pane to middle this line
+- `zt`: move view pane to top this line
+- `zb`: move view pane to bottom this line
+- `CTRL+y`: move cursor view pane up
+- `CTRL+e`: move cursor view pane down
 
 ## Normal mode and insert mode
 
@@ -178,11 +195,11 @@ q<register><commands>q
 
 ## Windows
 
-- `CTRL+W`: windows shortcut
-- `CTRL+W` + `n`: new window (or `:new`)
-- `CTRL+W` + `CTRL+V`: split window (or `:vs`)
-- `CTRL+W` + `l`: move to right window
-- `CTRL+W` + `j`: move to down window
+- `CTRL+w`: windows shortcut
+- `CTRL+w` + `n`: new window (or `:new`)
+- `CTRL+w` + `CTRL+v`: split window (or `:vs`)
+- `CTRL+w` + `l`: move to right window
+- `CTRL+w` + `j`: move to down window
 
 ## Comment
 
