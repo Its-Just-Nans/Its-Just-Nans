@@ -3536,7 +3536,7 @@
             "baseRepository": {
                 "url": "https://github.com/open5gs/open5gs",
                 "name": "open5gs",
-                "description": "Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-17)",
+                "description": "Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-19)",
                 "owner": {
                     "login": "open5gs"
                 },
@@ -12756,7 +12756,7 @@
             "number": 833,
             "title": "refactor: change extra_data to extra_fields",
             "url": "https://github.com/zip-rs/zip2/pull/833",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-05-11T18:47:40Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -12886,7 +12886,7 @@
             "number": 851,
             "title": "fix: change directory attributes detection and set `external attributes`",
             "url": "https://github.com/zip-rs/zip2/pull/851",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-05-28T16:27:08Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -13388,6 +13388,58 @@
                 "description": "Parse GEDCOM genealogy files in Rust",
                 "owner": {
                     "login": "ge3224"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOAOPi887pPWVM",
+            "number": 1133,
+            "title": "feat: add derive debug",
+            "url": "https://github.com/servo/rust-url/pull/1133",
+            "state": "OPEN",
+            "createdAt": "2026-06-22T15:16:21Z",
+            "baseRepository": {
+                "url": "https://github.com/servo/rust-url",
+                "name": "rust-url",
+                "description": "URL parser for Rust",
+                "owner": {
+                    "login": "servo"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBEmI2s7qeNY1",
+            "number": 336,
+            "title": "feat: add ignore option",
+            "url": "https://github.com/nabijaczleweli/cargo-update/pull/336",
+            "state": "OPEN",
+            "createdAt": "2026-06-25T08:40:56Z",
+            "baseRepository": {
+                "url": "https://github.com/nabijaczleweli/cargo-update",
+                "name": "cargo-update",
+                "description": "A cargo subcommand for checking and applying updates to installed executables",
+                "owner": {
+                    "login": "nabijaczleweli"
                 },
                 "languages": {
                     "nodes": [
