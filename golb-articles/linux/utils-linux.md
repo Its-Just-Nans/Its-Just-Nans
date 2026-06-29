@@ -260,10 +260,14 @@ apt install inotify-tools
 while true; do inotifywait -r -e MODIFY . && ls .; done
 ```
 
-## List fonts
+## Fonts
 
 ```sh
+# list fonts
 fc-list
+
+# reload font cache
+fc-cache -f -v
 ```
 
 ## Change GRUB settings
