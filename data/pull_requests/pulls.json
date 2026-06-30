@@ -13042,7 +13042,7 @@
             "number": 858,
             "title": "fix: remove seek call and inline",
             "url": "https://github.com/zip-rs/zip2/pull/858",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-06-04T08:15:00Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -13432,7 +13432,7 @@
             "number": 336,
             "title": "feat: add ignore option",
             "url": "https://github.com/nabijaczleweli/cargo-update/pull/336",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2026-06-25T08:40:56Z",
             "baseRepository": {
                 "url": "https://github.com/nabijaczleweli/cargo-update",
@@ -13440,6 +13440,32 @@
                 "description": "A cargo subcommand for checking and applying updates to installed executables",
                 "owner": {
                     "login": "nabijaczleweli"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOClCeYc7rsg7G",
+            "number": 290,
+            "title": "Update Cargo.toml for getrandom on wasm",
+            "url": "https://github.com/tkaitchuck/aHash/pull/290",
+            "state": "OPEN",
+            "createdAt": "2026-06-29T08:50:55Z",
+            "baseRepository": {
+                "url": "https://github.com/tkaitchuck/aHash",
+                "name": "aHash",
+                "description": "aHash is a non-cryptographic hashing algorithm that uses the AES hardware instruction",
+                "owner": {
+                    "login": "tkaitchuck"
                 },
                 "languages": {
                     "nodes": [
