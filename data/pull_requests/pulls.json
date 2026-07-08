@@ -5930,8 +5930,8 @@
                 "languages": {
                     "nodes": [
                         {
-                            "name": "HTML",
-                            "color": "#e34c26"
+                            "name": "TypeScript",
+                            "color": "#3178c6"
                         }
                     ]
                 }
@@ -5956,8 +5956,8 @@
                 "languages": {
                     "nodes": [
                         {
-                            "name": "HTML",
-                            "color": "#e34c26"
+                            "name": "TypeScript",
+                            "color": "#3178c6"
                         }
                     ]
                 }
@@ -12808,7 +12808,7 @@
             "number": 839,
             "title": "fix: zip64 creation of exactly 4GB without large file should crash",
             "url": "https://github.com/zip-rs/zip2/pull/839",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-05-15T10:52:49Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -13466,6 +13466,32 @@
                 "description": "aHash is a non-cryptographic hashing algorithm that uses the AES hardware instruction",
                 "owner": {
                     "login": "tkaitchuck"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7vS1HI",
+            "number": 879,
+            "title": "fix: rewrite extra fields",
+            "url": "https://github.com/zip-rs/zip2/pull/879",
+            "state": "OPEN",
+            "createdAt": "2026-07-08T13:10:22Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
                 },
                 "languages": {
                     "nodes": [
