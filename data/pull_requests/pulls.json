@@ -8102,7 +8102,7 @@
             "number": 289,
             "title": "feat(dev-server): run yarn fmt",
             "url": "https://github.com/honojs/vite-plugins/pull/289",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2025-08-28T00:14:45Z",
             "baseRepository": {
                 "url": "https://github.com/honojs/vite-plugins",
@@ -13222,9 +13222,9 @@
         "node": {
             "id": "PR_kwDOO38ktM7m7LNI",
             "number": 61,
-            "title": "Change gender sex default",
+            "title": "Add helper to GenderType",
             "url": "https://github.com/ge3224/ged_io/pull/61",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-06-16T09:01:11Z",
             "baseRepository": {
                 "url": "https://github.com/ge3224/ged_io",
@@ -13492,6 +13492,110 @@
                 "description": "Zip implementation in Rust",
                 "owner": {
                     "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7wRw1n",
+            "number": 881,
+            "title": "feat: add example for memory allocation",
+            "url": "https://github.com/zip-rs/zip2/pull/881",
+            "state": "MERGED",
+            "createdAt": "2026-07-10T17:21:59Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOTV-G687wtF7B",
+            "number": 1,
+            "title": "Refactor documentation in lib.rs",
+            "url": "https://github.com/Its-Just-Nans/utoipa/pull/1",
+            "state": "CLOSED",
+            "createdAt": "2026-07-12T08:22:44Z",
+            "baseRepository": {
+                "url": "https://github.com/Its-Just-Nans/utoipa",
+                "name": "utoipa",
+                "description": "Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust",
+                "owner": {
+                    "login": "Its-Just-Nans"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOGJJMEs7wtGJx",
+            "number": 1581,
+            "title": "Refactor documentation in lib.rs",
+            "url": "https://github.com/juhaku/utoipa/pull/1581",
+            "state": "OPEN",
+            "createdAt": "2026-07-12T08:23:10Z",
+            "baseRepository": {
+                "url": "https://github.com/juhaku/utoipa",
+                "name": "utoipa",
+                "description": "Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust",
+                "owner": {
+                    "login": "juhaku"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOFBsj187wzPoi",
+            "number": 3131,
+            "title": "feat: show variant on error",
+            "url": "https://github.com/SeaQL/sea-orm/pull/3131",
+            "state": "MERGED",
+            "createdAt": "2026-07-12T19:00:58Z",
+            "baseRepository": {
+                "url": "https://github.com/SeaQL/sea-orm",
+                "name": "sea-orm",
+                "description": "🐚 A powerful relational ORM for Rust",
+                "owner": {
+                    "login": "SeaQL"
                 },
                 "languages": {
                     "nodes": [
