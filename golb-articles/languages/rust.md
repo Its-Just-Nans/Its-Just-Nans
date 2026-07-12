@@ -341,3 +341,12 @@ if cfg!(feature = "my_feature") {
 | `OnceCell<T>`         | `OnceLock<T>`               | Write once, read many initialization             |
 | `LazyCell<T>`         | `LazyLock<T>`               | Lazy initialization on first access              |
 
+## More lints
+
+```toml
+# in Cargo.toml
+
+# https://doc.rust-lang.org/beta/nightly-rustc/rustc_lint/builtin/index.html#statics
+[workspace.lints.rust]
+unnameable_types = "warn"
+```
