@@ -13607,5 +13607,57 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOAd3Usc7w_SfX",
+            "number": 6441,
+            "title": "feat: alias as singular when unique",
+            "url": "https://github.com/clap-rs/clap/pull/6441",
+            "state": "MERGED",
+            "createdAt": "2026-07-13T09:15:41Z",
+            "baseRepository": {
+                "url": "https://github.com/clap-rs/clap",
+                "name": "clap",
+                "description": "A full featured, fast Command Line Argument Parser for Rust",
+                "owner": {
+                    "login": "clap-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBKF9IM7xi1Lk",
+            "number": 62,
+            "title": "feat: Add Debug to struct",
+            "url": "https://github.com/kamadak/exif-rs/pull/62",
+            "state": "OPEN",
+            "createdAt": "2026-07-14T12:37:42Z",
+            "baseRepository": {
+                "url": "https://github.com/kamadak/exif-rs",
+                "name": "exif-rs",
+                "description": "Exif parsing library written in pure Rust",
+                "owner": {
+                    "login": "kamadak"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
