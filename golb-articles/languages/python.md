@@ -17,7 +17,6 @@ except Exception as exception:
 ```
 
 > <https://stackoverflow.com/a/18176682>
-
 ## Check if python2
 
 ```python
@@ -168,4 +167,11 @@ Edit `~/.config/pip/pip.conf`
 ```toml
 [global]
 break-system-packages = true
+```
+
+## Buffering output
+
+```sh
+# sometimes python is buffering the output - which is not want we want
+PYTHONUNBUFFERED=1 python program.py |tee file.txt
 ```
