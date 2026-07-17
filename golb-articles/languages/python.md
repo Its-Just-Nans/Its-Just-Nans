@@ -17,6 +17,7 @@ except Exception as exception:
 ```
 
 > <https://stackoverflow.com/a/18176682>
+
 ## Check if python2
 
 ```python
