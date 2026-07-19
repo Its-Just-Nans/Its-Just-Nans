@@ -13659,5 +13659,57 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOATODBM7y4l8w",
+            "number": 3071,
+            "title": "feat: impl Display for FilterType",
+            "url": "https://github.com/image-rs/image/pull/3071",
+            "state": "OPEN",
+            "createdAt": "2026-07-17T08:23:55Z",
+            "baseRepository": {
+                "url": "https://github.com/image-rs/image",
+                "name": "image",
+                "description": "Encoding and decoding images in Rust",
+                "owner": {
+                    "login": "image-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOEIP_LM7zgre_",
+            "number": 224,
+            "title": "Add example to `Get` and `Set`",
+            "url": "https://github.com/1Password/arboard/pull/224",
+            "state": "OPEN",
+            "createdAt": "2026-07-19T09:44:35Z",
+            "baseRepository": {
+                "url": "https://github.com/1Password/arboard",
+                "name": "arboard",
+                "description": "A clipboard for Rust",
+                "owner": {
+                    "login": "1Password"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
