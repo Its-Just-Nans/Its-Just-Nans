@@ -30,6 +30,8 @@ G # go to last line
 gg # go to first line
 5G # go to line 5
 
+J # collapse next line with space
+gJ # collapse next line without space
 
 w  # move to beginning of next word
 b  # move to previous beginning of word
@@ -69,6 +71,8 @@ F<char> # to previous <char> cursor is after (same line)
 - `A`: append at the end of the line (after the last word)
 - `u`: undo
 - `CTRL` + `r`: undo undo
+- `CTRL` + `R`: insert register
+- `CTRL` + `R` + `=`: evaluate and insert (easing calculation)
 
 ## Shortcuts Normal mode
 
