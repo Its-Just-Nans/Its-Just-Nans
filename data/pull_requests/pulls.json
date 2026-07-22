@@ -13711,5 +13711,57 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDODTQC1870U2wI",
+            "number": 4481,
+            "title": "refactor!: drop `lsp/rls.lua`",
+            "url": "https://github.com/neovim/nvim-lspconfig/pull/4481",
+            "state": "MERGED",
+            "createdAt": "2026-07-21T11:34:10Z",
+            "baseRepository": {
+                "url": "https://github.com/neovim/nvim-lspconfig",
+                "name": "nvim-lspconfig",
+                "description": "Quickstart configs for Nvim LSP",
+                "owner": {
+                    "login": "neovim"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Lua",
+                            "color": "#000080"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOEQy6gs70yOT1",
+            "number": 8,
+            "title": "feat: add web mercator",
+            "url": "https://github.com/dmahr1/ihatecoordinatesystems/pull/8",
+            "state": "OPEN",
+            "createdAt": "2026-07-22T09:14:37Z",
+            "baseRepository": {
+                "url": "https://github.com/dmahr1/ihatecoordinatesystems",
+                "name": "ihatecoordinatesystems",
+                "description": null,
+                "owner": {
+                    "login": "dmahr1"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "HTML",
+                            "color": "#e34c26"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
