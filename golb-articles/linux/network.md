@@ -133,6 +133,13 @@ nmcli dev set INTERFACE managed no
 iw dev
 ```
 
+## Restart Wifi
+
+```sh
+sudo nmcli radio wifi off
+sudo nmcli radio wifi on
+```
+
 ## Connect to Wifi
 
 ```sh
