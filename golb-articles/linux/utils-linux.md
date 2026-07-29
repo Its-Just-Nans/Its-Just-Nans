@@ -350,3 +350,10 @@ heaptrack
 valgrind
 ```
 
+## Time
+
+```sh
+tzselect # gives you the correct name to use
+ln -sfv /usr/share/zoneinfo/<xxx> /etc/localtime
+```
+
