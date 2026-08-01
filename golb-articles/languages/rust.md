@@ -350,3 +350,14 @@ if cfg!(feature = "my_feature") {
 [workspace.lints.rust]
 unnameable_types = "warn"
 ```
+
+## Number operations
+
+```rust
+let num = 150_u8;
+
+let a = 127_u8.checked_add(num);     // None
+let a = 127_u8.wrapping_add(num);    // 21
+let a = 127_u8.saturating_add(num);  // 255
+let a = 127_u8.overflowing_add(num); // (21, true)
+```
