@@ -9374,9 +9374,9 @@
         "node": {
             "id": "PR_kwDOBEyLlM64yau1",
             "number": 986,
-            "title": "Add display units",
+            "title": "Implement `Display` for `Units`",
             "url": "https://github.com/linebender/resvg/pull/986",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-12-14T18:59:03Z",
             "baseRepository": {
                 "url": "https://github.com/linebender/resvg",
@@ -9452,9 +9452,9 @@
         "node": {
             "id": "PR_kwDOBEyLlM64zHhj",
             "number": 989,
-            "title": "fix: remove dangerous unwrap",
+            "title": "Clamp too large bboxes instead of panicking",
             "url": "https://github.com/linebender/resvg/pull/989",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-12-14T21:25:46Z",
             "baseRepository": {
                 "url": "https://github.com/linebender/resvg",
@@ -9530,9 +9530,9 @@
         "node": {
             "id": "PR_kwDOBEyLlM65SolI",
             "number": 991,
-            "title": "Fix https://github.com/linebender/resvg/issues/934",
+            "title": "Change some assertions to debug assertions",
             "url": "https://github.com/linebender/resvg/pull/991",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2025-12-17T05:24:19Z",
             "baseRepository": {
                 "url": "https://github.com/linebender/resvg",
@@ -10052,7 +10052,7 @@
             "number": 1008,
             "title": "fix: change `assert!()` to `Result` with `Error`",
             "url": "https://github.com/linebender/resvg/pull/1008",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2026-01-13T02:48:38Z",
             "baseRepository": {
                 "url": "https://github.com/linebender/resvg",
@@ -10232,9 +10232,9 @@
         "node": {
             "id": "PR_kwDOBEyLlM6_wOLq",
             "number": 1011,
-            "title": "feat(usvg): add warning of error during parsing",
+            "title": "feat(usvg): add warning when parsing malformed paths",
             "url": "https://github.com/linebender/resvg/pull/1011",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-01-28T04:05:34Z",
             "baseRepository": {
                 "url": "https://github.com/linebender/resvg",
@@ -13758,6 +13758,58 @@
                         {
                             "name": "HTML",
                             "color": "#e34c26"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOCd2s28734eT9",
+            "number": 8353,
+            "title": "Add `egui::Window::title_frame`",
+            "url": "https://github.com/emilk/egui/pull/8353",
+            "state": "MERGED",
+            "createdAt": "2026-07-29T08:52:42Z",
+            "baseRepository": {
+                "url": "https://github.com/emilk/egui",
+                "name": "egui",
+                "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+                "owner": {
+                    "login": "emilk"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Shell",
+                            "color": "#89e051"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOCd2s2874DJBb",
+            "number": 8357,
+            "title": "feat: add more documentation on `Image::texture_options`",
+            "url": "https://github.com/emilk/egui/pull/8357",
+            "state": "OPEN",
+            "createdAt": "2026-07-29T14:47:36Z",
+            "baseRepository": {
+                "url": "https://github.com/emilk/egui",
+                "name": "egui",
+                "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+                "owner": {
+                    "login": "emilk"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Shell",
+                            "color": "#89e051"
                         }
                     ]
                 }
