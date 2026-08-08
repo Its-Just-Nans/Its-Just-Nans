@@ -13815,5 +13815,57 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOETWv6877j31A",
+            "number": 182,
+            "title": "fix: change the to_int_rect method",
+            "url": "https://github.com/linebender/tiny-skia/pull/182",
+            "state": "OPEN",
+            "createdAt": "2026-08-06T11:33:53Z",
+            "baseRepository": {
+                "url": "https://github.com/linebender/tiny-skia",
+                "name": "tiny-skia",
+                "description": "A tiny Skia subset ported to Rust",
+                "owner": {
+                    "login": "linebender"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOETWv6877ll7c",
+            "number": 183,
+            "title": "fix wasm CI error unwrap",
+            "url": "https://github.com/linebender/tiny-skia/pull/183",
+            "state": "OPEN",
+            "createdAt": "2026-08-06T12:41:14Z",
+            "baseRepository": {
+                "url": "https://github.com/linebender/tiny-skia",
+                "name": "tiny-skia",
+                "description": "A tiny Skia subset ported to Rust",
+                "owner": {
+                    "login": "linebender"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
