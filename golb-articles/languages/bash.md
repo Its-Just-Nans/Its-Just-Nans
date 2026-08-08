@@ -122,3 +122,12 @@ set -o physical
 # same as
 set -P
 ```
+
+## Pipefail
+
+```sh
+set -euo pipefail
+curl https://example.org | grep a
+# if the pipe fails, the script will stop
+echo "end of script"
+```
