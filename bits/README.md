@@ -236,6 +236,7 @@
 - <https://github.com/jstrieb/systems-programming-cheat-sheet>
 - <https://en.algorithmica.org/hpc/> - high performance computing
 - <https://ihatecoordinatesystems.com/> - coordinates issues
+- <https://specification.website> - what a good website does.
 
 ### blog and personal websites
 
