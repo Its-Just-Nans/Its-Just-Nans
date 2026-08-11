@@ -14,5 +14,6 @@ print my_var
 ```
 
 > you can use these commands as a single letter
+>
 > `Enter` repeat the last command
 
