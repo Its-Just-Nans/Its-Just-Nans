@@ -13874,8 +13874,60 @@
             "number": 913,
             "title": "feat: Rewrite zip64 extra",
             "url": "https://github.com/zip-rs/zip2/pull/913",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-08-10T08:09:11Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM79oYkP",
+            "number": 923,
+            "title": "feat: cleanup and harmonize extra fields",
+            "url": "https://github.com/zip-rs/zip2/pull/923",
+            "state": "MERGED",
+            "createdAt": "2026-08-11T16:56:04Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM796Lmb",
+            "number": 925,
+            "title": "feat: change `aes_mode` to `aes_settings()` in ZipFileData",
+            "url": "https://github.com/zip-rs/zip2/pull/925",
+            "state": "OPEN",
+            "createdAt": "2026-08-12T06:57:27Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
                 "name": "zip2",
