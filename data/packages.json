@@ -29,7 +29,8 @@
             "lemming",
             "bladvak-cli",
             "pdf_to_text",
-            "suricate"
+            "suricate",
+            "yakb"
         ],
         "shields": [
             "https://img.shields.io/crates/dv/:package",
