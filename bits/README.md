@@ -71,6 +71,7 @@
 
 ## CTFs and cybersecurity
 
+- <https://sadservers.com> - DevOps
 - <https://crackmes.one/> - reverse
 - <https://www.newbiecontest.org/>
 - <https://www.how2neovim.io/> - how to set up neovim

@@ -13926,8 +13926,112 @@
             "number": 925,
             "title": "feat: change `aes_mode` to `aes_settings()` in ZipFileData",
             "url": "https://github.com/zip-rs/zip2/pull/925",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-08-12T06:57:27Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7-fu-E",
+            "number": 929,
+            "title": "fix: the alignment value should be inside the data alignement",
+            "url": "https://github.com/zip-rs/zip2/pull/929",
+            "state": "MERGED",
+            "createdAt": "2026-08-13T09:16:09Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7-mFVb",
+            "number": 930,
+            "title": "refactor: move Magic to format",
+            "url": "https://github.com/zip-rs/zip2/pull/930",
+            "state": "MERGED",
+            "createdAt": "2026-08-13T13:03:24Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7-s6Zs",
+            "number": 931,
+            "title": "refactor: move write options to `write/options.rs`",
+            "url": "https://github.com/zip-rs/zip2/pull/931",
+            "state": "OPEN",
+            "createdAt": "2026-08-13T16:55:57Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7_CBBQ",
+            "number": 932,
+            "title": "refactor: move spec to format",
+            "url": "https://github.com/zip-rs/zip2/pull/932",
+            "state": "OPEN",
+            "createdAt": "2026-08-14T09:44:23Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
                 "name": "zip2",
