@@ -13950,7 +13950,7 @@
         "node": {
             "id": "PR_kwDOJaavgM7-fu-E",
             "number": 929,
-            "title": "fix: the alignment value should be inside the data alignement",
+            "title": "fix: the alignment value should be inside the data alignment",
             "url": "https://github.com/zip-rs/zip2/pull/929",
             "state": "MERGED",
             "createdAt": "2026-08-13T09:16:09Z",
@@ -14004,7 +14004,7 @@
             "number": 931,
             "title": "refactor: move write options to `write/options.rs`",
             "url": "https://github.com/zip-rs/zip2/pull/931",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-08-13T16:55:57Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -14030,8 +14030,320 @@
             "number": 932,
             "title": "refactor: move spec to format",
             "url": "https://github.com/zip-rs/zip2/pull/932",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-08-14T09:44:23Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7_cXMT",
+            "number": 933,
+            "title": "feat: add ZipFileEntry with no Reader",
+            "url": "https://github.com/zip-rs/zip2/pull/933",
+            "state": "MERGED",
+            "createdAt": "2026-08-15T09:04:17Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7_d-m3",
+            "number": 934,
+            "title": "refactor: simplify `initialize_local_block`",
+            "url": "https://github.com/zip-rs/zip2/pull/934",
+            "state": "MERGED",
+            "createdAt": "2026-08-15T11:32:00Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7_d_Mp",
+            "number": 935,
+            "title": "feat: use ZipFileEntry instead of ZipStreamFileMetadata",
+            "url": "https://github.com/zip-rs/zip2/pull/935",
+            "state": "MERGED",
+            "createdAt": "2026-08-15T11:32:57Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7_fncq",
+            "number": 936,
+            "title": "refactor: rewrite `make_reader()` function",
+            "url": "https://github.com/zip-rs/zip2/pull/936",
+            "state": "MERGED",
+            "createdAt": "2026-08-15T14:06:25Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7_saxB",
+            "number": 937,
+            "title": "fix: lazy allocation on error case",
+            "url": "https://github.com/zip-rs/zip2/pull/937",
+            "state": "MERGED",
+            "createdAt": "2026-08-16T11:21:25Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7_uL-z",
+            "number": 938,
+            "title": "fix: remove extra alloc used to copy",
+            "url": "https://github.com/zip-rs/zip2/pull/938",
+            "state": "MERGED",
+            "createdAt": "2026-08-16T14:04:06Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7_yVKc",
+            "number": 939,
+            "title": "feat: add a test on enum size",
+            "url": "https://github.com/zip-rs/zip2/pull/939",
+            "state": "MERGED",
+            "createdAt": "2026-08-16T19:24:27Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7_zRi8",
+            "number": 941,
+            "title": "feat: move CustomExtraField to own file",
+            "url": "https://github.com/zip-rs/zip2/pull/941",
+            "state": "MERGED",
+            "createdAt": "2026-08-16T20:45:12Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM7_9_i7",
+            "number": 943,
+            "title": "refactor: harmonize functions to `format/functions.rs`",
+            "url": "https://github.com/zip-rs/zip2/pull/943",
+            "state": "MERGED",
+            "createdAt": "2026-08-17T08:09:05Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOB_zxBs7__WKp",
+            "number": 5943,
+            "title": "feat: add documentation line for overrideGpg config",
+            "url": "https://github.com/jesseduffield/lazygit/pull/5943",
+            "state": "CLOSED",
+            "createdAt": "2026-08-17T09:03:53Z",
+            "baseRepository": {
+                "url": "https://github.com/jesseduffield/lazygit",
+                "name": "lazygit",
+                "description": "simple terminal UI for git commands",
+                "owner": {
+                    "login": "jesseduffield"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Go",
+                            "color": "#00ADD8"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM8AAAABADcYWw",
+            "number": 944,
+            "title": "refactor: access `crate::format` with `zip::unstable::format`",
+            "url": "https://github.com/zip-rs/zip2/pull/944",
+            "state": "MERGED",
+            "createdAt": "2026-08-17T19:18:44Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM8AAAABAEbf0Q",
+            "number": 945,
+            "title": "feat: add test to in place modification",
+            "url": "https://github.com/zip-rs/zip2/pull/945",
+            "state": "OPEN",
+            "createdAt": "2026-08-17T22:06:12Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
                 "name": "zip2",
