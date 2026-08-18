@@ -72,6 +72,7 @@
 ## CTFs and cybersecurity
 
 - <https://sadservers.com> - DevOps
+- <https://beacondb.net/> - wireless geolocation database
 - <https://crackmes.one/> - reverse
 - <https://www.newbiecontest.org/>
 - <https://www.how2neovim.io/> - how to set up neovim
@@ -238,6 +239,7 @@
 - <https://en.algorithmica.org/hpc/> - high performance computing
 - <https://ihatecoordinatesystems.com/> - coordinates issues
 - <https://specification.website> - what a good website does.
+- <https://12factor.net/> - methodology for building Saas
 
 ### blog and personal websites
 
