@@ -357,3 +357,8 @@ tzselect # gives you the correct name to use
 ln -sfv /usr/share/zoneinfo/<xxx> /etc/localtime
 ```
 
+## List block devices and mountpoints
+
+```sh
+lsblk -sf -o MOUNTPOINTS,FSTYPE,NAME
+```
