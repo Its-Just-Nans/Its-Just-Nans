@@ -147,6 +147,12 @@ bg # sent it to background
 
 # list processes
 jobs
+
+# to kill a process
+kill %1
+
+# CTRL+Z # is SIGTSTP
+# kill -STOP # is SIGSTOP
 ```
 
 ## `tar` and `untar`
