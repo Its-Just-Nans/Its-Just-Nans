@@ -268,9 +268,3 @@ command -v <command>
 # pv - pipe viewer
 yes | pv | grep no
 ```
-
-## List block devices and mountpoints
-
-```
-lsblk -sf -o MOUNTPOINTS,FSTYPE,NAME
-```
