@@ -833,20 +833,6 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/sportiva",
-        "name": "sportiva",
-        "description": "🌐 Ineffable Sport Application",
-        "stargazerCount": 1,
-        "archivedAt": null,
-        "homepageUrl": "https://sportiva.n4n5.dev/",
-        "forkCount": 0,
-        "licenseInfo": null,
-        "primaryLanguage": {
-            "name": "Astro",
-            "color": "#ff5a03"
-        }
-    },
-    {
         "url": "https://github.com/Its-Just-Nans/spust",
         "name": "spust",
         "description": "web analytics",
