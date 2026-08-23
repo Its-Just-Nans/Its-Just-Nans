@@ -13848,7 +13848,7 @@
             "number": 183,
             "title": "fix wasm CI error unwrap",
             "url": "https://github.com/linebender/tiny-skia/pull/183",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-08-06T12:41:14Z",
             "baseRepository": {
                 "url": "https://github.com/linebender/tiny-skia",
@@ -14342,8 +14342,112 @@
             "number": 945,
             "title": "feat: add test to in place modification",
             "url": "https://github.com/zip-rs/zip2/pull/945",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-08-17T22:06:12Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM8AAAABAHb_Pg",
+            "number": 946,
+            "title": "refactor: remove unused trait",
+            "url": "https://github.com/zip-rs/zip2/pull/946",
+            "state": "MERGED",
+            "createdAt": "2026-08-18T08:12:05Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM8AAAABAI-7WQ",
+            "number": 947,
+            "title": "refactor: create `ZipFileFlags` to wrap `flags`",
+            "url": "https://github.com/zip-rs/zip2/pull/947",
+            "state": "MERGED",
+            "createdAt": "2026-08-18T12:04:19Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM8AAAABASYCAQ",
+            "number": 948,
+            "title": "feat: add compression to `src/format`",
+            "url": "https://github.com/zip-rs/zip2/pull/948",
+            "state": "MERGED",
+            "createdAt": "2026-08-19T13:33:37Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM8AAAABASZUoQ",
+            "number": 949,
+            "title": "refactor: remove feature gate on `AesMode`",
+            "url": "https://github.com/zip-rs/zip2/pull/949",
+            "state": "MERGED",
+            "createdAt": "2026-08-19T13:35:56Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
                 "name": "zip2",
