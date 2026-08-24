@@ -362,3 +362,10 @@ ln -sfv /usr/share/zoneinfo/<xxx> /etc/localtime
 ```sh
 lsblk -sf -o MOUNTPOINTS,FSTYPE,NAME
 ```
+
+## Image compression
+
+```sh
+mozjpeg -quality 90 -outfile output.jpg input.jpg # https://github.com/mozilla/mozjpeg
+# also https://github.com/google/guetzli but very slow
+```
