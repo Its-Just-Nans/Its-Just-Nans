@@ -240,6 +240,7 @@
 - <https://ihatecoordinatesystems.com/> - coordinates issues
 - <https://specification.website> - what a good website does.
 - <https://12factor.net/> - methodology for building Saas
+- <https://passkeys.dev/> - Passkeys documentation
 
 ### blog and personal websites
 
