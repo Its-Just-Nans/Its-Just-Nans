@@ -13562,7 +13562,7 @@
             "number": 1581,
             "title": "Refactor documentation in lib.rs",
             "url": "https://github.com/juhaku/utoipa/pull/1581",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-07-12T08:23:10Z",
             "baseRepository": {
                 "url": "https://github.com/juhaku/utoipa",
