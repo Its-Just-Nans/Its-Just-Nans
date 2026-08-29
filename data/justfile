@@ -1,0 +1,2 @@
+list:
+    n4n5 list_crates --output-markdown rust_packages.md --output-list rust_packages.json --verbose
