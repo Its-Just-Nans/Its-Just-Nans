@@ -81,3 +81,10 @@ ssh -A -R /run/user/1000/gnupg/S.gpg-agent:/run/user/1000/gnupg/S.gpg-agent.extr
 
 > You may need the public key on the remote
 
+## Disable git sign
+
+```sh
+git config commit.gpgsign false
+# only to the local repo or
+# git config --global
+```
