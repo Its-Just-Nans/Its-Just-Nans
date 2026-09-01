@@ -2,7 +2,7 @@ import { readFile } from "node:fs/promises";
 
 async function extractLicenses() {
     try {
-        const data = await readFile("projects_disk_usage.json", "utf8");
+        const data = await readFile("github_projects_disk_usage.json", "utf8");
         const projects = JSON.parse(data);
 
         const dataExtracted = Object.entries(projects)
