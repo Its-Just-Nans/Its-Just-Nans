@@ -60,3 +60,10 @@ swapon -a
 # need root
 virt-customize -v -x -a /path/to/vm.qcow2 --password USERNAME:password:NEWPASSWORD
 ```
+
+## Check the error if the vm paused
+
+```sh
+sudo virsh domblkerror VMNAME
+# vda: no space
+```
