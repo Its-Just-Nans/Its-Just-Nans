@@ -369,3 +369,13 @@ lsblk -sf -o MOUNTPOINTS,FSTYPE,NAME
 mozjpeg -quality 90 -outfile output.jpg input.jpg # https://github.com/mozilla/mozjpeg
 # also https://github.com/google/guetzli but very slow
 ```
+
+## Linux waiting for suspend/resume device
+
+```sh
+# most likely the swap partition changed but not the initramfs
+# as root
+blkid | grep swap
+vi /etc/initramfs-tools/conf.d/resume
+update-initramfs -u -k all
+```
