@@ -14465,5 +14465,83 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM8AAAABBcLtFw",
+            "number": 960,
+            "title": "fix: clippy warning on nightly",
+            "url": "https://github.com/zip-rs/zip2/pull/960",
+            "state": "MERGED",
+            "createdAt": "2026-08-29T13:01:01Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM8AAAABBgK4Zw",
+            "number": 961,
+            "title": "refactor: cleanup permissions related code",
+            "url": "https://github.com/zip-rs/zip2/pull/961",
+            "state": "MERGED",
+            "createdAt": "2026-08-30T12:35:52Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDODTQC188AAAABBptdSg",
+            "number": 4517,
+            "title": "feat: Update TypeScript version in installation instructions",
+            "url": "https://github.com/neovim/nvim-lspconfig/pull/4517",
+            "state": "OPEN",
+            "createdAt": "2026-08-31T20:01:01Z",
+            "baseRepository": {
+                "url": "https://github.com/neovim/nvim-lspconfig",
+                "name": "nvim-lspconfig",
+                "description": "Quickstart configs for Nvim LSP",
+                "owner": {
+                    "login": "neovim"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Lua",
+                            "color": "#000080"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

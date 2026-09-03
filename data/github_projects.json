@@ -342,7 +342,7 @@
         "url": "https://github.com/Its-Just-Nans/dotfiles",
         "name": "dotfiles",
         "description": "dotfiles",
-        "stargazerCount": 1,
+        "stargazerCount": 2,
         "archivedAt": null,
         "homepageUrl": "",
         "forkCount": 0,
@@ -981,6 +981,20 @@
         "licenseInfo": {
             "name": "Other"
         },
+        "primaryLanguage": {
+            "name": "Rust",
+            "color": "#dea584"
+        }
+    },
+    {
+        "url": "https://github.com/Its-Just-Nans/testing",
+        "name": "testing",
+        "description": "🌐",
+        "stargazerCount": 0,
+        "archivedAt": null,
+        "homepageUrl": "",
+        "forkCount": 0,
+        "licenseInfo": null,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
