@@ -212,6 +212,14 @@ sshuttle --dns -r user@host 0/0 -vvvv -x 0/0:22
 yt-dlp --yes-playlist -f ba -x --audio-format m4a -o "%(playlist_index)s_%(title)s.%(ext)s" "PLAYLIST"
 ```
 
+## SVG text to path
+
+```sh
+inkscape --export-plain-svg --export-type=svg input.svg --export-text-to-path -o out.svg
+# ore use rsvg
+# https://github.com/linebender/resvg
+```
+
 ## Random links
 
 - [https://web.maths.unsw.edu.au/~lafaye/CCM/](https://web.maths.unsw.edu.au/~lafaye/CCM/) - Comment ça marche
