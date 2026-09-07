@@ -30,9 +30,6 @@ G # go to last line
 gg # go to first line
 5G # go to line 5
 
-J # collapse next line with space
-gJ # collapse next line without space
-
 w  # move to beginning of next word
 b  # move to previous beginning of word
 e  # move to end of word
@@ -49,7 +46,13 @@ F<char> # to previous <char> cursor is on <char> (same line)
 t<char> # to next <char> cursor is before (same line)
 F<char> # to previous <char> cursor is after (same line)
 
-% # jump to bracket pair
+# you can combine
+df" # delete to " and "
+dt" #delete to "
+d% # delete to the pair bracket/parenthesis
+
+. # repead the delete
+; # repeat the find
 ```
 
 ## Moving cursor
@@ -70,9 +73,39 @@ F<char> # to previous <char> cursor is after (same line)
 - `I`: insert at the start of the line (before the first word)
 - `A`: append at the end of the line (after the last word)
 - `u`: undo
+- `CTRL` + `a`: increment number on the line
 - `CTRL` + `r`: undo undo
 - `CTRL` + `R`: insert register
 - `CTRL` + `R` + `=`: evaluate and insert (easing calculation)
+
+## Edition
+
+- `C` - delete to the end of line
+- `ci[` - or ci" ci( # change between the char
+- `ciw` - inner word
+- `daw` - word and space
+- `J` - collapse next line with space
+- `gJ` - collapse next line without space
+- `gU` - maj
+- `gUiw` - maj current word
+- `g~` - inverse on the deplacement
+- `g~$` - inverse until end of line
+- `dap` - delete paragraph and line
+- `dip` - delete paragraph
+- `gq` - reformat
+- `gqip` - reformat inner paragraph
+
+## Search
+
+```
+/<word> # search then enter then n and N
+?<word> # search before then enter
+* # search the current word
+% # jump to bracket pair
+
+ma # place a marker
+'a # go to marker
+```
 
 ## Shortcuts Normal mode
 
@@ -87,12 +120,9 @@ F<char> # to previous <char> cursor is after (same line)
 
 - `v`: select inside line (complete with `h` or `l`)
 - `V`: select lines (complete with `j` or `k`)
+- `CTRL` + `v`: start visual bloc
 - `y`: copy selection
 - `d`: delete selection
-
-## Search
-
-- `/SEARCH`: then `Enter` then `N` (previous) and `n` (next)
 
 ## Files
 
@@ -132,11 +162,6 @@ CTRL-w l
 # will insert 1
 ```
 
-```vi
-# sort a file
-1G!Gsort
-```
-
 ## System clipboard
 
 You should have a clipboard util like `xclip` installed
@@ -148,10 +173,7 @@ You should have a clipboard util like `xclip` installed
 
 ## Registers
 
-```vi
-# view the registers
-:registers
-```
+ - `:registers` or `:reg` - view the registers
 
 - The unnamed register `""`
 - The numbered registers `"0-9`: previously copied things
@@ -177,25 +199,25 @@ q<register><commands>q
 
 ## Commands
 
-```
-# to replace
-:%s/toto/tata/g
-
-# to wrap lines
-:set nowrap
-:set wrap
-```
+- `:s/toto/tata` - replace current line
+- `:%s/toto/tata/g` - replace in file
+- `:%s/toto/tata/gc` - ask yes no before replacing
+- `:g/WORD/d` - delete all lines with WORD
+- `:v/WORD/d` - delete all lines without WORD
+- `:g/word/normal <keys>` - execute on line with word
+- `1G!Gsort` - sort a file
+- `:sort` - sort file
+- `:sort u` - sort unique
+- `:set tw=20` - set width
+- `:set nowrap` - to disable wrap lines
+- `:set wrap` - to enable wrap lines
 
 ## Format json
 
-```txt
-# select the json with shift + V then run
-# to prettify
-:!jq
+Select the json with shift + V then run
 
-# to uglify
-:!jq -c
-```
+- `:!jq` - to prettify
+- `:!jq -c` - to uglify
 
 ## Windows
 
