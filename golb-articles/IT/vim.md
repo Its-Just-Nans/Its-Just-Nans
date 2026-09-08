@@ -97,15 +97,13 @@ d% # delete to the pair bracket/parenthesis
 
 ## Search
 
-```
-/<word> # search then enter then n and N
-?<word> # search before then enter
-* # search the current word
-% # jump to bracket pair
-
-ma # place a marker
-'a # go to marker
-```
+- `/<word>` - search then enter then n and N
+- `?<word>` - search before then enter
+- `//` - redo the search
+- `*` - search the current word
+- `%` - jump to bracket pair
+- `ma` - place a marker
+- `'a` - go to marker
 
 ## Shortcuts Normal mode
 
@@ -121,6 +119,9 @@ ma # place a marker
 - `v`: select inside line (complete with `h` or `l`)
 - `V`: select lines (complete with `j` or `k`)
 - `CTRL` + `v`: start visual bloc
+- `gh` - character-wise select mode
+- `gH` - line-wise select mode
+- `gCtrl-h` - block-wise select mode
 - `y`: copy selection
 - `d`: delete selection
 
