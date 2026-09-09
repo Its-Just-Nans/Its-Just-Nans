@@ -74,6 +74,7 @@ d% # delete to the pair bracket/parenthesis
 - `A`: append at the end of the line (after the last word)
 - `u`: undo
 - `CTRL` + `a`: increment number on the line
+- `CTRL` + `x`: decrement number on the line
 - `CTRL` + `r`: undo undo
 - `CTRL` + `R`: insert register
 - `CTRL` + `R` + `=`: evaluate and insert (easing calculation)
