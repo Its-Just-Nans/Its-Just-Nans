@@ -125,15 +125,7 @@ d% # delete to the pair bracket/parenthesis
 - `y`: copy selection
 - `d`: delete selection
 
-## Files
-
-```vim
-# open/create file in new tab
-:new filename.ext
-
-# open/create file in new vertical split
-:vert new filename.ext
-```
+## Windows
 
 ```vim
 # switch between splits
@@ -141,26 +133,6 @@ CTRL-w h
 CTRL-w j
 CTRL-w k
 CTRL-w l
-```
-
-```vim
-# copy full file
-:%y+
-
-# paste
-"P+
-```
-
-```vim
-# read and insert a file
-:r file.txt
-
-# launch shell commands
-:!echo 1
-
-# launch shell commands and capture output in the file
-:r! echo 1
-# will insert 1
 ```
 
 ## System clipboard
@@ -174,8 +146,7 @@ You should have a clipboard util like `xclip` installed
 
 ## Registers
 
- - `:registers` or `:reg` - view the registers
-
+- `:registers` or `:reg` - view the registers
 - The unnamed register `""`
 - The numbered registers `"0-9`: previously copied things
 - The small delete register `"-`
@@ -189,14 +160,9 @@ You should have a clipboard util like `xclip` installed
 
 ## Macros
 
-```vi
-q<register><commands>q
-
-# then to play it
-@<register>
-# then
-@@
-```
+- `q<register><commands>q` - record a macro
+- `@<register>` - then to play it
+- `@@` - replay the replayed macro
 
 ## Commands
 
@@ -212,6 +178,23 @@ q<register><commands>q
 - `:set tw=20` - set width
 - `:set nowrap` - to disable wrap lines
 - `:set wrap` - to enable wrap lines
+- `:new filename.ext` -  open/create file in new tab
+- `:vert new filename.ext` -  open/create file in new vertical split
+- `:%y+` - # copy full file
+- `:close` - close the window
+
+```vim
+# read and insert a file
+:r file.txt
+
+# launch shell commands
+:!echo 1
+
+# launch shell commands and capture output in the file
+:r! echo 1
+# will insert 1
+```
+
 
 ## Format json
 
