@@ -45,11 +45,11 @@ comm
 ### compression
 
 ```sh
-gzip
-gunzip
-# gzip FILE
-bzip2
-# bzip2 FILE
+gzip FILE
+gzip -d FILE
+
+bzip2 FILE
+bzip2 -d FILE
 ```
 
 ### get information about a file
@@ -161,6 +161,8 @@ kill %1
 # create
 # -c create -v verbose -z gzip -f archivename
 tar -cvzf archive.tar.gz directory
+# -c create -v verbose -j bzip2 -f archivename
+tar -cvjf archive.tar.bz directory
 
 # extract
 # -x extract -v verbose -f archivename -C directory
