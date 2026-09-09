@@ -122,3 +122,24 @@ git log --all --find-object=OBJECTID
 git fetch -u https://codeberg.org/org/repo master:master-local
 git switch master-local
 ```
+
+## Git bisect
+
+Useful to know which commit is wrong
+
+```sh
+git checkout master
+git bisect start
+git bisect bad # mark master as bad
+# go to a commit where is was working
+git checkout "$MY_WORKING_COMMIT"
+git bisect good
+# bisect will automatically move to the commit in between
+# do your test
+git bisect bad # if commit is not working
+git bisect good # if commit is working
+# bisect will again move you to a commit to test
+# an finally gives you the commit which broke
+# then to quit
+git bisect reset
+```
