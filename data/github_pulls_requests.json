@@ -5065,7 +5065,7 @@
             "number": 4667,
             "title": "Drag n Drop - WEB - stop reading dropped file",
             "url": "https://github.com/emilk/egui/pull/4667",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2024-06-16T12:54:23Z",
             "baseRepository": {
                 "url": "https://github.com/emilk/egui",
@@ -14604,6 +14604,188 @@
             "url": "https://github.com/emilk/egui/pull/8497",
             "state": "OPEN",
             "createdAt": "2026-09-04T15:42:46Z",
+            "baseRepository": {
+                "url": "https://github.com/emilk/egui",
+                "name": "egui",
+                "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+                "owner": {
+                    "login": "emilk"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Shell",
+                            "color": "#89e051"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM8AAAABCgRQ2w",
+            "number": 979,
+            "title": "fix: rewrite documentation of add_symlink_from_path",
+            "url": "https://github.com/zip-rs/zip2/pull/979",
+            "state": "MERGED",
+            "createdAt": "2026-09-07T10:25:38Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDODTQC188AAAABCiiIqg",
+            "number": 4524,
+            "title": "fix: remove typst_ls as deprecated",
+            "url": "https://github.com/neovim/nvim-lspconfig/pull/4524",
+            "state": "OPEN",
+            "createdAt": "2026-09-07T14:46:25Z",
+            "baseRepository": {
+                "url": "https://github.com/neovim/nvim-lspconfig",
+                "name": "nvim-lspconfig",
+                "description": "Quickstart configs for Nvim LSP",
+                "owner": {
+                    "login": "neovim"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Lua",
+                            "color": "#000080"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOGJ8Wfc8AAAABCqyTQw",
+            "number": 91,
+            "title": "fix: add pmtiles",
+            "url": "https://github.com/mmalecot/file-format/pull/91",
+            "state": "OPEN",
+            "createdAt": "2026-09-08T12:10:00Z",
+            "baseRepository": {
+                "url": "https://github.com/mmalecot/file-format",
+                "name": "file-format",
+                "description": "Crate for determining the file format of a given file or stream",
+                "owner": {
+                    "login": "mmalecot"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJ0PIWM8AAAABCslLLA",
+            "number": 5794,
+            "title": "porygon:0.1.1",
+            "url": "https://github.com/typst/packages/pull/5794",
+            "state": "OPEN",
+            "createdAt": "2026-09-08T15:36:47Z",
+            "baseRepository": {
+                "url": "https://github.com/typst/packages",
+                "name": "packages",
+                "description": "Packages for Typst.",
+                "owner": {
+                    "login": "typst"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM8AAAABCtcIpw",
+            "number": 981,
+            "title": "fix: add unix_mode when copy_raw_file",
+            "url": "https://github.com/zip-rs/zip2/pull/981",
+            "state": "MERGED",
+            "createdAt": "2026-09-08T17:21:53Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM8AAAABCtlowg",
+            "number": 982,
+            "title": "fix: copy extra fields when copy raw",
+            "url": "https://github.com/zip-rs/zip2/pull/982",
+            "state": "OPEN",
+            "createdAt": "2026-09-08T17:42:22Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOCd2s288AAAABC5NThg",
+            "number": 8549,
+            "title": "feat: add custom Collapsing Header",
+            "url": "https://github.com/emilk/egui/pull/8549",
+            "state": "OPEN",
+            "createdAt": "2026-09-09T20:37:13Z",
             "baseRepository": {
                 "url": "https://github.com/emilk/egui",
                 "name": "egui",
