@@ -1,9 +1,32 @@
-{
-    "golb.n4n5.dev": "Code Knowledge base",
-    "yakb.n4n5.dev": "Yet another Knowledge Base",
-    "rio.n4n5.dev": "RIO website",
-    "tarsier.n4n5.dev": "Simple image editor",
-    "galago.n4n5.dev": "Simple svg editor",
-    "wombat.n4n5.dev": "Simple hex file viewer",
-    "packages.n4n5.dev": ""
-}
+[
+    {
+        "domain": "golb.n4n5.dev",
+        "desc": "Code Knowledge base"
+    },
+    {
+        "domain": "yakb.n4n5.dev",
+        "desc": "Yet another Knowledge Base"
+    },
+    {
+        "domain": "rio.n4n5.dev",
+        "desc": "RIO website",
+        "hideIndex": true
+    },
+    {
+        "domain": "tarsier.n4n5.dev",
+        "desc": "Simple image editor"
+    },
+    {
+        "domain": "galago.n4n5.dev",
+        "desc": "Simple svg editor"
+    },
+    {
+        "domain": "wombat.n4n5.dev",
+        "desc": "Simple hex file viewer"
+    },
+    {
+        "domain": "packages.n4n5.dev",
+        "hideLinks": true,
+        "desc": ""
+    }
+]
