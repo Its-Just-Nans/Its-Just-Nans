@@ -1,6 +1,6 @@
 {
-    "github.com/Its-Just-Nans/Its-Just-Nans": 45829,
-    "github.com/Its-Just-Nans/Its-Just-Nans.github.io": 25467,
+    "github.com/Its-Just-Nans/Its-Just-Nans": 45833,
+    "github.com/Its-Just-Nans/Its-Just-Nans.github.io": 25475,
     "github.com/Its-Just-Nans/anrt-checker": 77,
     "github.com/Its-Just-Nans/apksig": 8678,
     "github.com/Its-Just-Nans/arduino-led-matrix": 17417,
@@ -8,8 +8,8 @@
     "github.com/Its-Just-Nans/astro-barchart": 428,
     "github.com/Its-Just-Nans/astro-index": 503,
     "github.com/Its-Just-Nans/astro-simple-carousel": 74,
-    "github.com/Its-Just-Nans/baobab": 211,
-    "github.com/Its-Just-Nans/bladvak": 347,
+    "github.com/Its-Just-Nans/baobab": 875,
+    "github.com/Its-Just-Nans/bladvak": 354,
     "github.com/Its-Just-Nans/businessfrance-checker": 9,
     "github.com/Its-Just-Nans/can-be-useful": 144283,
     "github.com/Its-Just-Nans/cors-proxy": 25,
@@ -21,7 +21,7 @@
     "github.com/Its-Just-Nans/dijkstra": 6147,
     "github.com/Its-Just-Nans/dockerizing-4g": 483,
     "github.com/Its-Just-Nans/docx-asn1": 1549,
-    "github.com/Its-Just-Nans/dotfiles": 1844,
+    "github.com/Its-Just-Nans/dotfiles": 1846,
     "github.com/Its-Just-Nans/events-hook": 46,
     "github.com/Its-Just-Nans/fiber-calculator": 9,
     "github.com/Its-Just-Nans/figer": 13,
@@ -66,6 +66,6 @@
     "github.com/Its-Just-Nans/testing": 10,
     "github.com/Its-Just-Nans/tiny-todo": 11,
     "github.com/Its-Just-Nans/whatisthis": 183,
-    "github.com/Its-Just-Nans/wombat": 1253,
+    "github.com/Its-Just-Nans/wombat": 1259,
     "github.com/Its-Just-Nans/yakb": 2656
 }

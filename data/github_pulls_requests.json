@@ -14803,5 +14803,31 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM8AAAABDIv_mg",
+            "number": 985,
+            "title": "feat: add comment and test for ZipStreamReader and symlinks",
+            "url": "https://github.com/zip-rs/zip2/pull/985",
+            "state": "MERGED",
+            "createdAt": "2026-09-11T11:41:09Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
