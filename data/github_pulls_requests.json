@@ -5767,7 +5767,7 @@
             "number": 8121,
             "title": "Add docs for gomobile",
             "url": "https://github.com/rclone/rclone/pull/8121",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2024-10-09T15:36:50Z",
             "baseRepository": {
                 "url": "https://github.com/rclone/rclone",
@@ -14706,7 +14706,7 @@
             "number": 5794,
             "title": "porygon:0.1.1",
             "url": "https://github.com/typst/packages/pull/5794",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-09-08T15:36:47Z",
             "baseRepository": {
                 "url": "https://github.com/typst/packages",
@@ -14756,9 +14756,9 @@
         "node": {
             "id": "PR_kwDOJaavgM8AAAABCtlowg",
             "number": 982,
-            "title": "fix: copy extra fields when copy raw",
+            "title": "fix: copy extra fields in raw_copy_file (#955)",
             "url": "https://github.com/zip-rs/zip2/pull/982",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-09-08T17:42:22Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
