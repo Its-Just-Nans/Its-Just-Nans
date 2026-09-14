@@ -182,6 +182,7 @@ You should have a clipboard util like `xclip` installed
 - `:new filename.ext` -  open/create file in new tab
 - `:vert new filename.ext` -  open/create file in new vertical split
 - `:%y+` - # copy full file
+- `:bd` - close the buffer
 - `:close` - close the window
 
 ```vim
