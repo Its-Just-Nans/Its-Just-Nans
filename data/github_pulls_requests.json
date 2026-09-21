@@ -14829,5 +14829,161 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOUav5hM8AAAABDfQXxQ",
+            "number": 1,
+            "title": "fix: Vec usage in legacy method",
+            "url": "https://github.com/zip-rs/zip2-ghsa-9hj8-73fh-9963/pull/1",
+            "state": "CLOSED",
+            "createdAt": "2026-09-14T17:31:06Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM8AAAABDghUFg",
+            "number": 990,
+            "title": "feat: read data descriptor from binary",
+            "url": "https://github.com/zip-rs/zip2/pull/990",
+            "state": "MERGED",
+            "createdAt": "2026-09-14T20:11:22Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM8AAAABDnBoaA",
+            "number": 994,
+            "title": "feat: add method `by_index_with_data_descriptor`",
+            "url": "https://github.com/zip-rs/zip2/pull/994",
+            "state": "OPEN",
+            "createdAt": "2026-09-15T12:59:06Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOUckymc8AAAABDya3Og",
+            "number": 1,
+            "title": " fix: correctly handle permissions from zip file",
+            "url": "https://github.com/zip-rs/zip2-ghsa-vv5m-jxxh-4627/pull/1",
+            "state": "MERGED",
+            "createdAt": "2026-09-16T15:14:24Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOUfUXzM8AAAABD_peCw",
+            "number": 1,
+            "title": "fix: improves AES hmac checks",
+            "url": "https://github.com/zip-rs/zip2-ghsa-8hxf-qr8p-62x4/pull/1",
+            "state": "MERGED",
+            "createdAt": "2026-09-17T21:12:50Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM8AAAABEGH83Q",
+            "number": 1002,
+            "title": "fix: parse the central header of the extended timestamp",
+            "url": "https://github.com/zip-rs/zip2/pull/1002",
+            "state": "MERGED",
+            "createdAt": "2026-09-18T14:39:37Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
