@@ -14832,32 +14832,6 @@
     },
     {
         "node": {
-            "id": "PR_kwDOUav5hM8AAAABDfQXxQ",
-            "number": 1,
-            "title": "fix: Vec usage in legacy method",
-            "url": "https://github.com/zip-rs/zip2-ghsa-9hj8-73fh-9963/pull/1",
-            "state": "CLOSED",
-            "createdAt": "2026-09-14T17:31:06Z",
-            "baseRepository": {
-                "url": "https://github.com/zip-rs/zip2",
-                "name": "zip2",
-                "description": "Zip implementation in Rust",
-                "owner": {
-                    "login": "zip-rs"
-                },
-                "languages": {
-                    "nodes": [
-                        {
-                            "name": "Rust",
-                            "color": "#dea584"
-                        }
-                    ]
-                }
-            }
-        }
-    },
-    {
-        "node": {
             "id": "PR_kwDOJaavgM8AAAABDghUFg",
             "number": 990,
             "title": "feat: read data descriptor from binary",
@@ -14980,6 +14954,162 @@
                         {
                             "name": "Rust",
                             "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM8AAAABE9X9LA",
+            "number": 1009,
+            "title": "refactor: move extract to own file",
+            "url": "https://github.com/zip-rs/zip2/pull/1009",
+            "state": "MERGED",
+            "createdAt": "2026-09-24T15:24:05Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBjbL7c8AAAABE_KpQw",
+            "number": 3311,
+            "title": "feat: add button quick TOTP",
+            "url": "https://github.com/PhilippC/keepass2android/pull/3311",
+            "state": "OPEN",
+            "createdAt": "2026-09-24T18:35:24Z",
+            "baseRepository": {
+                "url": "https://github.com/PhilippC/keepass2android",
+                "name": "keepass2android",
+                "description": "Password manager app for Android",
+                "owner": {
+                    "login": "PhilippC"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "C#",
+                            "color": "#7355dd"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOUrKpzM8AAAABFLeaXw",
+            "number": 1,
+            "title": "feat: add extract options for symlink",
+            "url": "https://github.com/zip-rs/zip2-ghsa-4v9h-p7m9-rh26/pull/1",
+            "state": "OPEN",
+            "createdAt": "2026-09-25T20:47:56Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOOd2sD88AAAABFiZ1eA",
+            "number": 1380,
+            "title": "hayro-write: Add example and derive `Debug`",
+            "url": "https://github.com/LaurenzV/hayro/pull/1380",
+            "state": "MERGED",
+            "createdAt": "2026-09-28T16:38:39Z",
+            "baseRepository": {
+                "url": "https://github.com/LaurenzV/hayro",
+                "name": "hayro",
+                "description": "A PDF interpreter and renderer in pure Rust.",
+                "owner": {
+                    "login": "LaurenzV"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOEz-dqs8AAAABFi2VQQ",
+            "number": 237,
+            "title": "fix: use re-export of egui",
+            "url": "https://github.com/emilk/eframe_template/pull/237",
+            "state": "OPEN",
+            "createdAt": "2026-09-28T17:22:40Z",
+            "baseRepository": {
+                "url": "https://github.com/emilk/eframe_template",
+                "name": "eframe_template",
+                "description": "The easy way to make a Rust app with a GUI",
+                "owner": {
+                    "login": "emilk"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Shell",
+                            "color": "#89e051"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOEz-dqs8AAAABFi4IBQ",
+            "number": 238,
+            "title": "fix: add app loader",
+            "url": "https://github.com/emilk/eframe_template/pull/238",
+            "state": "OPEN",
+            "createdAt": "2026-09-28T17:25:21Z",
+            "baseRepository": {
+                "url": "https://github.com/emilk/eframe_template",
+                "name": "eframe_template",
+                "description": "The easy way to make a Rust app with a GUI",
+                "owner": {
+                    "login": "emilk"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Shell",
+                            "color": "#89e051"
                         }
                     ]
                 }
