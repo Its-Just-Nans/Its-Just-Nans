@@ -3926,7 +3926,7 @@
             "baseRepository": {
                 "url": "https://github.com/image-size/image-size",
                 "name": "image-size",
-                "description": "Node module for detecting image dimensions",
+                "description": "This project is now maintained on Codeberg. ",
                 "owner": {
                     "login": "image-size"
                 },
@@ -11768,7 +11768,7 @@
             "number": 1356,
             "title": "Add `wheelchair_limited`",
             "url": "https://github.com/osmandapp/OsmAnd-resources/pull/1356",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-03-26T04:17:22Z",
             "baseRepository": {
                 "url": "https://github.com/osmandapp/OsmAnd-resources",
@@ -14862,7 +14862,7 @@
             "number": 994,
             "title": "feat: add method `by_index_with_data_descriptor`",
             "url": "https://github.com/zip-rs/zip2/pull/994",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-09-15T12:59:06Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
