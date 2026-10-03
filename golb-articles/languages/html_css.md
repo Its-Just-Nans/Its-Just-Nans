@@ -92,7 +92,7 @@ We can highlight text in a page with Chrome using a special hash/anchor :
 #:~:text=
 ```
 
-> The hash/anchor isn't stocked in `window.location.hash` !
+> The hash/anchor isn't stored in `window.location.hash` !
 
 Example of URL :
 
