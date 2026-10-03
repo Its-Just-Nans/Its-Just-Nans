@@ -1442,8 +1442,8 @@
                 "languages": {
                     "nodes": [
                         {
-                            "name": "Ruby",
-                            "color": "#701516"
+                            "name": "JavaScript",
+                            "color": "#f1e05a"
                         }
                     ]
                 }
@@ -2943,7 +2943,7 @@
             "baseRepository": {
                 "url": "https://github.com/withastro/astro",
                 "name": "astro",
-                "description": "The web framework for content-driven websites. ⭐️ Star to support our work!",
+                "description": "The web framework for content-driven websites.",
                 "owner": {
                     "login": "withastro"
                 },
@@ -2969,7 +2969,7 @@
             "baseRepository": {
                 "url": "https://github.com/withastro/astro",
                 "name": "astro",
-                "description": "The web framework for content-driven websites. ⭐️ Star to support our work!",
+                "description": "The web framework for content-driven websites.",
                 "owner": {
                     "login": "withastro"
                 },
@@ -3328,7 +3328,7 @@
             "number": 21,
             "title": "Make \"|\" optionnal in regex",
             "url": "https://github.com/adriweb/tivars_lib_cpp/pull/21",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2024-02-22T16:16:42Z",
             "baseRepository": {
                 "url": "https://github.com/adriweb/tivars_lib_cpp",
@@ -3900,7 +3900,7 @@
             "baseRepository": {
                 "url": "https://github.com/withastro/astro",
                 "name": "astro",
-                "description": "The web framework for content-driven websites. ⭐️ Star to support our work!",
+                "description": "The web framework for content-driven websites.",
                 "owner": {
                     "login": "withastro"
                 },
@@ -13796,7 +13796,7 @@
             "number": 8357,
             "title": "feat: add more documentation on `Image::texture_options`",
             "url": "https://github.com/emilk/egui/pull/8357",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-07-29T14:47:36Z",
             "baseRepository": {
                 "url": "https://github.com/emilk/egui",
@@ -14602,7 +14602,7 @@
             "number": 8497,
             "title": "doc: add documentation for fonts",
             "url": "https://github.com/emilk/egui/pull/8497",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2026-09-04T15:42:46Z",
             "baseRepository": {
                 "url": "https://github.com/emilk/egui",
@@ -14782,9 +14782,9 @@
         "node": {
             "id": "PR_kwDOCd2s288AAAABC5NThg",
             "number": 8549,
-            "title": "feat: add custom Collapsing Header",
+            "title": "Add `CollapsingHeader::custom` for collapsing headers with a custom header UI",
             "url": "https://github.com/emilk/egui/pull/8549",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-09-09T20:37:13Z",
             "baseRepository": {
                 "url": "https://github.com/emilk/egui",
@@ -15018,7 +15018,7 @@
             "number": 1,
             "title": "feat: add extract options for symlink",
             "url": "https://github.com/zip-rs/zip2-ghsa-4v9h-p7m9-rh26/pull/1",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-09-25T20:47:56Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -15110,6 +15110,58 @@
                         {
                             "name": "Shell",
                             "color": "#89e051"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOCd2s288AAAABGVZ0Eg",
+            "number": 8654,
+            "title": "feat: add utils methods to Rect (floor, round, ceil)",
+            "url": "https://github.com/emilk/egui/pull/8654",
+            "state": "MERGED",
+            "createdAt": "2026-10-02T18:37:07Z",
+            "baseRepository": {
+                "url": "https://github.com/emilk/egui",
+                "name": "egui",
+                "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+                "owner": {
+                    "login": "emilk"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Shell",
+                            "color": "#89e051"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOOd2sD88AAAABGmGiWw",
+            "number": 1391,
+            "title": "DRAFT: feat: add extract image on syntax",
+            "url": "https://github.com/LaurenzV/hayro/pull/1391",
+            "state": "OPEN",
+            "createdAt": "2026-10-04T20:57:23Z",
+            "baseRepository": {
+                "url": "https://github.com/LaurenzV/hayro",
+                "name": "hayro",
+                "description": "A PDF interpreter and renderer in pure Rust.",
+                "owner": {
+                    "login": "LaurenzV"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
                         }
                     ]
                 }
