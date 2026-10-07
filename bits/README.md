@@ -323,6 +323,7 @@
 
 ## tools
 
+- <https://getartcraft.com/apps> - Adobe alternatives
 - <https://ceph.io/> - distributed storage
 - <https://gifcap.dev/> - record your browser as GIF
 - <https://www.veripool.org/verilator/> - verilog simulator
