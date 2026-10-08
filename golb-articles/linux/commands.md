@@ -67,7 +67,7 @@ uniq
 
 ### get limits of the OS
 
-```sg
+```sh
 ulimit -a
 ```
 
@@ -135,24 +135,6 @@ mesg
 telnet
 ssh
 ftp
-```
-
-## Switch between background and foreground
-
-```sh
-command &
-fg # change to foreground
-# pause with CTRL+Z
-bg # sent it to background
-
-# list processes
-jobs
-
-# to kill a process
-kill %1
-
-# CTRL+Z # is SIGTSTP
-# kill -STOP # is SIGSTOP
 ```
 
 ## `tar` and `untar`
