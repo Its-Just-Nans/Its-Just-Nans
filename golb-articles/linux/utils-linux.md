@@ -379,3 +379,15 @@ blkid | grep swap
 vi /etc/initramfs-tools/conf.d/resume
 update-initramfs -u -k all
 ```
+
+## Double screen with X11
+
+```sh
+# see the two screen e.g HDMI-1 and eDP-1
+xrandr --query
+# enable HDMI-1
+xrandr --output HDMI-1 --auto
+# setup the HDMI at right of main screen
+xrandr --output HDMI-1 --auto --right-of eDP-1
+```
+

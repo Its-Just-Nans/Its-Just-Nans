@@ -131,3 +131,22 @@ curl https://example.org | grep a
 # if the pipe fails, the script will stop
 echo "end of script"
 ```
+
+## Switch between background and foreground
+
+```sh
+command &
+fg # change to foreground
+# pause with CTRL+Z
+bg # sent it to background
+
+# list processes
+jobs
+
+# to kill a process
+kill %1
+
+# CTRL+Z # is SIGTSTP
+# kill -STOP # is SIGSTOP
+```
+
