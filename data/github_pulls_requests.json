@@ -14884,32 +14884,6 @@
     },
     {
         "node": {
-            "id": "PR_kwDOUckymc8AAAABDya3Og",
-            "number": 1,
-            "title": " fix: correctly handle permissions from zip file",
-            "url": "https://github.com/zip-rs/zip2-ghsa-vv5m-jxxh-4627/pull/1",
-            "state": "MERGED",
-            "createdAt": "2026-09-16T15:14:24Z",
-            "baseRepository": {
-                "url": "https://github.com/zip-rs/zip2",
-                "name": "zip2",
-                "description": "Zip implementation in Rust",
-                "owner": {
-                    "login": "zip-rs"
-                },
-                "languages": {
-                    "nodes": [
-                        {
-                            "name": "Rust",
-                            "color": "#dea584"
-                        }
-                    ]
-                }
-            }
-        }
-    },
-    {
-        "node": {
             "id": "PR_kwDOUfUXzM8AAAABD_peCw",
             "number": 1,
             "title": "fix: improves AES hmac checks",
@@ -15006,32 +14980,6 @@
                         {
                             "name": "C#",
                             "color": "#7355dd"
-                        }
-                    ]
-                }
-            }
-        }
-    },
-    {
-        "node": {
-            "id": "PR_kwDOUrKpzM8AAAABFLeaXw",
-            "number": 1,
-            "title": "feat: add extract options for symlink",
-            "url": "https://github.com/zip-rs/zip2-ghsa-4v9h-p7m9-rh26/pull/1",
-            "state": "MERGED",
-            "createdAt": "2026-09-25T20:47:56Z",
-            "baseRepository": {
-                "url": "https://github.com/zip-rs/zip2",
-                "name": "zip2",
-                "description": "Zip implementation in Rust",
-                "owner": {
-                    "login": "zip-rs"
-                },
-                "languages": {
-                    "nodes": [
-                        {
-                            "name": "Rust",
-                            "color": "#dea584"
                         }
                     ]
                 }
