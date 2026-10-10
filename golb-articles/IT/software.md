@@ -128,11 +128,11 @@ server nginx restart
 
 Conf example
 
-```conf
-  merge_slashes off; # useful for a reverse proxy
-  location / {
-      proxy_pass          http://localhost:4200/;
-  }
+```txt
+merge_slashes off; # useful for a reverse proxy
+location / {
+  proxy_pass          http://localhost:4200/;
+}
 ```
 
 ## Apache not forwarding `Authorization` header to PHP
