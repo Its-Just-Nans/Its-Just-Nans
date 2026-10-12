@@ -15115,5 +15115,109 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM8AAAABHv1VWA",
+            "number": 1050,
+            "title": "feat: Add borrowing `inner` method to reader wrappers",
+            "url": "https://github.com/zip-rs/zip2/pull/1050",
+            "state": "OPEN",
+            "createdAt": "2026-10-10T22:28:36Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM8AAAABHzLBxQ",
+            "number": 1052,
+            "title": "refactor: CI explicit nightly in the command (nightly is already the default)",
+            "url": "https://github.com/zip-rs/zip2/pull/1052",
+            "state": "MERGED",
+            "createdAt": "2026-10-11T10:27:00Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOOd2sD88AAAABH0CFbw",
+            "number": 1406,
+            "title": "hayro-interpret: Use getter methods",
+            "url": "https://github.com/LaurenzV/hayro/pull/1406",
+            "state": "MERGED",
+            "createdAt": "2026-10-11T13:10:21Z",
+            "baseRepository": {
+                "url": "https://github.com/LaurenzV/hayro",
+                "name": "hayro",
+                "description": "A PDF interpreter and renderer in pure Rust.",
+                "owner": {
+                    "login": "LaurenzV"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOOd2sD88AAAABH0GOIw",
+            "number": 1407,
+            "title": "Fix clippy lints and update CI",
+            "url": "https://github.com/LaurenzV/hayro/pull/1407",
+            "state": "MERGED",
+            "createdAt": "2026-10-11T13:20:44Z",
+            "baseRepository": {
+                "url": "https://github.com/LaurenzV/hayro",
+                "name": "hayro",
+                "description": "A PDF interpreter and renderer in pure Rust.",
+                "owner": {
+                    "login": "LaurenzV"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
