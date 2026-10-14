@@ -8,6 +8,6 @@
 - [yakB](https://yakb.n4n5.dev/) - yet another knowledge base
 - [tarsier](https://tarsier.n4n5.dev/) - simple image editor
 - [galago](https://galago.n4n5.dev/) - simple svg editor
-- [wombat](https://wombat.n4n5.dev/) - simple hex file viewer
+- [wombat](https://wombat.n4n5.dev/) - simple file investigator
 
 Thanks for watching!
