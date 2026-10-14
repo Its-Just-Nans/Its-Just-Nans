@@ -13692,7 +13692,7 @@
             "number": 224,
             "title": "Add example to `Get` and `Set`",
             "url": "https://github.com/1Password/arboard/pull/224",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-07-19T09:44:35Z",
             "baseRepository": {
                 "url": "https://github.com/1Password/arboard",
@@ -15208,6 +15208,136 @@
                 "description": "A PDF interpreter and renderer in pure Rust.",
                 "owner": {
                     "login": "LaurenzV"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOGDPbr88AAAABICJLrA",
+            "number": 2478,
+            "title": "feat(cms): re-export cms dependencies",
+            "url": "https://github.com/RustCrypto/formats/pull/2478",
+            "state": "MERGED",
+            "createdAt": "2026-10-12T19:30:43Z",
+            "baseRepository": {
+                "url": "https://github.com/RustCrypto/formats",
+                "name": "formats",
+                "description": "Cryptography-related format encoders/decoders: DER, PEM, PKCS, PKIX",
+                "owner": {
+                    "login": "RustCrypto"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM8AAAABIC5mdQ",
+            "number": 1055,
+            "title": "test: add more tests on EOCD",
+            "url": "https://github.com/zip-rs/zip2/pull/1055",
+            "state": "MERGED",
+            "createdAt": "2026-10-12T20:54:27Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOOd2sD88AAAABIOgsNA",
+            "number": 1475,
+            "title": "hayro-interpret: Re-export `kurbo`",
+            "url": "https://github.com/LaurenzV/hayro/pull/1475",
+            "state": "MERGED",
+            "createdAt": "2026-10-13T17:34:09Z",
+            "baseRepository": {
+                "url": "https://github.com/LaurenzV/hayro",
+                "name": "hayro",
+                "description": "A PDF interpreter and renderer in pure Rust.",
+                "owner": {
+                    "login": "LaurenzV"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOOd2sD88AAAABIXZbIQ",
+            "number": 1489,
+            "title": "fix: use Box for metadata",
+            "url": "https://github.com/LaurenzV/hayro/pull/1489",
+            "state": "OPEN",
+            "createdAt": "2026-10-14T10:17:31Z",
+            "baseRepository": {
+                "url": "https://github.com/LaurenzV/hayro",
+                "name": "hayro",
+                "description": "A PDF interpreter and renderer in pure Rust.",
+                "owner": {
+                    "login": "LaurenzV"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOEq7Wgc8AAAABIepM3Q",
+            "number": 88,
+            "title": "feat: add example on document_info",
+            "url": "https://github.com/typst/pdf-writer/pull/88",
+            "state": "OPEN",
+            "createdAt": "2026-10-14T20:19:28Z",
+            "baseRepository": {
+                "url": "https://github.com/typst/pdf-writer",
+                "name": "pdf-writer",
+                "description": "A step-by-step PDF writer.",
+                "owner": {
+                    "login": "typst"
                 },
                 "languages": {
                     "nodes": [
