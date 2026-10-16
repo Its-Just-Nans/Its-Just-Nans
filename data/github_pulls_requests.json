@@ -15096,7 +15096,7 @@
             "number": 1391,
             "title": "DRAFT: feat: add extract image on syntax",
             "url": "https://github.com/LaurenzV/hayro/pull/1391",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2026-10-04T20:57:23Z",
             "baseRepository": {
                 "url": "https://github.com/LaurenzV/hayro",
@@ -15302,9 +15302,9 @@
         "node": {
             "id": "PR_kwDOOd2sD88AAAABIXZbIQ",
             "number": 1489,
-            "title": "fix: use Box for metadata",
+            "title": "hayro-syntax: Use boxed slices for fields in metadata",
             "url": "https://github.com/LaurenzV/hayro/pull/1489",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-10-14T10:17:31Z",
             "baseRepository": {
                 "url": "https://github.com/LaurenzV/hayro",
