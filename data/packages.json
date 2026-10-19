@@ -47,6 +47,8 @@
             "pdf_to_text": "https://github.com/Its-Just-Nans/can-be-useful"
         },
         "logos": {
+            "tramex": "https://tramex.github.io/tramex/icon-256.png",
+            "tramex-tools": "https://tramex.github.io/tramex/icon-256.png",
             "baobab": "https://n4n5.dev/baobab/baobab.png",
             "tarsier": "https://tarsier.n4n5.dev/tarsier.png",
             "galago": "https://galago.n4n5.dev/galago.png",
