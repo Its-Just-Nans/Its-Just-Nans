@@ -15122,7 +15122,7 @@
             "number": 1050,
             "title": "feat: Add borrowing `inner` method to reader wrappers",
             "url": "https://github.com/zip-rs/zip2/pull/1050",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-10-10T22:28:36Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -15338,6 +15338,136 @@
                 "description": "A step-by-step PDF writer.",
                 "owner": {
                     "login": "typst"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM8AAAABI5GB8w",
+            "number": 1082,
+            "title": "feat: add file_names_raw iterator",
+            "url": "https://github.com/zip-rs/zip2/pull/1082",
+            "state": "MERGED",
+            "createdAt": "2026-10-16T17:06:33Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM8AAAABI5PM0w",
+            "number": 1083,
+            "title": "ci: add BSD checks",
+            "url": "https://github.com/zip-rs/zip2/pull/1083",
+            "state": "MERGED",
+            "createdAt": "2026-10-16T17:20:32Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOAAsO6M8AAAABJVO1oQ",
+            "number": 164577,
+            "title": "fix(rustdoc): handle long line comment",
+            "url": "https://github.com/rust-lang/rust/pull/164577",
+            "state": "OPEN",
+            "createdAt": "2026-10-19T12:50:56Z",
+            "baseRepository": {
+                "url": "https://github.com/rust-lang/rust",
+                "name": "rust",
+                "description": "Empowering everyone to build reliable and efficient software.",
+                "owner": {
+                    "login": "rust-lang"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Makefile",
+                            "color": "#427819"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM8AAAABJVeRNw",
+            "number": 1104,
+            "title": "fix: apply unix permissions at creation",
+            "url": "https://github.com/zip-rs/zip2/pull/1104",
+            "state": "OPEN",
+            "createdAt": "2026-10-19T13:10:23Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM8AAAABJVeqlA",
+            "number": 1105,
+            "title": "feat: add some documentation of recent PRs",
+            "url": "https://github.com/zip-rs/zip2/pull/1105",
+            "state": "OPEN",
+            "createdAt": "2026-10-19T13:10:53Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
                 },
                 "languages": {
                     "nodes": [

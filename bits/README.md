@@ -290,6 +290,7 @@
 
 - <https://www.vesselfinder.com/> - boat finder
 - <https://www.marinetraffic.com/> - boat finder
+- <https://adresse.data.gouv.fr/> - address in France
 - <https://sdrmap.org> - amateur boat and plane map
 - <https://www.navily.com/> - boat anchorage
 - <https://sailboat.guide/> - sailboat guide
