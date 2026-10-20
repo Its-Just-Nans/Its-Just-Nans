@@ -15408,7 +15408,7 @@
             "number": 164577,
             "title": "fix(rustdoc): handle long line comment",
             "url": "https://github.com/rust-lang/rust/pull/164577",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2026-10-19T12:50:56Z",
             "baseRepository": {
                 "url": "https://github.com/rust-lang/rust",
@@ -15458,7 +15458,7 @@
         "node": {
             "id": "PR_kwDOJaavgM8AAAABJVeqlA",
             "number": 1105,
-            "title": "feat: add some documentation of recent PRs",
+            "title": "docs: add some documentation of recent PRs",
             "url": "https://github.com/zip-rs/zip2/pull/1105",
             "state": "OPEN",
             "createdAt": "2026-10-19T13:10:53Z",
@@ -15468,6 +15468,84 @@
                 "description": "Zip implementation in Rust",
                 "owner": {
                     "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOAwFpJc8AAAABJWS0UQ",
+            "number": 3620,
+            "title": "fix: override rust doc to handle long line comment",
+            "url": "https://github.com/rust-lang/docs.rs/pull/3620",
+            "state": "OPEN",
+            "createdAt": "2026-10-19T14:13:10Z",
+            "baseRepository": {
+                "url": "https://github.com/rust-lang/docs.rs",
+                "name": "docs.rs",
+                "description": "crates.io documentation generator",
+                "owner": {
+                    "login": "rust-lang"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOB8XdM88AAAABJZPlkg",
+            "number": 68,
+            "title": "feat: re-export 'kurbo' crate",
+            "url": "https://github.com/linebender/svgtypes/pull/68",
+            "state": "CLOSED",
+            "createdAt": "2026-10-19T18:19:33Z",
+            "baseRepository": {
+                "url": "https://github.com/linebender/svgtypes",
+                "name": "svgtypes",
+                "description": "A collection of parsers for SVG types.",
+                "owner": {
+                    "login": "linebender"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBEyLlM8AAAABJZRYqw",
+            "number": 1170,
+            "title": "Add kurbo to public exports in lib.rs",
+            "url": "https://github.com/linebender/resvg/pull/1170",
+            "state": "CLOSED",
+            "createdAt": "2026-10-19T18:22:05Z",
+            "baseRepository": {
+                "url": "https://github.com/linebender/resvg",
+                "name": "resvg",
+                "description": "An SVG rendering library.",
+                "owner": {
+                    "login": "linebender"
                 },
                 "languages": {
                     "nodes": [

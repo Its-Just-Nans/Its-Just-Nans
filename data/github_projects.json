@@ -482,7 +482,7 @@
         "name": "git-mover",
         "description": "Move git repositories to a new location",
         "stargazerCount": 2,
-        "archivedAt": null,
+        "archivedAt": "2026-10-20T12:08:10Z",
         "homepageUrl": "https://crates.io/crates/git-mover",
         "forkCount": 0,
         "licenseInfo": {
@@ -619,7 +619,7 @@
         "name": "lettre-hebdomadaire.github.io",
         "description": "🌐 - Le site de la LH, en attendant des jours plus heureux",
         "stargazerCount": 0,
-        "archivedAt": null,
+        "archivedAt": "2026-10-20T11:56:59Z",
         "homepageUrl": "",
         "forkCount": 0,
         "licenseInfo": null,
@@ -665,7 +665,7 @@
         "name": "music-exporter",
         "description": "Export music from different sources",
         "stargazerCount": 2,
-        "archivedAt": null,
+        "archivedAt": "2026-10-20T12:08:37Z",
         "homepageUrl": "https://crates.io/crates/music-exporter",
         "forkCount": 0,
         "licenseInfo": {
@@ -684,9 +684,7 @@
         "archivedAt": null,
         "homepageUrl": "https://docs.rs/n4n5",
         "forkCount": 1,
-        "licenseInfo": {
-            "name": "MIT License"
-        },
+        "licenseInfo": null,
         "primaryLanguage": {
             "name": "Rust",
             "color": "#dea584"
@@ -793,7 +791,7 @@
         "name": "rio",
         "description": "🌐 unofficial RIO website",
         "stargazerCount": 1,
-        "archivedAt": null,
+        "archivedAt": "2026-10-20T11:56:31Z",
         "homepageUrl": "https://rio.n4n5.dev/",
         "forkCount": 0,
         "licenseInfo": null,
