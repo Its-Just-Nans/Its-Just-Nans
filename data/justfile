@@ -1,2 +1,4 @@
 list:
     n4n5 list_crates --output-markdown rust_packages.md --output-list rust_packages.json --verbose
+    jq --indent 4 --slurpfile rrr rust_packages.json '.[0].list = $rrr[0]' packages.json > packages.tmp && mv packages.tmp packages.json
+

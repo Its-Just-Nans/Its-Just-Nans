@@ -3,33 +3,37 @@
         "name": "rust",
         "profile": "https://crates.io/users/Its-Just-Nans/",
         "url": "https://crates.io/crates/:package",
-        "profile_urls": ["https://img.shields.io/crates/udt/245139"],
+        "profile_urls": [
+            "https://img.shields.io/crates/udt/245139"
+        ],
         "list": [
+            "apksig",
+            "baobab",
+            "bladvak",
+            "bladvak-cli",
+            "cors-proxy",
+            "galago",
+            "galion",
+            "git-mover",
+            "jscontact",
+            "lemming",
+            "meka",
+            "music-exporter",
+            "n4n5",
+            "n4n5-ocr",
+            "n4n5-share",
             "notox",
+            "pdf_to_text",
+            "pngtools",
             "spust",
+            "suricate",
+            "tarsier",
+            "termpic",
             "tramex",
             "tramex-tools",
             "types_lte_3gpp",
-            "music-exporter",
-            "n4n5",
-            "cors-proxy",
-            "termpic",
-            "git-mover",
-            "baobab",
-            "apksig",
-            "jscontact",
-            "tarsier",
             "whatisthis",
-            "galago",
-            "bladvak",
-            "pngtools",
-            "galion",
             "wombat",
-            "meka",
-            "lemming",
-            "bladvak-cli",
-            "pdf_to_text",
-            "suricate",
             "yakb"
         ],
         "shields": [
@@ -39,7 +43,11 @@
             "https://img.shields.io/crates/v/:package"
         ],
         "repos": {
-            "n4n5": "https://github.com/Its-Just-Nans/n4n5-crate",
+            "n4n5": "https://github.com/Its-Just-Nans/n4n5-utilities",
+            "n4n5-share": "https://github.com/Its-Just-Nans/n4n5-utilities",
+            "n4n5-ocr": "https://github.com/Its-Just-Nans/n4n5-utilities",
+            "music-exporter": "https://github.com/Its-Just-Nans/n4n5-utilities",
+            "git-mover": "https://github.com/Its-Just-Nans/n4n5-utilities",
             "tramex": "https://github.com/tramex/tramex",
             "tramex-tools": "https://github.com/tramex/tramex",
             "types_lte_3gpp": "https://github.com/tramex/types_lte_3gpp",
@@ -126,15 +134,22 @@
     {
         "name": "go",
         "url": "https://pkg.go.dev/github.com/Its-Just-Nans/:package",
-        "list": ["go-calendar", "go-simple-uploader"]
+        "list": [
+            "go-calendar",
+            "go-simple-uploader"
+        ]
     },
     {
         "name": "lua",
         "username": "Its-Just-Nans",
         "profile": "https://luarocks.org/modules/Its-Just-Nans",
         "url": "https://luarocks.org/modules/Its-Just-Nans/:package",
-        "list": ["curriculum_vitae"],
-        "shields": ["https://img.shields.io/luarocks/v/Its-Just-Nans/:package"],
+        "list": [
+            "curriculum_vitae"
+        ],
+        "shields": [
+            "https://img.shields.io/luarocks/v/Its-Just-Nans/:package"
+        ],
         "repos": {
             "curriculum_vitae": "https://github.com/Its-Just-Nans/curriculum-vitae"
         }
@@ -143,8 +158,12 @@
         "name": "android",
         "profile": "",
         "url": "https://f-droid.org/packages/:package",
-        "list": ["dev.n4n5.sms2call"],
-        "shields": ["https://img.shields.io/f-droid/v/:package"],
+        "list": [
+            "dev.n4n5.sms2call"
+        ],
+        "shields": [
+            "https://img.shields.io/f-droid/v/:package"
+        ],
         "repos": {
             "dev.n4n5.sms2call": "https://github.com/Its-Just-Nans/sms2call"
         }
@@ -153,24 +172,32 @@
         "name": "github actions",
         "profile": "",
         "url": "https://github.com/marketplace/actions/:package",
-        "list": ["deploy-that"]
+        "list": [
+            "deploy-that"
+        ]
     },
     {
         "name": "typst",
         "profile": "https://typst.app/universe/search/?q=author:n4n5",
         "url": "https://typst.app/universe/package/:package",
-        "list": ["porygon"]
+        "list": [
+            "porygon"
+        ]
     },
     {
         "name": "thingiverse",
         "profile": "https://www.thingiverse.com/n4n5/designs",
-        "list": ["flat-hinge"],
+        "list": [
+            "flat-hinge"
+        ],
         "urls": {
             "flat-hinge": "https://www.thingiverse.com/thing:4928759"
         }
     },
     {
         "name": "bash",
-        "list": ["dotfiles"]
+        "list": [
+            "dotfiles"
+        ]
     }
 ]

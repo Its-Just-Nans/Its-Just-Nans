@@ -677,8 +677,8 @@
         }
     },
     {
-        "url": "https://github.com/Its-Just-Nans/n4n5-crate",
-        "name": "n4n5-crate",
+        "url": "https://github.com/Its-Just-Nans/n4n5-utilities",
+        "name": "n4n5-utilities",
         "description": "n4n5's utility crate",
         "stargazerCount": 1,
         "archivedAt": null,
