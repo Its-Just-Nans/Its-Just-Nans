@@ -184,6 +184,7 @@ You should have a clipboard util like `xclip` installed
 - `:%y+` - # copy full file
 - `:bd` - close the buffer
 - `:close` - close the window
+- `:w ++p` - write file and create directories
 
 ```vim
 # read and insert a file
