@@ -58,6 +58,10 @@ The result:
 | `.s`  |   Assembler   |  `.o`  |
 | `.o`  | Linker/Loader | `.out` |
 
+## Linker
+
+> `LD_LIBRARY_PATH`: to specify a path to search
+
 ## Vocabulary
 
 - A `function` returns a value
