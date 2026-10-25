@@ -14884,32 +14884,6 @@
     },
     {
         "node": {
-            "id": "PR_kwDOUfUXzM8AAAABD_peCw",
-            "number": 1,
-            "title": "fix: improves AES hmac checks",
-            "url": "https://github.com/zip-rs/zip2-ghsa-8hxf-qr8p-62x4/pull/1",
-            "state": "MERGED",
-            "createdAt": "2026-09-17T21:12:50Z",
-            "baseRepository": {
-                "url": "https://github.com/zip-rs/zip2",
-                "name": "zip2",
-                "description": "Zip implementation in Rust",
-                "owner": {
-                    "login": "zip-rs"
-                },
-                "languages": {
-                    "nodes": [
-                        {
-                            "name": "Rust",
-                            "color": "#dea584"
-                        }
-                    ]
-                }
-            }
-        }
-    },
-    {
-        "node": {
             "id": "PR_kwDOJaavgM8AAAABEGH83Q",
             "number": 1002,
             "title": "fix: parse the central header of the extended timestamp",
@@ -15434,7 +15408,7 @@
             "number": 1104,
             "title": "fix: apply unix permissions at creation",
             "url": "https://github.com/zip-rs/zip2/pull/1104",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-10-19T13:10:23Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -15460,7 +15434,7 @@
             "number": 1105,
             "title": "docs: add some documentation of recent PRs",
             "url": "https://github.com/zip-rs/zip2/pull/1105",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-10-19T13:10:53Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -15590,7 +15564,7 @@
             "number": 1120,
             "title": "fix: raw_copy_file should work with any extra fields",
             "url": "https://github.com/zip-rs/zip2/pull/1120",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-10-20T20:05:37Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -15616,7 +15590,7 @@
             "number": 1125,
             "title": "test: add test for the previous MR #1107",
             "url": "https://github.com/zip-rs/zip2/pull/1125",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-10-21T11:32:13Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -15682,6 +15656,84 @@
                         {
                             "name": "HTML",
                             "color": "#e34c26"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOB8XdM88AAAABJ323Pg",
+            "number": 69,
+            "title": "perf: remove vec in paint_order.rs",
+            "url": "https://github.com/linebender/svgtypes/pull/69",
+            "state": "OPEN",
+            "createdAt": "2026-10-21T19:55:45Z",
+            "baseRepository": {
+                "url": "https://github.com/linebender/svgtypes",
+                "name": "svgtypes",
+                "description": "A collection of parsers for SVG types.",
+                "owner": {
+                    "login": "linebender"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOB8XdM88AAAABKQ7E_A",
+            "number": 70,
+            "title": "feat: remove more vec usage",
+            "url": "https://github.com/linebender/svgtypes/pull/70",
+            "state": "OPEN",
+            "createdAt": "2026-10-23T13:51:34Z",
+            "baseRepository": {
+                "url": "https://github.com/linebender/svgtypes",
+                "name": "svgtypes",
+                "description": "A collection of parsers for SVG types.",
+                "owner": {
+                    "login": "linebender"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM8AAAABKkM7MA",
+            "number": 1174,
+            "title": "fix: store the raw count instead of a bool",
+            "url": "https://github.com/zip-rs/zip2/pull/1174",
+            "state": "OPEN",
+            "createdAt": "2026-10-25T10:45:37Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
                         }
                     ]
                 }
