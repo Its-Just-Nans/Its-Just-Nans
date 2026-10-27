@@ -106,11 +106,6 @@
 
 - <https://www.youtube.com/watch?v=-5tak0tHqIg> - externOS
 - <https://www.youtube.com/watch?v=hvVXj1mMHWs> - Xpider - World's Cutest Spider Robot!
-- <https://www.youtube.com/playlist?list=PLjS13O8ZcTgYIn2cPTT-uSOF8G0CBrtrZ> - Des atomes et l'électricité
-- <https://www.youtube.com/playlist?list=PLjS13O8ZcTgZpoGv5QAMoHt4be6gIcjJU> - Voyage en électricité
-- <https://www.youtube.com/playlist?list=PLjS13O8ZcTgY_7sK64W6wDdfzdZvVshiE> - Petit voyage en électricité
-- <https://www.youtube.com/playlist?list=PLCwXWOyIR22veT31gK5JwmqxuVc0Uoy8a> - Voyage au pays des maths
-- <https://www.youtube.com/playlist?list=PLSFF03yVNdA6bGYAUyLYRopM2bZbyJuQE> - Le coeur a ses raisons saison 2
 - <https://www.youtube.com/watch?v=BieAw6lwntU> - Matrix protocol - just use Matrix.
 - <https://www.youtube.com/watch?v=OAH0MoAv2CI> - Cuts & Transitions 101
 - <https://www.youtube.com/@Reducible> - how some things work
@@ -119,6 +114,8 @@
 
 ## reading
 
+- <https://www.confessions-voleur.net> - Laurent Chemla
+- <https://pomax.github.io/bezierinfo/> - A primer on Bézier Curves
 - <https://www.fibre.wiki/> - optical fiber wiki
 - <https://www.numbeo.com/cost-of-living/> - compare cost of living
 - <https://ohshitgit.com/> - maybe save your git

@@ -14971,7 +14971,7 @@
             "baseRepository": {
                 "url": "https://github.com/LaurenzV/hayro",
                 "name": "hayro",
-                "description": "A PDF interpreter and renderer in pure Rust.",
+                "description": "A set of Rust crates for parsing, interpreting and rendering PDF files.",
                 "owner": {
                     "login": "LaurenzV"
                 },
@@ -15075,7 +15075,7 @@
             "baseRepository": {
                 "url": "https://github.com/LaurenzV/hayro",
                 "name": "hayro",
-                "description": "A PDF interpreter and renderer in pure Rust.",
+                "description": "A set of Rust crates for parsing, interpreting and rendering PDF files.",
                 "owner": {
                     "login": "LaurenzV"
                 },
@@ -15153,7 +15153,7 @@
             "baseRepository": {
                 "url": "https://github.com/LaurenzV/hayro",
                 "name": "hayro",
-                "description": "A PDF interpreter and renderer in pure Rust.",
+                "description": "A set of Rust crates for parsing, interpreting and rendering PDF files.",
                 "owner": {
                     "login": "LaurenzV"
                 },
@@ -15179,7 +15179,7 @@
             "baseRepository": {
                 "url": "https://github.com/LaurenzV/hayro",
                 "name": "hayro",
-                "description": "A PDF interpreter and renderer in pure Rust.",
+                "description": "A set of Rust crates for parsing, interpreting and rendering PDF files.",
                 "owner": {
                     "login": "LaurenzV"
                 },
@@ -15257,7 +15257,7 @@
             "baseRepository": {
                 "url": "https://github.com/LaurenzV/hayro",
                 "name": "hayro",
-                "description": "A PDF interpreter and renderer in pure Rust.",
+                "description": "A set of Rust crates for parsing, interpreting and rendering PDF files.",
                 "owner": {
                     "login": "LaurenzV"
                 },
@@ -15283,7 +15283,7 @@
             "baseRepository": {
                 "url": "https://github.com/LaurenzV/hayro",
                 "name": "hayro",
-                "description": "A PDF interpreter and renderer in pure Rust.",
+                "description": "A set of Rust crates for parsing, interpreting and rendering PDF files.",
                 "owner": {
                     "login": "LaurenzV"
                 },
@@ -15460,7 +15460,7 @@
             "number": 3620,
             "title": "fix: override rust doc to handle long line comment",
             "url": "https://github.com/rust-lang/docs.rs/pull/3620",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-10-19T14:13:10Z",
             "baseRepository": {
                 "url": "https://github.com/rust-lang/docs.rs",
@@ -15720,7 +15720,7 @@
             "number": 1174,
             "title": "fix: store the raw count instead of a bool",
             "url": "https://github.com/zip-rs/zip2/pull/1174",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-10-25T10:45:37Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -15734,6 +15734,32 @@
                         {
                             "name": "Rust",
                             "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOEn3Lis8AAAABKtviZw",
+            "number": 3199,
+            "title": "Update label for blood components in JSON",
+            "url": "https://github.com/openstreetmap/id-tagging-schema/pull/3199",
+            "state": "OPEN",
+            "createdAt": "2026-10-26T08:00:24Z",
+            "baseRepository": {
+                "url": "https://github.com/openstreetmap/id-tagging-schema",
+                "name": "id-tagging-schema",
+                "description": "🆔🏷 The presets and other tagging data used by the iD editor",
+                "owner": {
+                    "login": "openstreetmap"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "JavaScript",
+                            "color": "#f1e05a"
                         }
                     ]
                 }
