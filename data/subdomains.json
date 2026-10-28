@@ -23,10 +23,5 @@
     {
         "domain": "wombat.n4n5.dev",
         "desc": "Simple file investigator"
-    },
-    {
-        "domain": "packages.n4n5.dev",
-        "hideLinks": true,
-        "desc": ""
     }
 ]
