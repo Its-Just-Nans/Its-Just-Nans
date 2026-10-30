@@ -3223,15 +3223,15 @@
             "id": "PR_kwDOBag6qc5lwydi",
             "number": 9816,
             "title": "docs: Add docs for Mermaid Component",
-            "url": "https://github.com/facebook/docusaurus/pull/9816",
+            "url": "https://github.com/meta/docusaurus/pull/9816",
             "state": "MERGED",
             "createdAt": "2024-02-01T22:38:32Z",
             "baseRepository": {
-                "url": "https://github.com/facebook/docusaurus",
+                "url": "https://github.com/meta/docusaurus",
                 "name": "docusaurus",
                 "description": "Easy to maintain open source documentation websites.",
                 "owner": {
-                    "login": "facebook"
+                    "login": "meta"
                 },
                 "languages": {
                     "nodes": [
@@ -15616,7 +15616,7 @@
             "number": 614,
             "title": "feat: add Clone and Debug to ArcAppendIter",
             "url": "https://github.com/linebender/kurbo/pull/614",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-10-21T17:09:37Z",
             "baseRepository": {
                 "url": "https://github.com/linebender/kurbo",
@@ -15668,7 +15668,7 @@
             "number": 69,
             "title": "perf: remove vec in paint_order.rs",
             "url": "https://github.com/linebender/svgtypes/pull/69",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-10-21T19:55:45Z",
             "baseRepository": {
                 "url": "https://github.com/linebender/svgtypes",
@@ -15694,7 +15694,7 @@
             "number": 70,
             "title": "feat: remove more vec usage",
             "url": "https://github.com/linebender/svgtypes/pull/70",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2026-10-23T13:51:34Z",
             "baseRepository": {
                 "url": "https://github.com/linebender/svgtypes",
@@ -15772,7 +15772,7 @@
             "number": 1210,
             "title": "feat: add index_for_name_raw",
             "url": "https://github.com/zip-rs/zip2/pull/1210",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-10-28T09:45:35Z",
             "baseRepository": {
                 "url": "https://github.com/zip-rs/zip2",
@@ -15780,6 +15780,58 @@
                 "description": "Zip implementation in Rust",
                 "owner": {
                     "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBQN_-M8AAAABLUYhwg",
+            "number": 260,
+            "title": "feat: fix a typo and gate test",
+            "url": "https://github.com/rusticata/x509-parser/pull/260",
+            "state": "OPEN",
+            "createdAt": "2026-10-28T17:07:19Z",
+            "baseRepository": {
+                "url": "https://github.com/rusticata/x509-parser",
+                "name": "x509-parser",
+                "description": "X.509 parser written in pure Rust. Fast, zero-copy, safe.",
+                "owner": {
+                    "login": "rusticata"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBQN_-M8AAAABLUgu5A",
+            "number": 261,
+            "title": "fix: CI with cargo clippy",
+            "url": "https://github.com/rusticata/x509-parser/pull/261",
+            "state": "OPEN",
+            "createdAt": "2026-10-28T17:17:02Z",
+            "baseRepository": {
+                "url": "https://github.com/rusticata/x509-parser",
+                "name": "x509-parser",
+                "description": "X.509 parser written in pure Rust. Fast, zero-copy, safe.",
+                "owner": {
+                    "login": "rusticata"
                 },
                 "languages": {
                     "nodes": [
