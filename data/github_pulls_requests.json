@@ -11196,7 +11196,7 @@
             "number": 153633,
             "title": "feat: improve `Cell` doc",
             "url": "https://github.com/rust-lang/rust/pull/153633",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-03-10T02:37:29Z",
             "baseRepository": {
                 "url": "https://github.com/rust-lang/rust",
@@ -15832,6 +15832,32 @@
                 "description": "X.509 parser written in pure Rust. Fast, zero-copy, safe.",
                 "owner": {
                     "login": "rusticata"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOB8XdM88AAAABL-r8vQ",
+            "number": 73,
+            "title": "fix: remove vec in path.rs",
+            "url": "https://github.com/linebender/svgtypes/pull/73",
+            "state": "CLOSED",
+            "createdAt": "2026-10-31T15:24:20Z",
+            "baseRepository": {
+                "url": "https://github.com/linebender/svgtypes",
+                "name": "svgtypes",
+                "description": "A collection of parsers for SVG types.",
+                "owner": {
+                    "login": "linebender"
                 },
                 "languages": {
                     "nodes": [
