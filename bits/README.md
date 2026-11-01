@@ -10,16 +10,9 @@
 ## cool project
 
 - <https://github.com/alicevision/meshroom>
-- <https://github.com/udevbe/greenfield>
+- <https://github.com/udevbe/greenfield> - HTML 5 Wayland
 - <https://github.com/adafruit/Adafruit_ILI9341>
-- <https://github.com/vosen/ZLUDA> - CUDA for AMD
 - <https://px4.io/> - Open Source Autopilot for Drone
-
-## Others
-
-- <https://eures.europa.eu/>
-- <https://france-volontaires.org/>
-- <https://mon-vie-via.businessfrance.fr/>
 
 ## Design
 
@@ -31,7 +24,6 @@
 - <https://www.searchsystem.co/>
 - <https://uxkits.com/products/website-deck-of-cards>
 - <https://www.forrestgoods.com/shop/double-deck-deal-the-font-and-design-decks>
-- <https://themes-pixeden.com/demos/?theme=Glazzed> - dashboards
 - <https://github.com/qdozaq/snake-cubed> - 3D game
 - <https://dustinbrett.com/> - daedalOS
 - <https://jayweeks.com/medusae/> - 3D medusae
@@ -67,7 +59,6 @@
 - <https://mempool.space/> - bitcoin blocks
 - <https://http.cat/> - http status cats
 - <https://turnoff.us/> - nice geek comics
-- <https://github.com/sickcodes/Docker-OSX> - run macOS VM in a Docker
 
 ## CTFs and cybersecurity
 
@@ -286,6 +277,7 @@
 ## IRL tools
 
 - <https://lagrandecarte.fr> - France Open data
+- <https://panoramax.fr/> - Alternative to Street view
 - <https://www.vesselfinder.com/> - boat finder
 - <https://www.marinetraffic.com/> - boat finder
 - <https://adresse.data.gouv.fr/> - address in France
@@ -319,9 +311,13 @@
 - <https://recomedicales.fr/> - medecine
 - <https://ib.bioninja.com.au/>
 - <https://www.onezoom.org/life/> - map of animals
+- <https://eures.europa.eu/>
+- <https://france-volontaires.org/>
+- <https://mon-vie-via.businessfrance.fr/>
 
 ## tools
 
+- <https://github.com/vosen/ZLUDA> - CUDA for AMD
 - <https://getartcraft.com/apps> - Adobe alternatives
 - <https://ceph.io/> - distributed storage
 - <https://gifcap.dev/> - record your browser as GIF
@@ -390,6 +386,7 @@
 - <https://devenv.sh/> - dev environment with nix
 - <https://mise.jdx.dev/> - task runner and more
 - <https://github.com/casey/just> - task runner
+- <https://github.com/sickcodes/Docker-OSX> - run macOS VM in a Docker
 - <https://gnucobol.sourceforge.io/> - COBOL compiler
 - <https://github.com/bloomberg/memray> - python memory profiler
 - <https://github.com/tungs/timecut> - record smooth movies of web pages
