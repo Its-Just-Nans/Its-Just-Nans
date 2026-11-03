@@ -391,3 +391,10 @@ xrandr --output HDMI-1 --auto
 xrandr --output HDMI-1 --auto --right-of eDP-1
 ```
 
+## Pipewire
+
+```sh
+wpctl status
+wpctl set-default <ID>
+```
+
