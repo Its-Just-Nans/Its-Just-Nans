@@ -6,6 +6,7 @@
 
 - <https://tinytapeout.com/>
 - <https://developers.google.com/silicon>
+- <https://jaso1024.com/mvidia/>
 
 ## cool project
 

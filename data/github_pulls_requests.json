@@ -15869,5 +15869,57 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBEyLlM8AAAABMQoWwQ",
+            "number": 1218,
+            "title": "fix: check for loops in HrefIter",
+            "url": "https://github.com/linebender/resvg/pull/1218",
+            "state": "OPEN",
+            "createdAt": "2026-11-02T09:06:05Z",
+            "baseRepository": {
+                "url": "https://github.com/linebender/resvg",
+                "name": "resvg",
+                "description": "An SVG rendering library.",
+                "owner": {
+                    "login": "linebender"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOBEyLlM8AAAABMRt_NA",
+            "number": 1219,
+            "title": "fix: check for loops in clippath",
+            "url": "https://github.com/linebender/resvg/pull/1219",
+            "state": "OPEN",
+            "createdAt": "2026-11-02T10:33:27Z",
+            "baseRepository": {
+                "url": "https://github.com/linebender/resvg",
+                "name": "resvg",
+                "description": "An SVG rendering library.",
+                "owner": {
+                    "login": "linebender"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
