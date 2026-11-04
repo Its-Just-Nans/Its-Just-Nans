@@ -8998,8 +8998,8 @@
                 "languages": {
                     "nodes": [
                         {
-                            "name": "Astro",
-                            "color": "#ff5a03"
+                            "name": "Dockerfile",
+                            "color": "#384d54"
                         }
                     ]
                 }
@@ -9024,8 +9024,8 @@
                 "languages": {
                     "nodes": [
                         {
-                            "name": "Astro",
-                            "color": "#ff5a03"
+                            "name": "Dockerfile",
+                            "color": "#384d54"
                         }
                     ]
                 }
@@ -9076,8 +9076,8 @@
                 "languages": {
                     "nodes": [
                         {
-                            "name": "Astro",
-                            "color": "#ff5a03"
+                            "name": "Dockerfile",
+                            "color": "#384d54"
                         }
                     ]
                 }
@@ -15874,9 +15874,9 @@
         "node": {
             "id": "PR_kwDOBEyLlM8AAAABMQoWwQ",
             "number": 1218,
-            "title": "fix: check for loops in HrefIter",
+            "title": "fix: check for loops in `HrefIter`",
             "url": "https://github.com/linebender/resvg/pull/1218",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-11-02T09:06:05Z",
             "baseRepository": {
                 "url": "https://github.com/linebender/resvg",

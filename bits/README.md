@@ -379,6 +379,7 @@
 - <https://github.com/luigifcruz/CyberEther> - SDR
 - <https://github.com/gqrx-sdr/gqrx> - SDR
 - <https://github.com/antirez/dump1090> - SDR
+- <https://cdecl.org/> - C declaration translator
 
 ### CLI tools
 
