@@ -398,3 +398,16 @@ wpctl status
 wpctl set-default <ID>
 ```
 
+## shellcheck
+
+```sh
+shellcheck myscript.sh
+shellcheck **/*.sh
+```
+
+## strace
+
+```sh
+strace -p PID_TO_CHECK -s 1024
+```
+

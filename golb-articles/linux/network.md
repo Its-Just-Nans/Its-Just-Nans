@@ -131,6 +131,9 @@ nmcli dev set INTERFACE managed no
 ```sh
 # see the interfaces
 iw dev
+
+# watch event
+iw --debug event -f
 ```
 
 ## Restart Wifi

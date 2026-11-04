@@ -98,6 +98,13 @@ iw "$INTERFACE" set type managed
 ip link set "$INTERFACE" up
 ```
 
+## pcap files
+
+```sh
+# keep only 70 000 first packet of recording
+editcap -r input.pcapng output_first70000.pcapng 0-69999
+```
+
 ## Locales
 
 ```sh
