@@ -11,61 +11,38 @@ title: Bash
 cmd > FILE
 # append to FILE
 cmd >> FILE
-```
 
-```sh
+# stdin
+cmd < FILE
+cmd <<< "string"
+
+# redirect stdout and stderr to FILE
 cmd &> FILE
-
+# or
 cmd >& FILE
-```
 
-> redirect stdout and stderr to FILE
-
-```sh
+# The standard output of cmd is connected via a pipe to the standard input of cmd2.
 cmd | cmd2
-```
 
-> The standard output of cmd is connected via a pipe to the standard input of cmd2.
-
-```sh
+# cmd's standard error, in addition to its standard output, is connected to cmd2's standard input through the pipe
 cmd |& cmd2
 ```
 
-> cmd's standard error, in addition to its standard output, is connected to cmd2's standard input through the pipe
-
-## Standard input
+## Syntax
 
 ```sh
-cmd < FILE
-cmd <<< "string"
-```
-
-## Pipe
-
-```sh
-CMD_1 | CMD_2
-```
-
-## Multiple commands
-
-```sh
+# multiple commands
 CMD_1 ; CMD_2 ; CMD_3
-```
 
-## Background task
-
-```sh
+# Background task
 CMD &
-```
 
-## Conditional commands
-
-```sh
+# Conditional commands
 CMD_1 && CMD_2
 CMD_1 || CMD_2
 ```
 
-## Test flags
+## `test` flags
 
 - `-e` : True if the file exists (any type: file, directory, etc.)
 - `-s` : True if the file exists and is non-empty
