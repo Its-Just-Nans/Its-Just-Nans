@@ -171,8 +171,11 @@ You should have a clipboard util like `xclip` installed
 - `:%s/toto/tata/g` - replace in file
 - `:%s/toto/tata/gc` - ask yes no before replacing
 - `:g/WORD/d` - delete all lines with WORD
-- `:v/WORD/d` - delete all lines without WORD
+- `:g@WORD@d` - delete all lines with WORD (change of delimiter)
+- `:v/WORD/d` - delete all lines without WORD (or `:g!/`)
+- `:g/word/g/name/d` - execute on line with word and name
 - `:g/word/normal <keys>` - execute on line with word
+- `:g/word/normal @a` - execute a macro on line with word
 - `1G!Gsort` - sort a file
 - `:sort` - sort file
 - `:sort u` - sort unique
@@ -185,19 +188,10 @@ You should have a clipboard util like `xclip` installed
 - `:bd` - close the buffer
 - `:close` - close the window
 - `:w ++p` - write file and create directories
-
-```vim
-# read and insert a file
-:r file.txt
-
-# launch shell commands
-:!echo 1
-
-# launch shell commands and capture output in the file
-:r! echo 1
-# will insert 1
-```
-
+- `:r file.txt` - read and insert a file
+- `:!echo 1` - launch shell commands
+- `:r !echo 1` - launch shell commands and capture output in the file (will insert 1)
+- `:w !cmd` - write to external
 
 ## Format json
 
@@ -213,11 +207,36 @@ Select the json with shift + V then run
 - `CTRL+w` + `CTRL+v`: split window (or `:vs`)
 - `CTRL+w` + `l`: move to right window
 - `CTRL+w` + `j`: move to down window
+- `CTRL+w` + `v`: open a new vertical split (`:vsplit`)
+- `CTRL+w` + `s`: open a new horizontal split (`:split`)
+- `CTRL+w` + `c`: close window
+- `CTRL+w` + `o`: current window the only screen
+
+## Tabs
+
+- `:tabnew file.txt`: Open file.txt in a new tab
+- `:tabclose`: Close the current tab
+- `:tabnext`: Go to next tab
+- `:tabprevious`: Go to previous tab
+- `:tablast`:  Go to last tab
+- `:tabfirst`: Go to first tab
+- `gt`: go to next tab
+- `gT`: go to previous tab
 
 ## Comment
 
 - `gcc`: Comment line
 - `{Visual}gc`: Comment or uncomment the selected line(s).
+
+## Tags
+
+```sh
+# generate tags
+ctags -R --exclude=node_modules .
+```
+
+- `CTRL+]`: jump to the tag
+- `:tag NAME`: jump to the tag
 
 ## Links
 
