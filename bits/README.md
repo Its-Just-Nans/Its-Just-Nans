@@ -67,7 +67,8 @@
 - <https://beacondb.net/> - wireless geolocation database
 - <https://crackmes.one/> - reverse
 - <https://www.newbiecontest.org/>
-- <https://www.how2neovim.io/> - how to set up neovim
+- <https://github.com/iggredible/Learn-Vim> - learn vim
+- <https://vim.rtorr.com/> - vim cheat sheet
 - <https://www.root-me.org/>
 - <https://pwn.college/>
 - <https://microcorruption.com/> - pwn / iot
@@ -354,7 +355,6 @@
 - <https://carbon.now.sh/> - display code as image
 - <https://www.piliapp.com/> - many useful tools
 - <https://github.com/0xsyr0/OSCP> - cheat sheet
-- <https://vim.rtorr.com/> - vim cheat sheet
 - <https://github.com/juspay/hyperswitch> - open source payments switch
 - <https://www.alwaysdata.com/> - hosting
 - <https://github.com/greiman/SdFat>

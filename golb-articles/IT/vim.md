@@ -98,13 +98,13 @@ d% # delete to the pair bracket/parenthesis
 
 ## Search
 
-- `/<word>` - search then enter then n and N
-- `?<word>` - search before then enter
-- `//` - redo the search
-- `*` - search the current word
-- `%` - jump to bracket pair
-- `ma` - place a marker
-- `'a` - go to marker
+- `/<word>`: search then enter then n and N
+- `?<word>`: search before then enter
+- `//`: redo the search
+- `*`: search the current word
+- `%`: jump to bracket pair
+- `ma`: place a marker
+- `'a`: go to marker
 
 ## Shortcuts Normal mode
 
@@ -120,9 +120,9 @@ d% # delete to the pair bracket/parenthesis
 - `v`: select inside line (complete with `h` or `l`)
 - `V`: select lines (complete with `j` or `k`)
 - `CTRL` + `v`: start visual bloc
-- `gh` - character-wise select mode
-- `gH` - line-wise select mode
-- `gCtrl-h` - block-wise select mode
+- `gh`: character-wise select mode
+- `gH`: line-wise select mode
+- `gCtrl-h`: block-wise select mode
 - `y`: copy selection
 - `d`: delete selection
 
@@ -147,7 +147,7 @@ You should have a clipboard util like `xclip` installed
 
 ## Registers
 
-- `:registers` or `:reg` - view the registers
+- `:registers` or `:reg`: view the registers
 - The unnamed register `""`
 - The numbered registers `"0-9`: previously copied things
 - The small delete register `"-`
@@ -161,13 +161,13 @@ You should have a clipboard util like `xclip` installed
 
 ## Macros
 
-- `q<register><commands>q` - record a macro
-- `@<register>` - then to play it
-- `@@` - replay the replayed macro
+- `q<register><commands>q`: record a macro
+- `@<register>`: then to play it
+- `@@`: replay the replayed macro
 
 ## Commands
 
-- `:s/toto/tata` - replace current line
+- `:s/toto/tata`: replace current line
 - `:%s/toto/tata/g` - replace in file
 - `:%s/toto/tata/gc` - ask yes no before replacing
 - `:g/WORD/d` - delete all lines with WORD
@@ -192,13 +192,18 @@ You should have a clipboard util like `xclip` installed
 - `:!echo 1` - launch shell commands
 - `:r !echo 1` - launch shell commands and capture output in the file (will insert 1)
 - `:w !cmd` - write to external
+- `:windo !git add %` - do the command on windows
+- `:mksession`: save the session (windows disposition)
+- `:source session.vim`: load the session (or `vim -S seesions.vim`)
+- `:set sessionoptions?`: check what you save on the session
+- `:wviminfo`: write a viminfo file
 
 ## Format json
 
 Select the json with shift + V then run
 
-- `:!jq` - to prettify
-- `:!jq -c` - to uglify
+- `:!jq`: to prettify
+- `:!jq -c`: to uglify
 
 ## Windows
 
@@ -237,6 +242,28 @@ ctags -R --exclude=node_modules .
 
 - `CTRL+]`: jump to the tag
 - `:tag NAME`: jump to the tag
+
+## Fold
+
+- `zf`: with a selection, create a fold
+- `zfj`: fold 2 lines
+- `zfip`: fold paragraph
+- `zfG`: fold to end of file
+- `zfa{`: fold betwen `{}`
+- `zo`: open the fold
+- `zc`: close the fold
+- `za`: toggle a fold
+- `zR`: open all folds
+- `zM`: close all folds
+- `:set foldmethod?`: see the current fold method
+  - `foldmethod=manual`: default one
+  - `foldmethod=indent`: fold on indent, combine with `shiftwidth`
+  - `foldmethod=expr`: fold on exp, combine with `foldexpr`
+  - `foldmethod=syntax`: fold on syntax
+  - `foldmethod=diff`: fold on diff
+  - `foldmethod=marker`: fold on marker, combine with `foldmarker`
+- `:mkview`: save the folds
+- `:loadview`: restore the folds
 
 ## Links
 
