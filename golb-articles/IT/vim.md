@@ -194,7 +194,7 @@ You should have a clipboard util like `xclip` installed
 - `:w !cmd` - write to external
 - `:windo !git add %` - do the command on windows
 - `:mksession`: save the session (windows disposition)
-- `:source session.vim`: load the session (or `vim -S seesions.vim`)
+- `:source session.vim`: load the session (or `vim -S sessions.vim`)
 - `:set sessionoptions?`: check what you save on the session
 - `:wviminfo`: write a viminfo file
 
@@ -249,7 +249,7 @@ ctags -R --exclude=node_modules .
 - `zfj`: fold 2 lines
 - `zfip`: fold paragraph
 - `zfG`: fold to end of file
-- `zfa{`: fold betwen `{}`
+- `zfa{`: fold between `{}`
 - `zo`: open the fold
 - `zc`: close the fold
 - `za`: toggle a fold
