@@ -411,3 +411,9 @@ shellcheck **/*.sh
 strace -p PID_TO_CHECK -s 1024
 ```
 
+## Remove last byte
+
+```sh
+truncate -s -1 filename
+```
+
