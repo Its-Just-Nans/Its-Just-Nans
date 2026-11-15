@@ -40,7 +40,6 @@
 - <https://natto.dev/> - js on a 2D canvas
 - <https://cannoneyed.com/isometric-nyc/> - new york isometric
 - <https://commitmono.com/> - font
-- <https://sid.ethz.ch/fonts/> - fonts files with a random button
 - <https://www.programmingfonts.org/> - test programming fonts
 - <https://www.nerdfonts.com/> - programming fonts
 - <https://digitalattackmap.com/> - DDoS map
@@ -81,7 +80,6 @@
 - <https://france-cybersecurity-challenge.fr/>
 - <https://www.nops.re/>
 - <https://ph0wn.org/> - smart devices
-- <https://www.dghack.fr/>
 - <https://insomnihack.ch/>
 - <https://owasp.org/>
 - <https://www.hackerone.com/>
@@ -90,7 +88,6 @@
 - <https://midnightflag.fr/>
 - <https://hackropole.fr/>
 - <https://fcsc.fr/>
-- <https://kalmarc.tf/>
 - <https://insomnihack.ch/contest/>
 - <https://angr.io/>
 - <https://fr.wikipedia.org/wiki/Cicada_3301>
@@ -285,7 +282,6 @@
 - <https://adresse.data.gouv.fr/> - address in France
 - <https://sdrmap.org> - amateur boat and plane map
 - <https://www.navily.com/> - boat anchorage
-- <https://sailboat.guide/> - sailboat guide
 - <https://www.loisirs-nautic.fr/> - french boat license training
 - <https://appchart.c-map.com/> - map for boat
 - <https://www.arcgis.com/apps/dashboards/fe88b5e18c6443c7afaf6e32f8432687> - Sunken Ships of the Second World War
