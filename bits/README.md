@@ -287,6 +287,7 @@
 - <https://www.arcgis.com/apps/dashboards/fe88b5e18c6443c7afaf6e32f8432687> - Sunken Ships of the Second World War
 - <https://www.windy.com/> - wind information
 - <https://windfinder.com/> - wind information
+- <https://librewxr.net/> - rain information
 - <https://cartes.app/> - map
 - <https://search-eo-imagery.iconem.com/> - satellite map
 - <https://www.flightradar24.com/> - planes
