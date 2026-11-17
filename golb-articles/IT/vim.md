@@ -197,6 +197,7 @@ You should have a clipboard util like `xclip` installed
 - `:source session.vim`: load the session (or `vim -S sessions.vim`)
 - `:set sessionoptions?`: check what you save on the session
 - `:wviminfo`: write a viminfo file
+- `:set nofixendofline` and `:set noendofline`: get ride of the last newline
 
 ## Format json
 

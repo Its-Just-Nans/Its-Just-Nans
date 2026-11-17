@@ -398,6 +398,98 @@ wpctl status
 wpctl set-default <ID>
 ```
 
+## Grep everything
+
+```sh
+grep -rni "pandoc" *
+grep -rni "pandoc" ./**/Makefile # in specific file
+```
+>
+> `-r`: recursive
+> `-n`: line number
+> `-i`: ignore  case
+
+Or use ripgrep <https://github.com/BurntSushi/ripgrep>
+
+```sh
+rg -uu "pandoc"
+```
+
+## systemctl and journalctl
+
+```sh
+SERVICE=service_name.service
+systemctl start $SERVICE
+journalctl -u $SERVICE -f
+```
+
+## Get disk space with `df`
+
+```sh
+df -h
+
+# also know type of partition
+df -Th
+```
+
+> - `-T`: `--print-type`
+> - `-h`: `--human-readable`
+
+## Get size of files with `du` or `dust`
+
+```sh
+cargo install du-dust
+
+dust
+# or
+du -d 1 -h | sort -h
+```
+
+## timeout
+
+```sh
+timeout 3 COMMAND
+# in a script
+timeout  --foreground 3 COMMAND
+```
+>
+> check also `--preserve-status` arg
+
+## screen command
+
+```sh
+# start new "infinite" shell - read the manual for more info
+# CTRL + A then "D" to leave
+screen
+
+# list screens shell
+screen -ls
+
+# resume screen shell
+screen -r <screen_id>
+```
+
+Alternatives:
+
+- [https://www.byobu.org/](https://www.byobu.org/)
+- [https://github.com/tmux/tmux](https://github.com/tmux/tmux)
+
+## Search path of a command
+
+```sh
+which <command>
+whereis <command>
+type <command>
+command -v <command>
+```
+
+## Show pipe bandwidth and progress
+
+```sh
+# pv - pipe viewer
+yes | pv | grep no
+```
+
 ## shellcheck
 
 ```sh
@@ -409,5 +501,11 @@ shellcheck **/*.sh
 
 ```sh
 strace -p PID_TO_CHECK -s 1024
+```
+
+## Remove last byte
+
+```sh
+truncate -s -1 filename
 ```
 

@@ -17,3 +17,18 @@ print my_var
 >
 > `Enter` repeat the last command
 
+## gdb TUI
+
+```sh
+gcc main.c -ggdb -o main
+gdb ./main
+
+break main
+run
+tui enable
+# in tui mode
+step
+step
+step
+quit
+```
