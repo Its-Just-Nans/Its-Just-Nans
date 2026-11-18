@@ -16067,5 +16067,187 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOVJ5oGc8AAAABPH5ssw",
+            "number": 5,
+            "title": "fix: change the assert for 32bit target (WASM)",
+            "url": "https://github.com/trois-six/oxidged/pull/5",
+            "state": "OPEN",
+            "createdAt": "2026-11-14T09:49:10Z",
+            "baseRepository": {
+                "url": "https://github.com/trois-six/oxidged",
+                "name": "oxidged",
+                "description": "A conformant, lenient GEDCOM 5.5.1, 7.0 and 7.1 reader and writer: any file read without loss, strictly conformant output, streaming, GEDZIP, editing and producer profiles",
+                "owner": {
+                    "login": "trois-six"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOVJ5oGc8AAAABPIBKSQ",
+            "number": 6,
+            "title": "fix: update rustix version for CI",
+            "url": "https://github.com/trois-six/oxidged/pull/6",
+            "state": "OPEN",
+            "createdAt": "2026-11-14T10:02:23Z",
+            "baseRepository": {
+                "url": "https://github.com/trois-six/oxidged",
+                "name": "oxidged",
+                "description": "A conformant, lenient GEDCOM 5.5.1, 7.0 and 7.1 reader and writer: any file read without loss, strictly conformant output, streaming, GEDZIP, editing and producer profiles",
+                "owner": {
+                    "login": "trois-six"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOAuKMW88AAAABPOEsYA",
+            "number": 410,
+            "title": "feat: fix typos",
+            "url": "https://github.com/Pomax/BezierInfo-2/pull/410",
+            "state": "OPEN",
+            "createdAt": "2026-11-14T21:27:17Z",
+            "baseRepository": {
+                "url": "https://github.com/Pomax/BezierInfo-2",
+                "name": "BezierInfo-2",
+                "description": "The development repo for the Primer on Bézier curves, https://pomax.github.io/bezierinfo",
+                "owner": {
+                    "login": "Pomax"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "JavaScript",
+                            "color": "#f1e05a"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOAuKMW88AAAABPOLzcQ",
+            "number": 411,
+            "title": "Improve description of Σ in Bézier curves",
+            "url": "https://github.com/Pomax/BezierInfo-2/pull/411",
+            "state": "OPEN",
+            "createdAt": "2026-11-14T21:42:24Z",
+            "baseRepository": {
+                "url": "https://github.com/Pomax/BezierInfo-2",
+                "name": "BezierInfo-2",
+                "description": "The development repo for the Primer on Bézier curves, https://pomax.github.io/bezierinfo",
+                "owner": {
+                    "login": "Pomax"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "JavaScript",
+                            "color": "#f1e05a"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOEn3Lis8AAAABPU5VWw",
+            "number": 3276,
+            "title": "feat: add parking:fee and parking:charge",
+            "url": "https://github.com/openstreetmap/id-tagging-schema/pull/3276",
+            "state": "CLOSED",
+            "createdAt": "2026-11-15T14:07:19Z",
+            "baseRepository": {
+                "url": "https://github.com/openstreetmap/id-tagging-schema",
+                "name": "id-tagging-schema",
+                "description": "🆔🏷 The presets and other tagging data used by the iD editor",
+                "owner": {
+                    "login": "openstreetmap"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "JavaScript",
+                            "color": "#f1e05a"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM8AAAABPi8pFw",
+            "number": 1310,
+            "title": "fix: extended timestamp in central header refers to the local header",
+            "url": "https://github.com/zip-rs/zip2/pull/1310",
+            "state": "MERGED",
+            "createdAt": "2026-11-16T13:51:51Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOJaavgM8AAAABPlBYkQ",
+            "number": 1312,
+            "title": "docs: improve the comments in the code and README",
+            "url": "https://github.com/zip-rs/zip2/pull/1312",
+            "state": "MERGED",
+            "createdAt": "2026-11-16T16:03:48Z",
+            "baseRepository": {
+                "url": "https://github.com/zip-rs/zip2",
+                "name": "zip2",
+                "description": "Zip implementation in Rust",
+                "owner": {
+                    "login": "zip-rs"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
