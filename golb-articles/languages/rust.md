@@ -271,6 +271,7 @@ let variable_t = variable.map_err(|e| format!("Error {e}"))?; // note the ?
 // Convert Option to Result
 let variable: Option<T> = Some(42);
 let variable_t = variable.ok_or("Error: None value")?; // note the ?
+let variable_t = variable.ok_or_else(|| "Error: None value")?; // lazy version - useful to alloc only on error - note the ?
 
 // Convert Result to Option
 let res: Result<u8, ()> = Ok(42);
