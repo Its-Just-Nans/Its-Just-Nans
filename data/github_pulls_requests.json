@@ -16126,7 +16126,7 @@
             "number": 410,
             "title": "feat: fix typos",
             "url": "https://github.com/Pomax/BezierInfo-2/pull/410",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-11-14T21:27:17Z",
             "baseRepository": {
                 "url": "https://github.com/Pomax/BezierInfo-2",
@@ -16152,7 +16152,7 @@
             "number": 411,
             "title": "Improve description of Σ in Bézier curves",
             "url": "https://github.com/Pomax/BezierInfo-2/pull/411",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-11-14T21:42:24Z",
             "baseRepository": {
                 "url": "https://github.com/Pomax/BezierInfo-2",
@@ -16254,9 +16254,9 @@
         "node": {
             "id": "PR_kwDOOd2sD88AAAABQHW9yg",
             "number": 1862,
-            "title": "feat: add Display impl for error",
+            "title": "hayro-syntax: Implement `Display` and `Error` for `LoadPdfError` and `DecryptionError`",
             "url": "https://github.com/LaurenzV/hayro/pull/1862",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-11-18T13:00:12Z",
             "baseRepository": {
                 "url": "https://github.com/LaurenzV/hayro",
