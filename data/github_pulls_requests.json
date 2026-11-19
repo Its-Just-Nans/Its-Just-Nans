@@ -16249,5 +16249,31 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOOd2sD88AAAABQHW9yg",
+            "number": 1862,
+            "title": "feat: add Display impl for error",
+            "url": "https://github.com/LaurenzV/hayro/pull/1862",
+            "state": "OPEN",
+            "createdAt": "2026-11-18T13:00:12Z",
+            "baseRepository": {
+                "url": "https://github.com/LaurenzV/hayro",
+                "name": "hayro",
+                "description": "A set of Rust crates for parsing, interpreting and rendering PDF files.",
+                "owner": {
+                    "login": "LaurenzV"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Rust",
+                            "color": "#dea584"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

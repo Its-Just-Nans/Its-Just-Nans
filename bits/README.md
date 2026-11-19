@@ -276,6 +276,7 @@
 ## IRL tools
 
 - <https://lagrandecarte.fr> - France Open data
+- <https://www.vigie-ciel.org/> - Meteorites
 - <https://panoramax.fr/> - Alternative to Street view
 - <https://www.vesselfinder.com/> - boat finder
 - <https://www.marinetraffic.com/> - boat finder
