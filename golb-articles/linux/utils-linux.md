@@ -18,6 +18,30 @@ keywords: linux, utils, commands
 for i in {5..7}; do  for e in {5..7}; do echo "$i*$e=$(bc<<<$i*$e)" | spd-say -e ;sleep 2; done; done
 ```
 
+## `tar` and `untar`
+
+```sh
+# create
+# -c create -v verbose -z gzip -f archivename
+tar -cvzf archive.tar.gz directory
+# -c create -v verbose -j bzip2 -f archivename
+tar -cvjf archive.tar.bz directory
+
+# extract
+# -x extract -v verbose -f archivename -C directory
+tar -xvf archive.tar.gz -C extracted
+```
+
+## `zip` and `unzip`
+
+```sh
+# create
+zip -r archivename.zip directory
+
+# extract
+unzip archivename.zip -d extracted
+```
+
 ## Get sound update
 
 ```sh
@@ -509,3 +533,8 @@ strace -p PID_TO_CHECK -s 1024
 truncate -s -1 filename
 ```
 
+## Show a file tree
+
+```sh
+tree --gitignore
+```
