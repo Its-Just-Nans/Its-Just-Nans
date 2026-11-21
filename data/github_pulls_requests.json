@@ -16275,5 +16275,57 @@
                 }
             }
         }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOUOWFEc8AAAABQ31xsw",
+            "number": 91,
+            "title": "Add mnemonic phrase for cardinal markers",
+            "url": "https://github.com/alexis-morain/permis-cotier/pull/91",
+            "state": "OPEN",
+            "createdAt": "2026-11-21T11:19:40Z",
+            "baseRepository": {
+                "url": "https://github.com/alexis-morain/permis-cotier",
+                "name": "permis-cotier",
+                "description": "Révision au permis plaisance option côtière : examens blancs au format de l'épreuve et entraînement par thème. Chaque question cite le texte réglementaire dont elle est tirée.",
+                "owner": {
+                    "login": "alexis-morain"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "JavaScript",
+                            "color": "#f1e05a"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOCd2s288AAAABQ4kwrQ",
+            "number": 8916,
+            "title": "feat: add Grid to demo",
+            "url": "https://github.com/emilk/egui/pull/8916",
+            "state": "OPEN",
+            "createdAt": "2026-11-21T12:57:03Z",
+            "baseRepository": {
+                "url": "https://github.com/emilk/egui",
+                "name": "egui",
+                "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+                "owner": {
+                    "login": "emilk"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Shell",
+                            "color": "#89e051"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

@@ -104,6 +104,7 @@
 
 ## reading
 
+- <https://reproducible-builds.org/> - reproducible builds
 - <https://www.confessions-voleur.net> - Laurent Chemla
 - <https://pomax.github.io/bezierinfo/> - A primer on Bézier Curves
 - <https://www.fibre.wiki/> - optical fiber wiki
