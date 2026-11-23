@@ -60,38 +60,6 @@
 - <https://http.cat/> - http status cats
 - <https://turnoff.us/> - nice geek comics
 
-## CTFs and cybersecurity
-
-- <https://sadservers.com> - DevOps
-- <https://beacondb.net/> - wireless geolocation database
-- <https://crackmes.one/> - reverse
-- <https://www.newbiecontest.org/>
-- <https://github.com/iggredible/Learn-Vim> - learn vim
-- <https://vim.rtorr.com/> - vim cheat sheet
-- <https://www.root-me.org/>
-- <https://pwn.college/>
-- <https://microcorruption.com/> - pwn / iot
-- <https://ctf101.org/> - documentation
-- <https://www.hackthebox.com/> - pentest
-- <https://cryptohack.org/>
-- <https://www.newbiecontest.org/>
-- <https://www.france-ioi.org/>
-- <https://fotoforensics.com/>
-- <https://france-cybersecurity-challenge.fr/>
-- <https://www.nops.re/>
-- <https://ph0wn.org/> - smart devices
-- <https://insomnihack.ch/>
-- <https://owasp.org/>
-- <https://www.hackerone.com/>
-- <https://hackathon.anfr.fr/>
-- <https://www.breizhctf.com/>
-- <https://midnightflag.fr/>
-- <https://hackropole.fr/>
-- <https://fcsc.fr/>
-- <https://insomnihack.ch/contest/>
-- <https://angr.io/>
-- <https://fr.wikipedia.org/wiki/Cicada_3301>
-
 ## Videos
 
 - <https://www.youtube.com/watch?v=-5tak0tHqIg> - externOS
@@ -100,10 +68,10 @@
 - <https://www.youtube.com/watch?v=OAH0MoAv2CI> - Cuts & Transitions 101
 - <https://www.youtube.com/@Reducible> - how some things work
 - <https://www.youtube.com/watch?v=juWM6saNCZk> - Why is C Compiler So Smart?
-- <https://www.youtube.com/watch?v=oz9cEqFynHU> - data structures and algorithms in 15 minutes
 
 ## reading
 
+- <https://reproducible-builds.org/> - reproducible builds
 - <https://www.confessions-voleur.net> - Laurent Chemla
 - <https://pomax.github.io/bezierinfo/> - A primer on Bézier Curves
 - <https://www.fibre.wiki/> - optical fiber wiki
