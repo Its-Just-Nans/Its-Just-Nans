@@ -9,6 +9,10 @@ title: Software
 - Easy subtitles: `View` -> `VLsub` (a plugin to download subtitles)
 - Subtitle delay shortcut: `g` and `h`
 
+## MPV
+
+- `[` and `]` speedup and slowdown
+
 ## Thunar sftp connection
 
 ```sh
@@ -96,19 +100,6 @@ iw dev | grep 'type monitor'
 ip link set "$INTERFACE" down
 iw "$INTERFACE" set type managed
 ip link set "$INTERFACE" up
-```
-
-## pcap files
-
-```sh
-# keep only 70 000 first packet of recording
-editcap -r input.pcapng output_first70000.pcapng 0-69999
-```
-
-## Locales
-
-```sh
-apt install console-data
 ```
 
 ## Remove noise sound when Jack is connected but there is no music
