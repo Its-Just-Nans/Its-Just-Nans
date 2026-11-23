@@ -538,3 +538,9 @@ truncate -s -1 filename
 ```sh
 tree --gitignore
 ```
+
+## Locales
+
+```sh
+apt install console-data
+```
