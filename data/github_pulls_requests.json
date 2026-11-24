@@ -11288,7 +11288,7 @@
         "node": {
             "id": "PR_kwDOJaavgM7KxbV4",
             "number": 727,
-            "title": "feat: add must_use",
+            "title": "refactor: add must_use",
             "url": "https://github.com/zip-rs/zip2/pull/727",
             "state": "MERGED",
             "createdAt": "2026-03-15T23:57:31Z",
@@ -13448,7 +13448,7 @@
             "number": 290,
             "title": "Update Cargo.toml for getrandom on wasm",
             "url": "https://github.com/tkaitchuck/aHash/pull/290",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-06-29T08:50:55Z",
             "baseRepository": {
                 "url": "https://github.com/tkaitchuck/aHash",
@@ -16282,7 +16282,7 @@
             "number": 91,
             "title": "Add mnemonic phrase for cardinal markers",
             "url": "https://github.com/alexis-morain/permis-cotier/pull/91",
-            "state": "OPEN",
+            "state": "MERGED",
             "createdAt": "2026-11-21T11:19:40Z",
             "baseRepository": {
                 "url": "https://github.com/alexis-morain/permis-cotier",
@@ -16308,7 +16308,7 @@
             "number": 8916,
             "title": "feat: add Grid to demo",
             "url": "https://github.com/emilk/egui/pull/8916",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2026-11-21T12:57:03Z",
             "baseRepository": {
                 "url": "https://github.com/emilk/egui",
