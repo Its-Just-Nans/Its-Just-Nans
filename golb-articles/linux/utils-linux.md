@@ -536,7 +536,8 @@ truncate -s -1 filename
 ## Show a file tree
 
 ```sh
-tree --gitignore
+tree --gitignore # don't show hidden
+eza -a --git-ignore --tree
 ```
 
 ## Locales
