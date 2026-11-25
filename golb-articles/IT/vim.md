@@ -54,6 +54,8 @@ d% # delete to the pair bracket/parenthesis
 . # repead the delete
 ; # repeat the find
 ```
+- `CTRL` + `o`: Jump to last position
+- `CTRL` + `i`: Jump to reverse last position
 
 ## Moving cursor
 
@@ -66,18 +68,45 @@ d% # delete to the pair bracket/parenthesis
 - `CTRL+y`: move cursor view pane up
 - `CTRL+e`: move cursor view pane down
 
-## Normal mode and insert mode
+## Normal mode to insert mode
 
 - `i`: (insert) enter insert mode (before cursor)
 - `a`: (append) enter insert mode (after cursor)
 - `I`: insert at the start of the line (before the first word)
 - `A`: append at the end of the line (after the last word)
 - `u`: undo
+- `gi`: go to last insert
+
+## Inside insert mode
+
 - `CTRL` + `a`: increment number on the line
 - `CTRL` + `x`: decrement number on the line
 - `CTRL` + `r`: undo undo
-- `CTRL` + `R`: insert register
-- `CTRL` + `R` + `=`: evaluate and insert (easing calculation)
+- `CTRL` + `r`: insert register
+- `CTRL` + `r` + `=`: evaluate and insert (easing calculation)
+- `CTRL` + `e`: insert the char below the cursor
+- `CTRL` + `y`: insert the char above the cursor
+- `CTRL` + `w`: delete words that you just typed
+- `CTRL` + `h`: delete chars that you just typed
+- `CTRL` + `o`: escape insert mode for one command (the next one)
+- `CTRL` + `t`: tab the current line
+- `CTRL` + `d`: untab the current line
+- `CTRL` + `i`: insert a tab
+- `CTRL` + `m`: insert newline
+- `CTRL` + `a`: insert previously inserted text
+- `CTRL` + `v`: insert the value of the key
+- `CTRL` + `m`: insert newline
+- `CTRL` + `n`: next match completion
+- `CTRL` + `p`: previous match completion
+- `CTRL` + `x` and `CTRL` + `f`: insert filename (of current dir)
+- `CTRL` + `x` and `CTRL` + `f`: insert filename (of current dir)
+- `CTRL` + `y`: accept the completion
+
+## Visual Mode
+
+- `va{`: select the text between `{`
+- `o`: move to the end or start of selection
+- `gv`: reselect last selection
 
 ## Edition
 
