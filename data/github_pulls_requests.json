@@ -15918,7 +15918,7 @@
             "number": 1074,
             "title": "Bump zip to ` ^9`",
             "url": "https://github.com/LaurentMazare/tch-rs/pull/1074",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2026-11-05T13:33:54Z",
             "baseRepository": {
                 "url": "https://github.com/LaurentMazare/tch-rs",
@@ -16048,7 +16048,7 @@
             "number": 2,
             "title": "feat: add quick access for the xref",
             "url": "https://github.com/trois-six/oxidged/pull/2",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2026-11-11T19:56:18Z",
             "baseRepository": {
                 "url": "https://github.com/trois-six/oxidged",
@@ -16074,7 +16074,7 @@
             "number": 5,
             "title": "fix: change the assert for 32bit target (WASM)",
             "url": "https://github.com/trois-six/oxidged/pull/5",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2026-11-14T09:49:10Z",
             "baseRepository": {
                 "url": "https://github.com/trois-six/oxidged",
@@ -16100,7 +16100,7 @@
             "number": 6,
             "title": "fix: update rustix version for CI",
             "url": "https://github.com/trois-six/oxidged/pull/6",
-            "state": "OPEN",
+            "state": "CLOSED",
             "createdAt": "2026-11-14T10:02:23Z",
             "baseRepository": {
                 "url": "https://github.com/trois-six/oxidged",
@@ -16314,6 +16314,32 @@
                 "url": "https://github.com/emilk/egui",
                 "name": "egui",
                 "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+                "owner": {
+                    "login": "emilk"
+                },
+                "languages": {
+                    "nodes": [
+                        {
+                            "name": "Shell",
+                            "color": "#89e051"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "PR_kwDOGAM31s8AAAABRj8RUg",
+            "number": 88,
+            "title": "fix: add json in request",
+            "url": "https://github.com/emilk/ehttp/pull/88",
+            "state": "OPEN",
+            "createdAt": "2026-11-24T13:55:21Z",
+            "baseRepository": {
+                "url": "https://github.com/emilk/ehttp",
+                "name": "ehttp",
+                "description": "Minimal Rust HTTP client for both native and WASM",
                 "owner": {
                     "login": "emilk"
                 },
