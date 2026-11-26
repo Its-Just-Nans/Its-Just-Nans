@@ -552,3 +552,9 @@ apt install console-data
 # keep only 70 000 first packet of recording
 editcap -r input.pcapng output_first70000.pcapng 0-69999
 ```
+
+## colord
+
+```sh
+colormgr get-devices
+```
