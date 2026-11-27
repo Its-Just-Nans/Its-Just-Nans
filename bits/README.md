@@ -264,6 +264,7 @@
 - <https://ioverlander.com/> - place for travelers
 - <https://travelboast.com/> - show people your trip
 - <https://carto.tchoo.net/> - train map
+- <https://terraink.app/> - poster map
 - <https://opendatamap.fr/> - useful maps
 - <https://dr-cos.info/> - sewing patterns
 - <https://www.carcarekiosk.com/> - car stuff
@@ -286,6 +287,8 @@
 ## tools
 
 - <https://github.com/vosen/ZLUDA> - CUDA for AMD
+- <https://unkernel.dev/> - Wasm kernel
+- <https://trynix.dev> - run nix package in browser
 - <https://getartcraft.com/apps> - Adobe alternatives
 - <https://ceph.io/> - distributed storage
 - <https://gifcap.dev/> - record your browser as GIF
