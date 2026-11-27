@@ -143,3 +143,17 @@ git bisect good # if commit is working
 # then to quit
 git bisect reset
 ```
+
+## Git LFS
+
+```sh
+git lfs install
+git lfs track "assets/**"
+git add .gitattributes
+git commit -m "Track assets with Git LFS"
+
+# then add normally your files
+
+# if you need to migrate previous files
+git lfs migrate import --include="assets/**"
+```
